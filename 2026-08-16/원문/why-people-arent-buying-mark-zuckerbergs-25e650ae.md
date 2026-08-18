@@ -1,0 +1,1230 @@
+# Why people aren’t buying Mark Zuckerberg’s AI future
+
+- 출처: TechCrunch AI
+- 원본 링크: https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/
+- 발행: 2026-08-16T20:32:01+00:00
+- 접근상태: 확인 완료
+
+---
+
+Why people aren't buying Mark Zuckerberg’s AI future | TechCrunch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+	
+
+ 
+ 
+ 
+ 
+ –:–:–:– 
+ 
+
+ 
+	
+
+ 🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket 
+
+
+ 
+
+
+
+ 
+	
+
+ Save $300 on your Disrupt 2026 ticket: REGISTER NOW. 
+
+
+ 
+
+ 
+ 
+ Close 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ TechCrunch Desktop Logo 
+ 
+ 
+ 
+ 
+ 
+ TechCrunch Mobile Logo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest Startups Venture Apple Security AI Apps Disrupt 2026 
+
+ 
+
+
+
+
+ Events Podcasts Newsletters 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Submit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site Search Toggle 
+ 
+ 
+
+
+ 
+ 
+ Mega Menu Toggle 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Topics 
+
+
+
+ 
+ 
+ 
+ Latest 
+
+
+
+
+ 
+ 
+ AI 
+
+
+
+
+ 
+ 
+ Amazon 
+
+
+
+
+ 
+ 
+ Apps 
+
+
+
+
+ 
+ 
+ Biotech & Health 
+
+
+
+
+ 
+ 
+ Climate 
+
+
+
+
+ 
+ 
+ Cloud Computing 
+
+
+
+
+ 
+ 
+ Commerce 
+
+
+
+
+ 
+ 
+ Crypto 
+
+
+
+
+ 
+ 
+ Enterprise 
+
+
+
+
+ 
+ 
+ EVs 
+
+
+
+
+ 
+ 
+ Fintech 
+
+
+
+
+ 
+ 
+ Fundraising 
+
+
+
+
+ 
+ 
+ Gadgets 
+
+
+
+
+ 
+ 
+ Gaming 
+
+
+
+
+ 
+ 
+ Google 
+
+
+
+
+ 
+ 
+ Government & Policy 
+
+
+ 
+
+
+
+ 
+ 
+ Hardware 
+
+
+
+
+ 
+ 
+ Instagram 
+
+
+
+
+ 
+ 
+ Layoffs 
+
+
+
+
+ 
+ 
+ Media & Entertainment 
+
+
+
+
+ 
+ 
+ Meta 
+
+
+
+
+ 
+ 
+ Microsoft 
+
+
+
+
+ 
+ 
+ Privacy 
+
+
+
+
+ 
+ 
+ Robotics 
+
+
+
+
+ 
+ 
+ Security 
+
+
+
+
+ 
+ 
+ Social 
+
+
+
+
+ 
+ 
+ Space 
+
+
+
+
+ 
+ 
+ Startups 
+
+
+
+
+ 
+ 
+ TikTok 
+
+
+
+
+ 
+ 
+ Transportation 
+
+
+
+
+ 
+ 
+ Venture 
+
+
+ 
+ 
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+ More from TechCrunch
+ 
+
+
+
+ 
+ 
+ Staff 
+
+
+
+
+ 
+ 
+ Events 
+
+
+
+
+ 
+ 
+ Startup Battlefield 
+
+
+
+
+ 
+ 
+ StrictlyVC 
+
+
+
+
+ 
+ 
+ Newsletters 
+
+
+
+
+ 
+ 
+ Podcasts 
+
+
+
+
+ 
+ 
+ Videos 
+
+
+
+
+ 
+ 
+ Partner Content 
+
+
+
+
+ 
+ 
+ TechCrunch Brand Studio 
+
+
+
+
+ 
+ 
+ Contact Us 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+	
+ 
+ 
+ 
+ 
+
+
+	
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+ Image Credits: Getty Images 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why people aren’t buying Mark Zuckerberg’s AI future 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 1:32 PM PDT · August 16, 2026 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Listen on 
+ Apple Podcasts 
+ 
+ 
+ 
+ 
+ Listen on 
+ Spotify 
+ 
+ 
+ 
+ 
+
+ Meta CEO Mark Zuckerberg published a 6,500-word essay this week declaring that “The Future is for Everyone” and painting an optimistic picture of a future powered by AI, where “everyone will have an exceptionally capable personal agent that understands you, your goals, and everything you care about.”
+
+
+ On the latest episode of TechCrunch’s Equity podcast , Kirsten Korosec, Rebecca Bellan, and I discussed why not everyone is buying Zuckerberg’s vision — including our colleague Russell Brandom, who wrote that the manifesto is “exactly why people don’t like AI.” 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ Comparing Zuckerberg to Anthropic CEO Dario Amodei (who spent the weekend pushing back against the idea that he’s an AI doomer ), Rebecca said the Meta CEO seems to be positioning himself “almost like an anti-Dario.” The problem, however, is Zuckerberg and Meta’s history.
+
+
+ “You look back to the social media days, [Zuckerberg] was saying that he wants to make sure that everyone has an outlet for talking to their friends and having a social network,” Rebecca said. “And what do we have instead? We have rage-baiting and advertisements, and not connection.”
+
+
+ Keep reading for a preview of our conversation, edited for length and clarity.
+
+
+ Rebecca: Cynically, I think that this is an attempt for Meta to win in a different way. They’re not winning in the frontier, closed-model space. They’re not necessarily even winning in the open space. But when it comes to personal empowerment, as Mark Zuckerberg talks about in his letter, “The Future is for Everyone,” that’s where he’s trying to win. He’s trying to provide the models that people will use for their own personal AI on their own personal devices.
+
+
+ I think last year, when he published a [similar] “Futures for Everyone” letter, [the promise] was that a lot of that AI would go onto the glasses, the wearables, but it’s not really clear what the final hardware form factor for this would be, and I guess he’s like leaving it up to the individual to choose. 
+
+ 
+ 
+ 
+ 
+ 
+
+ So his idea is that you’re using [ Meta’s new AI model ] Glimmer for managing your schedule, drafting messages, organizing files, it’s always on, it can operate anytime, anywhere, with or without an internet connection.
+
+
+ But then there is still Muse Spark, so that maintains a way for them to have some level of control over, still, its most capable models, and provide a revenue outlet for people who want to scale their compute, and people who want to like do larger projects, or companies that might want to do larger projects.
+
+
+ Anthony: I imagine the part of the context here is also — Meta has made some very serious investments in AI, last year there [were] also all these stories about how much money they were trying to pay for AI scientists, but in terms of who we think of as the leading companies, the frontier labs, Meta doesn’t tend to come up in the conversation.
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ Another way it doesn’t come up in the conversation is in, you know, what are the popular consumer AI chatbots? Certainly, people are interacting with Meta AI tools in Instagram, in Facebook, but it’s not a company that you think of when, “I’m going to go use my personal assistant.” Meta isn’t that yet, and so it feels, to a certain extent, this is an attempt to reposition them and try to claim space that they really haven’t been that successful at before. Is that fair?
+
+
+ Rebecca: I think that is really fair to say. And I would take it with a grain of salt because Mark Zuckerberg loves to put out a vision of what his companies will do for people and how they will empower people. And so far, what that looks like for Meta — I mean, of course, Llama is great; it’s a great tool and open source, but I think that on a consumer level, how are people using Meta AI? Well, there’s like a lot of creepy-ass chatbots .
+
+
+ My TLDR is: I think that [Zuckerberg’s] letter and his idea of personal empowerment is putting a bad taste in a lot of people’s mouths because it’s him who’s saying it. Russell Brandom, our AI editor, wrote about this this week . You look back to the social media days, he was saying that he wants to make sure that everyone has an outlet for talking to their friends and having a social network. And what do we have instead? We have rage-baiting and advertisements, and not connection.
+
+
+ Kirsten: Yeah, I think that the manifesto didn’t strike the right note for a lot of people. And to Russell’s point, which he makes in this column, is it’s what’s making people hate AI or hate on AI —  because, to your point, it is coming from Zuckerberg, and I do think also it feels very Pollyannish in a way. He’s put these thoughts out there in the past, and it really doesn’t provide what I think is a more realistic picture, but instead casts AI as this great tool for humanity. That might be the case, but there will also be extreme costs to that, and I think that’s why the negative reaction to it has been so widespread.
+
+
+ Rebecca: It feels like he’s positioning himself as almost like an anti-Dario. I don’t know. There’s a lot of talk among the frontier labs: “We’re pacing the frontier, pulling back, focus on safety. We need to slow down development.” They’re not doing any of that, of course, but they’re talking about it, and because of all these recent cybersecurity incidents that we’ve had.
+
+
+ Whereas Mark Zuckerberg, on the other hand, is like, “No, no, we do not slow down. We cannot afford to give an inch to China, and slowing down would only hurt the individual, who can be empowered by this technology.” 
+
+
+ But I mean, I was like, “Oh, maybe I’ll try to download Muse Glimmer and see what I can do with it.” Can I download it to my MacBook? No. You need specific hardware. I forget what the hardware is — it’s not actually that accessible to the average person.
+
+
+ Kirsten: It’s not for everyone. Not yet. 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ Anthony: The one positive thing I will say for this very long manifesto — 6,500 words, longer than almost anything that’s been published on TechCrunch — is that there is one sentence where he says, “If you are an AI doomer and you believe that that’s the future that AI is going to bring, why are you building this stuff?”
+
+
+ Which I think is fair. Although my big takeaway from that is not that the AI future is great, but it makes you wonder about people who are making these predictions and then pushing ahead anyway. 
+
+
+ I also wanted to talk a little bit about Russell’s point, which I think is totally a fair one, about how part of it is the messenger. For a variety of reasons, I think that people are suspicious of Mark Zuckerberg, of Meta, arguably that could become amplified over the next few months as this new Facebook movie is coming out.
+
+
+ But it’s also about the future that is being promised by these AI companies, and often why we see these viral pile-ons whenever Sam Altman or Mark Zuckerberg or somebody is making a prediction about this AI future and people essentially say, “Who wants this?” One of the more famous recent examples was Sam Altman talking about the idea of like, “You could use ChatGPT to make podcasts about your kids’ interests to listen to while driving to school,” And of course everyone is like, “Why don’t you just talk to your kid?” 
+
+
+ Part of the manifesto was — half of it was just stuff where it is just, “It’s going to unleash all this creativity and invention,” and it’s so abstract. If you’re skeptical about AI, none of that is going to convince you, because it seems unreal. And then the stuff that is more concrete, about these personal coaches and assistants, there’s some aspects that appeal, but a lot of [them] that don’t.
+
+ 
+
+ 
+
+ 
+ Topics
+
+ 
+ AI , Equity podcast , Mark Zuckerberg , Meta , Social 
+ 
+
+
+ 
+ When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+	
+	
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Anthony Ha 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+	
+
+	
+ 
+ 
+ Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.
+
+
+ You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com .
+ 
+ 
+
+
+	
+ 
+ View Bio 
+ 
+	
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ October 13 – 15 
+ San Francisco 
+ 
+ 
+Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.
+
+ Save up to $300 toda y!
+
+ 
+
+ 
+ REGISTER NOW 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ Most Popular 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ 
+
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Apple proposes to take a 15% cut of purchases made outside the App Store 
+
+ 
+ 
+ 
+ Sarah Perez 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If Apple sends you a push notification alerting you to a spyware attack, take it seriously 
+
+ 
+ 
+ 
+ Zack Whittaker 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Instagram introduces a redesigned wordmark 
+
+ 
+ 
+ 
+ Sarah Perez 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes 
+
+ 
+ 
+ 
+ Lucas Ropek 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug 
+
+ 
+ 
+ 
+ Zack Whittaker 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features 
+
+ 
+ 
+ 
+ Lauren Forristal 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+
+
+ 
+ 
+ Loading the next article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Error loading the next article 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+ X 
+
+ LinkedIn 
+
+ Facebook 
+
+ Instagram 
+
+ youTube 
+
+ Mastodon 
+
+ Threads 
+
+ Bluesky 
+ 
+
+
+
+ 
+ 
+ TechCrunch Staff Contact Us Advertise Site Map 
+
+
+
+ Terms of Service Privacy Policy RSS Terms of Use Code of Conduct 
+
+
+
+ Made by Google Phia Blacksmith Pixel Tag Disrupt 2026 Tech Layoffs ChatGPT 
+ 
+ 
+ 
+
+
+
+ © 2026 TechCrunch Media LLC.
