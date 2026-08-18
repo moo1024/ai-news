@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-08-18",
+  "브리핑페이지": "https://app.notion.com/p/3c03f6aa67a4819695cce7a3374f87cf",
+  "정식아카이빙": [
+    {
+      "id": "gpt-5-6-sol-e37dcbb0",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481e5adddf4d8ff323b0f",
+      "서고": "https://app.notion.com/p/3c03f6aa67a481dcb216ecf1a234cdbb",
+      "결과": "생성"
+    },
+    {
+      "id": "israel-influence-chatgpt-4b340e69",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a4813b8708eaf3a1221767",
+      "서고": "https://app.notion.com/p/3c03f6aa67a4813da438e6c5dd4f966c",
+      "결과": "생성"
+    },
+    {
+      "id": "aidr-ai-didnt-read-8424d4dc",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481748276e8336c828e1c",
+      "서고": "https://app.notion.com/p/3c03f6aa67a48120b961f20e92ccf656",
+      "결과": "생성"
+    },
+    {
+      "id": "qwen-38-27b-81603460",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a4814684d3e29a731942f0",
+      "서고": "https://app.notion.com/p/3c03f6aa67a481bf9f8bc79f9f4d1cbc",
+      "결과": "생성"
+    },
+    {
+      "id": "partnering-with-codeai-9765648a",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a4813fb2d4ccd0966e8ca1",
+      "서고": "https://app.notion.com/p/3c03f6aa67a48184a153c5603b5d4055",
+      "결과": "생성"
+    },
+    {
+      "id": "chatgpt-for-teens-01003c66",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a4818bab0dc44b4047d988",
+      "서고": "https://app.notion.com/p/3c03f6aa67a48196b018fc9586442cb6",
+      "결과": "생성"
+    },
+    {
+      "id": "openai-joins-ports-pike-project-ad5623d5",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481b39ca5e5e1db5399da",
+      "서고": "https://app.notion.com/p/3c03f6aa67a48155a259dbe1d784c90a",
+      "결과": "생성"
+    },
+    {
+      "id": "qwen-38-27b-scores-52-6aa6db5f",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481079144dd92ac2149b4",
+      "서고": "https://app.notion.com/p/3c03f6aa67a48123868ff9f1e50dd01a",
+      "결과": "생성"
+    },
+    {
+      "id": "we-tracked-a-shipment-of-rare-books-it-e-e9ad3662",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481348365ce47816436d2",
+      "서고": "https://app.notion.com/p/3c03f6aa67a48161ae36f7c44ab01e60",
+      "결과": "생성"
+    },
+    {
+      "id": "2089328616786248149-62705043",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481a095caeb35559cd60b",
+      "서고": "https://app.notion.com/p/3c03f6aa67a4810aa81cfa843af4286d",
+      "결과": "생성"
+    },
+    {
+      "id": "google-gemini-pixel-football-club-partne-cfb1ad6d",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481679d48dcf569d7c92c",
+      "서고": "https://app.notion.com/p/3c03f6aa67a4819589abd72defb57d2f",
+      "결과": "생성"
+    },
+    {
+      "id": "google-home-gemini-pet-memory-nest-camer-156270e7",
+      "source_library": "https://app.notion.com/p/3c03f6aa67a481a0a745fe2f3ca07867",
+      "서고": "https://app.notion.com/p/3c03f6aa67a48186b9b7e0d56506bb99",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 120,
+  "메모": "후보 12건 전부 신규(notion-search로 id 조회 시 일치 항목 없음) — 2단계 모두 생성. X @OpenAI 트윗은 원문이 잘린 상태로만 확보되어 접근상태 '일부 확인'으로 기록."
+}
