@@ -1,0 +1,206 @@
+{
+  "날짜": "2026-08-20",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "v2-1-236-2f87387c",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.236",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.236",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.236",
+      "발행": "2026-08-19T20:02:05+00:00",
+      "요약": "What's changed \n \n Added ANTHROPIC_DEFAULT_MODEL environment variable: sets the model new sessions start on, while a /model pick still overrides it and persists across restarts (unlike ANTHROPIC_MODEL ) \n Added notify_when_idle to cross-session SendMessage : ask another Claude Code session on this machine to send one notice when it next goes idle — opt-in, one-shot, no polling (macOS and Linux) \n Sandbox: on macOS, wildcard read-deny rules (e.g. **/.env ) now take precedence inside allowed read regions, cover matched directories' contents, and can't be bypassed by renaming the denied file \n Fixed clipboard copy, background housekeeping, background sessions, and local MCP logs breaking after the directory a session had switched into was removed (since 2.1.229) \n Fixed the fullscreen renderer failing permanently after a single failed start: it now falls back to the classic renderer instead of exiting on every subsequent launch \n Fixed the /model picker rendering taller than the terminal: it now shows only as many models as fit the window, with the rest reachable by scrolling \n Fixed SendMessage calls being rejected when a malformed closing tag left the message text inside the summary",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-20/원문/v2-1-236-2f87387c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "mcp"
+      ],
+      "점수": 5.625
+    },
+    {
+      "id": "skills-2749cd98",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "jakubkrehel/skills — A collection of agent skills that help you build a great interface.",
+      "url": "https://github.com/jakubkrehel/skills",
+      "정규url": "https://github.com/jakubkrehel/skills",
+      "발행": "2026-08-19T22:24:39.770046+00:00",
+      "요약": "A collection of agent skills that help you build a great interface.\n\n별 3,921개 · 언어 Markdown · 생성 2026-07-10",
+      "반응": 3921,
+      "원저자": "jakubkrehel",
+      "본문파일": "2026-08-20/원문/skills-2749cd98.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agent skill",
+        "skills"
+      ],
+      "점수": 5.59
+    },
+    {
+      "id": "J-Space-Cognition-Suite-V3-6-1c112223",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "Tiger3807861189/J-Space-Cognition-Suite-V3.6 — J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropi",
+      "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "정규url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "발행": "2026-08-19T22:24:39.770046+00:00",
+      "요약": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675\n\n별 2,741개 · 언어 Python · 생성 2026-07-22 · 토픽 agent-skills, ai, ai-agent, ai-agents, claude-code, codex, cognitive-enhancement, deepseek",
+      "반응": 2741,
+      "원저자": "Tiger3807861189",
+      "본문파일": "2026-08-20/원문/J-Space-Cognition-Suite-V3-6-1c112223.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex",
+        "skills"
+      ],
+      "점수": 5.523
+    },
+    {
+      "id": "cumora-46c35733",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "yetone/cumora — Where agent teams gather. Cross-platform team chat where AI agents are first-cla",
+      "url": "https://github.com/yetone/cumora",
+      "정규url": "https://github.com/yetone/cumora",
+      "발행": "2026-08-19T22:24:39.770046+00:00",
+      "요약": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.\n\n별 2,676개 · 언어 TypeScript · 생성 2026-08-17",
+      "반응": 2676,
+      "원저자": "yetone",
+      "본문파일": "2026-08-20/원문/cumora-46c35733.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex"
+      ],
+      "점수": 5.515
+    },
+    {
+      "id": "2090165328290701800-a5f02a9c",
+      "출처": "X @OpenAI",
+      "제목": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more autonomous work and deli",
+      "url": "https://x.com/OpenAI/status/2090165328290701800",
+      "정규url": "https://x.com/OpenAI/status/2090165328290701800",
+      "발행": "2026-08-19T19:53:42+00:00",
+      "요약": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. \n\nTo help address those risks, we're previewing https://t.co/PTEVBS4p3Q",
+      "반응": 1946,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-20/원문/2090165328290701800-a5f02a9c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.807
+    },
+    {
+      "id": "v2-1-235-0fbaecde",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.235",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
+      "발행": "2026-08-18T20:38:54+00:00",
+      "요약": "What's changed \n \n Added an optional spellcheck setting that underlines misspelled words in the prompt input as you type, using your installed aspell , hunspell , or ispell \n Fixed whole-prompt-cache invalidation when a language server disconnected or reconnected mid-session \n Fixed nested markdown list items misaligning at depth 3+ and added a hanging indent to wrapped list items in the terminal UI \n Fixed prompt input highlights (slash commands, keywords, mentions) appearing shifted by one or more characters in some multi-line prompts \n Fixed Shift+Tab inside the permission prompt's comment field approving the edit and granting session-wide edit permission instead of closing the field \n Fixed the Agent tool advertising a general-purpose default in sessions where that agent is unavailable: an omitted subagent_type there now gets a clear error listing the available agents \n Fixed notebook cell delete/replace approval dialogs silently omitting the existing cell content when the notebook or cell could not be read; the dialog now says why \n Fixed slash commands run while Claude is responding showing HTML entities instead of the actual characters \n Fixed the prompt footer not showing t",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-20/원문/v2-1-235-0fbaecde.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "subagent",
+        "slash command"
+      ],
+      "점수": 4.697
+    },
+    {
+      "id": "15910845-claude-code-may-august-2026-wee-1e907c1b",
+      "출처": "Hacker News",
+      "제목": "Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "정규url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "발행": "2026-08-18T17:02:15+00:00",
+      "요약": "",
+      "반응": 290,
+      "원저자": "",
+      "본문파일": "2026-08-20/원문/15910845-claude-code-may-august-2026-wee-1e907c1b.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.692
+    },
+    {
+      "id": "2089777845187031262-511de79f",
+      "출처": "X @OpenAI",
+      "제목": "As models become more capable, the risks associated with developing and testing them internally also grow.\n\nWe temporari",
+      "url": "https://x.com/OpenAI/status/2089777845187031262",
+      "정규url": "https://x.com/OpenAI/status/2089777845187031262",
+      "발행": "2026-08-18T18:13:59+00:00",
+      "요약": "As models become more capable, the risks associated with developing and testing them internally also grow.\n\nWe temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research",
+      "반응": 5200,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-20/원문/2089777845187031262-511de79f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.452
+    },
+    {
+      "id": "2089842389682954621-1f6f54a1",
+      "출처": "X @AnthropicAI",
+      "제목": "Designing a binder is an easier process than designing a drug, but it’s a useful proxy. The typical success rate in the",
+      "url": "https://x.com/AnthropicAI/status/2089842389682954621",
+      "정규url": "https://x.com/AnthropicAI/status/2089842389682954621",
+      "발행": "2026-08-18T22:30:27+00:00",
+      "요약": "Designing a binder is an easier process than designing a drug, but it’s a useful proxy. The typical success rate in the field today is between 10% and 15%.\n\nBetween 22% and 35% of Claude's designs bound successfully, depending on the setup. Some of its strongest designs bound https://t.co/nIVU00ZgiH",
+      "반응": 1061,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-08-20/원문/2089842389682954621-1f6f54a1.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.226
+    },
+    {
+      "id": "sondehub-and-war-495666d2",
+      "출처": "Hacker News",
+      "제목": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "정규url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war",
+      "발행": "2026-08-19T11:21:50+00:00",
+      "요약": "",
+      "반응": 677,
+      "원저자": "",
+      "본문파일": "2026-08-20/원문/sondehub-and-war-495666d2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.17
+    },
+    {
+      "id": "offering-zero-data-retention-for-frontie-ef913e9f",
+      "출처": "OpenAI News",
+      "제목": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "정규url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "발행": "2026-08-19T19:00:00+00:00",
+      "요약": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-20/원문/offering-zero-data-retention-for-frontie-ef913e9f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.905
+    },
+    {
+      "id": "back-to-school-study-tools-314cb75f",
+      "출처": "Google AI Blog",
+      "제목": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "정규url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "발행": "2026-08-19T19:00:00+00:00",
+      "요약": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-20/원문/back-to-school-study-tools-314cb75f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.734
+    }
+  ]
+}
