@@ -516,7 +516,7 @@ Hidden Airtag reveals Amazon is trashing rare books to train AI - Ars Technica
  
  | 
  
- 290
+ 298
  
  
  
@@ -845,7 +845,7 @@ Hidden Airtag reveals Amazon is trashing rare books to train AI - Ars Technica
  
  
  
- 290 Comments
+ 298 Comments
  
  
  
@@ -946,7 +946,7 @@ Hidden Airtag reveals Amazon is trashing rare books to train AI - Ars Technica
  
  
  1. 
- Satellite operators are in panic mode due to a worsening launch crisis 
+ Against all odds, SpaceX finally tugs Starship into port after 24 days at sea 
  
  
  
@@ -956,7 +956,7 @@ Hidden Airtag reveals Amazon is trashing rare books to train AI - Ars Technica
  
  
  2. 
- Hidden Airtag reveals Amazon is trashing rare books to train AI 
+ Satellite operators are in panic mode due to a worsening launch crisis 
  
  
  
@@ -966,7 +966,7 @@ Hidden Airtag reveals Amazon is trashing rare books to train AI - Ars Technica
  
  
  3. 
- Former SpaceX engineers are building a robotic factory for making steel parts 
+ Hidden Airtag reveals Amazon is trashing rare books to train AI 
  
  
  
@@ -976,7 +976,7 @@ Hidden Airtag reveals Amazon is trashing rare books to train AI - Ars Technica
  
  
  4. 
- As Wisconsin cities flee Flock, its shared camera network loses value 
+ Microsoft Copilot reveals secret input that allowed it to be hacked 
  
  
  
@@ -986,7 +986,7 @@ Hidden Airtag reveals Amazon is trashing rare books to train AI - Ars Technica
  
  
  5. 
- Meet the only known trebuchet casualty in history 
+ The United States is about to wake up to the threat from China's space program 
  
  
  

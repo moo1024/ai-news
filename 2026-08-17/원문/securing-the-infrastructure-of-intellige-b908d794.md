@@ -198,7 +198,7 @@ Securing the Infrastructure of Intelligence | NVIDIA Blog
 
  In the AI economy, compute is revenue.
 
- AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and shell.
+ AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and shell.
 
  Just as NVIDIA has used its scale, long-term visibility and supply-chain partnerships to secure critical semiconductor resources, we are now applying that same discipline to secure LPS capacity exclusively for NVIDIA AI factories.
 
@@ -207,7 +207,7 @@ Securing the Infrastructure of Intelligence | NVIDIA Blog
  LPS: The Next Strategic Resource 
  For the vast majority of NVIDIA customers, securing LPS has long been a part of their infrastructure strategy.
 
- The world’s largest cloud service providers and investment-grade enterprises have balance sheets, infrastructure expertise, and long-term contracts to secure LPS independently. They build and operate AI factories using NVIDIA accelerated computing, networking, systems and software.
+ The world’s largest cloud service providers and investment-grade enterprises have balance sheets, infrastructure expertise and long-term contracts to secure LPS independently. They build and operate AI factories using NVIDIA accelerated computing, networking, systems and software.
 
  This model will continue to represent most of NVIDIA’s business.
 
@@ -220,7 +220,7 @@ Securing the Infrastructure of Intelligence | NVIDIA Blog
  For these companies, more compute means more intelligence, more products, more users and more revenue. NVIDIA is helping provide the infrastructure that powers this flywheel.
 
  PORTS-Pike: A Site for Generations of NVIDIA Compute 
- OpenAI will build and operate a world-class AI factory at PORTS-Pike. The AI factory will use NVIDIA’s full-stack DSX AI factory platform, including GPUs, CPUs, networking, and infrastructure software.    
+ OpenAI will build and operate a world-class AI factory at PORTS-Pike. The AI factory will use NVIDIA’s full-stack DSX AI factory platform, including GPUs, CPUs, networking and infrastructure software.   
 
  The initial deployment is expected to provide 4.25 gigawatts of AI factory capacity. Each generation of NVIDIA AI factory systems deployed at PORTS-Pike could represent approximately 1.5 million NVIDIA GPUs, or approximately $150 billion to $200 billion in NVIDIA revenue. Over 20 years, the site can support multiple upgrade cycles.   
 
@@ -240,7 +240,7 @@ Securing the Infrastructure of Intelligence | NVIDIA Blog
 
  Our support is limited to defined portions of lease and power payments, along with a specified residual-value commitment — not the full cost of the site or all of the tenant’s obligations.    
 
- The guarantee will become effective in phases as data centers are placed in service between 2028 and 2030.  As OpenAI makes lease payments and capacity comes online, NVIDIA’s remaining exposure declines. 
+ The guarantee will become effective in phases as data centers are placed in service between 2028 and 2030. As OpenAI makes lease payments and capacity comes online, NVIDIA’s remaining exposure declines. 
 
  Why is NVIDIA guaranteeing PORTS-Pike? 
 
@@ -250,7 +250,7 @@ Securing the Infrastructure of Intelligence | NVIDIA Blog
 
  Is this circular financing? 
 
- No. OpenAI will pay the lease.     
+ No. OpenAI will pay the lease. 
 
  NVIDIA uses its scale and long-term visibility to secure PORTS-Pike to host NVIDIA compute. This is the same discipline we apply to supply-chain management: we secure critical inputs when we have visibility into customer demand and when doing so enables long-term productive capacity. 
 

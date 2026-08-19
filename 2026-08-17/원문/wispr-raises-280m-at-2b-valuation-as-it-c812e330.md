@@ -1,13 +1,13 @@
-# AI automation startup Relay shuts down, staff joins Google’s Chrome team
+# Wispr raises $280M at $2B valuation as it looks beyond dictation
 
 - 출처: TechCrunch AI
-- 원본 링크: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
-- 발행: 2026-08-17T21:27:05+00:00
+- 원본 링크: https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/
+- 발행: 2026-08-17T13:10:05+00:00
 - 접근상태: 확인 완료
 
 ---
 
-AI automation startup Relay shuts down, staff joins Google's Chrome team | TechCrunch 
+Wispr raises $280M at $2B valuation as it looks beyond dictation | TechCrunch 
  
  
  
@@ -613,7 +613,7 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
 
  
  
- Image Credits: Relay / Founder and CEO Jacob Bank 
+ Image Credits: Wispr Flow 
  
  
  
@@ -621,15 +621,7 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  
  
  
- AI 
- 
- 
- 
- 
- 
- 
- 
- 
+ Fundraising 
  
  
  
@@ -644,7 +636,15 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  
  
  
- AI automation startup Relay shuts down, staff joins Google’s Chrome team 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wispr raises $280M at $2B valuation as it looks beyond dictation 
  
  
  
@@ -654,7 +654,7 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  
  
  
- Lucas Ropek 
+ Ivan Mehta 
  
 
  
@@ -662,7 +662,7 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  
  
  
- 2:27 PM PDT · August 17, 2026 
+ 6:10 AM PDT · August 17, 2026 
  
  
  
@@ -698,46 +698,10 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  
  
  
- Relay, an AI-powered workflow automation tool that was launched in 2021 with the goal of becoming the new Zapier , is shutting down, and some of its staff — including its top executive — are joining Google’s Chrome team.
+ Wispr , a startup known for its AI dictation tool, raised $280 million in Series B funding, led by Menlo Ventures, at a $2 billion valuation, the company announced on Monday. The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.
 
 
- Jacob Bank, Relay’s founder and CEO, shared a company announcement Monday that reveals the app will be shutting down access for paying customers on September 14. Free customers would have already lost access as of August 15. The app’s closure was initially announced in July.
-
-
- 
- 
- 
- 
-
-
- 
- 
- 
- 
-
-
- Bank, who previously spent a little over six years at Google, revealed that he would now be rejoining the tech giant as VP of Product for Google Chrome, where he will lead the product and developer relations teams for Chrome, according to his LinkedIn .
-
-
- “I’ve spent my whole career doing one thing: building tools that help people get more done with AI, without sacrificing their personal creativity or insights,” said Bank in a post on X. “And joining the Chrome team is an ideal opportunity to bring those experiences to many, many more people.”
-
-
- “We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,” he added. 
-
-
- Bank originally joined Google in 2015 after his previous startup, a scheduling app called Timeful, was acquired by the search giant. At Google, he worked in a number of different areas, including as product lead for Gmail, Google Calendar, and Google Chat, before eventually leaving to launch Relay.
-
-
- Similar to Timeful, Relay offered users productivity upgrades via workflow automation, allowing businesses to streamline repetitive tasks like document drafting and copyediting, as well as various project management tasks. TechCrunch reached out to Google and to Relay for more information. 
-
-
- Just how Bank and others plan to further integrate AI into Chrome is a hanging question, though Bank calls Chrome “a perfect place to collaborate with agents.” 
-
-
- The move follows a steady path of AI integration into Google’s user experience. The integration of Gemini into search has fundamentally altered Google’s front end — not to mention the rest of the internet . Gemini has also been integrated into Chrome , where it serves as an optional in-browser assistant.
-
-
- Overall, users seem to be responding well to these integrations, as Google recently reported that Gemini had crested 1 billion users .
+ With this latest round, the company has raised $361 million to date. Its last round was less than 10 months ago. 
 
 
  
@@ -750,6 +714,24 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  
  
  
+
+
+ The new capital comes at a time when there is increased competition in the dictation space from apps like Willow, Monologue, Aqua, and Superwhisper , among others. In addition, several developers are creating free or lower-priced tools for prosumers.
+
+
+ Existing investors, including Notable Capital, NEA, Neo Ventures, 8VC, and MVP Ventures, doubled down in the latest round. The company also gained new investors such as Acrew, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital.
+
+
+ Alongside the funding news, Wispr announced it’s launching a new model to improve the quality of speech understanding. For the last few weeks, several users have complained about a quality dip in Wispr Flow’s dictation output. The company said its new model, called Canto, will reduce error rates from 30% to less than 10%.
+
+
+ Since last November, Wispr has released its dictation app on Android and has scaled its go-to-market teams in regions like India and the U.K.
+
+
+ It’s also partnering with hardware makers, like the Oasis ring , to let customers dictate on their devices without speaking loudly. Separately, with its meeting notetaker, it’s taking on others in the space like Granola, Fireflies, and Read AI. While Wispr’s notetaker can display summaries and action items, there is scope for it to integrate with other tools and make updates or create documents or email drafts.
+
+
+ Last month, the startup announced Wispr Interface Labs under Ariya Rastrow, who was one of the people to work on Amazon Alexa in its early days. With this lab, Wispr aims to explore new interfaces for human-computer interaction.
 
 
  
@@ -762,7 +744,7 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  Topics
 
  
- AI , Chrome , gemini , Google , relay 
+ AI , Funding , Fundraising , Wispr 
  
 
 
@@ -823,19 +805,13 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
  
  
  
- Lucas Ropek 
+ Ivan Mehta 
 
 
  
  
  
  
- 
- Senior Writer, TechCrunch 
- 
-
- 
-
  
  
  
@@ -851,9 +827,10 @@ AI automation startup Relay shuts down, staff joins Google's Chrome team | TechC
 	
  
  
- Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. 
+ Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.
 
-You can contact Lucas by emailing lucas.ropek@techcrunch.com. 
+ You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.
+ 
  
 
 

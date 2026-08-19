@@ -985,7 +985,7 @@ Suspecting court of using AI, man injected prompts in filings to try to win case
  
  
  1. 
- Satellite operators are in panic mode due to a worsening launch crisis 
+ Against all odds, SpaceX finally tugs Starship into port after 24 days at sea 
  
  
  
@@ -995,7 +995,7 @@ Suspecting court of using AI, man injected prompts in filings to try to win case
  
  
  2. 
- Hidden Airtag reveals Amazon is trashing rare books to train AI 
+ Satellite operators are in panic mode due to a worsening launch crisis 
  
  
  
@@ -1005,7 +1005,7 @@ Suspecting court of using AI, man injected prompts in filings to try to win case
  
  
  3. 
- Former SpaceX engineers are building a robotic factory for making steel parts 
+ Hidden Airtag reveals Amazon is trashing rare books to train AI 
  
  
  
@@ -1015,7 +1015,7 @@ Suspecting court of using AI, man injected prompts in filings to try to win case
  
  
  4. 
- As Wisconsin cities flee Flock, its shared camera network loses value 
+ Microsoft Copilot reveals secret input that allowed it to be hacked 
  
  
  
@@ -1025,7 +1025,7 @@ Suspecting court of using AI, man injected prompts in filings to try to win case
  
  
  5. 
- Meet the only known trebuchet casualty in history 
+ The United States is about to wake up to the threat from China's space program 
  
  
  

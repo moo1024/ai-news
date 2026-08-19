@@ -1,64 +1,8 @@
 {
   "기준일": "2026-08-16",
-  "수집시각": "2026-08-18T22:24:07.110805+00:00",
-  "건수": 27,
+  "수집시각": "2026-08-19T03:54:46.525577+00:00",
+  "건수": 29,
   "항목": [
-    {
-      "id": "qwen-38-27b-81603460",
-      "출처": "Simon Willison",
-      "제목": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "정규url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "발행": "2026-08-16T22:00:39+00:00",
-      "요약": "Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive.\n\n Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently as May this year . It will be interesting to hear what independent benchmarks have to say about the model.\n\n I've been running the model on two different machines: my 128GB M5 Max MacBook Pro, and an NVIDIA DGX Spark . On both machines I'm running LM Studio and their 17GB Q4_K_M quantized build . I also tried using llama-server directly on the Spark.\n\n The default of extra high results in spectacular over-thinking \n Qwen's documentation describes the model as defaulting to xhigh for the reasoning effort, and the LM Studio GGUF I've been trying preserves that default:\n\n \n Qwen3.8 comes with official support for reasoning_effort , which can be used to adjust reasoning depth and control cost:",
-      "반응": 782,
-      "원저자": "",
-      "본문파일": "2026-08-16/원문/qwen-38-27b-81603460.md",
-      "본문상태": "확인 완료",
-      "점수": 3.992
-    },
-    {
-      "id": "2088343978873966687-77437fb9",
-      "출처": "X @AnthropicAI",
-      "제목": "We’ve written an FAQ to answer some of the questions we've received about watermarking. \n\nIn summary:\n\n• We’re implement",
-      "url": "https://x.com/AnthropicAI/status/2088343978873966687",
-      "정규url": "https://x.com/AnthropicAI/status/2088343978873966687",
-      "발행": "2026-08-14T19:16:18+00:00",
-      "요약": "We’ve written an FAQ to answer some of the questions we've received about watermarking. \n\nIn summary:\n\n• We’re implementing watermarking to comply with the EU AI Act. Other major model developers have signed the same Code of Practice and will also be implementing watermarking;",
-      "반응": 4749,
-      "원저자": "@AnthropicAI",
-      "본문파일": "2026-08-16/원문/2088343978873966687-77437fb9.md",
-      "본문상태": "확인 완료",
-      "점수": 3.4
-    },
-    {
-      "id": "2088324824863236248-9f24d959",
-      "출처": "X @AnthropicAI",
-      "제목": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risk",
-      "url": "https://x.com/AnthropicAI/status/2088324824863236248",
-      "정규url": "https://x.com/AnthropicAI/status/2088324824863236248",
-      "발행": "2026-08-14T18:00:12+00:00",
-      "요약": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them.\n\nOur second Risk Report is now available: https://t.co/NgWnDmXZD3",
-      "반응": 2241,
-      "원저자": "@AnthropicAI",
-      "본문파일": "2026-08-16/원문/2088324824863236248-9f24d959.md",
-      "본문상태": "확인 완료",
-      "점수": 3.4
-    },
-    {
-      "id": "2087996499263369267-7377ebdc",
-      "출처": "X @OpenAI",
-      "제목": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRolling out globally n",
-      "url": "https://x.com/OpenAI/status/2087996499263369267",
-      "정규url": "https://x.com/OpenAI/status/2087996499263369267",
-      "발행": "2026-08-13T20:15:33+00:00",
-      "요약": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.",
-      "반응": 863,
-      "원저자": "@OpenAI",
-      "본문파일": "2026-08-16/원문/2087996499263369267-7377ebdc.md",
-      "본문상태": "확인 완료",
-      "점수": 3.4
-    },
     {
       "id": "2087996497908609389-318170c4",
       "출처": "X @OpenAI",
@@ -67,11 +11,14 @@
       "정규url": "https://x.com/OpenAI/status/2087996497908609389",
       "발행": "2026-08-13T20:15:32+00:00",
       "요약": "Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls.\n\nA new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. \n\nFrom there or the menu bar, you can:\n- Clear all or",
-      "반응": 967,
+      "반응": 968,
       "원저자": "@OpenAI",
       "본문파일": "2026-08-16/원문/2087996497908609389-318170c4.md",
       "본문상태": "확인 완료",
-      "점수": 3.4
+      "관심주제": [
+        "skills"
+      ],
+      "점수": 4.246
     },
     {
       "id": "2087996496088297746-ada2b3b5",
@@ -81,11 +28,12 @@
       "정규url": "https://x.com/OpenAI/status/2087996496088297746",
       "발행": "2026-08-13T20:15:32+00:00",
       "요약": "ChatGPT can now remember your activity across the apps and websites on your computer.\n\nWith Computer History in the desktop app, future interactions feel more personalized and require less explanation. https://t.co/WHZPxPp31R",
-      "반응": 12154,
+      "반응": 12162,
       "원저자": "@OpenAI",
       "본문파일": "2026-08-16/원문/2087996496088297746-ada2b3b5.md",
       "본문상태": "확인 완료",
-      "점수": 3.4
+      "관심주제": [],
+      "점수": 3.6
     },
     {
       "id": "2087948366294515977-b42c7b32",
@@ -95,11 +43,27 @@
       "정규url": "https://x.com/GoogleDeepMind/status/2087948366294515977",
       "발행": "2026-08-13T17:04:17+00:00",
       "요약": "Gemini 3.7 Flash is here.\n\nIt’s stronger for coding, knowledge work, and web development. 🧵 https://t.co/Yzc5ViW5Di",
-      "반응": 5073,
+      "반응": 5074,
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-08-16/원문/2087948366294515977-b42c7b32.md",
       "본문상태": "확인 완료",
-      "점수": 3.4
+      "관심주제": [],
+      "점수": 3.6
+    },
+    {
+      "id": "2087996499263369267-7377ebdc",
+      "출처": "X @OpenAI",
+      "제목": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRolling out globally n",
+      "url": "https://x.com/OpenAI/status/2087996499263369267",
+      "정규url": "https://x.com/OpenAI/status/2087996499263369267",
+      "발행": "2026-08-13T20:15:33+00:00",
+      "요약": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.",
+      "반응": 864,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-16/원문/2087996499263369267-7377ebdc.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.236
     },
     {
       "id": "2087948368957894859-5e2c6bca",
@@ -113,7 +77,27 @@
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-08-16/원문/2087948368957894859-5e2c6bca.md",
       "본문상태": "확인 완료",
-      "점수": 3.4
+      "관심주제": [],
+      "점수": 3.116
+    },
+    {
+      "id": "v2-1-233-1eef9435",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.233",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
+      "발행": "2026-08-14T22:20:57+00:00",
+      "요약": "What's changed \n \n Added GitLab merge request URL support to the --worktree flag and the claude agents view (where MRs display as !N ) \n Added an opt-in forward_user_identity apps gateway setting on Anthropic upstreams that sends the signed-in user's identity as headers, so a proxy behind the gateway can attribute spend per user \n Added opt-in memory cgroup support for Bash tool commands on Linux ( CLAUDE_CODE_TOOL_MEMORY_LIMIT ) so a runaway build can't stall the session \n Added CLAUDE_CODE_WEBFETCH_CACHE_TTL_MS environment variable to configure the WebFetch session URL cache TTL (default unchanged: 15 minutes) \n Fixed cloud sessions occasionally being marked as lost when the environment shut down while Claude was waiting on a permission prompt \n Fixed MCP v2 connections endlessly reopening the subscriptions/listen stream against servers that terminate long-held streams on a fixed timeout (e.g. serverless hosts) \n Fixed Notification hooks not firing for permission prompts when running under Claude Desktop or VS Code \n Fixed idle sessions on Linux sometimes keeping one CPU core at 100% when sandboxing is enabled \n Fixed bundled skill aliases like /checkup and /review reporting \"Unk",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-16/원문/v2-1-233-1eef9435.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "mcp",
+        "hooks"
+      ],
+      "점수": 2.86
     },
     {
       "id": "2087541217965809850-ea26d120",
@@ -127,21 +111,25 @@
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-08-16/원문/2087541217965809850-ea26d120.md",
       "본문상태": "확인 완료",
-      "점수": 2.228
+      "관심주제": [],
+      "점수": 2.849
     },
     {
-      "id": "markdown-svg-upgrades-aa3e0a70",
-      "출처": "Simon Willison",
-      "제목": "Markdown SVG upgrades",
-      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-      "정규url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades",
-      "발행": "2026-08-16T23:59:37+00:00",
-      "요약": "I started building my markdown-svg-renderer tool in May , but I've since added enough features to it that it's worth talking about here again.\n\n It's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans riding bicycles this is a problem that I needed to solve!\n\n The tool is very simple. Navigate to markdown-svg-renderer in your browser and paste in some Markdown to see it rendered... or save that Markdown to a CORS-friendly URL or a GitHub Gist and paste in a URL to that document.\n\n The URL option will give you a bookmarkable page, for example https://tools.simonwillison.net/markdown-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F6f9e48293be5c916652d29f0dc0b0657 - which bakes in the URL to this Gist .\n\n If you visit the Gist you'll see raw SVG:\n\n \n\n In the rendered tool that looks like this instead:\n\n \n\n As you can see, that SVG block in the Markdown has been transformed into a rendered SVG (in this case animated) plus several tabs.\n\n The tabs are the really fun bit. The PNG and JPEG tabs render that SVG to those image formats in the browser and lets you copy or download them - useful for sharing",
+      "id": "origin-code-hosting-39d537a0",
+      "출처": "Cursor 체인지로그",
+      "제목": "Origin Code Hosting",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "정규url": "https://cursor.com/changelog/origin-code-hosting",
+      "발행": "2026-08-17T00:00:00+00:00",
+      "요약": "Cursor can now host your code.",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-16/원문/markdown-svg-upgrades-aa3e0a70.md",
+      "본문파일": "2026-08-16/원문/origin-code-hosting-39d537a0.md",
       "본문상태": "확인 완료",
-      "점수": 2.033
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 2.827
     },
     {
       "id": "2087541220494938537-b33420f0",
@@ -155,7 +143,53 @@
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-08-16/원문/2087541220494938537-b33420f0.md",
       "본문상태": "확인 완료",
-      "점수": 2.004
+      "관심주제": [],
+      "점수": 2.764
+    },
+    {
+      "id": "2087541215323476034-2870ec70",
+      "출처": "X @GoogleDeepMind",
+      "제목": "For years, building AI for sign language has been slow due to complex technical challenges and misconceptions about how",
+      "url": "https://x.com/GoogleDeepMind/status/2087541215323476034",
+      "정규url": "https://x.com/GoogleDeepMind/status/2087541215323476034",
+      "발행": "2026-08-12T14:06:25+00:00",
+      "요약": "For years, building AI for sign language has been slow due to complex technical challenges and misconceptions about how the languages work.\n\nWe addressed this by training a model to translate simultaneous movements of the hands, body, and face directly into text, using huge",
+      "반응": 109,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-08-16/원문/2087541215323476034-2870ec70.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.676
+    },
+    {
+      "id": "watch-v-xoTFywZpPcc-821def4f",
+      "출처": "Hacker News",
+      "제목": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+      "정규url": "https://youtube.com/watch?v=xoTFywZpPcc",
+      "발행": "2026-08-15T19:11:47+00:00",
+      "요약": "",
+      "반응": 80,
+      "원저자": "",
+      "본문파일": "2026-08-16/원문/watch-v-xoTFywZpPcc-821def4f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.493
+    },
+    {
+      "id": "baking-a-model-ec3b7a4f",
+      "출처": "Hacker News",
+      "제목": "Baking a Model: A Metaphor for LLM Training",
+      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+      "정규url": "https://newsletter.kentbeck.com/p/baking-a-model",
+      "발행": "2026-08-14T23:46:45+00:00",
+      "요약": "",
+      "반응": 31,
+      "원저자": "",
+      "본문파일": "2026-08-16/원문/baking-a-model-ec3b7a4f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.241
     },
     {
       "id": "CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0-da34e565",
@@ -169,6 +203,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0-da34e565.md",
       "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
       "점수": 2.0
     },
     {
@@ -183,7 +218,38 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/CBMiWkFVX3lxTE1PTDl4bExYbWtSN0szcDFwUTVS-bf456736.md",
       "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
       "점수": 2.0
+    },
+    {
+      "id": "markdown-svg-upgrades-aa3e0a70",
+      "출처": "Simon Willison",
+      "제목": "Markdown SVG upgrades",
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "정규url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades",
+      "발행": "2026-08-16T23:59:37+00:00",
+      "요약": "I started building my markdown-svg-renderer tool in May , but I've since added enough features to it that it's worth talking about here again.\n\n It's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans riding bicycles this is a problem that I needed to solve!\n\n The tool is very simple. Navigate to markdown-svg-renderer in your browser and paste in some Markdown to see it rendered... or save that Markdown to a CORS-friendly URL or a GitHub Gist and paste in a URL to that document.\n\n The URL option will give you a bookmarkable page, for example https://tools.simonwillison.net/markdown-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F6f9e48293be5c916652d29f0dc0b0657 - which bakes in the URL to this Gist .\n\n If you visit the Gist you'll see raw SVG:\n\n \n\n In the rendered tool that looks like this instead:\n\n \n\n As you can see, that SVG block in the Markdown has been transformed into a rendered SVG (in this case animated) plus several tabs.\n\n The tabs are the really fun bit. The PNG and JPEG tabs render that SVG to those image formats in the browser and lets you copy or download them - useful for sharing",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-16/원문/markdown-svg-upgrades-aa3e0a70.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 1.918
+    },
+    {
+      "id": "qwen-38-27b-81603460",
+      "출처": "Simon Willison",
+      "제목": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "정규url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "발행": "2026-08-16T22:00:39+00:00",
+      "요약": "Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive.\n\n Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently as May this year . It will be interesting to hear what independent benchmarks have to say about the model.\n\n I've been running the model on two different machines: my 128GB M5 Max MacBook Pro, and an NVIDIA DGX Spark . On both machines I'm running LM Studio and their 17GB Q4_K_M quantized build . I also tried using llama-server directly on the Spark.\n\n The default of extra high results in spectacular over-thinking \n Qwen's documentation describes the model as defaulting to xhigh for the reasoning effort, and the LM Studio GGUF I've been trying preserves that default:\n\n \n Qwen3.8 comes with official support for reasoning_effort , which can be used to adjust reasoning depth and control cost:",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-16/원문/qwen-38-27b-81603460.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 1.877
     },
     {
       "id": "dario-amodei-51f82156",
@@ -197,21 +263,42 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/dario-amodei-51f82156.md",
       "본문상태": "확인 완료",
-      "점수": 1.848
+      "관심주제": [],
+      "점수": 1.733
     },
     {
-      "id": "2087541215323476034-2870ec70",
-      "출처": "X @GoogleDeepMind",
-      "제목": "For years, building AI for sign language has been slow due to complex technical challenges and misconceptions about how",
-      "url": "https://x.com/GoogleDeepMind/status/2087541215323476034",
-      "정규url": "https://x.com/GoogleDeepMind/status/2087541215323476034",
-      "발행": "2026-08-12T14:06:25+00:00",
-      "요약": "For years, building AI for sign language has been slow due to complex technical challenges and misconceptions about how the languages work.\n\nWe addressed this by training a model to translate simultaneous movements of the hands, body, and face directly into text, using huge",
-      "반응": 109,
-      "원저자": "@GoogleDeepMind",
-      "본문파일": "2026-08-16/원문/2087541215323476034-2870ec70.md",
+      "id": "flue-2-8e7673c9",
+      "출처": "Latent Space",
+      "제목": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
+      "url": "https://www.latent.space/p/flue-2",
+      "정규url": "https://latent.space/p/flue-2",
+      "발행": "2026-08-15T15:46:22+00:00",
+      "요약": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-16/원문/flue-2-8e7673c9.md",
       "본문상태": "확인 완료",
-      "점수": 1.836
+      "관심주제": [
+        "hooks"
+      ],
+      "점수": 1.56
+    },
+    {
+      "id": "ainews-cursors-60b-acquisition-by-a73a743d",
+      "출처": "Latent Space",
+      "제목": "[AINews] Cursor's $60B acquisition by SpaceXai closes",
+      "url": "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+      "정규url": "https://latent.space/p/ainews-cursors-60b-acquisition-by",
+      "발행": "2026-08-14T06:16:00+00:00",
+      "요약": "Congrats to the team!",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-16/원문/ainews-cursors-60b-acquisition-by-a73a743d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 1.56
     },
     {
       "id": "cors-chat-e25d8c26",
@@ -225,6 +312,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/cors-chat-e25d8c26.md",
       "본문상태": "확인 완료",
+      "관심주제": [],
       "점수": 1.5
     },
     {
@@ -239,6 +327,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/dont-classify-hallucinate-245d0828.md",
       "본문상태": "확인 완료",
+      "관심주제": [],
       "점수": 1.5
     },
     {
@@ -253,7 +342,8 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/openai-disbands-preparedness-team-c95ea65c.md",
       "본문상태": "확인 완료",
-      "점수": 1.454
+      "관심주제": [],
+      "점수": 1.369
     },
     {
       "id": "stripe-will-reportedly-acquire-ai-gatewa-943d4b7d",
@@ -267,7 +357,8 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/stripe-will-reportedly-acquire-ai-gatewa-943d4b7d.md",
       "본문상태": "확인 완료",
-      "점수": 1.313
+      "관심주제": [],
+      "점수": 1.237
     },
     {
       "id": "why-people-arent-buying-mark-zuckerbergs-25e650ae",
@@ -281,35 +372,8 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/why-people-arent-buying-mark-zuckerbergs-25e650ae.md",
       "본문상태": "확인 완료",
-      "점수": 1.307
-    },
-    {
-      "id": "flue-2-8e7673c9",
-      "출처": "Latent Space",
-      "제목": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
-      "url": "https://www.latent.space/p/flue-2",
-      "정규url": "https://latent.space/p/flue-2",
-      "발행": "2026-08-15T15:46:22+00:00",
-      "요약": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-16/원문/flue-2-8e7673c9.md",
-      "본문상태": "확인 완료",
-      "점수": 1.2
-    },
-    {
-      "id": "ainews-cursors-60b-acquisition-by-a73a743d",
-      "출처": "Latent Space",
-      "제목": "[AINews] Cursor's $60B acquisition by SpaceXai closes",
-      "url": "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
-      "정규url": "https://latent.space/p/ainews-cursors-60b-acquisition-by",
-      "발행": "2026-08-14T06:16:00+00:00",
-      "요약": "Congrats to the team!",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-16/원문/ainews-cursors-60b-acquisition-by-a73a743d.md",
-      "본문상태": "확인 완료",
-      "점수": 1.2
+      "관심주제": [],
+      "점수": 1.231
     },
     {
       "id": "ainews-gemini-37-flash-brings-gdm-30543844",
@@ -323,6 +387,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/ainews-gemini-37-flash-brings-gdm-30543844.md",
       "본문상태": "확인 완료",
+      "관심주제": [],
       "점수": 1.2
     },
     {
@@ -337,6 +402,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/ugm-indosat-nvidia-ai-technology-center-46bec494.md",
       "본문상태": "확인 완료",
+      "관심주제": [],
       "점수": 1.0
     },
     {
@@ -351,6 +417,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/suspecting-court-of-using-ai-man-injecte-a4e34328.md",
       "본문상태": "확인 완료",
+      "관심주제": [],
       "점수": 1.0
     },
     {
@@ -365,6 +432,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/openai-and-anthropic-in-price-war-as-chi-6c975d4f.md",
       "본문상태": "확인 완료",
+      "관심주제": [],
       "점수": 1.0
     },
     {
@@ -379,6 +447,7 @@
       "원저자": "",
       "본문파일": "2026-08-16/원문/megathread-qwen-38-27b-release-day-eb3251ba.md",
       "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
       "점수": 1.0
     }
   ]

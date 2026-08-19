@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-08-17",
+  "브리핑페이지": "https://app.notion.com/p/3c13f6aa67a4812aad06ee6b425d1e1d",
+  "정식아카이빙": [
+    {
+      "id": "v2-1-234-821a30bc",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a481f1b50dce22c3da0cd0",
+      "서고": "https://app.notion.com/p/3c13f6aa67a481cab751ed2e43eb6f7e",
+      "결과": "생성"
+    },
+    {
+      "id": "aidr-ai-didnt-read-8424d4dc",
+      "source_library": "https://app.notion.com/3c03f6aa67a481748276e8336c828e1c",
+      "서고": "https://app.notion.com/3c03f6aa67a48120b961f20e92ccf656",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "universal-health-coverage-could-save-one-dd474536",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a48151ab5fd6e39e416965",
+      "서고": "https://app.notion.com/p/3c13f6aa67a481f8876fc016170cf253",
+      "결과": "생성"
+    },
+    {
+      "id": "repaircafe-org-bcc2b2eb",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a481299ec4f944ce5432c2",
+      "서고": "https://app.notion.com/p/3c13f6aa67a4814294c0ff294ef19980",
+      "결과": "생성"
+    },
+    {
+      "id": "origin-9f6e8cdf",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a481e2b952d3f4af6fec93",
+      "서고": "https://app.notion.com/p/3c13f6aa67a4812887cbece9161e8be4",
+      "결과": "생성"
+    },
+    {
+      "id": "2087996499263369267-7377ebdc",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a4819e8caaf5f556d7c0fc",
+      "서고": "https://app.notion.com/p/3c13f6aa67a48154b341d4aae99fc150",
+      "결과": "생성"
+    },
+    {
+      "id": "l9h9vrd726jv-649ceb58",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a481ecb8b3fbb54e345c05",
+      "서고": "https://app.notion.com/p/3c13f6aa67a481beab9debd71dd06ec9",
+      "결과": "생성"
+    },
+    {
+      "id": "2087948368957894859-5e2c6bca",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a481e1acbffa01cca62fbe",
+      "서고": "https://app.notion.com/p/3c13f6aa67a481b58a83c39bb375f3fc",
+      "결과": "생성"
+    },
+    {
+      "id": "2087541217965809850-ea26d120",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a481e2b482e6eec8d27657",
+      "서고": "https://app.notion.com/p/3c13f6aa67a481fbbe49cb622f3a54f1",
+      "결과": "생성"
+    },
+    {
+      "id": "the-defenders-window-f137d9ea",
+      "source_library": "https://app.notion.com/p/3c13f6aa67a4818d9dd0da34d1fd44dc",
+      "서고": "https://app.notion.com/p/3c13f6aa67a481779d11f8ab5eee0595",
+      "결과": "생성"
+    },
+    {
+      "id": "openai-joins-ports-pike-project-ad5623d5",
+      "source_library": "https://app.notion.com/3c03f6aa67a481b39ca5e5e1db5399da",
+      "서고": "https://app.notion.com/3c03f6aa67a48155a259dbe1d784c90a",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "qwen-38-27b-scores-52-6aa6db5f",
+      "source_library": "https://app.notion.com/3c03f6aa67a481079144dd92ac2149b4",
+      "서고": "https://app.notion.com/3c03f6aa67a48123868ff9f1e50dd01a",
+      "결과": "중복 — 건너뜀"
+    }
+  ],
+  "전체수집건수": 50,
+  "메모": "12건 중 3건(aidr·ports-pike·qwen-scores)은 이전 실행에서 이미 2단계까지 들어가 있어 건너뜀 — 원본 링크 대조로 확인. 신규 9건 생성. 원문 정본 본문은 Jina Reader 덤프에서 사이트 네비게이션·국가번호 목록·쿠키 푸터 같은 순수 보일러플레이트만 걷어내고 기사 본문은 전문 그대로 옮겼다. universal-health-coverage 는 원문이 본문 중간에서 잘려 있어 접근상태 '일부 확인', repaircafe 는 정적 수집이라 통계 카운터가 0으로 잡혀 '일부 확인'. X 트윗 2건은 원제목이 트윗 첫 줄 잘림이라 자료명을 읽을 수 있는 형태로 정리했다."
+}

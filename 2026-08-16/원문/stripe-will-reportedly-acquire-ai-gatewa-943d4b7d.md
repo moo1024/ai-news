@@ -831,16 +831,16 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
- Warp’s new system is an out-of-the-box software factory for AI development 
+ Cursor capitalizes on GitHub frustration, launches rival hosting platform 
  
  
  
  
  
- Russell Brandom 
+ Lucas Ropek 
  
  
-	8 hours ago 
+	5 hours ago 
  
  
  
@@ -870,16 +870,16 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
- Perplexity’s free AI offer left it with millions more users in India 
+ Warp’s new system is an out-of-the-box software factory for AI development 
  
  
  
  
  
- Jagmeet Singh 
+ Russell Brandom 
  
  
-	8 hours ago 
+	14 hours ago 
  
  
  
@@ -918,7 +918,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Ivan Mehta 
  
  
-	1 day ago 
+	2 days ago 
  
  
  
@@ -960,6 +960,45 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
+ Cursor capitalizes on GitHub frustration, launches rival hosting platform 
+ 
+ 
+ 
+ 
+ 
+ Lucas Ropek 
+ 
+ 
+	5 hours ago 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+	
+ 
+
+ 
+ 
+	
+ 
+
+ 
+ 
+ 
+ 
+ AI 
+ 
+ 
+ 
+
+ 
  OpenAI institutes new safeguards after Hugging Face breach 
  
  
@@ -969,7 +1008,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Russell Brandom 
  
  
-	4 hours ago 
+	10 hours ago 
  
  
  
@@ -1008,46 +1047,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Julie Bort 
  
  
-	5 hours ago 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
-
-	
- 
-
- 
- 
-	
- 
-
- 
- 
- 
- 
- AI 
- 
- 
- 
-
- 
- Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear 
- 
- 
- 
- 
- 
- Sarah Perez 
- 
- 
-	6 hours ago 
+	10 hours ago 
  
  
  

@@ -1,13 +1,13 @@
-# Amazon, which started off selling books, is destroying rare texts to train AI
+# Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project
 
 - 출처: TechCrunch AI
-- 원본 링크: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/
-- 발행: 2026-08-17T16:38:44+00:00
+- 원본 링크: https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/
+- 발행: 2026-08-17T15:16:24+00:00
 - 접근상태: 확인 완료
 
 ---
 
-Amazon, which started off selling books, is destroying rare texts to train AI | TechCrunch 
+Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project | TechCrunch 
  
  
  
@@ -633,40 +633,34 @@ Amazon, which started off selling books, is destroying rare texts to train AI | 
 
 
 
- 9:38 AM PDT · August 17, 2026 
+ 8:16 AM PDT · August 17, 2026 
  
 
 
- Image Credits: Studio 642 / Getty Images 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- Amanda Silberling 
- 
- 
- 
-
-
- Amazon, which started off selling books, is destroying rare texts to train AI 
-
- 
- Amazon is buying tons of rare books, cutting off their spines, and scanning them for AI training, according to 404 Media , which placed a tracking device in a rare book that ultimately arrived at an Amazon facility in Las Vegas.
-
-
- The facility, known as VGT3, identifies itself with a symbol of a dinosaur holding a book in its claws. Amazon told 404 Media in a statement that it “purchases books through commercial channels to improve the products and services customers use.”
+ Image Credits: Chesnot / Getty Images 
 
 
  
  
  
  
+ 
+ 
+ 
+ 
+ Tim De Chant 
+ 
+ 
+ 
+
+
+ Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project 
+
+ 
+ Nvidia said on Monday that it will invest $1.5 billion in SB Energy, a data center linked to SoftBank and OpenAI.
+
+
+ The investment ensures that Nvidia will be the sole supplier of compute infrastructure at OpenAI’s Ports-Pike data center near Cincinnati, Ohio. Nvidia will also provide up to $105 billion in credit to help build the facility, which could scale from an initial 4.25 gigawatts to 8 gigawatts in size, according to documents the company filed with the SEC.
 
 
  
@@ -675,10 +669,22 @@ Amazon, which started off selling books, is destroying rare texts to train AI | 
  
 
 
- Companies like Amazon need unfathomably large amounts of text to train their LLMs, which have already ingested what they can from the internet (and, in Anthropic’s case, illegally pirated books). Rare books, especially ones that are out of print or impossible to find on the internet, offer a new source of coveted training data.
+ 
+ 
+ 
+ 
 
 
- These texts are especially valuable since there’s no chance that anything published before 2022 was written by an LLM. When LLMs train on AI-generated text, they risk “ model collapse ,” which can occur when the quality of an LLM’s outputs degrade after ingesting too much AI-generated text.
+ SB Energy’s existing investors include SoftBank and OpenAI. SoftBank had previously held $5.8 billion worth of Nvidia stock, which it sold in November to help fund other AI investments.
+
+
+ The data center and power developer will build a 9.2 gigawatt natural gas power plant on the site, which is land owned by the U.S. Department of Energy. The site previously enriched uranium for the U.S. nuclear arsenal and for U.S. Navy submarines.
+
+
+ The power plant is expected to cost $33 billion . The steep sum reflects the skyrocketing costs of building natural gas power plants, which have risen 66% in the last two years , according to BloombergNEF. 
+
+
+ By the time SB Energy’s power plant and others are completed, they’ll be competing for natural gas with export markets, a confluence that could triple natural gas prices in some parts of the country.
 
  
 
@@ -686,7 +692,7 @@ Amazon, which started off selling books, is destroying rare texts to train AI | 
  Topics
 
  
- AI , AI training , Amazon , In Brief 
+ AI , data centers , In Brief , nvidia , OpenAI , Softbank 
  
  
 
@@ -828,55 +834,16 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
- OpenAI launches a safer ChatGPT for teens — years after teens started using it 
+ Groq raises $350M to fuel its pivot from AI chips to neocloud 
  
  
  
  
  
- Sarah Perez 
+ Rebecca Bellan 
  
  
-	14 hours ago 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
-
-	
- 
-
- 
- 
-	
- 
-
- 
- 
- 
- 
- Transportation 
- 
- 
- 
-
- 
- Einride strikes deal to add 500 Tesla Semis to its fleet 
- 
- 
- 
- 
- 
- Kirsten Korosec 
- 
- 
-	18 hours ago 
+	2 days ago 
  
  
  
@@ -906,16 +873,55 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
- AI automation startup Relay shuts down, staff joins Google’s Chrome team 
+ Texas halts new data centers as governor calls for audits 
  
  
  
  
  
- Lucas Ropek 
+ Tim De Chant 
  
  
-	1 day ago 
+	Aug 4, 2026 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+	
+ 
+
+ 
+ 
+	
+ 
+
+ 
+ 
+ 
+ 
+ AI 
+ 
+ 
+ 
+
+ 
+ Is the future of data centers portable? Runware builds a pod to find out 
+ 
+ 
+ 
+ 
+ 
+ Dominic-Madori Davis 
+ 
+ 
+	Aug 4, 2026 
  
  
  
@@ -1005,7 +1011,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Russell Brandom 
  
  
-	10 hours ago 
+	11 hours ago 
  
  
  

@@ -939,6 +939,24 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
  
  
+ Anthropic shares more details about how Claude’s new watermarks will work 
+
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Apple proposes to take a 15% cut of purchases made outside the App Store 
 
  
@@ -975,6 +993,24 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
  
  
+ Anthropic set AI agents loose on the same task. They started a turf war. 
+
+ 
+ 
+ 
+ Rebecca Bellan 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Instagram introduces a redesigned wordmark 
 
  
@@ -999,42 +1035,6 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
  
  Lucas Ropek 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug 
-
- 
- 
- 
- Zack Whittaker 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features 
-
- 
- 
- 
- Lauren Forristal 
  
 
  

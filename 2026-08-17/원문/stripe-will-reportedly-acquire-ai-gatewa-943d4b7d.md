@@ -1,13 +1,13 @@
-# Amazon, which started off selling books, is destroying rare texts to train AI
+# Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
 
 - 출처: TechCrunch AI
-- 원본 링크: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/
-- 발행: 2026-08-17T16:38:44+00:00
+- 원본 링크: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
+- 발행: 2026-08-16T20:57:04+00:00
 - 접근상태: 확인 완료
 
 ---
 
-Amazon, which started off selling books, is destroying rare texts to train AI | TechCrunch 
+Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ | TechCrunch 
  
  
  
@@ -633,40 +633,34 @@ Amazon, which started off selling books, is destroying rare texts to train AI | 
 
 
 
- 9:38 AM PDT · August 17, 2026 
+ 1:57 PM PDT · August 16, 2026 
  
 
 
- Image Credits: Studio 642 / Getty Images 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- Amanda Silberling 
- 
- 
- 
-
-
- Amazon, which started off selling books, is destroying rare texts to train AI 
-
- 
- Amazon is buying tons of rare books, cutting off their spines, and scanning them for AI training, according to 404 Media , which placed a tracking device in a rare book that ultimately arrived at an Amazon facility in Las Vegas.
-
-
- The facility, known as VGT3, identifies itself with a symbol of a dinosaur holding a book in its claws. Amazon told 404 Media in a statement that it “purchases books through commercial channels to improve the products and services customers use.”
+ Image Credits: SOPA Images/Contributor / Getty Images 
 
 
  
  
  
  
+ 
+ 
+ 
+ 
+ Anthony Ha 
+ 
+ 
+ 
+
+
+ Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ 
+
+ 
+ Stripe has finalized a deal to acquire OpenRouter, according to a new report in Bloomberg .
+
+
+ OpenRouter helps customers select different AI models to perform different tasks, depending on their specific needs and budget. The company announced in May that it had raised a $113 million Series B , at a reported $1.3 billion valuation. (Investors include Sequoia, Andreessen Horowitz, Menlo Ventures, and Alphabet’s CapitalG.)
 
 
  
@@ -675,10 +669,19 @@ Amazon, which started off selling books, is destroying rare texts to train AI | 
  
 
 
- Companies like Amazon need unfathomably large amounts of text to train their LLMs, which have already ingested what they can from the internet (and, in Anthropic’s case, illegally pirated books). Rare books, especially ones that are out of print or impossible to find on the internet, offer a new source of coveted training data.
+ 
+ 
+ 
+ 
 
 
- These texts are especially valuable since there’s no chance that anything published before 2022 was written by an LLM. When LLMs train on AI-generated text, they risk “ model collapse ,” which can occur when the quality of an LLM’s outputs degrade after ingesting too much AI-generated text.
+ At the time, OpenRouter CEO Alex Atallah described the company as the equivalent of Stripe for AI, because it provides customers with a single access point for different systems and prevents lock-in. The startup also claimed to have 8 million global users and to provide access to more than 400 models.
+
+
+ The Wall Street Journal reported last month that Stripe and OpenRouter were in acquisition talks. Now, Bloomberg said those discussions have led to a deal price of more than $7 billion.
+
+
+ A Stripe spokesperson told TechCrunch that the company does not comment on rumors or speculation.
 
  
 
@@ -686,7 +689,7 @@ Amazon, which started off selling books, is destroying rare texts to train AI | 
  Topics
 
  
- AI , AI training , Amazon , In Brief 
+ AI , In Brief , Mergers and Acquisitions , openrouter , Startups , stripe 
  
  
 
@@ -828,55 +831,16 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
- OpenAI launches a safer ChatGPT for teens — years after teens started using it 
+ Warp’s new system is an out-of-the-box software factory for AI development 
  
  
  
  
  
- Sarah Perez 
+ Russell Brandom 
  
  
 	14 hours ago 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
-
-	
- 
-
- 
- 
-	
- 
-
- 
- 
- 
- 
- Transportation 
- 
- 
- 
-
- 
- Einride strikes deal to add 500 Tesla Semis to its fleet 
- 
- 
- 
- 
- 
- Kirsten Korosec 
- 
- 
-	18 hours ago 
  
  
  
@@ -906,16 +870,55 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
- AI automation startup Relay shuts down, staff joins Google’s Chrome team 
+ Perplexity’s free AI offer left it with millions more users in India 
  
  
  
  
  
- Lucas Ropek 
+ Jagmeet Singh 
  
  
-	1 day ago 
+	14 hours ago 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+	
+ 
+
+ 
+ 
+	
+ 
+
+ 
+ 
+ 
+ 
+ Fundraising 
+ 
+ 
+ 
+
+ 
+ Wispr raises $280M at $2B valuation as it looks beyond dictation 
+ 
+ 
+ 
+ 
+ 
+ Ivan Mehta 
+ 
+ 
+	2 days ago 
  
  
  

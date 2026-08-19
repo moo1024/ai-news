@@ -851,7 +851,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Russell Brandom 
  
  
-	4 hours ago 
+	11 hours ago 
  
  
  
@@ -890,7 +890,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Sarah Perez 
  
  
-	8 hours ago 
+	15 hours ago 
  
  
  
@@ -929,7 +929,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Jagmeet Singh 
  
  
-	8 hours ago 
+	15 hours ago 
  
  
  
@@ -971,6 +971,45 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  
 
  
+ Cursor capitalizes on GitHub frustration, launches rival hosting platform 
+ 
+ 
+ 
+ 
+ 
+ Lucas Ropek 
+ 
+ 
+	6 hours ago 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+	
+ 
+
+ 
+ 
+	
+ 
+
+ 
+ 
+ 
+ 
+ AI 
+ 
+ 
+ 
+
+ 
  OpenAI institutes new safeguards after Hugging Face breach 
  
  
@@ -980,7 +1019,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Russell Brandom 
  
  
-	4 hours ago 
+	11 hours ago 
  
  
  
@@ -1019,46 +1058,7 @@ Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal
  Julie Bort 
  
  
-	5 hours ago 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
-
-	
- 
-
- 
- 
-	
- 
-
- 
- 
- 
- 
- AI 
- 
- 
- 
-
- 
- Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear 
- 
- 
- 
- 
- 
- Sarah Perez 
- 
- 
-	6 hours ago 
+	11 hours ago 
  
  
  
