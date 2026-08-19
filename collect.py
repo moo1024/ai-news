@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import html
 import json
+import math
 import os
 import re
 import sys
@@ -130,6 +131,15 @@ def 고유ID(url: str) -> str:
     꼬리 = re.sub(r"[^a-zA-Z0-9]+", "-", n.rsplit("/", 1)[-1])[:40].strip("-")
     해시 = hashlib.sha1(n.encode()).hexdigest()[:8]
     return f"{꼬리}-{해시}" if 꼬리 else 해시
+
+
+def 출처키(출처: str) -> str:
+    """쏠림 방지용 묶음 키. 'X @sama'·'Reddit r/ai'·'GitHub 신규 (MCP)' 를 한 갈래로 본다.
+
+    안 묶으면 상한이 안 걸린다 — 깃헙 질의 4개를 서로 다른 출처로 세는 바람에
+    후보 12칸 중 10칸을 깃헙이 먹었다(2026-08-19 실측).
+    """
+    return 출처.split(" r/")[0].split(" @")[0].split(" (")[0].strip()
 
 
 def AI관련(*조각: str) -> bool:
@@ -402,6 +412,62 @@ def 수집_x(설정: dict, 하한: datetime) -> list[dict]:
     return 결과
 
 
+def 수집_github(설정: dict, 하한: datetime) -> list[dict]:
+    """'최근 만들어졌는데 별이 많이 붙은' 레포를 찾는다 = 뜨는 도구·스킬.
+
+    트렌딩 페이지는 공식 API 가 없다. 대신 검색 API 의 `created:>날짜` + 별순 정렬이
+    사실상 같은 답을 준다. 무인증 60req/hr 이라 질의를 4개로 묶어 쓴다.
+    """
+    결과 = []
+    지금 = datetime.now(timezone.utc)
+    for 질의 in 설정.get("질의", []):
+        생성기준 = (지금 - timedelta(days=int(질의.get("신규일수", 30)))).strftime("%Y-%m-%d")
+        q = f"{질의['q']} created:>{생성기준}"
+        url = ("https://api.github.com/search/repositories?"
+               f"q={urllib.parse.quote(q)}&sort=stars&order=desc"
+               f"&per_page={설정.get('질의당건수', 6)}")
+        try:
+            data = json.loads(가져오기(url, timeout=25))
+        except Exception as e:
+            기록(f"  ✗ GitHub {질의['이름']}: {type(e).__name__} {e}")
+            time.sleep(2)
+            continue
+        if "items" not in data:
+            기록(f"  ✗ GitHub {질의['이름']}: {str(data.get('message', '응답 이상'))[:60]}")
+            time.sleep(2)
+            continue
+
+        최소별 = int(질의.get("최소별", 100))
+        n = 0
+        for r in data["items"]:
+            별 = int(r.get("stargazers_count", 0))
+            if 별 < 최소별:
+                continue
+            만든날 = 시각파싱(r.get("created_at"))
+            설명 = (r.get("description") or "").strip()
+            # 설명 한 줄도 없는 레포는 별이 많아도 정리본을 쓸 수 없다.
+            if 설정.get("설명필수") and len(설명) < 20:
+                continue
+            주제 = ", ".join(r.get("topics", [])[:8])
+            요약 = (f"{설명}\n\n별 {별:,}개 · 언어 {r.get('language') or '미상'} · "
+                    f"생성 {만든날:%Y-%m-%d}" if 만든날 else 설명)
+            if 주제:
+                요약 += f" · 토픽 {주제}"
+            결과.append(항목(
+                f"GitHub 신규 ({질의['이름']})",
+                f"{r['full_name']} — {설명[:80]}" if 설명 else r["full_name"],
+                r["html_url"],
+                # 발행일은 '만든 날'이 아니라 '지금 뜨고 있다'는 뜻이므로 오늘로 둔다.
+                # 만든 날로 두면 30일 전 레포가 시간 창에서 통째로 탈락한다.
+                지금,
+                요약=요약, 반응=별, weight=설정.get("weight", 1.5),
+                원저자=r.get("owner", {}).get("login", "")))
+            n += 1
+        기록(f"  · GitHub {질의['이름']}: {n}건 ({data['total_count']:,}건 중)")
+        time.sleep(2)  # 무인증 60req/hr
+    return 결과
+
+
 def 수집_bluesky(설정: dict, 하한: datetime) -> list[dict]:
     결과 = []
     for 계정 in 설정.get("계정", []):
@@ -484,6 +550,7 @@ def main() -> int:
     표 = [
         ("rss", 수집_rss), ("hn", 수집_hn), ("arxiv", 수집_arxiv),
         ("reddit", 수집_reddit), ("x", 수집_x), ("bluesky", 수집_bluesky),
+        ("github", 수집_github),
     ]
     for 이름, 함수 in 표:
         s = 설정.get(이름, {})
@@ -522,12 +589,28 @@ def main() -> int:
     항목들 = list(본.values())
 
     # 점수 — 무엇을 먼저 볼지의 힌트. 자르는 칼이 아니다.
+    관심 = 설정.get("관심주제", {})
+    관심낱말 = [w.lower() for w in 관심.get("낱말", [])]
+    관심배수 = float(관심.get("배수", 1.0))
+
     지금 = datetime.now(timezone.utc)
     for it in 항목들:
         발행 = 시각파싱(it["발행"]) or 지금
         시간차 = max((지금 - 발행).total_seconds() / 3600, 0)
         신선도 = max(0.0, 1.0 - 시간차 / 72.0)
-        it["점수"] = round(it["_weight"] * (1 + 신선도) + min(it["반응"], 500) / 250, 3)
+        # 반응은 로그로 눌러야 한다. 선형이면 상한(500)에 걸린 것들이 전부 동점이 되어
+        # 순위가 사라진다 — 별 500개 레포와 2,400개 레포가 같은 점수가 됐다.
+        반응점 = math.log10(1 + max(it["반응"], 0)) / 1.6
+        점수 = it["_weight"] * (1 + 신선도) + min(반응점, 2.2)
+
+        # 사용자가 공부하는 주제는 따로 밀어올린다. 안 그러면 공식 블로그 가중치에
+        # 매일 밀린다 (2026-08-19 실측: 이틀 연속 코딩에이전트 소식이 후보 12건에 0건).
+        본문 = (it["제목"] + " " + it.get("요약", "") + " " + it["출처"]).lower()
+        it["관심주제"] = [w for w in 관심낱말 if w in 본문]
+        if it["관심주제"]:
+            점수 *= 관심배수
+
+        it["점수"] = round(점수, 3)
         it.pop("_weight", None)
     항목들.sort(key=lambda x: -x["점수"])
 
@@ -544,8 +627,14 @@ def main() -> int:
         쓴수: dict[str, int] = {}
         대상 = []
         나머지 = []
-        for it in 항목들:
-            키 = it["출처"].split(" r/")[0].split(" @")[0]
+        # 관심주제는 전문이 없으면 후보가 될 수 없다. 예산을 먼저 떼어준다.
+        관심먼저 = [it for it in 항목들 if it.get("관심주제")][: int(bs.get("관심주제몫", 12))]
+        for it in 관심먼저:
+            쓴수["관심"] = 쓴수.get("관심", 0) + 1
+            대상.append(it)
+        본대상 = {id(x) for x in 대상}
+        for it in (x for x in 항목들 if id(x) not in 본대상):
+            키 = 출처키(it["출처"])
             if 쓴수.get(키, 0) < 출처상한:
                 쓴수[키] = 쓴수.get(키, 0) + 1
                 대상.append(it)

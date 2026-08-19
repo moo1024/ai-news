@@ -69,22 +69,53 @@ def main() -> int:
 
     # --- 후보 선정: 전문이 있는 것 중 점수순, 출처 쏠림 방지, 지난날 정리분 제외
     기정리 = 이미정리한것(날짜)
+    설정 = json.load(open(os.path.join(HERE, "sources.json"), encoding="utf-8"))
+    예약자리 = int(설정.get("관심주제", {}).get("예약자리", 0))
+
+    쓸만한 = [it for it in 항목
+              if it.get("본문상태") == "확인 완료" and it.get("본문파일")
+              and it["id"] not in 기정리]
+    걸러낸수 = sum(1 for it in 항목
+                   if it.get("본문상태") == "확인 완료" and it.get("본문파일")
+                   and it["id"] in 기정리)
+
     쓴출처: dict[str, int] = {}
-    후보 = []
-    걸러낸수 = 0
-    for it in 항목:
-        if it.get("본문상태") != "확인 완료" or not it.get("본문파일"):
-            continue
-        if it["id"] in 기정리:
-            걸러낸수 += 1
-            continue
-        키 = it["출처"].split(" r/")[0].split(" @")[0]
-        if 쓴출처.get(키, 0) >= 출처당상한:
-            continue
+    후보: list[dict] = []
+    담긴 = set()
+
+    def 담기(it: dict, 상한: int = 출처당상한) -> bool:
+        # 'GitHub 신규 (MCP 서버)' 같은 괄호 꼬리까지 떼야 한 갈래로 묶인다.
+        키 = it["출처"].split(" r/")[0].split(" @")[0].split(" (")[0].strip()
+        if it["id"] in 담긴 or 쓴출처.get(키, 0) >= 상한:
+            return False
         쓴출처[키] = 쓴출처.get(키, 0) + 1
+        담긴.add(it["id"])
         후보.append(it)
+        return True
+
+    # 1) 관심주제(클로드코드·Codex·MCP 등)에 자리를 먼저 떼어준다.
+    #    점수만으로 뽑으면 공식 블로그 가중치에 밀려 매일 0건이 된다.
+    # 예약분 안에서도 한 출처가 다 먹으면 안 된다 — 깃헙 레포 4개로 채워지면
+    # 정작 클로드코드 릴리스·기사가 밀린다. 예약 단계는 출처당 2건까지만.
+    관심몫 = 0
+    for it in 쓸만한:
+        if 관심몫 >= min(예약자리, 정식건수):
+            break
+        if it.get("관심주제") and 담기(it, 상한=2):
+            관심몫 += 1
+
+    # 2) 나머지는 점수순으로 채우되, 관심주제가 전체를 덮지 않게 상한을 건다.
+    #    상한이 없으면 배수 때문에 12칸이 통째로 관심주제가 되어 그날 AI 판이 안 보인다.
+    관심상한 = int(설정.get("관심주제", {}).get("상한", 정식건수))
+    for it in 쓸만한:
         if len(후보) >= 정식건수:
             break
+        if it.get("관심주제") and 관심몫 >= 관심상한:
+            continue
+        if 담기(it) and it.get("관심주제"):
+            관심몫 += 1
+
+    후보.sort(key=lambda x: -x["점수"])
 
     with open(os.path.join(폴더, "_후보.json"), "w", encoding="utf-8") as f:
         json.dump({"날짜": 날짜, "건수": len(후보), "항목": 후보}, f,
@@ -104,6 +135,8 @@ def main() -> int:
         줄.append(f"## {출처} ({len(묶)}건)")
         for it in 묶:
             표 = "★ " if it["id"] in 후보ID else ""
+            if it.get("관심주제"):
+                표 += "🎯 "
             요약 = (it.get("요약") or "").replace("\n", " ")[:200]
             줄.append(f"- {표}**{it['제목']}**")
             줄.append(f"  - id: `{it['id']}` · 점수 {it['점수']} · 반응 {it['반응']} · 발행 {it['발행'] or '미상'}")
@@ -118,7 +151,8 @@ def main() -> int:
         f.write("\n".join(줄))
 
     print(f"후보 {len(후보)}건 / 전체 {len(항목)}건 "
-          f"(지난 {지난날확인}일간 이미 정리한 것 {걸러낸수}건 제외) → _후보.json, _브리핑입력.md")
+          f"(관심주제 {관심몫}건 예약 · 지난 {지난날확인}일간 정리분 {걸러낸수}건 제외) "
+          f"→ _후보.json, _브리핑입력.md")
     if not 후보:
         print("❌ 전문이 확보된 항목이 하나도 없다", file=sys.stderr)
         return 1

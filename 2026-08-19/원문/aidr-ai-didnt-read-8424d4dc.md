@@ -193,7 +193,7 @@ AI;DR (AI; Didn’t Read) - Rick Manelius's Newsletter
  
 
  
- Rick Manelius's Newsletter Subscribe Sign in AI;DR (AI; Didn’t Read) I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop. Rick Manelius Aug 17, 2026 31 10 3 Share I’m SUPER jealous that I didn’t think of this first...
+ Rick Manelius's Newsletter Subscribe Sign in AI;DR (AI; Didn’t Read) I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop. Rick Manelius Aug 17, 2026 31 11 3 Share I’m SUPER jealous that I didn’t think of this first...
  Alas! Hat tip to seclilc for tweeting this gem out two days ago. 
  lil c @seclilc AI;DR
 
@@ -209,13 +209,13 @@ AI;DR (AI; Didn’t Read) - Rick Manelius's Newsletter
  TL;DR (too long; didn’t read) was the solution for social media.
  AI;DR (AI; didn’t read) is the solution for AI slop.
  May you embrace this policy yourself and seek out those willing to care enough to prioritize a human touch when they talk to you.
- Updates Daniel in the comments shared a wonderful website dontpastetheai.com . Amazing. I especially loved the Take me to the Angry Version version. 
+ Updates Update 1 2026-08-17: Daniel in the comments shared a wonderful website dontpastetheai.com . Amazing. I especially loved the Take me to the Angry Version version. 
  The intro header says it all (polite version below).
- 
- 31 10 3 Share Discussion about this post Comments Restacks Jeff Clark, MD 1d Liked by Rick Manelius I love this. Great acronym. 
- Reply Share Santiago Janse 3h Liked by Rick Manelius Super agree on the approach. For me, I if see a wall of text, I go Ctrl+F and look for em dashes (the — that AI likes to use for everything) 
+ Update 2 2026-08-18: This made it to #1 on Hacker News on 2026-08-18 with >600 comments . It apparently struck a cord. 
+ 31 11 3 Share Discussion about this post Comments Restacks Jeff Clark, MD 1d Liked by Rick Manelius I love this. Great acronym. 
+ Reply Share Santiago Janse 7h Liked by Rick Manelius Super agree on the approach. For me, I if see a wall of text, I go Ctrl+F and look for em dashes (the — that AI likes to use for everything) 
  If there are any, this is likely AI generated, and thus I'll use AI to summarize it. If you don't write it, I don't read it. 
- Reply Share 8 more comments... Top Latest Discussions No posts
+ Reply Share 9 more comments... Top Latest Discussions No posts
  Ready for more? Subscribe © 2026 Rick Manelius · Privacy ∙ Terms ∙ Collection notice Start your Substack Get the app Substack is the home for great culture 
  
 

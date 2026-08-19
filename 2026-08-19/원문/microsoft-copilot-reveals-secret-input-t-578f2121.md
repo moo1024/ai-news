@@ -518,7 +518,7 @@ Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Techni
  
  | 
  
- 83
+ 88
  
  
  
@@ -824,7 +824,7 @@ Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Techni
  
  
  
- 83 Comments
+ 88 Comments
  
  
  
@@ -957,7 +957,7 @@ Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Techni
  
  
  1. 
- Satellite operators are in panic mode due to a worsening launch crisis 
+ Against all odds, SpaceX finally tugs Starship into port after 24 days at sea 
  
  
  
@@ -967,7 +967,7 @@ Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Techni
  
  
  2. 
- Hidden Airtag reveals Amazon is trashing rare books to train AI 
+ Satellite operators are in panic mode due to a worsening launch crisis 
  
  
  
@@ -977,7 +977,7 @@ Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Techni
  
  
  3. 
- Former SpaceX engineers are building a robotic factory for making steel parts 
+ Hidden Airtag reveals Amazon is trashing rare books to train AI 
  
  
  
@@ -987,7 +987,7 @@ Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Techni
  
  
  4. 
- As Wisconsin cities flee Flock, its shared camera network loses value 
+ Microsoft Copilot reveals secret input that allowed it to be hacked 
  
  
  
@@ -997,7 +997,7 @@ Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Techni
  
  
  5. 
- Meet the only known trebuchet casualty in history 
+ The United States is about to wake up to the threat from China's space program 
  
  
  

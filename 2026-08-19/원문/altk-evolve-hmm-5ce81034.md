@@ -27,7 +27,7 @@ How Much Memory Does Your Agent Actually Need?
  How Much Memory Does Your Agent Actually Need?
  
  Enterprise Article Published
- August 18, 2026 Upvote 12 +6 Vatche Isahagian Vatche Follow ibm-research Gaodan Fang gaodan-fang Follow ibm-research Jayaram Radhakrishnan jayaramkr Follow ibm-research Punleuk Oum illeatmyhat Follow ibm-research Ashwath Vaithinathan Aravindan ashwath-vaithina Follow ibm-research Evelyn Duesterwald evduester Follow ibm-research G Thomas gsthomasx Follow ibm-research Vinod Muthusamy vinodmut Follow ibm-research Merve Unuvar mrvnvr Follow ibm-research Ayhan Sebin ayhansebin Follow ibm-research 
+ August 18, 2026 Upvote 17 +11 Vatche Isahagian Vatche Follow ibm-research Gaodan Fang gaodan-fang Follow ibm-research Jayaram Radhakrishnan jayaramkr Follow ibm-research Punleuk Oum illeatmyhat Follow ibm-research Ashwath Vaithinathan Aravindan ashwath-vaithina Follow ibm-research Evelyn Duesterwald evduester Follow ibm-research G Thomas gsthomasx Follow ibm-research Vinod Muthusamy vinodmut Follow ibm-research Merve Unuvar mrvnvr Follow ibm-research Ayhan Sebin ayhansebin Follow ibm-research 
  The Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that how you deliver an agent's self-distilled guidelines — a few retrieved per task vs. the whole set injected — drives both accuracy and cost. This post steps back to the question that comes before it: how much should you give it?
 
  Equipping an agent with agentic memory sounds simple: distill lessons from its past work, put them back in context, and more experience should mean better performance. It doesn't always work that way. When we scaled the evaluation to eight models — from a 30B dense model to frontier proprietary systems — one finding stood out:
@@ -358,4 +358,4 @@ How Much Memory Does Your Agent Actually Need?
  
  More from this author
  Thinking of ACE? We Can Do It with Fewer Tokens 28 August 11, 2026 Model Routing Is Simple. Until It Isn’t. 84 July 15, 2026 Community Edit Preview Upload images, audio, and videos by dragging in the text input, pasting, or clicking here . Tap or paste here to upload images Comment · Sign up or log in to comment
- Upvote 12 System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs
+ Upvote 17 +5 System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs

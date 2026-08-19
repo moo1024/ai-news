@@ -1,6 +1,37 @@
 {
   "_주석": "수집 대상 목록. 여기만 고치면 collect.py 는 안 고쳐도 된다. weight 는 점수 가중치(1.0 기본).",
 
+  "관심주제": {
+    "_설명": "사용자가 공부하는 주제. 여기 걸리면 점수에 배수가 붙고, 후보 12건 중 몇 자리를 예약한다. 안 그러면 매일 밀려난다(2026-08-19 실측: 이틀 연속 코딩에이전트 소식 0건 선정).",
+    "배수": 1.3,
+    "예약자리": 4,
+    "상한": 6,
+    "_상한주석": "예약은 '최소 몇 자리', 상한은 '최대 몇 자리'다. 배수만 키우면 후보 12칸이 통째로 관심주제로 덮여 그날 AI 판 전체가 안 보인다(2026-08-19 실측: 12/12).",
+    "낱말": [
+      "claude code", "클로드 코드", "클로드코드", "claude-code",
+      "codex", "cursor", "커서", "copilot", "windsurf", "aider", "cline", "continue.dev",
+      "mcp", "model context protocol", "서브에이전트", "subagent", "sub-agent",
+      "agent skill", "skills", "슬래시 커맨드", "slash command", "hooks",
+      "claude.md", "agents.md", "coding agent", "코딩 에이전트", "바이브코딩", "vibe coding",
+      "agentic", "에이전트 워크플로", "cli agent", "terminal agent"
+    ]
+  },
+
+  "github": {
+    "enabled": true,
+    "weight": 1.05,
+    "일수": 7,
+    "설명": "GitHub 검색 API. '최근 만들어졌는데 별이 많이 붙은' 레포 = 뜨는 도구·스킬. 무인증 60req/hr 이라 질의 수를 아껴 쓴다. weight 를 낮게 둔 이유 — 레포는 '기사'가 아니라 '떡밥'이라 기사와 같은 무게로 다투면 후보를 도배한다(2026-08-19 실측: 12칸 중 10칸).",
+    "설명필수": true,
+    "질의": [
+      {"이름": "claude-code",  "q": "claude-code",            "신규일수": 30, "최소별": 400},
+      {"이름": "MCP 서버",     "q": "topic:mcp",              "신규일수": 30, "최소별": 400},
+      {"이름": "AI 에이전트",  "q": "topic:ai-agents",        "신규일수": 21, "최소별": 600},
+      {"이름": "에이전트 스킬", "q": "agent skills OR claude skills", "신규일수": 45, "최소별": 250}
+    ],
+    "질의당건수": 6
+  },
+
   "hn": {
     "enabled": true,
     "weight": 1.3,
@@ -30,6 +61,17 @@
       {"이름": "Google Research",       "url": "https://research.google/blog/rss/",                          "weight": 1.3},
       {"이름": "Hugging Face Blog",     "url": "https://huggingface.co/blog/feed.xml",                       "weight": 1.3},
       {"이름": "Simon Willison",        "url": "https://simonwillison.net/atom/everything/",                 "weight": 1.5},
+
+      {"이름": "Claude Code 릴리스",     "url": "https://github.com/anthropics/claude-code/releases.atom",     "weight": 2.2, "상한": 5,
+       "주석": "code.claude.com 의 릴리스노트는 404. 깃헙 Atom 이 정본이다(2026-08-19 실측)."},
+      {"이름": "Codex 릴리스",          "url": "https://github.com/openai/codex/releases.atom",               "weight": 1.7, "상한": 4,
+       "주석": "commits/main.atom 은 커밋 하나하나가 항목이라 '#39335 훅 라우팅' 같은 게 후보에 올라온다. 릴리스만 본다."},
+      {"이름": "Cursor 체인지로그",      "url": "https://cursor.com/changelog/rss.xml",                        "weight": 1.7, "상한": 5,
+       "주석": "cursor.com/blog/rss.xml 은 404. changelog 쪽만 산다."},
+      {"이름": "MCP 서버 릴리스",        "url": "https://github.com/modelcontextprotocol/servers/releases.atom", "weight": 1.5, "상한": 4},
+      {"이름": "코딩에이전트 (HN)",      "url": "https://hnrss.org/newest?q=claude+code+OR+codex+OR+cursor&points=20", "weight": 1.6, "상한": 8},
+      {"이름": "코딩에이전트 (구글뉴스)", "url": "https://news.google.com/rss/search?q=%22Claude+Code%22+OR+%22OpenAI+Codex%22+OR+%22Cursor+AI%22+when:3d&hl=en-US&gl=US&ceid=US:en", "weight": 1.4, "상한": 6},
+
       {"이름": "Meta Engineering",      "url": "https://engineering.fb.com/feed/",                           "weight": 1.1},
       {"이름": "Microsoft AI",          "url": "https://news.microsoft.com/source/topics/ai/feed/",           "weight": 1.1},
       {"이름": "NVIDIA Blog",           "url": "https://blogs.nvidia.com/feed/",                             "weight": 1.0},
