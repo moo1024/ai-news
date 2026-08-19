@@ -12,7 +12,9 @@ HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LOG_DIR="$HERE/logs"
 DONE_DIR="$HERE/.done"
 BACKFILL_DAYS=3
-정식건수=12
+# 변수명에 한글을 쓰지 마라. 배시는 ASCII 이름만 받아서 `$정식건수` 가 확장되지 않고
+# 문자 그대로 넘어간다 (2026-08-19 첫 크론이 이걸로 통째로 실패했다).
+PICK_N=12
 
 # cron 은 로그인 셸이 아니라 nvm PATH 를 모른다. 전부 절대경로로 박는다.
 CLAUDE_BIN="/home/lmh/.nvm/versions/node/v24.18.0/bin/claude"
@@ -51,7 +53,7 @@ process_day() {
   fi
 
   echo "--- [$target] 2) 선별 ---"
-  if ! python3 "$HERE/pick.py" "$target" "$정식건수"; then
+  if ! python3 "$HERE/pick.py" "$target" "$PICK_N"; then
     echo "❌ [$target] 선별 실패 — 미완료로 남김"
     return 1
   fi
@@ -68,6 +70,7 @@ process_day() {
       "mcp__plugin_Notion_notion__notion-search" \
       "mcp__plugin_Notion_notion__notion-create-pages" \
       "mcp__plugin_Notion_notion__notion-update-page" \
+      "mcp__plugin_Notion_notion__notion-query-data-sources" \
     2>&1 | tail -60
   echo "--- [$target] 아카이빙 종료 ---"
 

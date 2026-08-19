@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-08-19",
+  "브리핑페이지": "https://app.notion.com/p/3c13f6aa67a4810dbffdc831951efa64",
+  "정식아카이빙": [
+    {
+      "id": "5288962-9a14e181",
+      "source_library": "https://app.notion.com/3c13f6aa67a4817d9f5fc13db5fb8c13",
+      "서고": "https://app.notion.com/3c13f6aa67a481809b0ff0d5e9f45ba4",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "mojo-is-now-open-source-57a31179",
+      "source_library": "https://app.notion.com/3c13f6aa67a4815f89e9de1081d8e89d",
+      "서고": "https://app.notion.com/3c13f6aa67a48172b9cdf2a01c1e142f",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "altk-evolve-hmm-5ce81034",
+      "source_library": "https://app.notion.com/3c13f6aa67a48136a28dedca52381442",
+      "서고": "https://app.notion.com/3c13f6aa67a4816e96bdfc072ad0f9a0",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "glean-model-routing-fec814fa",
+      "source_library": "https://app.notion.com/3c13f6aa67a481c9b307e9c7e38338b6",
+      "서고": "https://app.notion.com/3c13f6aa67a481b49023f4e09cc1af6d",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "multi-vector-encoder-e520424e",
+      "source_library": "https://app.notion.com/3c13f6aa67a4815396e4cb8c5871cc20",
+      "서고": "https://app.notion.com/3c13f6aa67a481888b58c934f65d5274",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "3mteaxbclcc2n-81cf3e52",
+      "source_library": "https://app.notion.com/3c13f6aa67a481b5b1aaf47d7ab1f350",
+      "서고": "https://app.notion.com/3c13f6aa67a481a1ac89e822cbbbd102",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "robin-williams-instagram-account-ai-2d51ba71",
+      "source_library": "https://app.notion.com/3c13f6aa67a481b5aa96d1c0110f5fd6",
+      "서고": "https://app.notion.com/3c13f6aa67a481c890b7c600d5c0d167",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "openai-security-changes-ai-hugging-face-a051e04f",
+      "source_library": "https://app.notion.com/3c13f6aa67a4814a8471c36939eb1ddb",
+      "서고": "https://app.notion.com/3c13f6aa67a48178b95bdc38c005581a",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "3mteazepkqc2n-fbc37468",
+      "source_library": "https://app.notion.com/3c13f6aa67a481139ea8d2ca4fb59f45",
+      "서고": "https://app.notion.com/3c13f6aa67a481f28589d3eb87d60782",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "mozilla-firefox-smart-window-ai-features-bff0d59f",
+      "source_library": "https://app.notion.com/3c13f6aa67a481dab1dae9a5ee510930",
+      "서고": "https://app.notion.com/3c13f6aa67a4817d83eaf2afade9e5e1",
+      "결과": "생성"
+    },
+    {
+      "id": "ainews-stripe-buys-openrouter-for-6aefefd8",
+      "source_library": "https://app.notion.com/3c13f6aa67a48147af60fd9883ad77bd",
+      "서고": "https://app.notion.com/3c13f6aa67a481a09852f46c2f9ab20e",
+      "결과": "생성"
+    },
+    {
+      "id": "how-people-use-ai-859ca248",
+      "source_library": "https://app.notion.com/3c13f6aa67a48109a448f32d823d49c4",
+      "서고": "https://app.notion.com/3c13f6aa67a481c88292fa2f88939ab5",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 130,
+  "메모": "이전 실행이 중간에 죽어 이어서 마무리. 실제로 완결된 건 9건이었고 mozilla-firefox 건은 ①원문 정본만 있고 ②서고 정리본이 없어 이번에 정리본만 새로 만들어 기존 Source Library 페이지에 릴레이션으로 연결했다(원문 정본은 재생성하지 않음). stripe·how-people-use-ai 2건은 ①②를 모두 새로 만들었다. stripe 건은 Jina Reader 수집분이 Reddit 요약 중간에서 잘려 접근상태를 '일부 확인'으로 넣었다. 기존 10건의 Source Library 본문에는 '수집 ID' 줄이 없어 notion-search 로는 중복 판정이 안 됐고, 생성일 기준 query_data_sources 조회로 대조했다."
+}

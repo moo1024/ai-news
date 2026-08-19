@@ -19,6 +19,33 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 출처당상한 = 3
+지난날확인 = 14  # 며칠 전까지 거슬러 '이미 정리한 것'을 볼까
+
+
+def 이미정리한것(날짜: str) -> set[str]:
+    """지난 날들에 이미 2단계 아카이빙한 id 를 모은다.
+
+    한 기사가 며칠씩 피드에 남아 있어서, 안 걸러내면 어제 정리한 걸 오늘 또 고른다
+    (2026-08-19 실측: 후보 12건 중 5건이 전날과 동일). 노션 단계에서도 중복 조회로
+    막지만, 그러면 그날 새로 정리되는 게 7건으로 줄어든다. 여기서 빼고 다음 순위를 채운다.
+    """
+    from datetime import datetime, timedelta
+    기준 = datetime.strptime(날짜, "%Y-%m-%d")
+    본: set[str] = set()
+    for i in range(1, 지난날확인 + 1):
+        d = (기준 - timedelta(days=i)).strftime("%Y-%m-%d")
+        경로 = os.path.join(HERE, d, "_archived.json")
+        if not os.path.exists(경로):
+            continue
+        try:
+            자료 = json.load(open(경로, encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        for r in 자료.get("정식아카이빙", []):
+            # 실패한 건은 빼지 않는다. 다시 시도할 기회를 준다.
+            if r.get("id") and not str(r.get("결과", "")).startswith("실패"):
+                본.add(r["id"])
+    return 본
 
 
 def main() -> int:
@@ -40,11 +67,16 @@ def main() -> int:
         print("❌ 항목이 0건", file=sys.stderr)
         return 1
 
-    # --- 후보 선정: 전문이 있는 것 중 점수순, 출처 쏠림 방지
+    # --- 후보 선정: 전문이 있는 것 중 점수순, 출처 쏠림 방지, 지난날 정리분 제외
+    기정리 = 이미정리한것(날짜)
     쓴출처: dict[str, int] = {}
     후보 = []
+    걸러낸수 = 0
     for it in 항목:
         if it.get("본문상태") != "확인 완료" or not it.get("본문파일"):
+            continue
+        if it["id"] in 기정리:
+            걸러낸수 += 1
             continue
         키 = it["출처"].split(" r/")[0].split(" @")[0]
         if 쓴출처.get(키, 0) >= 출처당상한:
@@ -85,7 +117,8 @@ def main() -> int:
     with open(os.path.join(폴더, "_브리핑입력.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(줄))
 
-    print(f"후보 {len(후보)}건 / 전체 {len(항목)}건 → _후보.json, _브리핑입력.md")
+    print(f"후보 {len(후보)}건 / 전체 {len(항목)}건 "
+          f"(지난 {지난날확인}일간 이미 정리한 것 {걸러낸수}건 제외) → _후보.json, _브리핑입력.md")
     if not 후보:
         print("❌ 전문이 확보된 항목이 하나도 없다", file=sys.stderr)
         return 1
