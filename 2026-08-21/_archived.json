@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-08-21",
+  "브리핑페이지": "https://app.notion.com/p/3c23f6aa67a481cd8737cc99dd171c62",
+  "정식아카이빙": [
+    {"id": "v2-1-238-dd949f3e", "source_library": "https://app.notion.com/p/3c23f6aa67a481b5abf3f85a345e70cb", "서고": "https://app.notion.com/p/3c23f6aa67a48168b9c4fbfcf4c5640b", "결과": "생성"},
+    {"id": "ip-as-logo-skill-5fadc46e", "source_library": "https://app.notion.com/p/3c23f6aa67a481a88086c1b9e0bf1e72", "서고": "https://app.notion.com/p/3c23f6aa67a481e9a0bdf199dc7014ba", "결과": "생성"},
+    {"id": "SimpleEnglish-8f1425b3", "source_library": "https://app.notion.com/p/3c23f6aa67a4816ba5e7e12eca68b69b", "서고": "https://app.notion.com/p/3c23f6aa67a4813d88c4df9419c71691", "결과": "생성"},
+    {"id": "cindy-7c213e5a", "source_library": "https://app.notion.com/p/3c23f6aa67a481cfabc9eb5742a65f7c", "서고": "https://app.notion.com/p/3c23f6aa67a481128856c3fea952511f", "결과": "생성"},
+    {"id": "midi-autocomplete-1e445dd0", "source_library": "https://app.notion.com/p/3c23f6aa67a481ee8914da935590adff", "서고": "https://app.notion.com/p/3c23f6aa67a4817e8013dac36874fc83", "결과": "생성"},
+    {"id": "huzzah-c1460194", "source_library": "https://app.notion.com/p/3c23f6aa67a4814da682c6f9f86f21d4", "서고": "https://app.notion.com/p/3c23f6aa67a481a097eedb12eb791ecd", "결과": "생성"},
+    {"id": "dontpastetheai-com-a6781ae1", "source_library": "https://app.notion.com/p/3c23f6aa67a4815cb3a9e5c867a99de3", "서고": "https://app.notion.com/p/3c23f6aa67a48118845ec331bc788426", "결과": "생성"},
+    {"id": "2090488285198250017-60235a0d", "source_library": "https://app.notion.com/p/3c23f6aa67a481d3976ee7ad1c9efe45", "서고": "https://app.notion.com/p/3c23f6aa67a48160be1ef41cc9ac7ce6", "결과": "생성"},
+    {"id": "introducing-ai-futures-027379c0", "source_library": "https://app.notion.com/p/3c23f6aa67a48182928ccaf8e7f25b10", "서고": "https://app.notion.com/p/3c23f6aa67a48138a402d82587231521", "결과": "생성"},
+    {"id": "replit-9ac0643f", "source_library": "https://app.notion.com/p/3c23f6aa67a481f19291cf6f81265776", "서고": "https://app.notion.com/p/3c23f6aa67a4813592dbfda04b7f89b1", "결과": "생성"},
+    {"id": "3mtigfc2o5s2n-4145d2d2", "source_library": "https://app.notion.com/p/3c23f6aa67a4811ba0a7eee9a08a1a88", "서고": "https://app.notion.com/p/3c23f6aa67a481068643e46648f1d4d6", "결과": "생성"},
+    {"id": "jeremy-morrell-0a9fa676", "source_library": "https://app.notion.com/p/3c23f6aa67a481acb630fafb1b6d1aed", "서고": "https://app.notion.com/p/3c23f6aa67a48136b501e994971ec582", "결과": "생성"}
+  ],
+  "전체수집건수": 156,
+  "메모": "후보 12건 전부 신규 생성(중복 없음, notion-search로 사전 확인). 2단계 페이지 생성 직후 핵심요약·제목·본문에서 한글 유니코드 오타(단어 내부 자모 치환) 다수 발견 — Source Library(①)는 깨끗했고 서고(②)에만 있었다. notion-fetch로 12건 전부 재확인해 update_content/update_properties로 전부 교정 완료. 브리핑 행 1개 신규 생성, 주요 주제 태그도 같은 유형의 오타로 1차 생성 실패했다가 재시도로 통과."
+}

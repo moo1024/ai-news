@@ -1,0 +1,201 @@
+{
+  "날짜": "2026-08-21",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "v2-1-238-dd949f3e",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.238",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
+      "발행": "2026-08-20T20:33:51+00:00",
+      "요약": "What's changed \n \n Added a keybindingFlavor setting: set it to \"readline\" to make Ctrl+W in the prompt delete back to the previous whitespace, as in Bash; the default ( \"classic\" ) is unchanged \n Plugin marketplaces: headersHelper on a url marketplace or a catalog entry runs a command that mints HTTP headers (e.g. a short-lived token) for catalog and same-origin archive fetches \n A catalog entry's headersHelper runs only when you install or update that plugin, after its command is shown; claude plugin install/update ask [y/N] (or pass -y ) \n Added claude self-hosted-runner --defer-shutdown-max-min <minutes> : on SIGTERM, keep serving attached sessions, park what is left after that many minutes, then exit \n Added claude self-hosted-runner --proxy-authorization-command / --proxy-authorization-file for egress proxies that require a freshly issued Proxy-Authorization header on every connection \n Fixed unbounded memory growth in long interactive sessions: subagent tool results are now released once they leave the recent display window \n Fixed custom, project, and plugin output styles drifting back to the default voice mid-session \n Fixed CLAUDE_CODE_ENABLE_PROMPT_SUGGESTION=true not kee",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-21/원문/v2-1-238-dd949f3e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "subagent"
+      ],
+      "점수": 5.647
+    },
+    {
+      "id": "ip-as-logo-skill-5fadc46e",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "s1dashu/ip-as-logo-skill — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "정규url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "발행": "2026-08-20T22:24:11.655602+00:00",
+      "요약": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.\n\n별 3,044개 · 언어 미상 · 생성 2026-08-18 · 토픽 codex, codex-skill, image-generation, logo-design, mascot-design",
+      "반응": 3044,
+      "원저자": "s1dashu",
+      "본문파일": "2026-08-21/원문/ip-as-logo-skill-5fadc46e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "agent skill"
+      ],
+      "점수": 5.56
+    },
+    {
+      "id": "SimpleEnglish-8f1425b3",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "AminBlg/SimpleEnglish — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "정규url": "https://github.com/AminBlg/SimpleEnglish",
+      "발행": "2026-08-20T22:24:11.655602+00:00",
+      "요약": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical\n\n별 2,644개 · 언어 Python · 생성 2026-07-21",
+      "반응": 2644,
+      "원저자": "AminBlg",
+      "본문파일": "2026-08-21/원문/SimpleEnglish-8f1425b3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agent skill"
+      ],
+      "점수": 5.511
+    },
+    {
+      "id": "cindy-7c213e5a",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开",
+      "url": "https://github.com/makecindy/cindy",
+      "정규url": "https://github.com/makecindy/cindy",
+      "발행": "2026-08-20T22:24:11.655602+00:00",
+      "요약": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n별 2,232개 · 언어 TypeScript · 생성 2026-07-22 · 토픽 agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios",
+      "반응": 2232,
+      "원저자": "makecindy",
+      "본문파일": "2026-08-21/원문/cindy-7c213e5a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex"
+      ],
+      "점수": 5.451
+    },
+    {
+      "id": "midi-autocomplete-1e445dd0",
+      "출처": "Hacker News",
+      "제목": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "정규url": "https://simedw.com/2026/08/20/midi-autocomplete",
+      "발행": "2026-08-20T12:04:38+00:00",
+      "요약": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15). The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device. The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.",
+      "반응": 456,
+      "원저자": "",
+      "본문파일": "2026-08-21/원문/midi-autocomplete-1e445dd0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "copilot"
+      ],
+      "점수": 5.299
+    },
+    {
+      "id": "huzzah-c1460194",
+      "출처": "Hacker News",
+      "제목": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "정규url": "https://danielvaughn.dev/posts/huzzah",
+      "발행": "2026-08-20T19:05:36+00:00",
+      "요약": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you: 1. write pseudocode in whatever way makes the most sense to you\n 2. on save, the editor synchronizes your work to real source code\n 3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.\n \nIt may not work for every use case, but in my initial playthroughs I've found it very enjoyable. Right now it's just a proof of concept - installation instructions are here in the readme: https://github.com/danielvaughn/hz You can also watch a video of it in action here: https://x.com/danielvaughn/status/209045680843116",
+      "반응": 164,
+      "원저자": "",
+      "본문파일": "2026-08-21/원문/huzzah-c1460194.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 5.104
+    },
+    {
+      "id": "dontpastetheai-com-a6781ae1",
+      "출처": "Hacker News",
+      "제목": "Don't paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "정규url": "https://dontpastetheai.com",
+      "발행": "2026-08-20T08:20:44+00:00",
+      "요약": "",
+      "반응": 980,
+      "원저자": "",
+      "본문파일": "2026-08-21/원문/dontpastetheai-com-a6781ae1.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.216
+    },
+    {
+      "id": "2090488285198250017-60235a0d",
+      "출처": "X @OpenAI",
+      "제목": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Swit",
+      "url": "https://x.com/OpenAI/status/2090488285198250017",
+      "정규url": "https://x.com/OpenAI/status/2090488285198250017",
+      "발행": "2026-08-20T17:17:01+00:00",
+      "요약": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.",
+      "반응": 67,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-21/원문/2090488285198250017-60235a0d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.846
+    },
+    {
+      "id": "introducing-ai-futures-027379c0",
+      "출처": "OpenAI News",
+      "제목": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "정규url": "https://openai.com/index/introducing-ai-futures",
+      "발행": "2026-08-20T07:00:00+00:00",
+      "요약": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-21/원문/introducing-ai-futures-027379c0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.572
+    },
+    {
+      "id": "replit-9ac0643f",
+      "출처": "OpenAI News",
+      "제목": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "정규url": "https://openai.com/index/replit",
+      "발행": "2026-08-19T07:00:00+00:00",
+      "요약": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-21/원문/replit-9ac0643f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.905
+    },
+    {
+      "id": "3mtigfc2o5s2n-4145d2d2",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "The Industrial Revolution worked out really well in the end, but along the way there was horrible disruption. It is an i",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtigfc2o5s2n",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtigfc2o5s2n",
+      "발행": "2026-08-20T04:38:13.882000+00:00",
+      "요약": "The Industrial Revolution worked out really well in the end, but along the way there was horrible disruption. It is an important reason why we need good policy and support to navigate the job changes brought by AI, no matter what they turn out to be over time.",
+      "반응": 47,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-21/원문/3mtigfc2o5s2n-4145d2d2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.629
+    },
+    {
+      "id": "jeremy-morrell-0a9fa676",
+      "출처": "Simon Willison",
+      "제목": "Quoting Jeremy Morrell",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "정규url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell",
+      "발행": "2026-08-19T22:56:31+00:00",
+      "요약": "My hypothesis is that  there is a new opportunity for Extensible Software on the web . LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces.  We can give our users super powers. \n \n — Jeremy Morrell , Extensible Software in the age of LLMs\n\n\n Tags: sandboxing , llms , ai , generative-ai",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-21/원문/jeremy-morrell-0a9fa676.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.511
+    }
+  ]
+}
