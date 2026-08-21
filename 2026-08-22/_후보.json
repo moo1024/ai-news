@@ -1,0 +1,202 @@
+{
+  "날짜": "2026-08-22",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "2090885188897460249-9e9b1c22",
+      "출처": "X @OpenAI",
+      "제목": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n\nPro, Plus, and Busi",
+      "url": "https://x.com/OpenAI/status/2090885188897460249",
+      "정규url": "https://x.com/OpenAI/status/2090885188897460249",
+      "발행": "2026-08-21T19:34:10+00:00",
+      "요약": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n\nPro, Plus, and Business subscription usage remains unchanged.\nhttps://t.co/DzyrOMdXpW",
+      "반응": 488,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-22/원문/2090885188897460249-9e9b1c22.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 5.753
+    },
+    {
+      "id": "v2-1-239-3a184e2c",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.239",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
+      "발행": "2026-08-21T19:54:23+00:00",
+      "요약": "What's changed \n \n Cost estimates ( /cost , status line, --max-budget-usd ) now include the 1.1× US-only-inference premium for data-residency workspaces \n Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other previously excluded setups; new installs there now start in fullscreen \n Added /claude-api upgrade to migrate Python projects from anthropic 0.x to 1.x, and updated the skill's Python reference for 1.x (timeouts use anthropic.Timeout , not httpx.Timeout ) \n Cloud sessions: plugins synced from claude.ai now show as name@synced , work with claude plugin enable/disable <name>@synced , and never override a same-named plugin you installed \n Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now load (musl-built binaries instead of glibc ones refused by the runtime) \n The usage-limit message shown when your monthly spend limit is already used up now also says when your session or weekly limit resets \n Fixed Bedrock streaming behind proxies that strip the response Content-Type header, which silently doubled billed API calls by re-running every turn non-streaming \n Fixed Claude Code hanging at startup behind an HTTPS proxy when us",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-22/원문/v2-1-239-3a184e2c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.621
+    },
+    {
+      "id": "dsh-TUI-2bfd1ae3",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "ccch1mneyyy/dsh-TUI — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "정규url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "발행": "2026-08-21T22:24:07.005552+00:00",
+      "요약": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.\n\n별 2,262개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 claude-code, coding-agent, deepseek, deepseek-harness, dsh-plugin, ink, react, terminal",
+      "반응": 2262,
+      "원저자": "ccch1mneyyy",
+      "본문파일": "2026-08-22/원문/dsh-TUI-2bfd1ae3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code"
+      ],
+      "점수": 5.456
+    },
+    {
+      "id": "qwen-audio-agent-45a9ad8a",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "QwenAudio/qwen-audio-agent — A realtime voice runtime that keeps Agents talking, working, and present. Real-",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "정규url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "발행": "2026-08-21T22:24:07.005552+00:00",
+      "요약": "A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents\n\n별 2,219개 · 언어 JavaScript · 생성 2026-07-27 · 토픽 acp, agent, agentic-ai, ai-coding, claude-code, codex, developer-tools, opencode",
+      "반응": 2219,
+      "원저자": "QwenAudio",
+      "본문파일": "2026-08-22/원문/qwen-audio-agent-45a9ad8a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex",
+        "agentic"
+      ],
+      "점수": 5.449
+    },
+    {
+      "id": "OpenBot-0876c9c2",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "CopilotKit/OpenBot — Open-source AI coworkers that each get a computer of their own: a browser, files",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "정규url": "https://github.com/CopilotKit/OpenBot",
+      "발행": "2026-08-21T22:24:07.005552+00:00",
+      "요약": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\n별 2,104개 · 언어 TypeScript · 생성 2026-08-17 · 토픽 ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp",
+      "반응": 2104,
+      "원저자": "CopilotKit",
+      "본문파일": "2026-08-22/원문/OpenBot-0876c9c2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "copilot",
+        "mcp"
+      ],
+      "점수": 5.43
+    },
+    {
+      "id": "2090885187634905500-e83a0a16",
+      "출처": "X @OpenAI",
+      "제목": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of",
+      "url": "https://x.com/OpenAI/status/2090885187634905500",
+      "정규url": "https://x.com/OpenAI/status/2090885187634905500",
+      "발행": "2026-08-21T19:34:10+00:00",
+      "요약": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months. https://t.co/UoTb3hcB2t",
+      "반응": 6940,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-22/원문/2090885187634905500-e83a0a16.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.945
+    },
+    {
+      "id": "a-week-of-using-codex-more-than-claude-04f8d146",
+      "출처": "Hacker News",
+      "제목": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "정규url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+      "발행": "2026-08-21T19:51:48+00:00",
+      "요약": "",
+      "반응": 60,
+      "원저자": "",
+      "본문파일": "2026-08-22/원문/a-week-of-using-codex-more-than-claude-04f8d146.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.771
+    },
+    {
+      "id": "2090772922818286080-20aa9925",
+      "출처": "X @GoogleDeepMind",
+      "제목": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari to reaching Grandmas",
+      "url": "https://x.com/GoogleDeepMind/status/2090772922818286080",
+      "정규url": "https://x.com/GoogleDeepMind/status/2090772922818286080",
+      "발행": "2026-08-21T12:08:04+00:00",
+      "요약": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari to reaching Grandmaster in StarCraft II, they have driven some of our biggest AI breakthroughs.\n\nOur work with SIMA taught agents how to understand 3D worlds, but learning to https://t.co/xDKtqPgGH4",
+      "반응": 704,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-08-22/원문/2090772922818286080-20aa9925.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.38
+    },
+    {
+      "id": "3mtkkexjh4c2t-01d7606b",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Even when LLMs write well, the lack of variety in style is crippling. Reading the same prose in your instructions & soci",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtkkexjh4c2t",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtkkexjh4c2t",
+      "발행": "2026-08-21T00:54:57.277000+00:00",
+      "요약": "Even when LLMs write well, the lack of variety in style is crippling. Reading the same prose in your instructions & social media & advertisements & software & PowerPoint eventually makes one queasy.\n\nPrompting & temperature only gets you so far. Real variation is needed (and under-researched)",
+      "반응": 568,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-22/원문/3mtkkexjh4c2t-01d7606b.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.253
+    },
+    {
+      "id": "3mtl46sita22j-244a471e",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "I asked GPT-5.6 Sol to create the most Claude-y possible parody image and what it came up with is pretty great and dead-",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtl46sita22j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtl46sita22j",
+      "발행": "2026-08-21T06:13:38.039000+00:00",
+      "요약": "I asked GPT-5.6 Sol to create the most Claude-y possible parody image and what it came up with is pretty great and dead-on.",
+      "반응": 208,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-22/원문/3mtl46sita22j-244a471e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.048
+    },
+    {
+      "id": "from-atari-to-eve-online-building-on-15-e42b7af4",
+      "출처": "Google DeepMind",
+      "제목": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "정규url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "발행": "2026-08-21T11:59:48+00:00",
+      "요약": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-22/원문/from-atari-to-eve-online-building-on-15-e42b7af4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.969
+    },
+    {
+      "id": "llm-10e3fbb0",
+      "출처": "Simon Willison",
+      "제목": "llm 0.32.1",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "정규url": "https://simonwillison.net/2026/Aug/21/llm",
+      "발행": "2026-08-21T17:16:13+00:00",
+      "요약": "Release: llm 0.32.1 \n\n Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency.\n\n This dot-release fixes that for the moment by pinning to openai<3 , and a soon-to-drop 0.33 release will switch from httpx to httpx2 .\n\n \n \n Tags: httpx , openai , llm",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-22/원문/llm-10e3fbb0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.893
+    }
+  ]
+}
