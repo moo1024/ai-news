@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-08-21T22:24:07.005552+00:00
+- 발행: 2026-08-22T03:54:40.404536+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 225 
+ 230 
  
  
 
@@ -370,7 +370,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Pull requests 
- 21 
+ 9 
 
 
  
@@ -613,7 +613,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 48 Commits 48 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-bot agent-bot     agent-computer agent-computer     agent-langgraph agent-langgraph     app app     assets assets     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 75 Commits 75 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-bot agent-bot     agent-computer agent-computer     agent-langgraph agent-langgraph     app app     assets assets     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
  OpenBot 
  AI coworkers you can hand real work to, and actually trust with the access. Each gets a computer of its own: a real browser with its own logins, its own files, and only the tools you grant. Every action decided before it happens and recorded after.
 
@@ -727,8 +727,7 @@ bash scripts/start.sh
 docker run -p 3001:3001 --env-file .env \
  -e EMBEDDED_POSTGRES=on -v openbot-data:/var/lib/postgresql/data openbot 
  Leave EMBEDDED_POSTGRES off and set DATABASE_URL to point at a database you already run.
- docs/deployment.md has the minimum sizes, the platform notes, and why this runs
-as one replica for now.
+ docs/deployment.md has the minimum sizes, the platform notes, and how it behaves behind more than one replica.
 
  Try it 
  
@@ -815,16 +814,10 @@ as one replica for now.
  Secrets never enter the transcript : the trail records that a secret was requested and how long it was, not what it said. 
  Bring your own agent : any AG-UI endpoint is a Bot, on a framework or hand written. Endpoints are validated with the same target checks used for browser navigation, and an auth header is stored write-only. 
  Components instead of prose : compiled React components live in app/src/components/gallery/ , sandboxed ones are authored in /admin/playground and published with no deployment. Every call asks the server whether the component exists, is published, and is not withheld from that Bot. Data functions are granted per component. 
- Governed MCP : a curated catalogue ships for Atlassian, Box, Slack, Salesforce and ServiceNow. Custom servers must pass URL checks, and any tool not positively classified as a read is treated as a write. 
+ Governed MCP : Google Drive ships in the catalogue, reached as the person asking. Atlassian, Box, Slack, Salesforce and ServiceNow were reviewed and taken back out: a screen offering five untried connectors claims more than this deployment can stand behind, and re-adding one is a review of that vendor rather than a revert. Custom servers must pass URL checks, and any tool not positively classified as a read is treated as a write. 
  Skills are instructions, not capabilities : personal skills attach only to Bots their author owns, deployment skills are admin-owned, and both are invoked with / in the composer. 
  Sign in with what your company already has : Google, Microsoft or Okta from the environment, or a company's own SAML or OpenID Connect provider registered while the deployment runs and routed by email domain. Any one turns sign-in on; several may be configured at once. 
  Decide who gets in : /admin/people lists everybody who has signed in, promotes and demotes them, and removes access, which ends the session they are using and stops the next sign-in. Every change is on the audit trail. 
  An audit trail you can read : /admin/audit lists what was permitted, what was refused and what failed, and every refusal carries the rule that caused it. 
  Credentials encrypted at rest : stored through /admin/credentials , never returned by an API, and redacted from audit events. 
- Loopback by default : computers bind to 127.0.0.1 and require a per-container token, so nothing reaches a logged-in browser by knowing its port. 
- Durable threads and memory : conversations survive restarts through CopilotKit Intelligence, and each deployment stamps the threads it owns. 
- 
- Bring your own agent 
- Any AG-UI endpoint can be a Bot.
-
- From /agents , create a cowork
+ Loopback by default : computers bind to 127.0.0.1 and require a per-container token, so nothing reaches a logged-in browser by knowing its port.

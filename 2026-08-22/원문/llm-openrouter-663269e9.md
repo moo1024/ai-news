@@ -67,7 +67,7 @@ Release: llm-openrouter 0.7
  llm-openrouter 0.7 
  — LLM plugin for models hosted by OpenRouter 
  
- Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter.
+ Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter.
 
  
  

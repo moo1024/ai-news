@@ -1,6 +1,6 @@
 # Show HN: Proliferate- open-source, self-hostable Codex for any coding agent
 
-- 출처: Hacker News
+- 출처: 코딩에이전트 (HN)
 - 원본 링크: https://github.com/proliferate-ai/proliferate
 - 발행: 2026-08-21T16:47:15+00:00
 - 접근상태: 확인 완료
@@ -313,7 +313,7 @@ GitHub - proliferate-ai/proliferate: The open-source AI IDE for Claude Code, Cod
  
  
  Fork
- 50 
+ 52 
  
  
 
@@ -323,7 +323,7 @@ GitHub - proliferate-ai/proliferate: The open-source AI IDE for Claude Code, Cod
  
  
  Star
- 220 
+ 246 
  
  
 
@@ -730,7 +730,7 @@ generated Tauri config, and app labels.
  AGPL-3.0 
 
  About The open-source AI IDE for Claude Code, Codex, OpenCode, and more. Run agents in parallel, locally or in the cloud, and build reusable workflows.
- proliferate.com/docs Resources Readme AGPL-3.0 license Contributing Contributing Security policy Security policy Activity Custom properties Stars 220 stars Watchers 0 watching Forks 50 forks Report repository Releases Packages Used by Contributors Languages 
+ proliferate.com/docs Resources Readme AGPL-3.0 license Contributing Contributing Security policy Security policy Activity Custom properties Stars 246 stars Watchers 0 watching Forks 52 forks Report repository Releases Packages Used by Contributors Languages 
  
 
 

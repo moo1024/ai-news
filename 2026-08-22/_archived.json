@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-08-22",
+  "브리핑페이지": "https://app.notion.com/p/3c43f6aa67a48184ba60c921557727ca",
+  "정식아카이빙": [
+    {
+      "id": "2090885188897460249-9e9b1c22",
+      "source_library": "https://app.notion.com/3c33f6aa67a48102b273e1acedc43187",
+      "서고": "https://app.notion.com/3c33f6aa67a481eaa702fde60a5db844",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "a-week-of-using-codex-more-than-claude-04f8d146",
+      "source_library": "https://app.notion.com/3c33f6aa67a48129acbcc3cc72bbef7e",
+      "서고": "https://app.notion.com/3c33f6aa67a4812591fffe4b501d8611",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "dsh-TUI-2bfd1ae3",
+      "source_library": "https://app.notion.com/3c33f6aa67a481339bdaf44b1ce7debb",
+      "서고": "https://app.notion.com/3c33f6aa67a481ae97f4cd60662ebc8e",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "qwen-audio-agent-45a9ad8a",
+      "source_library": "https://app.notion.com/3c33f6aa67a4817196b8cf21dba55f92",
+      "서고": "https://app.notion.com/3c33f6aa67a48197ab0fcc0463bc6fd5",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "OpenBot-0876c9c2",
+      "source_library": "https://app.notion.com/3c33f6aa67a481ea949bcfba787a95cd",
+      "서고": "https://app.notion.com/3c33f6aa67a481bc9461cd272e379ea4",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "v2-1-239-3a184e2c",
+      "source_library": "https://app.notion.com/3c33f6aa67a4810bacc9c6ca3abd622a",
+      "서고": "https://app.notion.com/3c33f6aa67a481ba99d6f86305eca948",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "2090885187634905500-e83a0a16",
+      "source_library": "https://app.notion.com/3c33f6aa67a48146a9d4fdc75b4d03f6",
+      "서고": "https://app.notion.com/3c33f6aa67a48115b233fc8a76a78c2d",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "README-md-0dbbd03a",
+      "source_library": "https://app.notion.com/3c43f6aa67a4813ba919f60781bbc600",
+      "서고": "https://app.notion.com/3c43f6aa67a48198ad3ee89f27079525",
+      "결과": "생성"
+    },
+    {
+      "id": "2090772922818286080-20aa9925",
+      "source_library": "https://app.notion.com/3c33f6aa67a481309dc8dcd9a00ca44c",
+      "서고": "https://app.notion.com/3c33f6aa67a481b2ab1fc9af385db795",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "bringing-claude-mythos-5-to-more-defende-62928a83",
+      "source_library": "https://app.notion.com/3c43f6aa67a481dcb8b7d4eb139ef16c",
+      "서고": "https://app.notion.com/3c43f6aa67a481808c07d2ca477d9e3b",
+      "결과": "생성"
+    },
+    {
+      "id": "vision-cb481993",
+      "source_library": "https://app.notion.com/3c43f6aa67a481049b33e9044b38f382",
+      "서고": "https://app.notion.com/3c43f6aa67a481ed8525c1da6f8b797e",
+      "결과": "생성"
+    },
+    {
+      "id": "im-becoming-ai-blind-1130499a",
+      "source_library": "https://app.notion.com/3c43f6aa67a481bd9a85e2b37236211f",
+      "서고": "https://app.notion.com/3c43f6aa67a481bb9959d342ce627887",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 163,
+  "메모": "오전 실행이 정식 아카이빙 12건까지만 하고 브리핑 단계 전에 끊겨 _archived.json 이 없었다. 이번 실행에서 중복 확인 결과 8건은 이미 2단계 완료 상태여서 건너뛰고, 재수집으로 새로 후보에 든 4건(nobuzz·Mythos 5 보안·DeepSeek Vision·AI-blind)만 2단계로 넣은 뒤 08-22 브리핑 행을 새로 만들었다. 수집 단계에서 MarkTechPost RSS 403, Reddit r/singularity·r/OpenAI·r/AI_Agents 429 로 실패."
+}

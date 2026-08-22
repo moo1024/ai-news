@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/QwenAudio/qwen-audio-agent
-- 발행: 2026-08-21T22:24:07.005552+00:00
+- 발행: 2026-08-22T03:54:40.404536+00:00
 - 접근상태: 확인 완료
 
 ---

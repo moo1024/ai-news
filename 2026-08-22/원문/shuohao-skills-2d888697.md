@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/eternityspring/shuohao-skills
-- 발행: 2026-08-21T22:24:07.005552+00:00
+- 발행: 2026-08-22T03:54:40.404536+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -563,7 +563,7 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 53 Commits 53 Commits Folders and files Name Name Last commit message Last commit date assets assets     scripts scripts     skills skills     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     LICENSE LICENSE     NOTICE NOTICE     README.en.md README.en.md     README.md README.md     View all files Repository files navigation README Apache-2.0 license More items 中文 · English 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 57 Commits 57 Commits Folders and files Name Name Last commit message Last commit date assets assets     docs/ superpowers docs/ superpowers     scripts scripts     skills skills     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     LICENSE LICENSE     NOTICE NOTICE     README.en.md README.en.md     README.md README.md     View all files Repository files navigation README Apache-2.0 license More items 中文 · English 
 
  
  👋 找工作 / 合作 — 作者目前在空窗期，这个仓库就是业余的一点小探索。
@@ -608,27 +608,11 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  novel-storyboard 
- 给 AI 短剧出分镜：段（一次生成 ≤15 秒）→ 分镜（2–5 秒硬门）→ 分镜图（主图钉 0.00 秒、子图钉各自切点），MiniMax H3 提示词的对齐指令与切点时刻逐字对账；分镜图拿设定图当参考图真出图，export 一键出投产包。17 道质量门全部脚本检查（第 17 道是可选挂载 shot-recipes 卡库的配方检查） 
+ 给 AI 短剧出分镜：段（一次生成 ≤15 秒）→ 分镜（2–5 秒硬门）→ 分镜图（主图钉 0.00 秒、子图钉各自切点），MiniMax H3 提示词的对齐指令与切点时刻逐字对账；分镜图拿设定图当参考图真出图，export 一键出投产包。17 道质量门全部脚本检查 
  
  
  
- 管线之外还有一个 镜头语汇库 ，五个管线 skill 谁都可以不挂它：
-
- 
- 
- 
- Skill 
- 做什么 
- 
- 
- 
- 
- shot-recipes 
- AI 视频的镜头语汇卡库，67 张卡分两族： 配方卡 （17 张）回答「这场戏这一刀该怎么切」， 技法卡 （50 张）回答「这个手段是什么、什么时候用、 什么时候别用 」——运镜、机位角度、景别、构图、焦段与景深、光线、特殊技巧七类， 20 个 H3 官方运镜词全覆盖，而且完整性是门 （域里少一项 lint 就点名）。 短剧之外也能用 （产品宣传、口播、Vlog）。每张卡声明必备短语，可以被机器复核； novel-storyboard 可以通过 --shots 可选挂载 
- 
- 
- 
- 六个 skill 的报告都支持中英双语界面 ：默认中文， render --lang en 出全英文报告（数据内容保持原文）。
+ 五个 skill 的报告都支持中英双语界面 ：默认中文， render --lang en 出全英文报告（数据内容保持原文）。
 
  合成一张单页 
  五段的报告可以合成一张单页，左侧导航切换—— 有哪几段就出哪几个面板 ：
@@ -636,7 +620,7 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  node scripts/report.mjs --from < demo目录 > --out report.html 
  --from 按下面的 工作目录约定 自动发现五份 json；也可以逐个指定（ --outline --cast --art --script --storyboard ）。只跑了角色那一段就只有一个面板，不报错。
 
- 它是 组装器，不是第六个 skill ：不 import 任何 skill 的代码，而是调各自的 render --html 拿产物再拼装。所以六个 skill 一行不改、各自仍然独立可跑、可以单独拷走；某个 skill 改了渲染，这边自动跟上。
+ 它是 组装器，不是独立 skill ：不 import 任何 skill 的代码，而是调各自的 render --html 拿产物再拼装。所以五个 skill 一行不改、各自仍然独立可跑、可以单独拷走；某个 skill 改了渲染，这边自动跟上。
 
  合并时处理三件事—— 这三件都在组装器里做，不侵入 skill ：
 
@@ -667,12 +651,6 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
 
  novel-storyboard · 分镜（分镜节奏带 + 主/子分镜图为 skill 实际生成 + H3 提示词） 
-
- 
-
- 管线之外，镜头配方卡库的画廊报告—— 类目 × 能量矩阵里的空格子就是语汇缺口 ：
-
- shot-recipes · 镜头配方卡库（类目 × 能量矩阵 + 卡片墙，示例帧为 skill 实际生成） 
 
  
 

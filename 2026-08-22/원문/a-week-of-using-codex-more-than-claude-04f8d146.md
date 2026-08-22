@@ -1,6 +1,6 @@
 # Quick impressions: A week of using Codex more than Claude
 
-- 출처: Hacker News
+- 출처: 코딩에이전트 (HN)
 - 원본 링크: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/
 - 발행: 2026-08-21T19:51:48+00:00
 - 접근상태: 확인 완료
