@@ -1,0 +1,206 @@
+{
+  "날짜": "2026-08-23",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "2091150597374537729-304760d4",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "정규url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "발행": "2026-08-22T16:58:49+00:00",
+      "요약": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 \n\n Comments URL: https://news.ycombinator.com/item?id=49401549 \n\n Points: 135\n\n # Comments: 131",
+      "반응": 135,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/2091150597374537729-304760d4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.737
+    },
+    {
+      "id": "v2-1-240-fa3eb202",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.240",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
+      "발행": "2026-08-22T14:45:30+00:00",
+      "요약": "What's changed \n \n Bug fixes and reliability improvements",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/v2-1-240-fa3eb202.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.416
+    },
+    {
+      "id": "shuohao-skills-2d888697",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "eternityspring/shuohao-skills — AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama pro",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "정규url": "https://github.com/eternityspring/shuohao-skills",
+      "발행": "2026-08-22T22:24:14.869265+00:00",
+      "요약": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.\n\n별 1,893개 · 언어 JavaScript · 생성 2026-08-06",
+      "반응": 1893,
+      "원저자": "eternityspring",
+      "본문파일": "2026-08-23/원문/shuohao-skills-2d888697.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex",
+        "agent skill",
+        "skills"
+      ],
+      "점수": 5.393
+    },
+    {
+      "id": "growth-lab-5943459c",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "tsingyuai/growth-lab — An end-to-end growth tool that understands the product, fetch the data it needs,",
+      "url": "https://github.com/tsingyuai/growth-lab",
+      "정규url": "https://github.com/tsingyuai/growth-lab",
+      "발행": "2026-08-22T22:24:14.869265+00:00",
+      "요약": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. 从代码到市场的开源端到端增长工具。理解产品、接入信息渠道、研究市场、执行增长行动，并基于真实数据自我改进。\n\n별 1,813개 · 언어 Python · 생성 2026-07-24 · 토픽 agentic-marketing, ai-agent, claude-code, codex, growth, growth-hacking, marketing-automation, open-source",
+      "반응": 1813,
+      "원저자": "tsingyuai",
+      "본문파일": "2026-08-23/원문/growth-lab-5943459c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex",
+        "agentic"
+      ],
+      "점수": 5.378
+    },
+    {
+      "id": "lieflat-charts-cd935e4a",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "larashero3-dotcom/lieflat-charts — Data visualization Skill for AI Agents, turning data into polished, interactive",
+      "url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "정규url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "발행": "2026-08-22T22:24:14.869265+00:00",
+      "요약": "Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。\n\n별 1,680개 · 언어 HTML · 생성 2026-07-16 · 토픽 agent-skills, charts, claude-code, codex, data-visualization, html, moxt, svg",
+      "반응": 1680,
+      "원저자": "larashero3-dotcom",
+      "본문파일": "2026-08-23/원문/lieflat-charts-cd935e4a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex",
+        "skills"
+      ],
+      "점수": 5.351
+    },
+    {
+      "id": "building-an-almost-fully-self-hosted-san-fd3f5bbb",
+      "출처": "Hacker News",
+      "제목": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "정규url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "발행": "2026-08-21T16:27:52+00:00",
+      "요약": "",
+      "반응": 114,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/building-an-almost-fully-self-hosted-san-fd3f5bbb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 4.352
+    },
+    {
+      "id": "munderdiffl-in-d147142e",
+      "출처": "Hacker News",
+      "제목": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "정규url": "https://munderdiffl.in",
+      "발행": "2026-08-22T09:49:14+00:00",
+      "요약": "",
+      "반응": 235,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/munderdiffl-in-d147142e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.856
+    },
+    {
+      "id": "meta-trial-children-privacy-74a9967c",
+      "출처": "Hacker News",
+      "제목": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "정규url": "https://theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "발행": "2026-08-22T12:07:06+00:00",
+      "요약": "",
+      "반응": 197,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/meta-trial-children-privacy-74a9967c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.85
+    },
+    {
+      "id": "linus-torvalds-686686b8",
+      "출처": "Simon Willison",
+      "제목": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "정규url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
+      "발행": "2026-08-22T21:04:26+00:00",
+      "요약": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.\n\n I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it.\n\n I suspect those things have been trained by people who may not be quite as stubborn as I am.\n\n But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit where credit is due and I let the AI write the commit message above.\n \n — Linus Torvalds , drm/xe: Don't hand out the flat CCS storage as usable VRAM\n\n\n Tags: linus-torvalds , linux , generative-ai , ai-assisted-programming , ai , llms",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/linus-torvalds-686686b8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.972
+    },
+    {
+      "id": "llm-43aa0c03",
+      "출처": "Simon Willison",
+      "제목": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "정규url": "https://simonwillison.net/2026/Aug/22/llm",
+      "발행": "2026-08-22T17:01:16+00:00",
+      "요약": "Release: llm 0.33 \n\n My highlights from this release:\n\n \n \n Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 \n \n \n I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix.\n\n \n \n llm embed and llm embed-multi now accept --key . The Python EmbeddingModel.embed() , EmbeddingModel.embed_multi() , Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins without changing shared model state. Existing plugins that read self.key continue to work through a compatibility fallback. Thanks, ChrisJr404 . #757 , #1620 \n \n \n The embedding models now use the same pattern for keys that regular LLM models do.\n\n \n \n llm prompt -t/--template can now be repeated to combine templates in order. This allows model configuration and options from one template to be used with a prompt from another. \n \n \n This unlocks a neat pattern where you can create templates that package a model with a set of default options:\n\n llm -m gpt-5.6-luna -o reasoning_effort high --save lhigh\nllm \"Generate an SVG of a pelican riding a bicycle\" --save pelican\n# ",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/llm-43aa0c03.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.888
+    },
+    {
+      "id": "3mtncr3ccls2j-5e4d6944",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Fable: \"I want a twigl shader that renders Lost Carcosa from The King in Yellow. Nail the mood.\"\n\n(Shaders are procedura",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtncr3ccls2j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtncr3ccls2j",
+      "발행": "2026-08-22T03:16:33.172000+00:00",
+      "요약": "Fable: \"I want a twigl shader that renders Lost Carcosa from The King in Yellow. Nail the mood.\"\n\n(Shaders are procedurally generated using math alone)\ntwigl.app?ol=true&ss=-...\n\nAlong the shore the cloud waves break,\nThe twin suns sink behind the lake,\nThe shadows lengthen\n In Carcosa",
+      "반응": 40,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-23/원문/3mtncr3ccls2j-5e4d6944.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.569
+    },
+    {
+      "id": "3mtoqmmir422j-a9d88b60",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "(To make this work you need to run the ChatGPT or Claude apps on your computer and turn on browser control, which means",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtoqmmir422j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtoqmmir422j",
+      "발행": "2026-08-22T16:57:15.561000+00:00",
+      "요약": "(To make this work you need to run the ChatGPT or Claude apps on your computer and turn on browser control, which means you need to trust the models to do that. Definitely check the work carefully first until you understand where they might fail, though I bet even with checking you will save time)",
+      "반응": 14,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-23/원문/3mtoqmmir422j-a9d88b60.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.467
+    }
+  ]
+}
