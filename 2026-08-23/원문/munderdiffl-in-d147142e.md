@@ -642,91 +642,82 @@ Not just by promise.
  
  
  PRICING 
- Your clone is free. Two services make it unstoppable. 
+ Plans for power users and teams. 
  
- The app is open source and runs on your laptop forever. On top of it we sell
- exactly two things — use either, both, or neither.
+ The app is open source and runs on your laptop forever. Paid plans add the
+ 24/7 sandbox and the team network.
  
 
- 
- 
- SERVICE 01 · CLOUD 
- ☁️ A place for your clone to run 
- A dedicated sandbox VM per clone, in your controlled environment. Close
- the laptop — your clone keeps its terminals open, keeps shipping, keeps
- answering. Switch back to local anytime.
-
- solves: "does my laptop need to stay on?" 
- 
- 
- SERVICE 02 · NETWORK 
- 🔗 A wire between your team's clones 
- End-to-end encrypted clone-to-clone messaging across teammates'
- laptops, plus the shared org knowledge base. Your clone can ask Dwight's
- clone — and answer for you when you're away.
-
- solves: "can our clones work together?" 
- 
- 
  
  
  FOR YOU one person, one clone 
  
- 
- SOLO 
- LOCAL ONLY 
- Free open source · MIT 
- 
- Your clone, on your machine 
- Wraps the agent CLIs you already use 
- Personal memory & workflows 
- 
- ⤓ Download 
- 
- 
- SOLO + CLOUD 
+ PRO 
  CLOUD 
- Indie agents run on our cloud 
+ $39 /month · for individuals 
  
- Everything in Solo 
- Dedicated sandbox VM — your clone keeps working with the lid closed 
+ Everything in the free app — memory, workflows, the multi-agent floor 
+ 24/7 sandbox included: shared CPU · 1GB RAM · 20GB storage — your clone keeps shipping with the lid closed 
  Switch local ⇄ cloud anytime 
- 
- Contact us 
- 
+ First 100 Founding Supporters : 50% off + 1 month free 
  
  
+ ADD COMPUTE (billed monthly with the plan) 
  
- FOR YOUR TEAM every member gets a clone 
+ Included — Shared 1× CPU · 1GB RAM 
+ Shared 2× CPU · 2GB RAM — +$9/mo 
+ Shared 4× CPU · 4GB RAM — +$25/mo 
+ Dedicated 1× CPU · 2GB RAM — +$39/mo 
+ Shared 8× CPU · 8GB RAM — +$59/mo 
  
- TEAM SIZE · APPLIES TO BOTH PLANS up to 10 seats 
+ ADD STORAGE 
  
- 10 20 50 100 100+ 
+ Included — 20GB volume 
+ 50GB volume — +$8/mo 
+ 100GB volume — +$20/mo 
+ 250GB volume — +$58/mo 
+ 
+ 
+ $39/month 
+ Get PRO 
  
  
  
- NETWORK 
- Teams Lite agents use our network 
- 
- E2E-encrypted clone-to-clone messaging 
- Shared org knowledge base 
- Clone coordination protocol 
- Secure Org Network license 
- 
- Contact us 
- 
+ FOR YOUR TEAM per seat · every member gets a clone 
  
  ALWAYS ON 
+ TEAMS 
  CLOUD NETWORK 
- Teams PRO agents use our network + run on our cloud 
+ $149 /seat/month 
  
- Everything in Teams Lite 
- Dedicated sandbox VM per clone 
+ E2E-encrypted clone-to-clone messaging + shared org knowledge base 
+ 24/7 sandbox per seat: shared 8× CPU · 8GB RAM · 100GB storage 
  The whole floor ships with laptops closed 
- Hosted org knowledge base, in your controlled environment 
  
+ 
+ TEAM SIZE 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADD COMPUTE (per seat, billed monthly) 
+ 
+ Included — Shared 8× CPU · 8GB RAM 
+ Dedicated 2× CPU · 8GB RAM — +$55/mo 
+ Shared 8× CPU · 16GB RAM — +$59/mo 
+ Dedicated 4× CPU · 16GB RAM — +$175/mo 
+ 
+ ADD STORAGE (per seat) 
+ 
+ Included — 100GB volume 
+ 250GB volume — +$38/mo 
+ 500GB volume — +$100/mo 
+ 
+ 
+ $298/month · 2 seats × $149 
  Contact us 
- 
  
  
  
@@ -736,7 +727,8 @@ Not just by promise.
  FOR THE PROJECT keep it free for everyone 
  Founding Supporter — your name on the Wall 
  $20, one time. A permanent brass plaque on the
- Founders' Wall . Munder Difflin stays free for everyone.
+ Founders' Wall — and the first 100 get 50% off PRO plus a
+ free month of PRO. Munder Difflin stays free for everyone.
 
  
  

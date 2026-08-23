@@ -1,7 +1,7 @@
 {
   "기준일": "2026-08-23",
-  "수집시각": "2026-08-22T22:24:24.560261+00:00",
-  "건수": 124,
+  "수집시각": "2026-08-23T03:54:25.925294+00:00",
+  "건수": 126,
   "항목": [
     {
       "id": "2091150597374537729-304760d4",
@@ -10,15 +10,32 @@
       "url": "https://twitter.com/argofowl/status/2091150597374537729",
       "정규url": "https://twitter.com/argofowl/status/2091150597374537729",
       "발행": "2026-08-22T16:58:49+00:00",
-      "요약": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 \n\n Comments URL: https://news.ycombinator.com/item?id=49401549 \n\n Points: 135\n\n # Comments: 131",
-      "반응": 135,
+      "요약": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 \n\n Comments URL: https://news.ycombinator.com/item?id=49401549 \n\n Points: 171\n\n # Comments: 160",
+      "반응": 171,
       "원저자": "",
       "본문파일": "2026-08-23/원문/2091150597374537729-304760d4.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "claude code"
       ],
-      "점수": 5.737
+      "점수": 5.661
+    },
+    {
+      "id": "v2-1-241-e02ae0b1",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.241",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.241",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.241",
+      "발행": "2026-08-23T00:52:16+00:00",
+      "요약": "What's changed \n \n Bug fixes and reliability improvements",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/v2-1-241-e02ae0b1.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.599
     },
     {
       "id": "skills-2749cd98",
@@ -26,9 +43,9 @@
       "제목": "jakubkrehel/skills — A collection of agent skills that help you build a great interface.",
       "url": "https://github.com/jakubkrehel/skills",
       "정규url": "https://github.com/jakubkrehel/skills",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "A collection of agent skills that help you build a great interface.\n\n별 4,139개 · 언어 Markdown · 생성 2026-07-10",
-      "반응": 4139,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "A collection of agent skills that help you build a great interface.\n\n별 4,153개 · 언어 Markdown · 생성 2026-07-10",
+      "반응": 4153,
       "원저자": "jakubkrehel",
       "본문파일": "2026-08-23/원문/skills-2749cd98.md",
       "본문상태": "확인 완료",
@@ -44,9 +61,9 @@
       "제목": "s1dashu/ip-as-logo-skill — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "정규url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.\n\n별 3,769개 · 언어 미상 · 생성 2026-08-18 · 토픽 codex, codex-skill, image-generation, logo-design, mascot-design",
-      "반응": 3769,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.\n\n별 3,796개 · 언어 미상 · 생성 2026-08-18 · 토픽 codex, codex-skill, image-generation, logo-design, mascot-design",
+      "반응": 3796,
       "원저자": "s1dashu",
       "본문파일": "2026-08-23/원문/ip-as-logo-skill-5fadc46e.md",
       "본문상태": "확인 완료",
@@ -62,9 +79,9 @@
       "제목": "yetone/cumora — Where agent teams gather. Cross-platform team chat where AI agents are first-cla",
       "url": "https://github.com/yetone/cumora",
       "정규url": "https://github.com/yetone/cumora",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.\n\n별 2,899개 · 언어 TypeScript · 생성 2026-08-17",
-      "반응": 2899,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.\n\n별 2,903개 · 언어 TypeScript · 생성 2026-08-17",
+      "반응": 2903,
       "원저자": "yetone",
       "본문파일": "2026-08-23/원문/cumora-46c35733.md",
       "본문상태": "확인 완료",
@@ -73,7 +90,7 @@
         "claude-code",
         "codex"
       ],
-      "점수": 5.543
+      "점수": 5.544
     },
     {
       "id": "SimpleEnglish-8f1425b3",
@@ -81,34 +98,16 @@
       "제목": "AminBlg/SimpleEnglish — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
       "url": "https://github.com/AminBlg/SimpleEnglish",
       "정규url": "https://github.com/AminBlg/SimpleEnglish",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical\n\n별 2,711개 · 언어 Python · 생성 2026-07-21",
-      "반응": 2711,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical\n\n별 2,719개 · 언어 Python · 생성 2026-07-21",
+      "반응": 2719,
       "원저자": "AminBlg",
       "본문파일": "2026-08-23/원문/SimpleEnglish-8f1425b3.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "agent skill"
       ],
-      "점수": 5.519
-    },
-    {
-      "id": "dsh-TUI-2bfd1ae3",
-      "출처": "GitHub 신규 (claude-code)",
-      "제목": "ccch1mneyyy/dsh-TUI — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "정규url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.\n\n별 2,315개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 claude-code, coding-agent, deepseek, deepseek-harness, dsh-plugin, ink, react, terminal",
-      "반응": 2315,
-      "원저자": "ccch1mneyyy",
-      "본문파일": "2026-08-23/원문/dsh-TUI-2bfd1ae3.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "claude-code"
-      ],
-      "점수": 5.464
+      "점수": 5.521
     },
     {
       "id": "OpenBot-0876c9c2",
@@ -116,9 +115,9 @@
       "제목": "CopilotKit/OpenBot — Open-source AI coworkers that each get a computer of their own: a browser, files",
       "url": "https://github.com/CopilotKit/OpenBot",
       "정규url": "https://github.com/CopilotKit/OpenBot",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\n별 2,311개 · 언어 TypeScript · 생성 2026-08-17 · 토픽 ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp",
-      "반응": 2311,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\n별 2,347개 · 언어 TypeScript · 생성 2026-08-17 · 토픽 ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp",
+      "반응": 2347,
       "원저자": "CopilotKit",
       "본문파일": "2026-08-23/원문/OpenBot-0876c9c2.md",
       "본문상태": "확인 완료",
@@ -126,7 +125,25 @@
         "copilot",
         "mcp"
       ],
-      "점수": 5.463
+      "점수": 5.469
+    },
+    {
+      "id": "dsh-TUI-2bfd1ae3",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "ccch1mneyyy/dsh-TUI — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "정규url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.\n\n별 2,321개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 claude-code, coding-agent, deepseek, deepseek-harness, dsh-plugin, ink, react, terminal",
+      "반응": 2321,
+      "원저자": "ccch1mneyyy",
+      "본문파일": "2026-08-23/원문/dsh-TUI-2bfd1ae3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code"
+      ],
+      "점수": 5.465
     },
     {
       "id": "qwen-audio-agent-45a9ad8a",
@@ -134,9 +151,9 @@
       "제목": "QwenAudio/qwen-audio-agent — A realtime voice runtime that keeps Agents talking, working, and present. Real-",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "정규url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents\n\n별 2,220개 · 언어 JavaScript · 생성 2026-07-27 · 토픽 acp, agent, agentic-ai, ai-coding, claude-code, codex, developer-tools, opencode",
-      "반응": 2220,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents\n\n별 2,219개 · 언어 JavaScript · 생성 2026-07-27 · 토픽 acp, agent, agentic-ai, ai-coding, claude-code, codex, developer-tools, opencode",
+      "반응": 2219,
       "원저자": "QwenAudio",
       "본문파일": "2026-08-23/원문/qwen-audio-agent-45a9ad8a.md",
       "본문상태": "확인 완료",
@@ -146,6 +163,141 @@
         "agentic"
       ],
       "점수": 5.449
+    },
+    {
+      "id": "shuohao-skills-2d888697",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "eternityspring/shuohao-skills — AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama pro",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "정규url": "https://github.com/eternityspring/shuohao-skills",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.\n\n별 1,897개 · 언어 JavaScript · 생성 2026-08-06",
+      "반응": 1897,
+      "원저자": "eternityspring",
+      "본문파일": "2026-08-23/원문/shuohao-skills-2d888697.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex",
+        "agent skill",
+        "skills"
+      ],
+      "점수": 5.394
+    },
+    {
+      "id": "lieflat-charts-cd935e4a",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "larashero3-dotcom/lieflat-charts — Data visualization Skill for AI Agents, turning data into polished, interactive",
+      "url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "정규url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。\n\n별 1,690개 · 언어 HTML · 생성 2026-07-16 · 토픽 agent-skills, charts, claude-code, codex, data-visualization, html, moxt, svg",
+      "반응": 1690,
+      "원저자": "larashero3-dotcom",
+      "본문파일": "2026-08-23/원문/lieflat-charts-cd935e4a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex",
+        "skills"
+      ],
+      "점수": 5.353
+    },
+    {
+      "id": "Fuxi-5730e3e3",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "fuxicodex/Fuxi — FuXi is a fast, self-contained AI coding agent that lives in your terminal — edi",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "정규url": "https://github.com/fuxicodex/Fuxi",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.\n\n별 1,607개 · 언어 HTML · 생성 2026-08-04 · 토픽 agent, ai, ai-agent, ai-coding, cli, code-assistant, coding-assistant, developer-tools",
+      "반응": 1607,
+      "원저자": "fuxicodex",
+      "본문파일": "2026-08-23/원문/Fuxi-5730e3e3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "mcp",
+        "coding agent"
+      ],
+      "점수": 5.335
+    },
+    {
+      "id": "codex-chatgpt-web-4a847819",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "miuuyy/codex-chatgpt-web — Use ChatGPT Web (including Pro) as a native model in the Codex app — with contex",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "정규url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.\n\n별 1,340개 · 언어 TypeScript · 생성 2026-07-26 · 토픽 chatgpt, chatgpt-pro, codex, free-ai, macos, mcp, openai, playwright",
+      "반응": 1340,
+      "원저자": "miuuyy",
+      "본문파일": "2026-08-23/원문/codex-chatgpt-web-4a847819.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "mcp"
+      ],
+      "점수": 5.271
+    },
+    {
+      "id": "book-to-skill-53e86592",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "Leutenegger/book-to-skill — Turn any technical book PDF into a Claude Code skill — ready to study, reference",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "정규url": "https://github.com/Leutenegger/book-to-skill",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.\n\n별 1,229개 · 언어 Python · 생성 2026-08-13 · 토픽 agent, agent-memory, agent-skill, agent-skills, agentic, agentic-ai, agents, ai-agents",
+      "반응": 1229,
+      "원저자": "Leutenegger",
+      "본문파일": "2026-08-23/원문/book-to-skill-53e86592.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "skills",
+        "agentic"
+      ],
+      "점수": 5.24
+    },
+    {
+      "id": "northcinder-3426536d",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "cinderline/northcinder — Open-source MCP server for comparing products and asking the buyer before purcha",
+      "url": "https://github.com/cinderline/northcinder",
+      "정규url": "https://github.com/cinderline/northcinder",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,205개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
+      "반응": 1205,
+      "원저자": "cinderline",
+      "본문파일": "2026-08-23/원문/northcinder-3426536d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "mcp",
+        "agentic"
+      ],
+      "점수": 5.234
+    },
+    {
+      "id": "waku-766a55e0",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "egoist/waku — ⚡ A native app for all your coding agents.",
+      "url": "https://github.com/egoist/waku",
+      "정규url": "https://github.com/egoist/waku",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "⚡ A native app for all your coding agents.\n\n별 1,137개 · 언어 Rust · 생성 2026-07-31 · 토픽 agent, amp, claude-code, codex, coding, cursor, gpui, grok",
+      "반응": 1137,
+      "원저자": "egoist",
+      "본문파일": "2026-08-23/원문/waku-766a55e0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex",
+        "cursor",
+        "coding agent"
+      ],
+      "점수": 5.213
     },
     {
       "id": "v2-1-240-fa3eb202",
@@ -162,85 +314,7 @@
       "관심주제": [
         "claude code"
       ],
-      "점수": 5.416
-    },
-    {
-      "id": "shuohao-skills-2d888697",
-      "출처": "GitHub 신규 (claude-code)",
-      "제목": "eternityspring/shuohao-skills — AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama pro",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "정규url": "https://github.com/eternityspring/shuohao-skills",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.\n\n별 1,893개 · 언어 JavaScript · 생성 2026-08-06",
-      "반응": 1893,
-      "원저자": "eternityspring",
-      "본문파일": "2026-08-23/원문/shuohao-skills-2d888697.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "claude-code",
-        "codex",
-        "agent skill",
-        "skills"
-      ],
-      "점수": 5.393
-    },
-    {
-      "id": "growth-lab-5943459c",
-      "출처": "GitHub 신규 (claude-code)",
-      "제목": "tsingyuai/growth-lab — An end-to-end growth tool that understands the product, fetch the data it needs,",
-      "url": "https://github.com/tsingyuai/growth-lab",
-      "정규url": "https://github.com/tsingyuai/growth-lab",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. 从代码到市场的开源端到端增长工具。理解产品、接入信息渠道、研究市场、执行增长行动，并基于真实数据自我改进。\n\n별 1,813개 · 언어 Python · 생성 2026-07-24 · 토픽 agentic-marketing, ai-agent, claude-code, codex, growth, growth-hacking, marketing-automation, open-source",
-      "반응": 1813,
-      "원저자": "tsingyuai",
-      "본문파일": "2026-08-23/원문/growth-lab-5943459c.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude-code",
-        "codex",
-        "agentic"
-      ],
-      "점수": 5.378
-    },
-    {
-      "id": "lieflat-charts-cd935e4a",
-      "출처": "GitHub 신규 (에이전트 스킬)",
-      "제목": "larashero3-dotcom/lieflat-charts — Data visualization Skill for AI Agents, turning data into polished, interactive",
-      "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-      "정규url": "https://github.com/larashero3-dotcom/lieflat-charts",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。\n\n별 1,680개 · 언어 HTML · 생성 2026-07-16 · 토픽 agent-skills, charts, claude-code, codex, data-visualization, html, moxt, svg",
-      "반응": 1680,
-      "원저자": "larashero3-dotcom",
-      "본문파일": "2026-08-23/원문/lieflat-charts-cd935e4a.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude-code",
-        "codex",
-        "skills"
-      ],
-      "점수": 5.351
-    },
-    {
-      "id": "Fuxi-5730e3e3",
-      "출처": "GitHub 신규 (MCP 서버)",
-      "제목": "fuxicodex/Fuxi — FuXi is a fast, self-contained AI coding agent that lives in your terminal — edi",
-      "url": "https://github.com/fuxicodex/Fuxi",
-      "정규url": "https://github.com/fuxicodex/Fuxi",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.\n\n별 1,597개 · 언어 HTML · 생성 2026-08-04 · 토픽 agent, ai, ai-agent, ai-coding, cli, code-assistant, coding-assistant, developer-tools",
-      "반응": 1597,
-      "원저자": "fuxicodex",
-      "본문파일": "2026-08-23/원문/Fuxi-5730e3e3.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "codex",
-        "mcp",
-        "coding agent"
-      ],
-      "점수": 5.333
+      "점수": 5.198
     },
     {
       "id": "2090885188897460249-9e9b1c22",
@@ -250,86 +324,14 @@
       "정규url": "https://x.com/OpenAI/status/2090885188897460249",
       "발행": "2026-08-21T19:34:10+00:00",
       "요약": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n\nPro, Plus, and Business subscription usage remains unchanged.\nhttps://t.co/DzyrOMdXpW",
-      "반응": 765,
+      "반응": 780,
       "원저자": "@OpenAI",
       "본문파일": "2026-08-23/원문/2090885188897460249-9e9b1c22.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "codex"
       ],
-      "점수": 5.305
-    },
-    {
-      "id": "codex-chatgpt-web-4a847819",
-      "출처": "GitHub 신규 (MCP 서버)",
-      "제목": "miuuyy/codex-chatgpt-web — Use ChatGPT Web (including Pro) as a native model in the Codex app — with contex",
-      "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "정규url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.\n\n별 1,293개 · 언어 TypeScript · 생성 2026-07-26 · 토픽 chatgpt, chatgpt-pro, codex, free-ai, macos, mcp, openai, playwright",
-      "반응": 1293,
-      "원저자": "miuuyy",
-      "본문파일": "2026-08-23/원문/codex-chatgpt-web-4a847819.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "codex",
-        "mcp"
-      ],
-      "점수": 5.258
-    },
-    {
-      "id": "book-to-skill-53e86592",
-      "출처": "GitHub 신규 (AI 에이전트)",
-      "제목": "Leutenegger/book-to-skill — Turn any technical book PDF into a Claude Code skill — ready to study, reference",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "정규url": "https://github.com/Leutenegger/book-to-skill",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.\n\n별 1,229개 · 언어 Python · 생성 2026-08-13 · 토픽 agent, agent-memory, agent-skill, agent-skills, agentic, agentic-ai, agents, ai-agents",
-      "반응": 1229,
-      "원저자": "Leutenegger",
-      "본문파일": "2026-08-23/원문/book-to-skill-53e86592.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "skills",
-        "agentic"
-      ],
-      "점수": 5.24
-    },
-    {
-      "id": "northcinder-3426536d",
-      "출처": "GitHub 신규 (MCP 서버)",
-      "제목": "cinderline/northcinder — Open-source MCP server for comparing products and asking the buyer before purcha",
-      "url": "https://github.com/cinderline/northcinder",
-      "정규url": "https://github.com/cinderline/northcinder",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,205개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
-      "반응": 1205,
-      "원저자": "cinderline",
-      "본문파일": "2026-08-23/원문/northcinder-3426536d.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "mcp",
-        "agentic"
-      ],
-      "점수": 5.234
-    },
-    {
-      "id": "pinvou-agent-e443a5c3",
-      "출처": "GitHub 신규 (MCP 서버)",
-      "제목": "Pinvou/pinvou-agent — Open-source desktop AI agent for tools, files, knowledge, workflows, and real de",
-      "url": "https://github.com/Pinvou/pinvou-agent",
-      "정규url": "https://github.com/Pinvou/pinvou-agent",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.\n\n별 1,137개 · 언어 Rust · 생성 2026-07-24 · 토픽 ai-agent, automation, desktop-app, llm, local-first, mcp, open-source, react",
-      "반응": 1137,
-      "원저자": "Pinvou",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [
-        "mcp"
-      ],
-      "점수": 5.213
+      "점수": 5.173
     },
     {
       "id": "awesome-deepseek-harness-f6859766",
@@ -337,16 +339,51 @@
       "제목": "0xsline/awesome-deepseek-harness — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure fro",
       "url": "https://github.com/0xsline/awesome-deepseek-harness",
       "정규url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.\n\n별 831개 · 언어 Python · 생성 2026-08-11 · 토픽 agent, ai, ai-agents, ai-tools, awesome, awesome-list, coding-assistant, curated-list",
-      "반응": 831,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.\n\n별 838개 · 언어 Python · 생성 2026-08-11 · 토픽 agent, ai, ai-agents, ai-tools, awesome, awesome-list, coding-assistant, curated-list",
+      "반응": 838,
       "원저자": "0xsline",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [
         "mcp"
       ],
-      "점수": 5.103
+      "점수": 5.106
+    },
+    {
+      "id": "dsh-desktop-182a57bd",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "vibeinging/dsh-desktop — DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, pro",
+      "url": "https://github.com/vibeinging/dsh-desktop",
+      "정규url": "https://github.com/vibeinging/dsh-desktop",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.\n\n별 620개 · 언어 JavaScript · 생성 2026-08-13 · 토픽 agentic-workflows, ai-agent, ai-workbench, data-analysis, deepseek-harness, desktop-app, dsh, dsh-plugin",
+      "반응": 620,
+      "원저자": "vibeinging",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [
+        "mcp",
+        "agentic"
+      ],
+      "점수": 4.999
+    },
+    {
+      "id": "a-week-of-using-codex-more-than-claude-04f8d146",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "정규url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+      "발행": "2026-08-21T19:51:48+00:00",
+      "요약": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ \n\n Comments URL: https://news.ycombinator.com/item?id=49393051 \n\n Points: 144\n\n # Comments: 163",
+      "반응": 144,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/a-week-of-using-codex-more-than-claude-04f8d146.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.99
     },
     {
       "id": "v2-1-239-3a184e2c",
@@ -363,7 +400,7 @@
       "관심주제": [
         "claude code"
       ],
-      "점수": 4.667
+      "점수": 4.449
     },
     {
       "id": "2090885187634905500-e83a0a16",
@@ -373,29 +410,12 @@
       "정규url": "https://x.com/OpenAI/status/2090885187634905500",
       "발행": "2026-08-21T19:34:10+00:00",
       "요약": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months. https://t.co/UoTb3hcB2t",
-      "반응": 12593,
+      "반응": 12842,
       "원저자": "@OpenAI",
       "본문파일": "2026-08-23/원문/2090885187634905500-e83a0a16.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.478
-    },
-    {
-      "id": "building-an-almost-fully-self-hosted-san-fd3f5bbb",
-      "출처": "Hacker News",
-      "제목": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "정규url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-      "발행": "2026-08-21T16:27:52+00:00",
-      "요약": "",
-      "반응": 114,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/building-an-almost-fully-self-hosted-san-fd3f5bbb.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "agentic"
-      ],
-      "점수": 4.352
+      "점수": 4.371
     },
     {
       "id": "deepseek-harness-889ea1c1",
@@ -403,9 +423,9 @@
       "제목": "deepseek-ai/deepseek-harness — DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "정규url": "https://github.com/deepseek-ai/deepseek-harness",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "DeepSeek Harness: Everything is a Plugin.\n\n별 184,930개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 ai-agents, cordis, dsh, dsh-plugin",
-      "반응": 184930,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "DeepSeek Harness: Everything is a Plugin.\n\n별 185,494개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 ai-agents, cordis, dsh, dsh-plugin",
+      "반응": 185494,
       "원저자": "deepseek-ai",
       "본문파일": null,
       "본문상태": "미확보",
@@ -418,9 +438,9 @@
       "제목": "yjh051108/dsh-routing-suite — dsh-routing-suite — injector + router-standard kit: install the runtime injector",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "정규url": "https://github.com/yjh051108/dsh-routing-suite",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).\n\n별 6,637개 · 언어 PowerShell · 생성 2026-08-14 · 토픽 ai-agents, cordis, deepseek-harness, dsh, dsh-plugin",
-      "반응": 6637,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).\n\n별 6,653개 · 언어 PowerShell · 생성 2026-08-14 · 토픽 ai-agents, cordis, deepseek-harness, dsh, dsh-plugin",
+      "반응": 6653,
       "원저자": "yjh051108",
       "본문파일": null,
       "본문상태": "미확보",
@@ -428,19 +448,36 @@
       "점수": 4.3
     },
     {
+      "id": "building-an-almost-fully-self-hosted-san-fd3f5bbb",
+      "출처": "Hacker News",
+      "제목": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "정규url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "발행": "2026-08-21T16:27:52+00:00",
+      "요약": "",
+      "반응": 116,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/building-an-almost-fully-self-hosted-san-fd3f5bbb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 4.228
+    },
+    {
       "id": "dsh-desktop-45a1aed2",
       "출처": "GitHub 신규 (AI 에이전트)",
       "제목": "dataelement/dsh-desktop — DSHDesktop：DeepSeek Harness Desktop",
       "url": "https://github.com/dataelement/dsh-desktop",
       "정규url": "https://github.com/dataelement/dsh-desktop",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
-      "요약": "DSHDesktop：DeepSeek Harness Desktop\n\n별 1,790개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 ai-agents, deepseek, desktop, dsh-plugins, dshdesktop",
-      "반응": 1790,
+      "발행": "2026-08-23T03:54:16.281789+00:00",
+      "요약": "DSHDesktop：DeepSeek Harness Desktop\n\n별 1,830개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 ai-agents, deepseek, desktop, dsh-plugins, dshdesktop",
+      "반응": 1830,
       "원저자": "dataelement",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 4.133
+      "점수": 4.139
     },
     {
       "id": "open-kimi-ppt-skill-8fc729d8",
@@ -448,7 +485,7 @@
       "제목": "Binaryify/open-kimi-ppt-skill — 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S",
       "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
       "정규url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
       "요약": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor\n\n별 1,599개 · 언어 미상 · 생성 2026-08-05",
       "반응": 1599,
       "원저자": "Binaryify",
@@ -458,27 +495,12 @@
       "점수": 4.103
     },
     {
-      "id": "README-md-0dbbd03a",
-      "출처": "코딩에이전트 (HN)",
-      "제목": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "정규url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "발행": "2026-08-21T14:31:52+00:00",
-      "요약": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md \n\n Comments URL: https://news.ycombinator.com/item?id=49388752 \n\n Points: 344\n\n # Comments: 231",
-      "반응": 344,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/README-md-0dbbd03a.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 4.078
-    },
-    {
       "id": "sprix-sage-router-f5cccd87",
       "출처": "GitHub 신규 (AI 에이전트)",
       "제목": "wang2122/sprix-sage-router — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent ne",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "정규url": "https://github.com/wang2122/sprix-sage-router",
-      "발행": "2026-08-22T22:24:14.869265+00:00",
+      "발행": "2026-08-23T03:54:16.281789+00:00",
       "요약": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.\n\n별 1,243개 · 언어 Python · 생성 2026-08-18 · 토픽 a2a, agent-orchestration, agent-routing, ai-agents, multi-agent-systems, python, sprix-ai, task-scheduling",
       "반응": 1243,
       "원저자": "wang2122",
@@ -488,6 +510,21 @@
       "점수": 4.034
     },
     {
+      "id": "README-md-0dbbd03a",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "정규url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "발행": "2026-08-21T14:31:52+00:00",
+      "요약": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md \n\n Comments URL: https://news.ycombinator.com/item?id=49388752 \n\n Points: 349\n\n # Comments: 232",
+      "반응": 349,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/README-md-0dbbd03a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.959
+    },
+    {
       "id": "2090772922818286080-20aa9925",
       "출처": "X @GoogleDeepMind",
       "제목": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari to reaching Grandmas",
@@ -495,12 +532,27 @@
       "정규url": "https://x.com/GoogleDeepMind/status/2090772922818286080",
       "발행": "2026-08-21T12:08:04+00:00",
       "요약": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari to reaching Grandmaster in StarCraft II, they have driven some of our biggest AI breakthroughs.\n\nOur work with SIMA taught agents how to understand 3D worlds, but learning to https://t.co/xDKtqPgGH4",
-      "반응": 1022,
+      "반응": 1037,
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-08-23/원문/2090772922818286080-20aa9925.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.015
+      "점수": 3.912
+    },
+    {
+      "id": "253917-c0f9d109",
+      "출처": "Hacker News",
+      "제목": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "정규url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "발행": "2026-08-22T18:14:16+00:00",
+      "요약": "",
+      "반응": 214,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/253917-c0f9d109.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.883
     },
     {
       "id": "munderdiffl-in-d147142e",
@@ -510,12 +562,12 @@
       "정규url": "https://munderdiffl.in",
       "발행": "2026-08-22T09:49:14+00:00",
       "요약": "",
-      "반응": 235,
+      "반응": 260,
       "원저자": "",
       "본문파일": "2026-08-23/원문/munderdiffl-in-d147142e.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.856
+      "점수": 3.784
     },
     {
       "id": "meta-trial-children-privacy-74a9967c",
@@ -525,12 +577,12 @@
       "정규url": "https://theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
       "발행": "2026-08-22T12:07:06+00:00",
       "요약": "",
-      "반응": 197,
+      "반응": 205,
       "원저자": "",
       "본문파일": "2026-08-23/원문/meta-trial-children-privacy-74a9967c.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.85
+      "점수": 3.761
     },
     {
       "id": "CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lH-006a7a87",
@@ -545,22 +597,37 @@
       "본문파일": "2026-08-23/원문/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lH-006a7a87.md",
       "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
       "관심주제": [],
-      "점수": 3.844
+      "점수": 3.691
     },
     {
-      "id": "253917-c0f9d109",
+      "id": "nanogpt-speedrun-e3fab283",
       "출처": "Hacker News",
-      "제목": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "정규url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "발행": "2026-08-22T18:14:16+00:00",
+      "제목": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "정규url": "https://primeintellect.ai/research/nanogpt-speedrun",
+      "발행": "2026-08-22T22:14:27+00:00",
       "요약": "",
-      "반응": 92,
+      "반응": 62,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/253917-c0f9d109.md",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 3.622
+    },
+    {
+      "id": "2090165328290701800-a5f02a9c",
+      "출처": "X @OpenAI",
+      "제목": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more autonomous work and deli",
+      "url": "https://x.com/OpenAI/status/2090165328290701800",
+      "정규url": "https://x.com/OpenAI/status/2090165328290701800",
+      "발행": "2026-08-19T19:53:42+00:00",
+      "요약": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. \n\nTo help address those risks, we're previewing https://t.co/PTEVBS4p3Q",
+      "반응": 4292,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-23/원문/2090165328290701800-a5f02a9c.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.755
+      "점수": 3.6
     },
     {
       "id": "more-than-just-code-review-6cda44a2",
@@ -578,25 +645,7 @@
         "coding agent",
         "agentic"
       ],
-      "점수": 3.725
-    },
-    {
-      "id": "3mtoqik5rgc2j-ad7c85ab",
-      "출처": "Bluesky emollick.bsky.social",
-      "제목": "In terms of everyday usefulness and saving time, Codex & Claude Code are very capable of doing the thing where you ask t",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtoqik5rgc2j",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtoqik5rgc2j",
-      "발행": "2026-08-22T16:54:58.886000+00:00",
-      "요약": "In terms of everyday usefulness and saving time, Codex & Claude Code are very capable of doing the thing where you ask them to \"fill out the forms that I got an email about\" and they do it well & without further intervention. Really nice for low-risk time-consuming stuff that scattered attention.",
-      "반응": 59,
-      "원저자": "emollick.bsky.social",
-      "본문파일": "2026-08-23/원문/3mtoqik5rgc2j-ad7c85ab.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "codex"
-      ],
-      "점수": 3.696
+      "점수": 3.576
     },
     {
       "id": "im-becoming-ai-blind-1130499a",
@@ -606,12 +655,12 @@
       "정규url": "https://cymerys.com/w/im-becoming-ai-blind",
       "발행": "2026-08-21T11:48:05+00:00",
       "요약": "",
-      "반응": 472,
+      "반응": 475,
       "원저자": "",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 3.647
+      "점수": 3.549
     },
     {
       "id": "vision-cb481993",
@@ -626,22 +675,59 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 3.637
+      "점수": 3.538
     },
     {
-      "id": "2090165328290701800-a5f02a9c",
-      "출처": "X @OpenAI",
-      "제목": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more autonomous work and deli",
-      "url": "https://x.com/OpenAI/status/2090165328290701800",
-      "정규url": "https://x.com/OpenAI/status/2090165328290701800",
-      "발행": "2026-08-19T19:53:42+00:00",
-      "요약": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. \n\nTo help address those risks, we're previewing https://t.co/PTEVBS4p3Q",
-      "반응": 4286,
-      "원저자": "@OpenAI",
-      "본문파일": "2026-08-23/원문/2090165328290701800-a5f02a9c.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 3.6
+      "id": "CBMiW0FVX3lxTFBkVlB4MzFXNzdfWFZyYmVjOWF5-a549a937",
+      "출처": "코딩에이전트 (구글뉴스)",
+      "제목": "Free Local AI Is WILDLY Good Now (Replace Claude Code & Codex) Francesca Manzini (JFxeWC3FAG) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVlB4MzFXNzdfWFZyYmVjOWF5TUVKSk9QNDV3TU8zNlVlWFlFR1NpOURFWE03QUxhcnR2dXFIYVVJWkd6MXJkdU1XR3ZKNkVfaGNycHVneGo5WXM?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVlB4MzFXNzdfWFZyYmVjOWF5TUVKSk9QNDV3TU8zNlVlWFlFR1NpOURFWE03QUxhcnR2dXFIYVVJWkd6MXJkdU1XR3ZKNkVfaGNycHVneGo5WXM?oc=5",
+      "발행": "2026-08-22T23:50:57+00:00",
+      "요약": "Free Local AI Is WILDLY Good Now (Replace Claude Code & Codex) Francesca Manzini (JFxeWC3FAG)    Mshale",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/CBMiW0FVX3lxTFBkVlB4MzFXNzdfWFZyYmVjOWF5-a549a937.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [
+        "claude code",
+        "codex"
+      ],
+      "점수": 3.537
+    },
+    {
+      "id": "CBMiswFBVV95cUxOcjZmcHM2VlBhNE1oQl9rM1lR-8a906dd1",
+      "출처": "코딩에이전트 (구글뉴스)",
+      "제목": "Claude Code Adds Design Preview, Cross-Session Chat - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcjZmcHM2VlBhNE1oQl9rM1lRV0FLeFFVNGtDVlQ3N2VJWWJTa2JXMHJuSElZSXIxUm5VNGhZV2t1SkhfQW9hVWVPZ0JxbHJJamhFZmlfS24yeG5reEFJcGV2Z281RzJmNW5GYzVoai1wcHlyejFZcjBTM3ZHSzlsUl96Y1QxRXM2cTJwaFI0Sk9QVTVIUkRFc2xxWk5FUUZsS0IwOUVQN0E1YzMycnlLcGNJQQ?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcjZmcHM2VlBhNE1oQl9rM1lRV0FLeFFVNGtDVlQ3N2VJWWJTa2JXMHJuSElZSXIxUm5VNGhZV2t1SkhfQW9hVWVPZ0JxbHJJamhFZmlfS24yeG5reEFJcGV2Z281RzJmNW5GYzVoai1wcHlyejFZcjBTM3ZHSzlsUl96Y1QxRXM2cTJwaFI0Sk9QVTVIUkRFc2xxWk5FUUZsS0IwOUVQN0E1YzMycnlLcGNJQQ?oc=5",
+      "발행": "2026-08-22T21:03:59+00:00",
+      "요약": "Claude Code Adds Design Preview, Cross-Session Chat    StartupHub.ai",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/CBMiswFBVV95cUxOcjZmcHM2VlBhNE1oQl9rM1lR-8a906dd1.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 3.467
+    },
+    {
+      "id": "CBMirAFBVV95cUxQT2xzQVBlUlJHUjEwZzdkQkM0-f0af7e3f",
+      "출처": "코딩에이전트 (구글뉴스)",
+      "제목": "Claude Code Adds AI Design, Cross-Session Chat - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xzQVBlUlJHUjEwZzdkQkM0Y3JWYXctOTVZY3E1SXFzYmdIa2ZoaUwxNFU2RzJWQjVmeFA5NWJTb2tBX0xROVN6NzhJTEwwTmhZS203UkxHT29CRzVGYVZ4Wjd3UnlRSHVjd3RNejRIQjEwX05kYWloVmpJd2xUQ0lwNlJKWGtXeXNMR2ZqRlpaUDRPWjdSa1d1aVdyMjYzQ2VLZWZwaWNfSENR?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xzQVBlUlJHUjEwZzdkQkM0Y3JWYXctOTVZY3E1SXFzYmdIa2ZoaUwxNFU2RzJWQjVmeFA5NWJTb2tBX0xROVN6NzhJTEwwTmhZS203UkxHT29CRzVGYVZ4Wjd3UnlRSHVjd3RNejRIQjEwX05kYWloVmpJd2xUQ0lwNlJKWGtXeXNMR2ZqRlpaUDRPWjdSa1d1aVdyMjYzQ2VLZWZwaWNfSENR?oc=5",
+      "발행": "2026-08-22T21:04:37+00:00",
+      "요약": "Claude Code Adds AI Design, Cross-Session Chat    StartupHub.ai",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 3.467
     },
     {
       "id": "physical-destruction-html-92d0acf4",
@@ -651,27 +737,12 @@
       "정규url": "https://annas-archive.gl/blog/physical-destruction.html",
       "발행": "2026-08-21T02:37:47+00:00",
       "요약": "",
-      "반응": 601,
+      "반응": 611,
       "원저자": "",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 3.547
-    },
-    {
-      "id": "chinese-robot-runs-100m-sprint-quicker-u-10166749",
-      "출처": "Hacker News",
-      "제목": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-      "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-      "정규url": "https://theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-      "발행": "2026-08-22T13:39:07+00:00",
-      "요약": "",
-      "반응": 55,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 3.535
+      "점수": 3.452
     },
     {
       "id": "CBMiYEFVX3lxTE95WnM2Y3JUUjBPSF9WVExiTzd6-b05ea73f",
@@ -686,24 +757,22 @@
       "본문파일": "2026-08-23/원문/CBMiYEFVX3lxTE95WnM2Y3JUUjBPSF9WVExiTzd6-b05ea73f.md",
       "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
       "관심주제": [],
-      "점수": 3.508
+      "점수": 3.355
     },
     {
-      "id": "a-week-of-using-codex-more-than-claude-04f8d146",
-      "출처": "코딩에이전트 (HN)",
-      "제목": "Quick impressions: A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "정규url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-      "발행": "2026-08-21T19:51:48+00:00",
-      "요약": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ \n\n Comments URL: https://news.ycombinator.com/item?id=49393051 \n\n Points: 97\n\n # Comments: 105",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/a-week-of-using-codex-more-than-claude-04f8d146.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "codex"
-      ],
-      "점수": 3.393
+      "id": "2089842389682954621-1f6f54a1",
+      "출처": "X @AnthropicAI",
+      "제목": "Designing a binder is an easier process than designing a drug, but it’s a useful proxy. The typical success rate in the",
+      "url": "https://x.com/AnthropicAI/status/2089842389682954621",
+      "정규url": "https://x.com/AnthropicAI/status/2089842389682954621",
+      "발행": "2026-08-18T22:30:27+00:00",
+      "요약": "Designing a binder is an easier process than designing a drug, but it’s a useful proxy. The typical success rate in the field today is between 10% and 15%.\n\nBetween 22% and 35% of Claude's designs bound successfully, depending on the setup. Some of its strongest designs bound https://t.co/nIVU00ZgiH",
+      "반응": 1224,
+      "원저자": "@AnthropicAI",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 3.33
     },
     {
       "id": "how-thailand-resisted-colonization-374822b2",
@@ -713,12 +782,27 @@
       "정규url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization",
       "발행": "2026-08-21T18:28:42+00:00",
       "요약": "",
-      "반응": 116,
+      "반응": 121,
       "원저자": "",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 3.388
+      "점수": 3.3
+    },
+    {
+      "id": "ozbrain-com-ec74d4d3",
+      "출처": "Hacker News",
+      "제목": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "정규url": "https://ozbrain.com",
+      "발행": "2026-08-21T23:09:06+00:00",
+      "요약": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work. What I built OzBrain to do:\n+ Create a central place for agent reasoned knowledge to live\n+ Be agnostic about what apps/agents connect to it\n+ Capture everything and track it so I can audit it\n+ Enable teams, collaborators or partners to share brains\n+ Handle conflicts so many agents in the same article doesn’t blow up\n+ Refactor knowledge into more token friendly chunks and map the index well\n+ Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link\n+ Keep user data safe and secure\n++ Be easy enough to use that you don’t have to have any technical knowledge Some among us will always build their own custom solutions, but there are millions of tec",
+      "반응": 81,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 3.277
     },
     {
       "id": "CBMikAFBVV95cUxQdE5RRV9JUnhOaWZIWEU0azgw-67413b9a",
@@ -730,44 +814,12 @@
       "요약": "OpenAI Codex Reaches 20 Million Users Amid Usage Limit Complaints    Memeburn",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/CBMikAFBVV95cUxQdE5RRV9JUnhOaWZIWEU0azgw-67413b9a.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "본문파일": null,
+      "본문상태": "미확보",
       "관심주제": [
         "codex"
       ],
-      "점수": 3.379
-    },
-    {
-      "id": "CBMihwFBVV95cUxPQmVpVVJ4WUhnckZQLUlFMWtW-108c8c79",
-      "출처": "코딩에이전트 (구글뉴스)",
-      "제목": "Claude Code Now Available to Start a Session From Your Phone, Not Just Resume - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmVpVVJ4WUhnckZQLUlFMWtWSU9idGJ3VkNTWE1hTF8tTzhXQmd4d1pWTHF5dl94X2JLX2FNLU53QU1EV200S09ybm1PSmVwalRvRE5rejlZQ1FoRGhXMjM2YlJfWS1SVTN1RUJ0ZlZsb25sZGpfb2dQMkE5TFg4UVJsMFhMdVk?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmVpVVJ4WUhnckZQLUlFMWtWSU9idGJ3VkNTWE1hTF8tTzhXQmd4d1pWTHF5dl94X2JLX2FNLU53QU1EV200S09ybm1PSmVwalRvRE5rejlZQ1FoRGhXMjM2YlJfWS1SVTN1RUJ0ZlZsb25sZGpfb2dQMkE5TFg4UVJsMFhMdVk?oc=5",
-      "발행": "2026-08-22T11:09:18+00:00",
-      "요약": "Claude Code Now Available to Start a Session From Your Phone, Not Just Resume    Pasquale Pillitteri",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/CBMihwFBVV95cUxPQmVpVVJ4WUhnckZQLUlFMWtW-108c8c79.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
-      "관심주제": [
-        "claude code"
-      ],
-      "점수": 3.356
-    },
-    {
-      "id": "2089842389682954621-1f6f54a1",
-      "출처": "X @AnthropicAI",
-      "제목": "Designing a binder is an easier process than designing a drug, but it’s a useful proxy. The typical success rate in the",
-      "url": "https://x.com/AnthropicAI/status/2089842389682954621",
-      "정규url": "https://x.com/AnthropicAI/status/2089842389682954621",
-      "발행": "2026-08-18T22:30:27+00:00",
-      "요약": "Designing a binder is an easier process than designing a drug, but it’s a useful proxy. The typical success rate in the field today is between 10% and 15%.\n\nBetween 22% and 35% of Claude's designs bound successfully, depending on the setup. Some of its strongest designs bound https://t.co/nIVU00ZgiH",
-      "반응": 1223,
-      "원저자": "@AnthropicAI",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 3.33
+      "점수": 3.24
     },
     {
       "id": "embedded-ai-0d24b534",
@@ -777,12 +829,90 @@
       "정규url": "https://nostarch.com/embedded-ai",
       "발행": "2026-08-22T09:07:26+00:00",
       "요약": "",
-      "반응": 33,
+      "반응": 34,
       "원저자": "",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 3.317
+      "점수": 3.226
+    },
+    {
+      "id": "2089842391918563599-3547270b",
+      "출처": "X @AnthropicAI",
+      "제목": "Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of de",
+      "url": "https://x.com/AnthropicAI/status/2089842391918563599",
+      "정규url": "https://x.com/AnthropicAI/status/2089842391918563599",
+      "발행": "2026-08-18T22:30:28+00:00",
+      "요약": "Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before",
+      "반응": 831,
+      "원저자": "@AnthropicAI",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 3.225
+    },
+    {
+      "id": "how-texas-student-blew-whistle-rogue-ai-a21f2900",
+      "출처": "Hacker News",
+      "제목": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "정규url": "https://reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
+      "발행": "2026-08-21T13:43:33+00:00",
+      "요약": "",
+      "반응": 125,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 3.223
+    },
+    {
+      "id": "2089842393218777151-8fba1659",
+      "출처": "X @AnthropicAI",
+      "제목": "One of our highest priorities remains launching an access program for scientists to use our most capable models. We expe",
+      "url": "https://x.com/AnthropicAI/status/2089842393218777151",
+      "정규url": "https://x.com/AnthropicAI/status/2089842393218777151",
+      "발행": "2026-08-18T22:30:28+00:00",
+      "요약": "One of our highest priorities remains launching an access program for scientists to use our most capable models. We expect to share more on this soon. Opus 5 remains our most capable model available for life science research.",
+      "반응": 688,
+      "원저자": "@AnthropicAI",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 3.174
+    },
+    {
+      "id": "CBMiU0FVX3lxTE94d3d0S0RPMkstQzNXYlpoUHRF-0568e70b",
+      "출처": "코딩에이전트 (구글뉴스)",
+      "제목": "Has Codex Started to Strike Back Against Claude Code? Key AI Code Assistant Showdown - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94d3d0S0RPMkstQzNXYlpoUHRFeTRvcTJoMVpJWTdncWdkbGtRakdWaDEzMXhDZmhIU2Z1a1BiQ0llRFZJWGdMM2VHZmI2bWpHR2ww?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94d3d0S0RPMkstQzNXYlpoUHRFeTRvcTJoMVpJWTdncWdkbGtRakdWaDEzMXhDZmhIU2Z1a1BiQ0llRFZJWGdMM2VHZmI2bWpHR2ww?oc=5",
+      "발행": "2026-08-22T08:54:54+00:00",
+      "요약": "Has Codex Started to Strike Back Against Claude Code? Key AI Code Assistant Showdown    36 Kr",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [
+        "claude code",
+        "codex"
+      ],
+      "점수": 3.16
+    },
+    {
+      "id": "2089842394527301881-76bfb7f7",
+      "출처": "X @AnthropicAI",
+      "제목": "For more on how Claude ran this experiment and the full results, see our blog: https://t.co/48COrpUcJn",
+      "url": "https://x.com/AnthropicAI/status/2089842394527301881",
+      "정규url": "https://x.com/AnthropicAI/status/2089842394527301881",
+      "발행": "2026-08-18T22:30:28+00:00",
+      "요약": "For more on how Claude ran this experiment and the full results, see our blog: https://t.co/48COrpUcJn",
+      "반응": 631,
+      "원저자": "@AnthropicAI",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 3.15
     },
     {
       "id": "proliferate-aed0c7e6",
@@ -802,43 +932,7 @@
         "cursor",
         "coding agent"
       ],
-      "점수": 3.304
-    },
-    {
-      "id": "CBMiU0FVX3lxTE94d3d0S0RPMkstQzNXYlpoUHRF-0568e70b",
-      "출처": "코딩에이전트 (구글뉴스)",
-      "제목": "Has Codex Started to Strike Back Against Claude Code? Key AI Code Assistant Showdown - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94d3d0S0RPMkstQzNXYlpoUHRFeTRvcTJoMVpJWTdncWdkbGtRakdWaDEzMXhDZmhIU2Z1a1BiQ0llRFZJWGdMM2VHZmI2bWpHR2ww?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94d3d0S0RPMkstQzNXYlpoUHRFeTRvcTJoMVpJWTdncWdkbGtRakdWaDEzMXhDZmhIU2Z1a1BiQ0llRFZJWGdMM2VHZmI2bWpHR2ww?oc=5",
-      "발행": "2026-08-22T08:54:54+00:00",
-      "요약": "Has Codex Started to Strike Back Against Claude Code? Key AI Code Assistant Showdown    36Kr",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [
-        "claude code",
-        "codex"
-      ],
-      "점수": 3.299
-    },
-    {
-      "id": "CBMiW0FVX3lxTFBkVlB4MzFXNzdfWFZyYmVjOWF5-a549a937",
-      "출처": "코딩에이전트 (구글뉴스)",
-      "제목": "Free Local AI Is WILDLY Good Now (Replace Claude Code & Codex) Francesca Manzini (JFxeWC3FAG) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVlB4MzFXNzdfWFZyYmVjOWF5TUVKSk9QNDV3TU8zNlVlWFlFR1NpOURFWE03QUxhcnR2dXFIYVVJWkd6MXJkdU1XR3ZKNkVfaGNycHVneGo5WXM?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVlB4MzFXNzdfWFZyYmVjOWF5TUVKSk9QNDV3TU8zNlVlWFlFR1NpOURFWE03QUxhcnR2dXFIYVVJWkd6MXJkdU1XR3ZKNkVfaGNycHVneGo5WXM?oc=5",
-      "발행": "2026-08-22T08:47:59+00:00",
-      "요약": "Free Local AI Is WILDLY Good Now (Replace Claude Code & Codex) Francesca Manzini (JFxeWC3FAG)    Mshale",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [
-        "claude code",
-        "codex"
-      ],
-      "점수": 3.296
+      "점수": 3.145
     },
     {
       "id": "CBMiVkFVX3lxTFBZY01KNjdmUlNITHc1azViU19k-bbd0f173",
@@ -853,67 +947,7 @@
       "본문파일": "2026-08-23/원문/CBMiVkFVX3lxTFBZY01KNjdmUlNITHc1azViU19k-bbd0f173.md",
       "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
       "관심주제": [],
-      "점수": 3.241
-    },
-    {
-      "id": "2089842391918563599-3547270b",
-      "출처": "X @AnthropicAI",
-      "제목": "Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of de",
-      "url": "https://x.com/AnthropicAI/status/2089842391918563599",
-      "정규url": "https://x.com/AnthropicAI/status/2089842391918563599",
-      "발행": "2026-08-18T22:30:28+00:00",
-      "요약": "Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before",
-      "반응": 830,
-      "원저자": "@AnthropicAI",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 3.225
-    },
-    {
-      "id": "how-texas-student-blew-whistle-rogue-ai-a21f2900",
-      "출처": "Hacker News",
-      "제목": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "정규url": "https://reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "발행": "2026-08-21T13:43:33+00:00",
-      "요약": "",
-      "반응": 78,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 3.196
-    },
-    {
-      "id": "2089842393218777151-8fba1659",
-      "출처": "X @AnthropicAI",
-      "제목": "One of our highest priorities remains launching an access program for scientists to use our most capable models. We expe",
-      "url": "https://x.com/AnthropicAI/status/2089842393218777151",
-      "정규url": "https://x.com/AnthropicAI/status/2089842393218777151",
-      "발행": "2026-08-18T22:30:28+00:00",
-      "요약": "One of our highest priorities remains launching an access program for scientists to use our most capable models. We expect to share more on this soon. Opus 5 remains our most capable model available for life science research.",
-      "반응": 688,
-      "원저자": "@AnthropicAI",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 3.174
-    },
-    {
-      "id": "2089842394527301881-76bfb7f7",
-      "출처": "X @AnthropicAI",
-      "제목": "For more on how Claude ran this experiment and the full results, see our blog: https://t.co/48COrpUcJn",
-      "url": "https://x.com/AnthropicAI/status/2089842394527301881",
-      "정규url": "https://x.com/AnthropicAI/status/2089842394527301881",
-      "발행": "2026-08-18T22:30:28+00:00",
-      "요약": "For more on how Claude ran this experiment and the full results, see our blog: https://t.co/48COrpUcJn",
-      "반응": 630,
-      "원저자": "@AnthropicAI",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 3.15
+      "점수": 3.089
     },
     {
       "id": "2089842395722678689-5bb8b939",
@@ -923,7 +957,7 @@
       "정규url": "https://x.com/AnthropicAI/status/2089842395722678689",
       "발행": "2026-08-18T22:30:29+00:00",
       "요약": "We're also publishing a technical report: https://t.co/Ltcqemzn5Z\n\nAnd open-sourcing our prompts and data here: https://t.co/OZXVQWSie2",
-      "반응": 499,
+      "반응": 500,
       "원저자": "@AnthropicAI",
       "본문파일": null,
       "본문상태": "미확보",
@@ -945,7 +979,7 @@
       "관심주제": [
         "coding agent"
       ],
-      "점수": 3.08
+      "점수": 2.931
     },
     {
       "id": "CBMifkFVX3lxTFB0SE5IbE1fMVVDdHhYNWlUZzg3-9c63d718",
@@ -960,24 +994,22 @@
       "본문파일": "2026-08-23/원문/CBMifkFVX3lxTFB0SE5IbE1fMVVDdHhYNWlUZzg3-9c63d718.md",
       "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
       "관심주제": [],
-      "점수": 3.048
+      "점수": 2.895
     },
     {
-      "id": "CBMiV0FVX3lxTFA0OWxCRkd3RllzSFVCS1Atb3Vx-e383c10d",
-      "출처": "코딩에이전트 (구글뉴스)",
-      "제목": "Spline rebuilt its entire 3D editor. Then it handed the keys to Claude Code. - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0OWxCRkd3RllzSFVCS1Atb3VxN0E4SzJxaVpKQjZlZlFNc1NvN0N6UVVUQms1X0EwWnRGZWF6a2h6MlFXd0Q5SkJKeHcwMUJCTnBXdmlGcw?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0OWxCRkd3RllzSFVCS1Atb3VxN0E4SzJxaVpKQjZlZlFNc1NvN0N6UVVUQms1X0EwWnRGZWF6a2h6MlFXd0Q5SkJKeHcwMUJCTnBXdmlGcw?oc=5",
-      "발행": "2026-08-21T20:14:32+00:00",
-      "요약": "Spline rebuilt its entire 3D editor. Then it handed the keys to Claude Code.    The New Stack",
-      "반응": 0,
-      "원저자": "",
+      "id": "2090165329867743501-d1c1a513",
+      "출처": "X @OpenAI",
+      "제목": "https://t.co/skOPiN5ltz",
+      "url": "https://x.com/OpenAI/status/2090165329867743501",
+      "정규url": "https://x.com/OpenAI/status/2090165329867743501",
+      "발행": "2026-08-19T19:53:42+00:00",
+      "요약": "https://t.co/skOPiN5ltz",
+      "반응": 227,
+      "원저자": "@OpenAI",
       "본문파일": null,
       "본문상태": "미확보",
-      "관심주제": [
-        "claude code"
-      ],
-      "점수": 2.979
+      "관심주제": [],
+      "점수": 2.874
     },
     {
       "id": "2090488285198250017-60235a0d",
@@ -987,12 +1019,12 @@
       "정규url": "https://x.com/OpenAI/status/2090488285198250017",
       "발행": "2026-08-20T17:17:01+00:00",
       "요약": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.",
-      "반응": 85,
+      "반응": 86,
       "원저자": "@OpenAI",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 2.976
+      "점수": 2.872
     },
     {
       "id": "linus-torvalds-686686b8",
@@ -1007,7 +1039,22 @@
       "본문파일": "2026-08-23/원문/linus-torvalds-686686b8.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.972
+      "점수": 2.858
+    },
+    {
+      "id": "llm-43aa0c03",
+      "출처": "Simon Willison",
+      "제목": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "정규url": "https://simonwillison.net/2026/Aug/22/llm",
+      "발행": "2026-08-22T17:01:16+00:00",
+      "요약": "Release: llm 0.33 \n\n My highlights from this release:\n\n \n \n Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 \n \n \n I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix.\n\n \n \n llm embed and llm embed-multi now accept --key . The Python EmbeddingModel.embed() , EmbeddingModel.embed_multi() , Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins without changing shared model state. Existing plugins that read self.key continue to work through a compatibility fallback. Thanks, ChrisJr404 . #757 , #1620 \n \n \n The embedding models now use the same pattern for keys that regular LLM models do.\n\n \n \n llm prompt -t/--template can now be repeated to combine templates in order. This allows model configuration and options from one template to be used with a prompt from another. \n \n \n This unlocks a neat pattern where you can create templates that package a model with a set of default options:\n\n llm -m gpt-5.6-luna -o reasoning_effort high --save lhigh\nllm \"Generate an SVG of a pelican riding a bicycle\" --save pelican\n# ",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/llm-43aa0c03.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.773
     },
     {
       "id": "37674-f8d5e817",
@@ -1024,37 +1071,7 @@
       "관심주제": [
         "codex"
       ],
-      "점수": 2.915
-    },
-    {
-      "id": "llm-43aa0c03",
-      "출처": "Simon Willison",
-      "제목": "llm 0.33",
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "정규url": "https://simonwillison.net/2026/Aug/22/llm",
-      "발행": "2026-08-22T17:01:16+00:00",
-      "요약": "Release: llm 0.33 \n\n My highlights from this release:\n\n \n \n Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 \n \n \n I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix.\n\n \n \n llm embed and llm embed-multi now accept --key . The Python EmbeddingModel.embed() , EmbeddingModel.embed_multi() , Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins without changing shared model state. Existing plugins that read self.key continue to work through a compatibility fallback. Thanks, ChrisJr404 . #757 , #1620 \n \n \n The embedding models now use the same pattern for keys that regular LLM models do.\n\n \n \n llm prompt -t/--template can now be repeated to combine templates in order. This allows model configuration and options from one template to be used with a prompt from another. \n \n \n This unlocks a neat pattern where you can create templates that package a model with a set of default options:\n\n llm -m gpt-5.6-luna -o reasoning_effort high --save lhigh\nllm \"Generate an SVG of a pelican riding a bicycle\" --save pelican\n# ",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/llm-43aa0c03.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.888
-    },
-    {
-      "id": "2090165329867743501-d1c1a513",
-      "출처": "X @OpenAI",
-      "제목": "https://t.co/skOPiN5ltz",
-      "url": "https://x.com/OpenAI/status/2090165329867743501",
-      "정규url": "https://x.com/OpenAI/status/2090165329867743501",
-      "발행": "2026-08-19T19:53:42+00:00",
-      "요약": "https://t.co/skOPiN5ltz",
-      "반응": 223,
-      "원저자": "@OpenAI",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 2.869
+      "점수": 2.756
     },
     {
       "id": "CBMihwFBVV95cUxQTy01a2tBQ2pFMjJHZ2xrVHRj-4fd96c9b",
@@ -1069,7 +1086,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 2.754
+      "점수": 2.601
     },
     {
       "id": "CBMia0FVX3lxTE1ENGx4SFozbWxiclFrTmM3N2ow-e93e1917",
@@ -1086,7 +1103,40 @@
       "관심주제": [
         "claude code"
       ],
-      "점수": 2.718
+      "점수": 2.579
+    },
+    {
+      "id": "i-fine-tuned-gemma-4-12b-for-a-27x-impro-a9c3dbc4",
+      "출처": "Reddit r/LocalLLaMA",
+      "제목": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
+      "정규url": "https://reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on",
+      "발행": "2026-08-23T01:30:21+00:00",
+      "요약": "Gemma 12B is obviously a very well trained model, I always thought the fine tuning they did on it wasn't really cut out for agentic coding. From my own experiences it struggles to use the tools it's given from Github Copilot and is also very inept at the cli too.\n So I thought I'd kill two birds with one stone and fine tune it for tool call use and the command line. Not only did I see an improvement on tool usage I also saw a 15.7% increase in the number of tool calls it tries to emit which is great since it means the model gets to work more instead of getting too lost in it's reasoning.\n I have fp16 -> Q4_K_M weights uploaded and ready for use with llama.cpp or ollama\n submitted by /u/TheOneWhoWil \n [link] [댓글]",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/i-fine-tuned-gemma-4-12b-for-a-27x-impro-a9c3dbc4.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [
+        "copilot",
+        "agentic"
+      ],
+      "점수": 2.557
+    },
+    {
+      "id": "3mtpu3uybbc2j-a404454a",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "It is one of the things that I think is being lost in the good versus evil AI debates. These models, as they are today,",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtpu3uybbc2j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtpu3uybbc2j",
+      "발행": "2026-08-23T03:32:08.738000+00:00",
+      "요약": "It is one of the things that I think is being lost in the good versus evil AI debates. These models, as they are today, are actually capable of solving some very hard, very real problems. I worry that the groups that most try to help people with these problems are those most rejecting AI reflexively",
+      "반응": 13,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-23/원문/3mtpu3uybbc2j-a404454a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.512
     },
     {
       "id": "bringing-claude-mythos-5-to-more-defende-62928a83",
@@ -1101,37 +1151,39 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 2.587
+      "점수": 2.464
     },
     {
-      "id": "3mtncr3ccls2j-5e4d6944",
+      "id": "3mtpup2pdhk2j-7b33156e",
       "출처": "Bluesky emollick.bsky.social",
-      "제목": "Fable: \"I want a twigl shader that renders Lost Carcosa from The King in Yellow. Nail the mood.\"\n\n(Shaders are procedura",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtncr3ccls2j",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtncr3ccls2j",
-      "발행": "2026-08-22T03:16:33.172000+00:00",
-      "요약": "Fable: \"I want a twigl shader that renders Lost Carcosa from The King in Yellow. Nail the mood.\"\n\n(Shaders are procedurally generated using math alone)\ntwigl.app?ol=true&ss=-...\n\nAlong the shore the cloud waves break,\nThe twin suns sink behind the lake,\nThe shadows lengthen\n In Carcosa",
-      "반응": 40,
+      "제목": "Unfortunately, consumer Copilot is quite bad. Most of the value comes from a frontier model- GPT-5.6 Sol or Claude Fable",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtpup2pdhk2j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtpup2pdhk2j",
+      "발행": "2026-08-23T03:42:52.271000+00:00",
+      "요약": "Unfortunately, consumer Copilot is quite bad. Most of the value comes from a frontier model- GPT-5.6 Sol or Claude Fable/Opus or, if you want to use an open weights model that is not quite as good or as proven but is open weights, Kimi K3.",
+      "반응": 0,
       "원저자": "emollick.bsky.social",
-      "본문파일": "2026-08-23/원문/3mtncr3ccls2j-5e4d6944.md",
+      "본문파일": "2026-08-23/원문/3mtpup2pdhk2j-7b33156e.md",
       "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.569
+      "관심주제": [
+        "copilot"
+      ],
+      "점수": 2.337
     },
     {
-      "id": "3mtoqmmir422j-a9d88b60",
+      "id": "3mtpufvpqvs2j-3f2a3a5c",
       "출처": "Bluesky emollick.bsky.social",
-      "제목": "(To make this work you need to run the ChatGPT or Claude apps on your computer and turn on browser control, which means",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtoqmmir422j",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtoqmmir422j",
-      "발행": "2026-08-22T16:57:15.561000+00:00",
-      "요약": "(To make this work you need to run the ChatGPT or Claude apps on your computer and turn on browser control, which means you need to trust the models to do that. Definitely check the work carefully first until you understand where they might fail, though I bet even with checking you will save time)",
-      "반응": 14,
+      "제목": "(One paper from the research on AI giving good financial advice I referenced)",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtpufvpqvs2j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtpufvpqvs2j",
+      "발행": "2026-08-23T03:37:45.051000+00:00",
+      "요약": "(One paper from the research on AI giving good financial advice I referenced)",
+      "반응": 6,
       "원저자": "emollick.bsky.social",
-      "본문파일": "2026-08-23/원문/3mtoqmmir422j-a9d88b60.md",
+      "본문파일": "2026-08-23/원문/3mtpufvpqvs2j-3f2a3a5c.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.467
+      "점수": 2.325
     },
     {
       "id": "from-atari-to-eve-online-building-on-15-e42b7af4",
@@ -1146,7 +1198,7 @@
       "본문파일": "2026-08-23/원문/from-atari-to-eve-online-building-on-15-e42b7af4.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.435
+      "점수": 2.313
     },
     {
       "id": "llm-10e3fbb0",
@@ -1161,7 +1213,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 2.393
+      "점수": 2.278
     },
     {
       "id": "llm-openrouter-663269e9",
@@ -1176,7 +1228,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 2.387
+      "점수": 2.272
     },
     {
       "id": "matt-webb-5d288314",
@@ -1191,7 +1243,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 2.348
+      "점수": 2.233
     },
     {
       "id": "ainews-10-worse-100x-cheaper-10000x-1053fe39",
@@ -1206,7 +1258,7 @@
       "본문파일": "2026-08-23/원문/ainews-10-worse-100x-cheaper-10000x-1053fe39.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.153
+      "점수": 2.062
     },
     {
       "id": "attention-interface-97dbda39",
@@ -1221,7 +1273,22 @@
       "본문파일": "2026-08-23/원문/attention-interface-97dbda39.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.152
+      "점수": 2.06
+    },
+    {
+      "id": "the-all-spark-cluster-upgrading-from-16-4af66509",
+      "출처": "Reddit r/LocalLLaMA",
+      "제목": "“The All Spark” Cluster: Upgrading from 16 - 36 DGX Sparks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx/",
+      "정규url": "https://reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx",
+      "발행": "2026-08-23T02:38:29+00:00",
+      "요약": "Earlier this year I posted about building what at the time I believe was the first 16x DGX Spark Cluster.\n I’m now adding 20 more Sparks to the cluster in my homelab server rack, giving me 4.6TB of unified memory.\n • 36x Sparks\n • 1x 200Gbps FS 24 x 200Gb QSFP56 + 8x 400Gb Switch\n • 24x QSFP56 DAC cables\n • 6x 400gb to 2x 200gb breakout cables\n Over the last 4+ months i’ve been running nearly every notable model that’s landed. The cluster however isn’t just being used to serve single inference points, I’ve split the cluster up to house “inference modules” that get managed into a single persistent agent using a combination of Hermes + a custom memory sidecar system i’ve built. It’s become an agent capability cluster more than just one big inference machine:\n I’m expanding the cluster to 36 now because I want 16 nodes dedicated to SOTA models such as Kimi K3 while being able to retain enough nodes to perform rerank/embeddings tasks, video generation, Image gen, audio processing etc all simultaneously. \n Now, you may ask why not just buy 6000 Pros, or B200s or even a B300 and the answer comes down to a few reasons. \n 1) This server rack will also have 2 6000 pro systems (a 4x Max Q lo",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/the-all-spark-cluster-upgrading-from-16-4af66509.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
+      "점수": 1.982
     },
     {
       "id": "an-ai-tool-for-prioritizing-candidate-bi-327948d9",
@@ -1236,7 +1303,127 @@
       "본문파일": "2026-08-23/원문/an-ai-tool-for-prioritizing-candidate-bi-327948d9.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.07
+      "점수": 1.97
+    },
+    {
+      "id": "closed-ai-has-been-real-quiet-since-qwen-c73e0af0",
+      "출처": "Reddit r/LocalLLaMA",
+      "제목": "Closed AI has been real quiet since Qwen 3.8 27B dropped.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvt7lo/closed_ai_has_been_real_quiet_since_qwen_38_27b/",
+      "정규url": "https://reddit.com/r/LocalLLaMA/comments/1vvt7lo/closed_ai_has_been_real_quiet_since_qwen_38_27b",
+      "발행": "2026-08-23T00:59:42+00:00",
+      "요약": "This is something I've noticed. Back when GLM 5.2 and Kimi K3 launched, there was a media push on pushing how dangerous open source models are. \n We know why they were doing this; these open models are good enough to devalue paid closed models. I think the fear mongering was to protect their IPOs. Honestly, it backlashed. \n 3.8 27B is the truly dangerous model for their profits. People can run this at home for free with 16GB of VRAM. \n Notice how closed AI is tight lipped this time. They have learned their lesson. 3.8 27B is an insanely good model anyone who really wants to, can run. \n I would love to see an uncensored 3.8 27B break out of a sandbox. \n submitted by /u/My_Unbiased_Opinion \n [link] [댓글]",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/closed-ai-has-been-real-quiet-since-qwen-c73e0af0.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
+      "점수": 1.96
+    },
+    {
+      "id": "CBMiakFVX3lxTE1FRWdjOWtFaWpvMVZJLTF2Wkh4-c558ba7c",
+      "출처": "클로드/OpenAI 국내",
+      "제목": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FRWdjOWtFaWpvMVZJLTF2Wkh4WFUtemJ4WEVCUmE1QXctQ3ZrLVdnTHUwQUNxTEgtSGJnRjNreGVPazVFZHhXYnNjckpla3J5Vk4zOTFVUkNYMXdNZTZEVC0xMVRiSnozQmc?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FRWdjOWtFaWpvMVZJLTF2Wkh4WFUtemJ4WEVCUmE1QXctQ3ZrLVdnTHUwQUNxTEgtSGJnRjNreGVPazVFZHhXYnNjckpla3J5Vk4zOTFVUkNYMXdNZTZEVC0xMVRiSnozQmc?oc=5",
+      "발행": "2026-08-23T00:45:49+00:00",
+      "요약": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회    AI타임스",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/CBMiakFVX3lxTE1FRWdjOWtFaWpvMVZJLTF2Wkh4-c558ba7c.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
+      "점수": 1.956
+    },
+    {
+      "id": "CBMigAFBVV95cUxQUXVyZTZ2ZHI3SmFEbFVUX2NX-f4a3aad0",
+      "출처": "클로드/OpenAI 국내",
+      "제목": "\"챗GPT 써도 됩니다”…금감원 직원들도 업무 중 생성형 AI 활용 - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXVyZTZ2ZHI3SmFEbFVUX2NXMS0xeHlUaThDeGR6LVNkNUROUU5WSkNvcThiSk80N2c5MkpfZEVWbjZNemFZWTVHcEk2b2E1dGc4aW5yaVgyeWRnd2I2Z3oxeXprRjZFMjQxb2VXX21xRk4xTkdmdWFQRVpoa2ZDVQ?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXVyZTZ2ZHI3SmFEbFVUX2NXMS0xeHlUaThDeGR6LVNkNUROUU5WSkNvcThiSk80N2c5MkpfZEVWbjZNemFZWTVHcEk2b2E1dGc4aW5yaVgyeWRnd2I2Z3oxeXprRjZFMjQxb2VXX21xRk4xTkdmdWFQRVpoa2ZDVQ?oc=5",
+      "발행": "2026-08-23T00:26:34+00:00",
+      "요약": "\"챗GPT 써도 됩니다”…금감원 직원들도 업무 중 생성형 AI 활용    edaily.co.kr",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/CBMigAFBVV95cUxQUXVyZTZ2ZHI3SmFEbFVUX2NX-f4a3aad0.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
+      "점수": 1.952
+    },
+    {
+      "id": "coding-is-solved-bugs-are-not-yet-solved-8186b883",
+      "출처": "Reddit r/singularity",
+      "제목": "Coding Is solved, Bugs are Not Yet Solved",
+      "url": "https://www.reddit.com/r/singularity/comments/1vvsh6l/coding_is_solved_bugs_are_not_yet_solved/",
+      "정규url": "https://reddit.com/r/singularity/comments/1vvsh6l/coding_is_solved_bugs_are_not_yet_solved",
+      "발행": "2026-08-23T00:24:55+00:00",
+      "요약": "Driving is solved, car crashes are not yet solved.\n Flying is solved, turbulence is not yet solved.\n Drinking is solved, hangovers are not yet solved.\n Cancer is solved, surviving is not yet solved.\n Medicine is solved, diseases are not yet solved.\n submitted by /u/YakFull8300 \n [link] [comments]",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/coding-is-solved-bugs-are-not-yet-solved-8186b883.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
+      "점수": 1.952
+    },
+    {
+      "id": "CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxW-bd5f42a8",
+      "출처": "클로드/OpenAI 국내",
+      "제목": "요즘 클로드가 한국어를 어색하게 쓴다고 느꼈다면 - 요즘IT",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ?oc=5",
+      "발행": "2026-08-23T00:22:31+00:00",
+      "요약": "요즘 클로드가 한국어를 어색하게 쓴다고 느꼈다면    요즘IT",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxW-bd5f42a8.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
+      "점수": 1.951
+    },
+    {
+      "id": "CBMiS0FVX3lxTE0wMmpWWGlseUxwU3BLeFFlV2Zw-ec66a35e",
+      "출처": "클로드/OpenAI 국내",
+      "제목": "오픈AI '청소년' vs 구글 '대학생'⋯AI 격전지 된 교실 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wMmpWWGlseUxwU3BLeFFlV2ZwNGhJSk1peFZIYTFVVlQ3X1hPRnhNSXpzQ0pKX2MwejFFN0piOEl3TXN2bW1TRDZvMA?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wMmpWWGlseUxwU3BLeFFlV2ZwNGhJSk1peFZIYTFVVlQ3X1hPRnhNSXpzQ0pKX2MwejFFN0piOEl3TXN2bW1TRDZvMA?oc=5",
+      "발행": "2026-08-23T00:10:01+00:00",
+      "요약": "오픈AI '청소년' vs 구글 '대학생'⋯AI 격전지 된 교실    아이뉴스24",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-23/원문/CBMiS0FVX3lxTE0wMmpWWGlseUxwU3BLeFFlV2Zw-ec66a35e.md",
+      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "관심주제": [],
+      "점수": 1.948
+    },
+    {
+      "id": "CBMiXkFVX3lxTE9helZrdDBocEZfY3dEaThqNnYz-6c4d2fb4",
+      "출처": "클로드/OpenAI 국내",
+      "제목": "앤트로픽 내부에 미토스보다 강력한 AI 모델 있다? - 스타트업레시피",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9helZrdDBocEZfY3dEaThqNnYzbzBFY3VaN242UFc3ajNHRUxLVV9UMjBnSms5NHNVTUJkb2J0TlFmWF9WNFBqcVF5M1IzYUhteFM3Q3NVWGdYQ0ZwZ3c?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9helZrdDBocEZfY3dEaThqNnYzbzBFY3VaN242UFc3ajNHRUxLVV9UMjBnSms5NHNVTUJkb2J0TlFmWF9WNFBqcVF5M1IzYUhteFM3Q3NVWGdYQ0ZwZ3c?oc=5",
+      "발행": "2026-08-22T23:00:11+00:00",
+      "요약": "앤트로픽 내부에 미토스보다 강력한 AI 모델 있다?    스타트업레시피",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.932
+    },
+    {
+      "id": "CBMiU0FVX3lxTE1mNGF1My1mZERMNlBTUjhVSVRG-a03f611f",
+      "출처": "클로드/OpenAI 국내",
+      "제목": "방탄소년단 지민, '제미나이' 활용해 팬들과 깊이 있는 소통…진정성 담은 진면모 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mNGF1My1mZERMNlBTUjhVSVRGZTZmVGptdW52OWVUNjNfUnYyWUlWUVlzUEtJV1gtdTdYSTAyTWNCeG1Zdkk3M05tdE1XQTcxRXBB?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mNGF1My1mZERMNlBTUjhVSVRGZTZmVGptdW52OWVUNjNfUnYyWUlWUVlzUEtJV1gtdTdYSTAyTWNCeG1Zdkk3M05tdE1XQTcxRXBB?oc=5",
+      "발행": "2026-08-22T22:55:00+00:00",
+      "요약": "방탄소년단 지민, '제미나이' 활용해 팬들과 깊이 있는 소통…진정성 담은 진면모    네이트",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.931
     },
     {
       "id": "simile-bc41cb7a",
@@ -1251,7 +1438,7 @@
       "본문파일": "2026-08-23/원문/simile-bc41cb7a.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.02
+      "점수": 1.929
     },
     {
       "id": "harvards-699-startup-bootcamp-offers-ai-ca1bb3e8",
@@ -1266,22 +1453,7 @@
       "본문파일": "2026-08-23/원문/harvards-699-startup-bootcamp-offers-ai-ca1bb3e8.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 1.991
-    },
-    {
-      "id": "i-benchmark-dflash-2-pr-build-in-llamacp-9bdb14b5",
-      "출처": "Reddit r/LocalLLaMA",
-      "제목": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen/",
-      "정규url": "https://reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen",
-      "발행": "2026-08-22T20:41:35+00:00",
-      "요약": "Hey guys,\n Inco AI shipped DFlash 2 a few days ago with a drafter for Qwen 3.8 27B and a llama.cpp PR. I built the PR and ran it against plain decoding, MTP, the n-gram lookup drafters, and my July DFlash 1 numbers on Qwen 3.6 27B for 3 days. One RTX PRO 6000, concurrency 1, about three days of runs.\n The interesting result isn't the biggest number I measured. It's where n-gram actually helps and where it doesn't.\n Short version: \n DFlash 2 alone: 2.26x on 100 real LiveCodeBench problems (67.97 → 153.91 tok/s, inter-token latency 14.27 → 6.02 ms), natural stop, nothing forced. That is the headline. Costs +2.7 GB VRAM. DFlash 2 + one n-gram lookup table ( ngram-map-k4v ): 4.68x on the build phase of an 18-turn coding session (65.1 → 304.9 tok/s). Adding the second table ( ngram-mod ) made it slower, 3.77x. In July, with DFlash 1, stacking both was the winner. I did not expect that to flip. The same n-gram flag is +52% on a synthetic benchmark, +1% on LiveCodeBench and -30% on prose. The +52% is the harness degenerating, do not quote it. The recommended --spec-draft-n-max 7 is past the peak. 5 gave roughly 11% more on 8K coding prompts. 7 is also a hard cap (block_size 8), anything a",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/i-benchmark-dflash-2-pr-build-in-llamacp-9bdb14b5.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
-      "관심주제": [],
-      "점수": 1.976
+      "점수": 1.915
     },
     {
       "id": "new-100b-liquid-ai-model-coming-soon-78941616",
@@ -1293,10 +1465,10 @@
       "요약": "Liquid AI currently possesses among the fastest LLM architectures around, and some of the best SLMs (in terms of utility IMO) around, so I'm very excited to see what a potential 100B LFM (3?) model would look like!\n Link to the poll: https://x.com/ramin_m_h/status/2091236099612098943?s=20 \n submitted by /u/KaroYadgar \n [link] [댓글]",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/new-100b-liquid-ai-model-coming-soon-78941616.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "본문파일": null,
+      "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.972
+      "점수": 1.896
     },
     {
       "id": "whrg26-featured-the-firstever-livestream-0b80b0cf",
@@ -1308,10 +1480,10 @@
       "요약": "submitted by /u/Distinct-Question-16 \n [link] [comments]",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/whrg26-featured-the-firstever-livestream-0b80b0cf.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "본문파일": null,
+      "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.971
+      "점수": 1.895
     },
     {
       "id": "CBMia0FVX3lxTE5ydVF3Nm54YzJnelhHcXJhSzkz-671f8ac3",
@@ -1323,25 +1495,10 @@
       "요약": "챗GPT·클로드 구독료 10% 할인…‘카카오뱅크 착붙 신한카드’ 출시    issueon.co.kr",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/CBMia0FVX3lxTE5ydVF3Nm54YzJnelhHcXJhSzkz-671f8ac3.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "본문파일": null,
+      "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.963
-    },
-    {
-      "id": "CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxW-bd5f42a8",
-      "출처": "클로드/OpenAI 국내",
-      "제목": "요즘 클로드가 한국어를 어색하게 쓴다고 느꼈다면 - 요즘IT",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxWQ245MEJXVDQ1XzgzM3MydlowQk5oLUxUNXFsUVBhZ3JLWmo2N25ZSlZ3NFdNU2Y4MlNRaTdtS2JEN0djRXQwQQ?oc=5",
-      "발행": "2026-08-22T19:20:42+00:00",
-      "요약": "요즘 클로드가 한국어를 어색하게 쓴다고 느꼈다면    요즘IT",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/CBMiWkFVX3lxTE5RUExIRGsyM21YVGdBanBObGxW-bd5f42a8.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
-      "관심주제": [],
-      "점수": 1.957
+      "점수": 1.886
     },
     {
       "id": "inherent-founded-by-deepmind-alumni-says-683931e3",
@@ -1353,25 +1510,10 @@
       "요약": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/inherent-founded-by-deepmind-alumni-says-683931e3.md",
-      "본문상태": "확인 완료",
+      "본문파일": null,
+      "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.953
-    },
-    {
-      "id": "CBMihwJBVV95cUxQdEFUVnpteFRPZnVVZ1J5V0NN-58a2049c",
-      "출처": "클로드/OpenAI 국내",
-      "제목": "문화유산의 날 2026: 아르장뇌(95)에서 열리는 클로드 모네의 인상파 가옥 미술관 프로그램 - Sortir à Paris",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdEFUVnpteFRPZnVVZ1J5V0NNRXpnbXJsajh2ckJkVHpERmZiOHZYa0RYbF9STU9NYnd6R1ktcEc4OF80RGpwWTNDdERydkFaSlZsVENQbFdLdFlzdHBFanItaTQ2YkVEQXlCazgwMlNESGdlRGV3bWpXQW1DbENYUU9FQVVCQmZzbVdEX2ZFWkVsdDYtRVNVUXpPQS1hTVJwNUZJTW5xY3hORWVNOFNtaUgzbWlSYnIxY2R5YzhWWVlCVG9BSk14VUd5djh3MDVNUmpORkdtN0xaUW1FYncwYVlyZF9XVm9WSWJwY1VOcHBjVjJJSEh4cHJZY2FVbDJzakJoXzM5NA?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdEFUVnpteFRPZnVVZ1J5V0NNRXpnbXJsajh2ckJkVHpERmZiOHZYa0RYbF9STU9NYnd6R1ktcEc4OF80RGpwWTNDdERydkFaSlZsVENQbFdLdFlzdHBFanItaTQ2YkVEQXlCazgwMlNESGdlRGV3bWpXQW1DbENYUU9FQVVCQmZzbVdEX2ZFWkVsdDYtRVNVUXpPQS1hTVJwNUZJTW5xY3hORWVNOFNtaUgzbWlSYnIxY2R5YzhWWVlCVG9BSk14VUd5djh3MDVNUmpORkdtN0xaUW1FYncwYVlyZF9XVm9WSWJwY1VOcHBjVjJJSEh4cHJZY2FVbDJzakJoXzM5NA?oc=5",
-      "발행": "2026-08-22T18:38:43+00:00",
-      "요약": "문화유산의 날 2026: 아르장뇌(95)에서 열리는 클로드 모네의 인상파 가옥 미술관 프로그램    Sortir à Paris",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-08-23/원문/CBMihwJBVV95cUxQdEFUVnpteFRPZnVVZ1J5V0NN-58a2049c.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
-      "관심주제": [],
-      "점수": 1.948
+      "점수": 1.876
     },
     {
       "id": "lets-hide-data-centers-in-cities-with-gr-6a9fc436",
@@ -1383,10 +1525,10 @@
       "요약": "Embrace the Conpute with art. \n submitted by /u/twist_games \n [link] [comments]",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/lets-hide-data-centers-in-cities-with-gr-6a9fc436.md",
-      "본문상태": "일부 확인 (본문이 짧게만 잡힘)",
+      "본문파일": null,
+      "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.933
+      "점수": 1.857
     },
     {
       "id": "93-secondshumanoid-robots-now-run-faster-e3098b9d",
@@ -1401,7 +1543,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.924
+      "점수": 1.848
     },
     {
       "id": "openai-says-california-should-strengthen-897fc0b9",
@@ -1413,10 +1555,10 @@
       "요약": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-08-23/원문/openai-says-california-should-strengthen-897fc0b9.md",
-      "본문상태": "확인 완료",
+      "본문파일": null,
+      "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.918
+      "점수": 1.842
     },
     {
       "id": "frontier-ai-labs-still-wont-say-how-they-f814008d",
@@ -1431,22 +1573,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.911
-    },
-    {
-      "id": "how-to-remove-trendy-speech-from-llms-58f4bf7b",
-      "출처": "Reddit r/LocalLLaMA",
-      "제목": "How to remove trendy speech from llms?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms/",
-      "정규url": "https://reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms",
-      "발행": "2026-08-22T15:26:22+00:00",
-      "요약": "For example:\n Instead of saying: \"I created this new ID\"\n It says: \"I minted this new ID\"\n Instead of: \"This alternative path is available\"\n It says: \"this escape hatch is available\"\n This speech is so nonsensical and annoying. Just. Speek. Literally ... OR NORMALLY. Where did LLMs learn these speech patterns? I've never seen them so frequently until AFTER the LLM surge.\n If I just add \"Don't use X language, speak normally and more literal\" will that fix most of the issues? Anyone else have some good sys prompts / instructions that help with this?\n Thanks!\n submitted by /u/CSEliot \n [link] [댓글]",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.903
+      "점수": 1.835
     },
     {
       "id": "CBMiVkFVX3lxTFBCYjBINXotMFBJYnN3ZHMwbG4w-4601ca05",
@@ -1461,7 +1588,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.896
+      "점수": 1.819
     },
     {
       "id": "this-is-a-great-sub-regardless-of-what-c-e1d52526",
@@ -1476,22 +1603,22 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.894
+      "점수": 1.817
     },
     {
-      "id": "modernas-vaccine-breakthrough-supported-f99d1919",
-      "출처": "Reddit r/singularity",
-      "제목": "Moderna's Vaccine Breakthrough Supported by AI: Musk Praises mRNA Despite 'Obvious Misuse During COVID'",
-      "url": "https://www.reddit.com/r/singularity/comments/1vvcmy2/modernas_vaccine_breakthrough_supported_by_ai/",
-      "정규url": "https://reddit.com/r/singularity/comments/1vvcmy2/modernas_vaccine_breakthrough_supported_by_ai",
-      "발행": "2026-08-22T13:35:46+00:00",
-      "요약": "submitted by /u/beingmodest \n [link] [comments]",
+      "id": "CBMiT0FVX3lxTE1Da3hPTWJBdHhKSHZRLTB0bEc3-ea711a3f",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "안양시, 전 직원 대상 '인공지능 경진대회' 수상 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Da3hPTWJBdHhKSHZRLTB0bEc3blNsQTd5bnlEVDEtby1PZHhvdEwzbXN1ZHZuZFVPR3VEX3hmWXZVakxEMklMRV82bTVlRU0?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Da3hPTWJBdHhKSHZRLTB0bEc3blNsQTd5bnlEVDEtby1PZHhvdEwzbXN1ZHZuZFVPR3VEX3hmWXZVakxEMklMRV82bTVlRU0?oc=5",
+      "발행": "2026-08-23T03:39:40+00:00",
+      "요약": "안양시, 전 직원 대상 '인공지능 경진대회' 수상    v.daum.net",
       "반응": 0,
       "원저자": "",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.878
+      "점수": 1.797
     },
     {
       "id": "CBMiSkFVX3lxTE9xdzRwZzE0ZHFQc0ppZlhvZncy-368d1deb",
@@ -1506,22 +1633,172 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.87
+      "점수": 1.794
     },
     {
-      "id": "think-youre-going-to-get-cheap-ddr5-ram-79e87f44",
-      "출처": "Reddit r/LocalLLaMA",
-      "제목": "Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv86lm/think_youre_going_to_get_cheap_ddr5_ram_think/",
-      "정규url": "https://reddit.com/r/LocalLLaMA/comments/1vv86lm/think_youre_going_to_get_cheap_ddr5_ram_think",
-      "발행": "2026-08-22T09:52:52+00:00",
-      "요약": "submitted by /u/DeltaSqueezer \n [link] [댓글]",
+      "id": "CBMiZ0FVX3lxTE5aSDFYMDlnRnV0MW9BUmVrSlRz-f4e416a8",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "전남광주통합특별시, \"인공지능·데이터 행정 혁신\" 지속 - 무등뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aSDFYMDlnRnV0MW9BUmVrSlRzUmZidGFWWmFGYTQxR3h2LVZySVB5ZXo0WkFJa08ydExSS3oyTzFTRTAzQk5uaE9Ya3F2bFFtMHNaMHlIWU5yQWgyYU43eXFpVGxWS0k?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aSDFYMDlnRnV0MW9BUmVrSlRzUmZidGFWWmFGYTQxR3h2LVZySVB5ZXo0WkFJa08ydExSS3oyTzFTRTAzQk5uaE9Ya3F2bFFtMHNaMHlIWU5yQWgyYU43eXFpVGxWS0k?oc=5",
+      "발행": "2026-08-23T02:44:09+00:00",
+      "요약": "전남광주통합특별시, \"인공지능·데이터 행정 혁신\" 지속    무등뉴스",
       "반응": 0,
       "원저자": "",
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.826
+      "점수": 1.785
+    },
+    {
+      "id": "CBMid0FVX3lxTFA4R1d0QllWOWJUNXNRNjZYRWFR-92cb3a1c",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "인공지능 시대에 우리가 개발해야 할 기술은 무엇일까요? - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4R1d0QllWOWJUNXNRNjZYRWFRRGNGWlRKZWM0N1VTeWJIams4Um9nZTJvMkw5V0dCaDhHeUs4VDFxemQ4eFIyU05WV0lhUVdnbHhKZ1RKb0JlMjJVZHM4eU85eVRTWXVsdV9LSDFTQjNTZ1RadHRZ?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4R1d0QllWOWJUNXNRNjZYRWFRRGNGWlRKZWM0N1VTeWJIams4Um9nZTJvMkw5V0dCaDhHeUs4VDFxemQ4eFIyU05WV0lhUVdnbHhKZ1RKb0JlMjJVZHM4eU85eVRTWXVsdV9LSDFTQjNTZ1RadHRZ?oc=5",
+      "발행": "2026-08-23T02:36:51+00:00",
+      "요약": "인공지능 시대에 우리가 개발해야 할 기술은 무엇일까요?    Vietnam.vn",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.784
+    },
+    {
+      "id": "CBMicEFVX3lxTFBxV0VNZzJoTkVYczVUQndySWM2-10ec9552",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "KT·서울시, 초등생 'AI 미래 캠프'…\"윤리적 AI 인재 육성\" - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxV0VNZzJoTkVYczVUQndySWM2T0ZsWF9EU2NBeFRpRTBwZ1dKZ2ZLNmU3TjF0eEpFRnBUa1FmOUhUODNOVEFMMWItMjdyZHJFRjBzM3BqempaanplV21MQy1SNkNMUDEyTmUwUzRrWWM?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxV0VNZzJoTkVYczVUQndySWM2T0ZsWF9EU2NBeFRpRTBwZ1dKZ2ZLNmU3TjF0eEpFRnBUa1FmOUhUODNOVEFMMWItMjdyZHJFRjBzM3BqempaanplV21MQy1SNkNMUDEyTmUwUzRrWWM?oc=5",
+      "발행": "2026-08-23T02:17:46+00:00",
+      "요약": "KT·서울시, 초등생 'AI 미래 캠프'…\"윤리적 AI 인재 육성\"    신아일보",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.78
+    },
+    {
+      "id": "CBMibkFVX3lxTE10TGo2YXlMMTBTU1VKVDFGX0NV-6ae4546c",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "아이들에게 AI 교육 기회 넓힌다…KT-서울시, ‘AI 미래 캠프’ 개최 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10TGo2YXlMMTBTU1VKVDFGX0NVR3JJcWYyWFJEUmg5bFNhU0VKLVB1N202RFpRdGhZMHVCV21KNVZBMkpqUWNsZWQ0bkpSWUI0dGREbEx2anhWUE1jLTdENm1vTG5ycS1SRnBwbllB?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10TGo2YXlMMTBTU1VKVDFGX0NVR3JJcWYyWFJEUmg5bFNhU0VKLVB1N202RFpRdGhZMHVCV21KNVZBMkpqUWNsZWQ0bkpSWUI0dGREbEx2anhWUE1jLTdENm1vTG5ycS1SRnBwbllB?oc=5",
+      "발행": "2026-08-23T02:11:31+00:00",
+      "요약": "아이들에게 AI 교육 기회 넓힌다…KT-서울시, ‘AI 미래 캠프’ 개최    아시아투데이",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.779
+    },
+    {
+      "id": "CBMicEFVX3lxTE5pWV9DX3hRdG40d2FydDFZWW8t-d18db0b1",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "안양시 ‘제1회 전 직원 인공 지능(AI) 활용 경진 대회’ 성료···우수 사례 10건 최종 선정 - 산경일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWV9DX3hRdG40d2FydDFZWW8tSUlXc0RjbnRVOUd1b1A2a25uMlpvREQ3Q3p0RzBLcDV4X0Q1S25tZXNUOUJUWVFBblgtcW52UG5CXzAwLV91UW84VEltbUdWWl92aGRhdUV4ZXZWaEw?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWV9DX3hRdG40d2FydDFZWW8tSUlXc0RjbnRVOUd1b1A2a25uMlpvREQ3Q3p0RzBLcDV4X0Q1S25tZXNUOUJUWVFBblgtcW52UG5CXzAwLV91UW84VEltbUdWWl92aGRhdUV4ZXZWaEw?oc=5",
+      "발행": "2026-08-23T01:43:23+00:00",
+      "요약": "안양시 ‘제1회 전 직원 인공 지능(AI) 활용 경진 대회’ 성료···우수 사례 10건 최종 선정    산경일보",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.773
+    },
+    {
+      "id": "CBMic0FVX3lxTE9RNVh0VWl0bnM5Q0ZCdFR4UUE0-2cb0effe",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "KT-서울시, 서울로봇인공지능과학관서 'AI 미래 캠프' 열어 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RNVh0VWl0bnM5Q0ZCdFR4UUE0enI0aWNpZGtCZXB0eVYtVGF0dUlNMnZCTV9iRzZMRS15S3k0M092RFEtMW1NbFlXX20zNjhGVTkyMWw5b2kzalNSNVEwWnJWNXRscG9XeHdhdEIxUHJsZFU?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RNVh0VWl0bnM5Q0ZCdFR4UUE0enI0aWNpZGtCZXB0eVYtVGF0dUlNMnZCTV9iRzZMRS15S3k0M092RFEtMW1NbFlXX20zNjhGVTkyMWw5b2kzalNSNVEwWnJWNXRscG9XeHdhdEIxUHJsZFU?oc=5",
+      "발행": "2026-08-23T01:25:22+00:00",
+      "요약": "KT-서울시, 서울로봇인공지능과학관서 'AI 미래 캠프' 열어    디지털투데이",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.769
+    },
+    {
+      "id": "CBMiW0FVX3lxTE9WeWJ5YXB2U2cxdDJNR3V5Wjl6-7c730fef",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeWJ5YXB2U2cxdDJNR3V5Wjl6TTZBT0NzUVZXTjdWRnIxNVB3VTVzRTZJbjc1amlWWWVuZ0k5X0xfSDlXdkhWZFFwNUpWUm5hLWpuby1Jak01dWPSAWBBVV95cUxQaGt6VGpEMlRmYmFROFlKWTFYcFNpNVROc2wtQW1jckFIdkFncUc2X0t1bnlKcjJUX3d1N0VRd2tNeUtPUVNGck5nR1R6aDJhSERiQ1JwbWt2WTY3SlpQTmc?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeWJ5YXB2U2cxdDJNR3V5Wjl6TTZBT0NzUVZXTjdWRnIxNVB3VTVzRTZJbjc1amlWWWVuZ0k5X0xfSDlXdkhWZFFwNUpWUm5hLWpuby1Jak01dWPSAWBBVV95cUxQaGt6VGpEMlRmYmFROFlKWTFYcFNpNVROc2wtQW1jckFIdkFncUc2X0t1bnlKcjJUX3d1N0VRd2tNeUtPUVNGck5nR1R6aDJhSERiQ1JwbWt2WTY3SlpQTmc?oc=5",
+      "발행": "2026-08-23T01:02:51+00:00",
+      "요약": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고    연합뉴스",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.764
+    },
+    {
+      "id": "CBMieEFVX3lxTFAydEdXend6cmRRSHdqYlFUZzdG-98405c46",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "전남광주특별시, 인공지능·데이터 행정 혁신 이끈다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAydEdXend6cmRRSHdqYlFUZzdGQU9uaGZoRHVTakZkY1gxWmpFWWhCX0hoQk5ERDZyV3lBODk1S0d4c1FhcTl0RE9zQXktWk84M0pZV3NlRDIyQmxtN2xFWkRxSG1fR1BiLTk1NlZyQllhdEtaTDZBStIBeEFVX3lxTFAydEdXend6cmRRSHdqYlFUZzdGQU9uaGZoRHVTakZkY1gxWmpFWWhCX0hoQk5ERDZyV3lBODk1S0d4c1FhcTl0RE9zQXktWk84M0pZV3NlRDIyQmxtN2xFWkRxSG1fR1BiLTk1NlZyQllhdEtaTDZBSg?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAydEdXend6cmRRSHdqYlFUZzdGQU9uaGZoRHVTakZkY1gxWmpFWWhCX0hoQk5ERDZyV3lBODk1S0d4c1FhcTl0RE9zQXktWk84M0pZV3NlRDIyQmxtN2xFWkRxSG1fR1BiLTk1NlZyQllhdEtaTDZBStIBeEFVX3lxTFAydEdXend6cmRRSHdqYlFUZzdGQU9uaGZoRHVTakZkY1gxWmpFWWhCX0hoQk5ERDZyV3lBODk1S0d4c1FhcTl0RE9zQXktWk84M0pZV3NlRDIyQmxtN2xFWkRxSG1fR1BiLTk1NlZyQllhdEtaTDZBSg?oc=5",
+      "발행": "2026-08-23T01:00:00+00:00",
+      "요약": "전남광주특별시, 인공지능·데이터 행정 혁신 이끈다    뉴시스",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.764
+    },
+    {
+      "id": "CBMiWkFVX3lxTE5VT2pPZlRjcWFSV0dnem9YLXZP-e172ec4a",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "“AI가 교실을 바꾼다” 호서대서 인공지능교육 연구·현장 실천 한자리 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VT2pPZlRjcWFSV0dnem9YLXZPU3FPZXE0WVpDYXVRekRMNU1YZGJyNlhZcndtWnRkS09HVm1EbXhNcUdmRzlOTFoySVltYzJ1dUYwR1FneGwxZ9IBX0FVX3lxTE91aEdVdl9rcEJ4YU45TmF4bmp0YTRKWkhKSWxXVGNqOUVnRlNqNDZDNzc2dmVpUTl4Tlc0Y2Z5UUItUDgyd2lCNUh5VHN2LVpLaXlybUhXcnExT0Y4TVl3?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VT2pPZlRjcWFSV0dnem9YLXZPU3FPZXE0WVpDYXVRekRMNU1YZGJyNlhZcndtWnRkS09HVm1EbXhNcUdmRzlOTFoySVltYzJ1dUYwR1FneGwxZ9IBX0FVX3lxTE91aEdVdl9rcEJ4YU45TmF4bmp0YTRKWkhKSWxXVGNqOUVnRlNqNDZDNzc2dmVpUTl4Tlc0Y2Z5UUItUDgyd2lCNUh5VHN2LVpLaXlybUhXcnExT0Y4TVl3?oc=5",
+      "발행": "2026-08-23T00:50:00+00:00",
+      "요약": "“AI가 교실을 바꾼다” 호서대서 인공지능교육 연구·현장 실천 한자리    경향신문",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.762
+    },
+    {
+      "id": "CBMi1wJBVV95cUxOdnpnQWV6cE9uRENUT2thUC1H-a10fbd63",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "요즘 애들은 AI 활용해서 연애한다, 관계에 인공지능 잘 활용하는 법 4 - GQ Korea",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOdnpnQWV6cE9uRENUT2thUC1HUVh6azYzamRsNDNnUFpRM0pOck5faEc1RHE0NjBTbnEtWVNOQlhMb0N4VmdjcDAybUw3aVAxSnZodk45YUVGRjJ5REo0dzF3dXJSZ2FHM0lYOUVlSFFrd1hHbWc0bDV3SkNXUWxDczlDLW5zNmZfd19jSmVPekZ1UGh3OXdiXzdWZC1XaDByc1VPMDlKR2drdjJkNUNWWVRvZWZzdDA4eXQxdXUwYlVUN1AyYjRfUjNveXR6MkkzcUdfZy1pOGZxNy1XV0g1RmhYQzVaSkwzOFBvS2w0bTU2SGZ2QVFDYTE4MTdRUHQ3SGhuU1pIcWRCbFhsVWcwejctWnZSX2x3Q0dMRF9wUERDWE4tcUR0eGpZYjd4LUNiZGdEZG52SGZESGt6ZS15czJHVXJGSE9lY2ZCaFVEb1V0Z2VSanFB?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOdnpnQWV6cE9uRENUT2thUC1HUVh6azYzamRsNDNnUFpRM0pOck5faEc1RHE0NjBTbnEtWVNOQlhMb0N4VmdjcDAybUw3aVAxSnZodk45YUVGRjJ5REo0dzF3dXJSZ2FHM0lYOUVlSFFrd1hHbWc0bDV3SkNXUWxDczlDLW5zNmZfd19jSmVPekZ1UGh3OXdiXzdWZC1XaDByc1VPMDlKR2drdjJkNUNWWVRvZWZzdDA4eXQxdXUwYlVUN1AyYjRfUjNveXR6MkkzcUdfZy1pOGZxNy1XV0g1RmhYQzVaSkwzOFBvS2w0bTU2SGZ2QVFDYTE4MTdRUHQ3SGhuU1pIcWRCbFhsVWcwejctWnZSX2x3Q0dMRF9wUERDWE4tcUR0eGpZYjd4LUNiZGdEZG52SGZESGt6ZS15czJHVXJGSE9lY2ZCaFVEb1V0Z2VSanFB?oc=5",
+      "발행": "2026-08-22T23:21:31+00:00",
+      "요약": "요즘 애들은 AI 활용해서 연애한다, 관계에 인공지능 잘 활용하는 법 4    GQ Korea",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.743
+    },
+    {
+      "id": "CBMiZkFVX3lxTFAzNUNNWHpXOEplYmNUNTZoZGRu-8fd9b3eb",
+      "출처": "AI 국내 (구글뉴스)",
+      "제목": "[탐구활동]AI가 정책을 결정한다면…고교 3과목에서 파고들 수 있는 질문들 - 교육을 비추다",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzNUNNWHpXOEplYmNUNTZoZGRuOHp0SnlXRTRuMTNyUDZheG1RRFdlMGM1M1VnZnBwWVNvMzI0LVZVNUpwVjVpSkpIakpWNzcyVXJtMFE1RWptMExoX05xU2MyZS1odw?oc=5",
+      "정규url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzNUNNWHpXOEplYmNUNTZoZGRuOHp0SnlXRTRuMTNyUDZheG1RRFdlMGM1M1VnZnBwWVNvMzI0LVZVNUpwVjVpSkpIakpWNzcyVXJtMFE1RWptMExoX05xU2MyZS1odw?oc=5",
+      "발행": "2026-08-22T22:48:36+00:00",
+      "요약": "[탐구활동]AI가 정책을 결정한다면…고교 3과목에서 파고들 수 있는 질문들    교육을 비추다",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": null,
+      "본문상태": "미확보",
+      "관심주제": [],
+      "점수": 1.736
     },
     {
       "id": "linkedin-ai-slop-button-one-million-peop-1370362d",
@@ -1536,67 +1813,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.818
-    },
-    {
-      "id": "CBMiS0FVX3lxTE0yQnZhT2lMS0t1aFpScnBVNWlJ-cec1e670",
-      "출처": "클로드/OpenAI 국내",
-      "제목": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yQnZhT2lMS0t1aFpScnBVNWlJa1pfaC1QbGdkSGxXamNVYWttQV9oSHViSGZCOWh5LWdjVlEzTWxzNTdwZHlVc2hTOA?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yQnZhT2lMS0t1aFpScnBVNWlJa1pfaC1QbGdkSGxXamNVYWttQV9oSHViSGZCOWh5LWdjVlEzTWxzNTdwZHlVc2hTOA?oc=5",
-      "발행": "2026-08-22T08:21:56+00:00",
-      "요약": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여    v.daum.net",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.805
-    },
-    {
-      "id": "CBMib0FVX3lxTE9IWjJPa3k0VGdGakUzTmY2WGZ4-6c8cb21b",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "[인공지능 줌인] “노하우를 이어받을 주니어가 없다”…시니어만 남는 AI 시대의 조용한 경고 - 위키리크스한국",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IWjJPa3k0VGdGakUzTmY2WGZ4OGZGbGgzTThSUHpNWnQwZmVZYi1MeUZtQXlsT2tfTzNSSHJxdFdUak5mUDMwRC02ZE53VWI2QUJjVlZBRW01SEV0MHBfRjNFclM3M1ByT0RkU1dsSQ?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IWjJPa3k0VGdGakUzTmY2WGZ4OGZGbGgzTThSUHpNWnQwZmVZYi1MeUZtQXlsT2tfTzNSSHJxdFdUak5mUDMwRC02ZE53VWI2QUJjVlZBRW01SEV0MHBfRjNFclM3M1ByT0RkU1dsSQ?oc=5",
-      "발행": "2026-08-22T20:54:57+00:00",
-      "요약": "[인공지능 줌인] “노하우를 이어받을 주니어가 없다”…시니어만 남는 AI 시대의 조용한 경고    위키리크스한국",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.781
-    },
-    {
-      "id": "CBMiakFVX3lxTE5MTzcyWXdZZXJZRkpJdVpESmUx-3f3e6d70",
-      "출처": "클로드/OpenAI 국내",
-      "제목": "플로리다, 챗GPT ‘공공 위해 요소’ 지정 요구...알트먼·오픈AI 전방위 압박 - AI타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MTzcyWXdZZXJZRkpJdVpESmUxZjQ1eVd2RjhHWGlhaWx4Z1BVM3BiNDJQSDZxS2ZVRlJkTGJ2eDFrRlQ0c01oTXlCY2NZd1VKcDVCaGdXRjFpRm12ekRObGpPN19tLTBCaFE?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MTzcyWXdZZXJZRkpJdVpESmUxZjQ1eVd2RjhHWGlhaWx4Z1BVM3BiNDJQSDZxS2ZVRlJkTGJ2eDFrRlQ0c01oTXlCY2NZd1VKcDVCaGdXRjFpRm12ekRObGpPN19tLTBCaFE?oc=5",
-      "발행": "2026-08-22T04:33:39+00:00",
-      "요약": "플로리다, 챗GPT ‘공공 위해 요소’ 지정 요구...알트먼·오픈AI 전방위 압박    AI타임스",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.752
-    },
-    {
-      "id": "CBMiVEFVX3lxTE05VVkxZmlfcmtZZmo2Vm1XbG1U-ce64eda4",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "[권희춘 교수의 재미난 인공지능(AI) 드론 이야기] (1편) 5분짜리 장난감에서 사람이 타는 드론택시까지 - 더글로벌기빙뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05VVkxZmlfcmtZZmo2Vm1XbG1UOEhkV3YzRnY3RFQ0d3d4Vzg4ZnNIbnZ0emM1WUlIcngxOEEyUEJPQndFUVZ3Z3hnZEtHRVpkaWxoRg?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05VVkxZmlfcmtZZmo2Vm1XbG1UOEhkV3YzRnY3RFQ0d3d4Vzg4ZnNIbnZ0emM1WUlIcngxOEEyUEJPQndFUVZ3Z3hnZEtHRVpkaWxoRg?oc=5",
-      "발행": "2026-08-22T16:29:00+00:00",
-      "요약": "[권희춘 교수의 재미난 인공지능(AI) 드론 이야기] (1편) 5분짜리 장난감에서 사람이 타는 드론택시까지    더글로벌기빙뉴스",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.726
+      "점수": 1.734
     },
     {
       "id": "ainews-poolside-gets-12b-reverse-754834fc",
@@ -1611,37 +1828,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.722
-    },
-    {
-      "id": "CBMidEFVX3lxTE9NajRZaXNpV3Y5aTBJZVJyTkhR-e782ea80",
-      "출처": "클로드/OpenAI 국내",
-      "제목": "오픈AI발 가격 경쟁에 중국 LLM도 가세...상용화 역량이 성패 가른다-Xinhua - 신화망",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NajRZaXNpV3Y5aTBJZVJyTkhRaTlYVlpvVEFDd1N1UmVjcEZ6QmIzWW9vRnd3S1BCemlDbkplWDhfMVdqQlFNTG9RQlZNeFJUYzJuZmhuTUVlM09ZZlNOb21qeXhMU05ZSUhta0hYZ05BZmh5?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NajRZaXNpV3Y5aTBJZVJyTkhRaTlYVlpvVEFDd1N1UmVjcEZ6QmIzWW9vRnd3S1BCemlDbkplWDhfMVdqQlFNTG9RQlZNeFJUYzJuZmhuTUVlM09ZZlNOb21qeXhMU05ZSUhta0hYZ05BZmh5?oc=5",
-      "발행": "2026-08-22T01:53:50+00:00",
-      "요약": "오픈AI발 가격 경쟁에 중국 LLM도 가세...상용화 역량이 성패 가른다-Xinhua    신화망",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.715
-    },
-    {
-      "id": "CBMic0FVX3lxTE9EeU42MVNKVFNLdnN6dnZxNVEy-92fe6cbf",
-      "출처": "클로드/OpenAI 국내",
-      "제목": "[월드IT뷰] AI 탈옥·해킹 능력에 오픈AI '화들짝'…차세대 모델 훈련 중단 - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeU42MVNKVFNLdnN6dnZxNVEyelhodUdBNm5jRTB3d0NTX0dXeGJ2QXVQaFlqVk1pQmI3SlIzMzMtREo1OVFKaEZIVi1TbmI3T0RTZGw3ZjVYWUFRcmdBSVlPeXRWRGRnOVhuRVZTVFhQZknSAXNBVV95cUxPRHlONjFTSlRTS3ZzenZ2cTVRMnpYaHVHQTZuY0Uwd3dDU19HV3hidkF1UGhZalZNaUJiN0pSMzMzLURKNTlRSmhGSFYtU25iN09EU2RsN2Y1WFlBUXJnQUlZT3l0VkRkZzlYbkVWU1RYUGZJ?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeU42MVNKVFNLdnN6dnZxNVEyelhodUdBNm5jRTB3d0NTX0dXeGJ2QXVQaFlqVk1pQmI3SlIzMzMtREo1OVFKaEZIVi1TbmI3T0RTZGw3ZjVYWUFRcmdBSVlPeXRWRGRnOVhuRVZTVFhQZknSAXNBVV95cUxPRHlONjFTSlRTS3ZzenZ2cTVRMnpYaHVHQTZuY0Uwd3dDU19HV3hidkF1UGhZalZNaUJiN0pSMzMzLURKNTlRSmhGSFYtU25iN09EU2RsN2Y1WFlBUXJnQUlZT3l0VkRkZzlYbkVWU1RYUGZJ?oc=5",
-      "발행": "2026-08-22T01:17:46+00:00",
-      "요약": "[월드IT뷰] AI 탈옥·해킹 능력에 오픈AI '화들짝'…차세대 모델 훈련 중단    뉴스웍스",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.707
+      "점수": 1.631
     },
     {
       "id": "CBMiWkFVX3lxTE5TWmxMXzZheXdHd0U0UnNndWRh-ce18b7af",
@@ -1656,7 +1843,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.701
+      "점수": 1.625
     },
     {
       "id": "matti-haapoja-sam-kold-kolder-higgsfield-6f5f2844",
@@ -1671,7 +1858,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.699
+      "점수": 1.615
     },
     {
       "id": "anthropics-opus-4-6-is-a-smut-machine-c3928314",
@@ -1686,22 +1873,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.677
-    },
-    {
-      "id": "CBMicEFVX3lxTE5HaVlleTNkc1ZJV21rcWJ6c3E4-05700151",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "안양시, ‘제1회 전 직원 인공 지능(AI) 활용 경진 대회’ 성료…우수 사례 10건 최종 선정 - 더최고신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HaVlleTNkc1ZJV21rcWJ6c3E4Z2hkMV9pQjMtNzJySVEyOGdNWlZ2emlxYWNVanJBQ3V3SGgtVHBUY1BrbWFqb3FPaGV5WW1ZWWFKMnJlLXdVaFRRejUtanVKZDVmNF9sTGVGeHk4a3rSAXBBVV95cUxOR2lZZXkzZHNWSVdta3FienNxOGdoZDFfaUIzLTcycklRMjhnTVpWdnppcWFjVWpyQUN1d0hoLVRwVGNQa21ham9xT2hleVltWVlhSjJyZS13VWhUUXo1LWp1SmQ1ZjRfbExlRnh5OGt6?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HaVlleTNkc1ZJV21rcWJ6c3E4Z2hkMV9pQjMtNzJySVEyOGdNWlZ2emlxYWNVanJBQ3V3SGgtVHBUY1BrbWFqb3FPaGV5WW1ZWWFKMnJlLXdVaFRRejUtanVKZDVmNF9sTGVGeHk4a3rSAXBBVV95cUxOR2lZZXkzZHNWSVdta3FienNxOGdoZDFfaUIzLTcycklRMjhnTVpWdnppcWFjVWpyQUN1d0hoLVRwVGNQa21ham9xT2hleVltWVlhSjJyZS13VWhUUXo1LWp1SmQ1ZjRfbExlRnh5OGt6?oc=5",
-      "발행": "2026-08-22T12:20:16+00:00",
-      "요약": "안양시, ‘제1회 전 직원 인공 지능(AI) 활용 경진 대회’ 성료…우수 사례 10건 최종 선정    더최고신문",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.674
+      "점수": 1.6
     },
     {
       "id": "nvidia-partners-with-data-center-develop-568c94c0",
@@ -1716,7 +1888,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.67
+      "점수": 1.593
     },
     {
       "id": "CBMiYEFVX3lxTE9fTUwzNzVrUmpjdFRpZEVCZ1ZI-7287db69",
@@ -1731,22 +1903,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.654
-    },
-    {
-      "id": "CBMifEFVX3lxTE43b3hVNG5uTjJ4RTNDVVlFSnRV-8b86fa1a",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "인공지능이 미국 학교에서 새로운 \"수업\"으로 자리 잡고 있다. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43b3hVNG5uTjJ4RTNDVVlFSnRVMFZOVTQzVE9Mc25zNS1mVlFPTGIyc0phMThfejQtUVNBbXpMNTFHR1M2cUNmV1hiclBVNlNfck03RHVvc3hnRkxxT0NRYllYNjNULTVEbnc5Sk1WTzRWZ3hoVmVBZEJOUjA?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43b3hVNG5uTjJ4RTNDVVlFSnRVMFZOVTQzVE9Mc25zNS1mVlFPTGIyc0phMThfejQtUVNBbXpMNTFHR1M2cUNmV1hiclBVNlNfck03RHVvc3hnRkxxT0NRYllYNjNULTVEbnc5Sk1WTzRWZ3hoVmVBZEJOUjA?oc=5",
-      "발행": "2026-08-22T09:48:40+00:00",
-      "요약": "인공지능이 미국 학교에서 새로운 \"수업\"으로 자리 잡고 있다.    Vietnam.vn",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.643
+      "점수": 1.578
     },
     {
       "id": "nvidia-just-showed-that-the-harness-not-2b7b4ffc",
@@ -1761,37 +1918,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.629
-    },
-    {
-      "id": "CBMiVkFVX3lxTE1LUmR1a3AyMW9vcUFiQnlIVjhp-77b18668",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "공공기관도 AI로 정책 결정…책임은 누가 지나 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUmR1a3AyMW9vcUFiQnlIVjhpbHZCdndzdGV1RXJ2cmpiZk41ak91eEtXNWU1Tk5qdDI3ZlhEQUJRUk5hME4weFFBcWM5QlRzNmJXRW93?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUmR1a3AyMW9vcUFiQnlIVjhpbHZCdndzdGV1RXJ2cmpiZk41ak91eEtXNWU1Tk5qdDI3ZlhEQUJRUk5hME4weFFBcWM5QlRzNmJXRW93?oc=5",
-      "발행": "2026-08-22T05:57:30+00:00",
-      "요약": "공공기관도 AI로 정책 결정…책임은 누가 지나    지디넷코리아",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.594
-    },
-    {
-      "id": "CBMi1wJBVV95cUxOdnpnQWV6cE9uRENUT2thUC1H-a10fbd63",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "요즘 애들은 AI 활용해서 연애한다, 관계에 인공지능 잘 활용하는 법 4 - 지큐 코리아 (GQ Korea)",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOdnpnQWV6cE9uRENUT2thUC1HUVh6azYzamRsNDNnUFpRM0pOck5faEc1RHE0NjBTbnEtWVNOQlhMb0N4VmdjcDAybUw3aVAxSnZodk45YUVGRjJ5REo0dzF3dXJSZ2FHM0lYOUVlSFFrd1hHbWc0bDV3SkNXUWxDczlDLW5zNmZfd19jSmVPekZ1UGh3OXdiXzdWZC1XaDByc1VPMDlKR2drdjJkNUNWWVRvZWZzdDA4eXQxdXUwYlVUN1AyYjRfUjNveXR6MkkzcUdfZy1pOGZxNy1XV0g1RmhYQzVaSkwzOFBvS2w0bTU2SGZ2QVFDYTE4MTdRUHQ3SGhuU1pIcWRCbFhsVWcwejctWnZSX2x3Q0dMRF9wUERDWE4tcUR0eGpZYjd4LUNiZGdEZG52SGZESGt6ZS15czJHVXJGSE9lY2ZCaFVEb1V0Z2VSanFB?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOdnpnQWV6cE9uRENUT2thUC1HUVh6azYzamRsNDNnUFpRM0pOck5faEc1RHE0NjBTbnEtWVNOQlhMb0N4VmdjcDAybUw3aVAxSnZodk45YUVGRjJ5REo0dzF3dXJSZ2FHM0lYOUVlSFFrd1hHbWc0bDV3SkNXUWxDczlDLW5zNmZfd19jSmVPekZ1UGh3OXdiXzdWZC1XaDByc1VPMDlKR2drdjJkNUNWWVRvZWZzdDA4eXQxdXUwYlVUN1AyYjRfUjNveXR6MkkzcUdfZy1pOGZxNy1XV0g1RmhYQzVaSkwzOFBvS2w0bTU2SGZ2QVFDYTE4MTdRUHQ3SGhuU1pIcWRCbFhsVWcwejctWnZSX2x3Q0dMRF9wUERDWE4tcUR0eGpZYjd4LUNiZGdEZG52SGZESGt6ZS15czJHVXJGSE9lY2ZCaFVEb1V0Z2VSanFB?oc=5",
-      "발행": "2026-08-22T05:43:50+00:00",
-      "요약": "요즘 애들은 AI 활용해서 연애한다, 관계에 인공지능 잘 활용하는 법 4    지큐 코리아 (GQ Korea)",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.592
+      "점수": 1.553
     },
     {
       "id": "starcloud-raises-200-million-for-orbital-b52ad076",
@@ -1806,7 +1933,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.55
+      "점수": 1.474
     },
     {
       "id": "the-doj-is-investigating-a16z-what-does-2a41c2a1",
@@ -1821,67 +1948,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.55
-    },
-    {
-      "id": "CBMiWkFVX3lxTE1KVTVldHAyRjNmc1hpVUppWExs-c5221f85",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "안양시, 제1회 전 직원 인공 지능(AI) 활용 경진 대회 성료 - 브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVTVldHAyRjNmc1hpVUppWExsY1lhY0RFUF83SzIxRFE4d0g4TFdMT1dCc0VGcl9Cd1hWZ0U1cDY0b1BSRUUwanI3ZFQ4M2JTSWw0Tk5RT2x0QQ?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVTVldHAyRjNmc1hpVUppWExsY1lhY0RFUF83SzIxRFE4d0g4TFdMT1dCc0VGcl9Cd1hWZ0U1cDY0b1BSRUUwanI3ZFQ4M2JTSWw0Tk5RT2x0QQ?oc=5",
-      "발행": "2026-08-22T02:12:00+00:00",
-      "요약": "안양시, 제1회 전 직원 인공 지능(AI) 활용 경진 대회 성료    브릿지경제",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.547
-    },
-    {
-      "id": "CBMiVkFVX3lxTE5pSnhqaG00TGtDQzc1dG9BQklh-43c69d0c",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "파주시, ‘인공지능(AI) 시대 맞춤형 공공데이터 개방’ 조사 실시 - 뉴스21 통신",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pSnhqaG00TGtDQzc1dG9BQklhVTVndGI4SGhNUHozQWFBMmV0aTdoUEJETjE3bGpLQ3BTYUIybmNHbDFPTlh2TDFuVDNoa0ZDQ3dQbGxn?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pSnhqaG00TGtDQzc1dG9BQklhVTVndGI4SGhNUHozQWFBMmV0aTdoUEJETjE3bGpLQ3BTYUIybmNHbDFPTlh2TDFuVDNoa0ZDQ3dQbGxn?oc=5",
-      "발행": "2026-08-22T01:53:23+00:00",
-      "요약": "파주시, ‘인공지능(AI) 시대 맞춤형 공공데이터 개방’ 조사 실시    뉴스21 통신",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.544
-    },
-    {
-      "id": "CBMiiwFBVV95cUxPVkk3YTAwVzlLSmloZW83OXhy-8a849450",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "[보도참고] 우리 한국형 인공지능(K-AI) 모델이 현장에 펼쳐지고 있습니다 ⑦ - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkk3YTAwVzlLSmloZW83OXhyVFhMcFRWX0VqMm0zd0hkdF9zUVFfR1VmMlMySENmM19SQkx2amhGM1FSS294U3BJQUZCWm91TmREWVMwMDMwLXhLWmg0YTh1cUwtY09NenJtdjBaUTh2UkNnMDNDZ084eWF5bDVybkFGLUs3ZFlWYUF3?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkk3YTAwVzlLSmloZW83OXhyVFhMcFRWX0VqMm0zd0hkdF9zUVFfR1VmMlMySENmM19SQkx2amhGM1FSS294U3BJQUZCWm91TmREWVMwMDMwLXhLWmg0YTh1cUwtY09NenJtdjBaUTh2UkNnMDNDZ084eWF5bDVybkFGLUs3ZFlWYUF3?oc=5",
-      "발행": "2026-08-22T01:30:06+00:00",
-      "요약": "[보도참고] 우리 한국형 인공지능(K-AI) 모델이 현장에 펼쳐지고 있습니다 ⑦    대한민국 정책브리핑",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.539
-    },
-    {
-      "id": "CBMiY0FVX3lxTFBadDQxeWFGVUkyVFRGV3NlZXNT-f6952ee0",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대” - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadDQxeWFGVUkyVFRGV3NlZXNTanpSWE15N0M0YTB2U3JNVkplcTB2eVhKY2R2Mi1xR0hrWXRGNUd1UjZyMWl5ZENRQ09vWUdoSnp3TDJRYjlXSkNGSjVBSktCUQ?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadDQxeWFGVUkyVFRGV3NlZXNTanpSWE15N0M0YTB2U3JNVkplcTB2eVhKY2R2Mi1xR0hrWXRGNUd1UjZyMWl5ZENRQ09vWUdoSnp3TDJRYjlXSkNGSjVBSktCUQ?oc=5",
-      "발행": "2026-08-21T23:59:00+00:00",
-      "요약": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대”    한겨레",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.52
+      "점수": 1.474
     },
     {
       "id": "meta-ai-glasses-may-get-creepier-and-app-05e8cff2",
@@ -1896,7 +1963,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.508
+      "점수": 1.432
     },
     {
       "id": "CBMiYEFVX3lxTE0yOW5qanNJX1JnZWVGVnluYjVC-557ec8bd",
@@ -1911,7 +1978,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.461
+      "점수": 1.385
     },
     {
       "id": "ai-data-startup-micro1-reaches-500m-gros-14a842e5",
@@ -1926,37 +1993,7 @@
       "본문파일": null,
       "본문상태": "미확보",
       "관심주제": [],
-      "점수": 1.359
-    },
-    {
-      "id": "CBMickFVX3lxTFBwaWdsZzA3SFdhSVdCRVRkb0tk-b8f96003",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "법무법인 디엘지, 인공지능기본법 컴플라이언스 실전 가이드 세미나 - 법률신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwaWdsZzA3SFdhSVdCRVRkb0tkYVZQYlN6cDlGbzlwZmwyRHBfRmR6d3V2YV9wT0toU1RTamFzaXBubEd5bk56V1RPdXFtWGFyM1NqMVpCY2xDdnJKamltWGhValdDNnpKbVBkR2JxM04wd9IBckFVX3lxTFBwaWdsZzA3SFdhSVdCRVRkb0tkYVZQYlN6cDlGbzlwZmwyRHBfRmR6d3V2YV9wT0toU1RTamFzaXBubEd5bk56V1RPdXFtWGFyM1NqMVpCY2xDdnJKamltWGhValdDNnpKbVBkR2JxM04wdw?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwaWdsZzA3SFdhSVdCRVRkb0tkYVZQYlN6cDlGbzlwZmwyRHBfRmR6d3V2YV9wT0toU1RTamFzaXBubEd5bk56V1RPdXFtWGFyM1NqMVpCY2xDdnJKamltWGhValdDNnpKbVBkR2JxM04wd9IBckFVX3lxTFBwaWdsZzA3SFdhSVdCRVRkb0tkYVZQYlN6cDlGbzlwZmwyRHBfRmR6d3V2YV9wT0toU1RTamFzaXBubEd5bk56V1RPdXFtWGFyM1NqMVpCY2xDdnJKamltWGhValdDNnpKbVBkR2JxM04wdw?oc=5",
-      "발행": "2026-08-21T07:17:16+00:00",
-      "요약": "법무법인 디엘지, 인공지능기본법 컴플라이언스 실전 가이드 세미나    법률신문",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.311
-    },
-    {
-      "id": "CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9U-a3558d15",
-      "출처": "AI 국내 (구글뉴스)",
-      "제목": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9UZ1dkck1EdDM2amprQl9ScmF5ZEFZbjJaUTFNUF91M2xBS2Z1VkNOMGhhclNZcTBWeHd3aG02UmVjVkhZTDUwd0JFSFl3UkZlVGJGTDg?oc=5",
-      "정규url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9UZ1dkck1EdDM2amprQl9ScmF5ZEFZbjJaUTFNUF91M2xBS2Z1VkNOMGhhclNZcTBWeHd3aG02UmVjVkhZTDUwd0JFSFl3UkZlVGJGTDg?oc=5",
-      "발행": "2026-08-21T01:06:00+00:00",
-      "요약": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범    인공지능신문",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": null,
-      "본문상태": "미확보",
-      "관심주제": [],
-      "점수": 1.234
+      "점수": 1.282
     }
   ]
 }

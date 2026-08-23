@@ -1,4 +1,4 @@
-# Quick impressions: A week of using Codex more than Claude
+# A week of using Codex more than Claude
 
 - 출처: 코딩에이전트 (HN)
 - 원본 링크: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/

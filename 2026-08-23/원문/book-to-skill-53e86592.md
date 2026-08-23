@@ -1,8 +1,8 @@
 # Leutenegger/book-to-skill — Turn any technical book PDF into a Claude Code skill — ready to study, reference
 
-- 출처: GitHub 신규 (AI 에이전트)
+- 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/Leutenegger/book-to-skill
-- 발행: 2026-08-22T22:24:14.869265+00:00
+- 발행: 2026-08-23T03:54:16.281789+00:00
 - 접근상태: 확인 완료
 
 ---

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/jakubkrehel/skills
-- 발행: 2026-08-22T22:24:14.869265+00:00
+- 발행: 2026-08-23T03:54:16.281789+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -301,7 +301,7 @@ GitHub - jakubkrehel/skills: A collection of agent skills that help you build a 
  
  
  Star
- 4.1k 
+ 4.2k 
  
  
 
@@ -603,7 +603,7 @@ GitHub - jakubkrehel/skills: A collection of agent skills that help you build a 
  To update later, run /plugin update interfaces@interfaces and restart.
 
  About A collection of agent skills that help you build a great interface.
- jakub.kr/skills Resources Readme MIT license Activity Stars 4.1k stars Watchers 19 watching Forks 135 forks Report repository Releases Packages Contributors Languages 
+ jakub.kr/skills Resources Readme MIT license Activity Stars 4.2k stars Watchers 19 watching Forks 135 forks Report repository Releases Packages Contributors Languages 
  
 
 

@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-08-23",
+  "브리핑페이지": "https://app.notion.com/p/3c43f6aa67a4812ba748ee3d2ca360c6",
+  "정식아카이빙": [
+    {
+      "id": "2091150597374537729-304760d4",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a481e78f22c22bb1a46caa",
+      "서고": "https://app.notion.com/p/3c43f6aa67a481db8b90c851d16e8789",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "v2-1-241-e02ae0b1",
+      "source_library": "https://app.notion.com/p/3c53f6aa67a4817c8d08ddb09f076df7",
+      "서고": "https://app.notion.com/p/3c53f6aa67a481efa246dc6370fabc84",
+      "결과": "생성"
+    },
+    {
+      "id": "shuohao-skills-2d888697",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a4816889f5e67afb0dfa37",
+      "서고": "https://app.notion.com/p/3c43f6aa67a481a4ba4ef28f2a8f7dfb",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "lieflat-charts-cd935e4a",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a48106a15afe402a64ce0d",
+      "서고": "https://app.notion.com/p/3c43f6aa67a481869a3cd932676a6815",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "Fuxi-5730e3e3",
+      "source_library": "https://app.notion.com/p/3c53f6aa67a48165a145f0f04ba558e5",
+      "서고": "https://app.notion.com/p/3c53f6aa67a481e09ec0e2711a79f851",
+      "결과": "생성"
+    },
+    {
+      "id": "v2-1-240-fa3eb202",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a4817fbd0acc378ff3fad5",
+      "서고": "https://app.notion.com/p/3c43f6aa67a48197b20ec02bf7b67cea",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "253917-c0f9d109",
+      "source_library": "https://app.notion.com/p/3c53f6aa67a48139bd26ccc3afdd0cb6",
+      "서고": "https://app.notion.com/p/3c53f6aa67a481eca21de9fb80973663",
+      "결과": "생성"
+    },
+    {
+      "id": "munderdiffl-in-d147142e",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a4814b9391dd3babeadbe7",
+      "서고": "https://app.notion.com/p/3c43f6aa67a48147ad66cd1678e128fa",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "meta-trial-children-privacy-74a9967c",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a481239f1fff7a19abc660",
+      "서고": "https://app.notion.com/p/3c43f6aa67a4814a9f32c402277a8905",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "linus-torvalds-686686b8",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a4811e9ea8c55ae73c9901",
+      "서고": "https://app.notion.com/p/3c43f6aa67a481898ab4dc4026bf42bc",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "llm-43aa0c03",
+      "source_library": "https://app.notion.com/p/3c43f6aa67a481478b74ffc49af06951",
+      "서고": "https://app.notion.com/p/3c43f6aa67a48136a93cc7153122b4ce",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "3mtpu3uybbc2j-a404454a",
+      "source_library": "https://app.notion.com/p/3c53f6aa67a4816ebc34e20abbd366a9",
+      "서고": "https://app.notion.com/p/3c53f6aa67a4816db37eccbac5b733e9",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 126,
+  "메모": "오늘 오전 실행이 중간에 끊겨 12건 중 8건만 들어가 있었다(원문 정본·정리본 양쪽 확인). 남은 4건(v2.1.241·Fuxi·로컬 LLM·모릴릭)을 2단계로 새로 넣었고, 오전 후보 목록에만 있던 4건(growth-lab·jakesaunders 자가호스팅 공장·bsky 셰이더·bsky 브라우저 제어)까지 합쳐 오늘 정식정리는 총 16건이다. 브리핑 행은 신규 생성 대신 기존 행을 갱신했다(수집건수 124→126, 정식정리 12→16, 누락 출처 7개 추가). 253917 은 Jina 캡처가 테스트 3 중간에서 끊겨 접근상태를 '일부 확인'으로 두었다."
+}
