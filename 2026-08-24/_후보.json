@@ -8,16 +8,16 @@
       "제목": "Leonxlnx/unlazy — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t",
       "url": "https://github.com/Leonxlnx/unlazy",
       "정규url": "https://github.com/Leonxlnx/unlazy",
-      "발행": "2026-08-23T22:24:09.085719+00:00",
-      "요약": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n별 1,623개 · 언어 JavaScript · 생성 2026-08-09 · 토픽 ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill",
-      "반응": 1623,
+      "발행": "2026-08-24T03:54:14.248641+00:00",
+      "요약": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n별 1,788개 · 언어 JavaScript · 생성 2026-08-09 · 토픽 ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill",
+      "반응": 1788,
       "원저자": "Leonxlnx",
       "본문파일": "2026-08-24/원문/unlazy-ba949640.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "claude-code"
       ],
-      "점수": 5.339
+      "점수": 5.373
     },
     {
       "id": "codex-chatgpt-web-4a847819",
@@ -25,9 +25,9 @@
       "제목": "miuuyy/codex-chatgpt-web — Use ChatGPT Web (including Pro) as a native model in the Codex app — with contex",
       "url": "https://github.com/miuuyy/codex-chatgpt-web",
       "정규url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "발행": "2026-08-23T22:24:09.085719+00:00",
-      "요약": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.\n\n별 1,403개 · 언어 TypeScript · 생성 2026-07-26 · 토픽 chatgpt, chatgpt-pro, codex, free-ai, macos, mcp, openai, playwright",
-      "반응": 1403,
+      "발행": "2026-08-24T03:54:14.248641+00:00",
+      "요약": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.\n\n별 1,409개 · 언어 TypeScript · 생성 2026-07-26 · 토픽 chatgpt, chatgpt-pro, codex, free-ai, macos, mcp, openai, playwright",
+      "반응": 1409,
       "원저자": "miuuyy",
       "본문파일": "2026-08-24/원문/codex-chatgpt-web-4a847819.md",
       "본문상태": "확인 완료",
@@ -35,7 +35,7 @@
         "codex",
         "mcp"
       ],
-      "점수": 5.287
+      "점수": 5.289
     },
     {
       "id": "northcinder-3426536d",
@@ -43,9 +43,9 @@
       "제목": "cinderline/northcinder — Open-source MCP server for comparing products and asking the buyer before purcha",
       "url": "https://github.com/cinderline/northcinder",
       "정규url": "https://github.com/cinderline/northcinder",
-      "발행": "2026-08-23T22:24:09.085719+00:00",
-      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,205개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
-      "반응": 1205,
+      "발행": "2026-08-24T03:54:14.248641+00:00",
+      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,207개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
+      "반응": 1207,
       "원저자": "cinderline",
       "본문파일": "2026-08-24/원문/northcinder-3426536d.md",
       "본문상태": "확인 완료",
@@ -56,6 +56,23 @@
       "점수": 5.234
     },
     {
+      "id": "rust-v0-149-1-ab328ac4",
+      "출처": "Codex 릴리스",
+      "제목": "0.149.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.149.1",
+      "정규url": "https://github.com/openai/codex/releases/tag/rust-v0.149.1",
+      "발행": "2026-08-24T00:29:45+00:00",
+      "요약": "Changelog \n Full Changelog: rust-v0.149.0...rust-v0.149.1",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-24/원문/rust-v0-149-1-ab328ac4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.315
+    },
+    {
       "id": "fire-hd-ownership-36a58a3d",
       "출처": "Hacker News",
       "제목": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
@@ -63,27 +80,27 @@
       "정규url": "https://ericpardee.github.io/fire-hd-ownership",
       "발행": "2026-08-23T14:23:09+00:00",
       "요약": "",
-      "반응": 577,
+      "반응": 628,
       "원저자": "",
       "본문파일": "2026-08-24/원문/fire-hd-ownership-36a58a3d.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.181
+      "점수": 4.105
     },
     {
-      "id": "qwen-3-8-27b-reverse-engineering-job-fro-e84c39b9",
+      "id": "google-workspace-thinks-my-domain-is-an-6ed5eb25",
       "출처": "Hacker News",
-      "제목": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "정규url": "https://xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model",
-      "발행": "2026-08-23T10:02:51+00:00",
+      "제목": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "정규url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider",
+      "발행": "2026-08-23T19:29:32+00:00",
       "요약": "",
-      "반응": 297,
+      "반응": 204,
       "원저자": "",
-      "본문파일": "2026-08-24/원문/qwen-3-8-27b-reverse-engineering-job-fro-e84c39b9.md",
+      "본문파일": "2026-08-24/원문/google-workspace-thinks-my-domain-is-an-6ed5eb25.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.923
+      "점수": 3.893
     },
     {
       "id": "how-complexsystems-fail-8fa70330",
@@ -93,12 +110,12 @@
       "정규url": "https://how.complexsystems.fail",
       "발행": "2026-08-23T15:13:31+00:00",
       "요약": "",
-      "반응": 201,
+      "반응": 260,
       "원저자": "",
       "본문파일": "2026-08-24/원문/how-complexsystems-fail-8fa70330.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.911
+      "점수": 3.881
     },
     {
       "id": "more-than-just-code-review-6cda44a2",
@@ -107,7 +124,7 @@
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
       "정규url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review",
       "발행": "2026-08-22T15:56:54+00:00",
-      "요약": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.\n\n Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a chance to a piece of software.\n\n\n Tags: code-review , coding-agents , generative-ai , agentic-engineering , ai , llms",
+      "요약": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.\n\n Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software.\n\n\n Tags: code-review , coding-agents , generative-ai , agentic-engineering , ai , llms",
       "반응": 0,
       "원저자": "",
       "본문파일": "2026-08-24/원문/more-than-just-code-review-6cda44a2.md",
@@ -116,7 +133,7 @@
         "coding agent",
         "agentic"
       ],
-      "점수": 3.075
+      "점수": 2.926
     },
     {
       "id": "anthropics-best-ai-model-struggles-to-at-d6c0f7ed",
@@ -131,7 +148,7 @@
       "본문파일": "2026-08-24/원문/anthropics-best-ai-model-struggles-to-at-d6c0f7ed.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.959
+      "점수": 2.844
     },
     {
       "id": "drew-breunig-02dbe793",
@@ -146,7 +163,22 @@
       "본문파일": "2026-08-24/원문/drew-breunig-02dbe793.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.948
+      "점수": 2.834
+    },
+    {
+      "id": "3mtrt4v67ec2w-b8bac1ae",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "5) 5) You can focus on humans: how do people react to AI? what are the failures and successes? what dangers or advantage",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v67ec2w",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v67ec2w",
+      "발행": "2026-08-23T22:20:08.205000+00:00",
+      "요약": "5) 5) You can focus on humans: how do people react to AI? what are the failures and successes? what dangers or advantages or changes does it bring to us?\n\nAgain, these aren't exhaustive, but generally negative capability claims have been much less durable than positive ones.",
+      "반응": 10,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-24/원문/3mtrt4v67ec2w-b8bac1ae.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.381
     },
     {
       "id": "3mtrt4v66f22w-e0ed6158",
@@ -156,42 +188,12 @@
       "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v66f22w",
       "발행": "2026-08-23T22:20:08.204000+00:00",
       "요약": "4) You can focus on a moderator or mediator: this sort of prompting or approach or social context or connection impacts the ability of GPT-4 to do X, and needs to be a concern for the future.",
-      "반응": 2,
+      "반응": 8,
       "원저자": "emollick.bsky.social",
       "본문파일": "2026-08-24/원문/3mtrt4v66f22w-e0ed6158.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.097
-    },
-    {
-      "id": "3mtrt4v65fs2w-b0b2db0b",
-      "출처": "Bluesky emollick.bsky.social",
-      "제목": "3) You can make a strong, grounded argument that AI has a natural flaw or limitation that means it cannot do X, and then",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v65fs2w",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v65fs2w",
-      "발행": "2026-08-23T22:20:08.203000+00:00",
-      "요약": "3) You can make a strong, grounded argument that AI has a natural flaw or limitation that means it cannot do X, and then demonstrate evidence that this might be the case.\n6/",
-      "반응": 2,
-      "원저자": "emollick.bsky.social",
-      "본문파일": "2026-08-24/원문/3mtrt4v65fs2w-b0b2db0b.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.097
-    },
-    {
-      "id": "3mtrt4v64gk2w-9f0ce221",
-      "출처": "Bluesky emollick.bsky.social",
-      "제목": "2) You can measure trends: compare GPT-4 to GPT-5 to GPT-5.6 Sol or whatever (it is really important to include at least",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v64gk2w",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v64gk2w",
-      "발행": "2026-08-23T22:20:08.202000+00:00",
-      "요약": "2) You can measure trends: compare GPT-4 to GPT-5 to GPT-5.6 Sol or whatever (it is really important to include at least one reasoning model). You can then make better claims about abilities relating to this task. 5:",
-      "반응": 2,
-      "원저자": "emollick.bsky.social",
-      "본문파일": "2026-08-24/원문/3mtrt4v64gk2w-9f0ce221.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.097
+      "점수": 2.327
     }
   ]
 }

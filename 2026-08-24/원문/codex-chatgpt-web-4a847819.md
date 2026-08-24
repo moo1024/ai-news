@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/miuuyy/codex-chatgpt-web
-- 발행: 2026-08-23T22:24:09.085719+00:00
+- 발행: 2026-08-24T03:54:14.248641+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - miuuyy/codex-chatgpt-web: Use ChatGPT Web (including Pro) as a native m
  
  
  Fork
- 177 
+ 178 
  
  
 

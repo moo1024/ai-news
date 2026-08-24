@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/ccch1mneyyy/dsh-TUI
-- 발행: 2026-08-23T22:24:09.085719+00:00
+- 발행: 2026-08-24T03:54:14.248641+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -336,7 +336,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Issues 
- 60 
+ 62 
 
 
  
@@ -591,7 +591,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 610 Commits 610 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     bin bin     docs docs     dsh-ecosystem-spec @ e1b902b dsh-ecosystem-spec @ e1b902b     presets/ liangshen presets/ liangshen     screenshots screenshots     scripts scripts     skills skills     src src     vendor vendor     .gitattributes .gitattributes     .gitignore .gitignore     .gitmodules .gitmodules     .npmignore .npmignore     .npmrc .npmrc     ADAPTER.md ADAPTER.md     LICENSE LICENSE     README.md README.md     README_EN.md README_EN.md     THIRD_PARTY_LICENSES THIRD_PARTY_LICENSES     cordis.patch.yml cordis.patch.yml     cordis.yml cordis.yml     dsh-tui.cmd dsh-tui.cmd     install.sh install.sh     package.json package.json     patch-surface.snapshot.json patch-surface.snapshot.json     pnpm-lock.yaml pnpm-lock.yaml     pnpm-workspace.yaml pnpm-workspace.yaml     tsconfig.json tsconfig.json     View all files Repository files navigation README Contributing MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 625 Commits 625 Commits Folders and files Name Name Last commit message Last commit date .github .github     bin bin     docs docs     dsh-ecosystem-spec @ e1b902b dsh-ecosystem-spec @ e1b902b     presets/ liangshen presets/ liangshen     screenshots screenshots     scripts scripts     skills skills     src src     vendor vendor     .gitattributes .gitattributes     .gitignore .gitignore     .gitmodules .gitmodules     .npmignore .npmignore     .npmrc .npmrc     ADAPTER.md ADAPTER.md     AGENTS.md AGENTS.md     CLAUDE.md CLAUDE.md     LICENSE LICENSE     README.md README.md     README_EN.md README_EN.md     THIRD_PARTY_LICENSES THIRD_PARTY_LICENSES     cordis.patch.yml cordis.patch.yml     cordis.yml cordis.yml     dsh-tui.cmd dsh-tui.cmd     install.sh install.sh     package.json package.json     patch-surface.snapshot.json patch-surface.snapshot.json     pnpm-lock.yaml pnpm-lock.yaml     pnpm-workspace.yaml pnpm-workspace.yaml     tsconfig.json tsconfig.json     View all files Repository files navigation README Contributing MIT license More items 
  
 
 
@@ -1062,4 +1062,4 @@ LRU，跨挂载复用测量结果。
 未挂载该插件（无 /permission 命令）。 
  /vim /connect /hooks 为 CC 同名占位：对应能力在 DSH 侧无等价
 机制，命令会给出明确说明而非静默。 
- /thinking 思考显示开关 不持久化 ，重启或新会话
+ /th

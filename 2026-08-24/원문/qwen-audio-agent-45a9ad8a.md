@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/QwenAudio/qwen-audio-agent
-- 발행: 2026-08-23T22:24:09.085719+00:00
+- 발행: 2026-08-24T03:54:14.248641+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -641,7 +641,7 @@ GitHub - QwenAudio/qwen-audio-agent: A realtime voice runtime that keeps Agents 
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 394 Commits 394 Commits Folders and files Name Name Last commit message Last commit date .github .github     cli cli     config config     desktop desktop     docs docs     examples/ car examples/ car     scripts scripts     server server     shared shared     test test     tui tui     web web     .env.example .env.example     .gitignore .gitignore     .node-version .node-version     .npmignore .npmignore     .npmrc .npmrc     .nvmrc .nvmrc     CHANGELOG.md CHANGELOG.md     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     NOTICE NOTICE     PRIVACY.md PRIVACY.md     README.md README.md     README_ZH.md README_ZH.md     SECURITY.md SECURITY.md     THIRD_PARTY_NOTICES.md THIRD_PARTY_NOTICES.md     eslint.config.mjs eslint.config.mjs     package-lock.json package-lock.json     package.json package.json     View all files Repository files navigation README Contributing Apache-2.0 license Security More items Qwen Audio Agent 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 396 Commits 396 Commits Folders and files Name Name Last commit message Last commit date .github .github     cli cli     config config     desktop desktop     docs docs     examples/ car examples/ car     scripts scripts     server server     shared shared     test test     tui tui     web web     .env.example .env.example     .gitignore .gitignore     .node-version .node-version     .npmignore .npmignore     .npmrc .npmrc     .nvmrc .nvmrc     CHANGELOG.md CHANGELOG.md     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     NOTICE NOTICE     PRIVACY.md PRIVACY.md     README.md README.md     README_ZH.md README_ZH.md     SECURITY.md SECURITY.md     THIRD_PARTY_NOTICES.md THIRD_PARTY_NOTICES.md     eslint.config.mjs eslint.config.mjs     package-lock.json package-lock.json     package.json package.json     View all files Repository files navigation README Contributing Apache-2.0 license Security More items Qwen Audio Agent 
  中文 | English 
 
  
@@ -756,6 +756,12 @@ Throughout, the user always faces the same assistant.
  ★★★★★ 
  
  
+ Qwen Code 
+ Native ACP 
+ One-click install, user config required 
+ ★★★★★ 
+ 
+ 
  OpenCode 
  Native ACP 
  One-click install + Bailian config 
@@ -772,12 +778,6 @@ Throughout, the user always faces the same assistant.
  Native ACP 
  One-click install, user config required 
  ★★★★★ 
- 
- 
- Qwen Code 
- Native ACP 
- One-click install, user config required 
- ★★★★☆ 
  
  
  Kimi Code 

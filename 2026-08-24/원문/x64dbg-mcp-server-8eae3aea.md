@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/duty1g/x64dbg-mcp-server
-- 발행: 2026-08-23T22:24:09.085719+00:00
+- 발행: 2026-08-24T03:54:14.248641+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - duty1g/x64dbg-mcp-server: x64dbg-MCP Server is a native MCP (Model Cont
  
  
  Fork
- 78 
+ 97 
  
  
 
@@ -301,7 +301,7 @@ GitHub - duty1g/x64dbg-mcp-server: x64dbg-MCP Server is a native MCP (Model Cont
  
  
  Star
- 793 
+ 966 
  
  
 

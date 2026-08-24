@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/0xsline/awesome-deepseek-harness
-- 발행: 2026-08-23T22:24:09.085719+00:00
+- 발행: 2026-08-24T03:54:14.248641+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -301,7 +301,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  
  
  Star
- 853 
+ 865 
  
  
 
@@ -348,7 +348,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  
  
  Pull requests 
- 0 
+ 1 
 
 
  
@@ -563,7 +563,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 974 Commits 974 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     assets assets     scripts scripts     .gitignore .gitignore     CATALOG.md CATALOG.md     LICENSE LICENSE     README.md README.md     README.zh-CN.md README.zh-CN.md     contributing.md contributing.md     View all files Repository files navigation README Contributing CC0-1.0 license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 981 Commits 981 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     assets assets     scripts scripts     .gitignore .gitignore     CATALOG.md CATALOG.md     LICENSE LICENSE     README.md README.md     README.zh-CN.md README.zh-CN.md     contributing.md contributing.md     View all files Repository files navigation README Contributing CC0-1.0 license More items 
  English   |  
  简体中文 
 
@@ -669,6 +669,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  zoahdev/dsh-kirocrew - Bridge a DSH agent to a persistent, self-evolving KiroCrew development workspace over ACP (JSON-RPC 2.0 over stdio) via a single kiro_send tool. 
  bpc-oss/dsh-routed-subagent - Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, model pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. 
  bpc-oss/dsh-fork-to-preset - Fork any session into a different agent preset from the conversation header: a preset picker creates a new child session mounted on the chosen preset, inheriting the source session's completed turns. 
+ qwert702/dsh-commander - Commander mode for DSH Web: inject protocol briefs into the session title bar, parse task blocks from model replies and auto-execute them, separating strategy from execution; activated via a badge button. 
  
  Context & Search 
  
@@ -679,8 +680,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  dsh-context - Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats. 
  dsh-bookmarks - Bookmark finalized assistant replies with notes and tags; a cross-session center with search, tag filter, session jump and one-click Markdown export (Alt+B toggles the panel). 
  billion-context-dsh - Model-driven context compression (ACP) for DeepSeek Harness, ported from billion-context-pi; the model decides when and what to compress. 
+ qwert702/dsh-context-compressor - Context compression for small models: compresses tool output and conversation history to a few sentences, freeing context for the actual task; continues in a fresh session automatically. 
  dsh-scope - Context lens: per-session KV cache hit rate and token composition, plus a GitHub-style usage heatmap of daily tokens, sessions, and cache efficiency. 
  dsh-compressor - Slim port of Headroom: compresses tool output, cuts up to 20% of context, without affecting the model's context cache or agent performance. 
- context-vista - A right-side floating panel and /context command for DeepSeek Harness — a live donut chart of context token usage, allocation, and estimated cost. 
- dsh-context-doctor - See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool). 
- dsh-mcp-lens - Progressive-disclosure MCP gateway that searches large remote tool catalogs through two stable interfaces, then calls selected tools with exact schemas, lazy connection
+ context-vista - A right-side floating panel and /context command for DeepSeek Harness — a live donut chart of context toke
