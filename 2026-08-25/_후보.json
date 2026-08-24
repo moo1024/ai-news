@@ -1,0 +1,200 @@
+{
+  "날짜": "2026-08-25",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "LongHorizon-Harness-fddc749f",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "AMAP-ML/LongHorizon-Harness — The long-horizon computer-use harness. Run AI agents across desktop apps and the",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "정규url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "발행": "2026-08-24T22:23:55.781145+00:00",
+      "요약": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.\n\n별 1,237개 · 언어 Python · 생성 2026-08-04 · 토픽 agent, claude, claude-code, claude-plugin, cli, codex, codex-desktop, codex-plugin",
+      "반응": 1237,
+      "원저자": "AMAP-ML",
+      "본문파일": "2026-08-25/원문/LongHorizon-Harness-fddc749f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex"
+      ],
+      "점수": 5.243
+    },
+    {
+      "id": "x64dbg-mcp-server-8eae3aea",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "duty1g/x64dbg-mcp-server — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "정규url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "발행": "2026-08-24T22:23:55.781145+00:00",
+      "요약": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more. Built with Zig — zero dependencies, single-binary output, cros\n\n별 1,201개 · 언어 Zig · 생성 2026-08-22 · 토픽 ai-agents, ai-debugging, binary-analysis, claude, claude-code, malware-analysis, malware-research, malware-scanner",
+      "반응": 1201,
+      "원저자": "duty1g",
+      "본문파일": "2026-08-25/원문/x64dbg-mcp-server-8eae3aea.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "mcp",
+        "model context protocol"
+      ],
+      "점수": 5.232
+    },
+    {
+      "id": "awesome-deepseek-harness-f6859766",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "0xsline/awesome-deepseek-harness — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure fro",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "정규url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "발행": "2026-08-24T22:23:55.781145+00:00",
+      "요약": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.\n\n별 884개 · 언어 Python · 생성 2026-08-11 · 토픽 agent, ai, ai-agents, ai-tools, awesome, awesome-list, coding-assistant, curated-list",
+      "반응": 884,
+      "원저자": "0xsline",
+      "본문파일": "2026-08-25/원문/awesome-deepseek-harness-f6859766.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "mcp"
+      ],
+      "점수": 5.124
+    },
+    {
+      "id": "index-html-451496f8",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "정규url": "https://fabiensanglard.net/agent.md/index.html",
+      "발행": "2026-08-23T17:59:52+00:00",
+      "요약": "Article URL: https://fabiensanglard.net/agent.md/index.html \n\n Comments URL: https://news.ycombinator.com/item?id=49410932 \n\n Points: 391\n\n # Comments: 170",
+      "반응": 391,
+      "원저자": "",
+      "본문파일": "2026-08-25/원문/index-html-451496f8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.19
+    },
+    {
+      "id": "main-db36f883",
+      "출처": "Hacker News",
+      "제목": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "정규url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main",
+      "발행": "2026-08-24T15:28:04+00:00",
+      "요약": "",
+      "반응": 475,
+      "원저자": "",
+      "본문파일": "2026-08-25/원문/main-db36f883.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.148
+    },
+    {
+      "id": "ai-coding-will-prevent-expertise-42f46d42",
+      "출처": "Hacker News",
+      "제목": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "정규url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "발행": "2026-08-24T15:52:33+00:00",
+      "요약": "",
+      "반응": 382,
+      "원저자": "",
+      "본문파일": "2026-08-25/원문/ai-coding-will-prevent-expertise-42f46d42.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.097
+    },
+    {
+      "id": "claude-plugins-93517016",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "A Claude Code skill that recovers export-blocked Kindle highlights",
+      "url": "https://github.com/l3a0/claude-plugins",
+      "정규url": "https://github.com/l3a0/claude-plugins",
+      "발행": "2026-08-24T19:32:18+00:00",
+      "요약": "Article URL: https://github.com/l3a0/claude-plugins \n\n Comments URL: https://news.ycombinator.com/item?id=49424758 \n\n Points: 41\n\n # Comments: 9",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-25/원문/claude-plugins-93517016.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.077
+    },
+    {
+      "id": "2026-the-end-of-ipfs-at-shipyard-7e0c54a5",
+      "출처": "Hacker News",
+      "제목": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "정규url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard",
+      "발행": "2026-08-24T15:48:45+00:00",
+      "요약": "",
+      "반응": 291,
+      "원저자": "",
+      "본문파일": "2026-08-25/원문/2026-the-end-of-ipfs-at-shipyard-7e0c54a5.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.022
+    },
+    {
+      "id": "llm-anthropic-cce482ec",
+      "출처": "Simon Willison",
+      "제목": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "정규url": "https://simonwillison.net/2026/Aug/24/llm-anthropic",
+      "발행": "2026-08-24T16:27:04+00:00",
+      "요약": "Release: llm-anthropic 0.27 \n\n This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago.\n\n Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with:\n\n \n Upgrade to anthropic>=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md and get the tests passing \n\n \n Here's the resulting PR .\n\n \n \n Tags: python , httpx , llm , anthropic , claude",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-25/원문/llm-anthropic-cce482ec.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 3.739
+    },
+    {
+      "id": "3mttuzjyiyc2j-f04035fd",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Note to anyone sending in an application, paper, or any other document where one person reads many submissions: yes, the",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mttuzjyiyc2j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mttuzjyiyc2j",
+      "발행": "2026-08-24T17:59:22.798000+00:00",
+      "요약": "Note to anyone sending in an application, paper, or any other document where one person reads many submissions: yes, they can tell.\n\nIt is obvious in most cases that you are using AI, even if the language is changed, as the ideas & concepts start to rhyme as you read lots of them in a row.",
+      "반응": 52,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-25/원문/3mttuzjyiyc2j-f04035fd.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.823
+    },
+    {
+      "id": "3mtu2ue3p7c2j-eb32d41c",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "From @randomwalker.bsky.social: state-level data center bans have very little impact overall on AI progress due to risin",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtu2ue3p7c2j",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtu2ue3p7c2j",
+      "발행": "2026-08-24T19:43:51.288000+00:00",
+      "요약": "From @randomwalker.bsky.social: state-level data center bans have very little impact overall on AI progress due to rising efficiency.\n\nIf your concern is AI development, concentration of power, future use, or anything else other than \"is a datacenter near me?\" this is not a substitute for policy.",
+      "반응": 45,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-25/원문/3mtu2ue3p7c2j-eb32d41c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.806
+    },
+    {
+      "id": "your-executable-is-a-sqlite-database-b809feda",
+      "출처": "Simon Willison",
+      "제목": "Your executable is a SQLite database",
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "정규url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database",
+      "발행": "2026-08-24T11:38:15+00:00",
+      "요약": "Your executable is a SQLite database \n\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary.\n\n The trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable & Linkable Format. The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema .\n\n Their self-exec interpreter ( C code here ) can then extract and execute the necessary pieces.\n\n You can additionally use a Linux mechanism called binfmt_misc to teach the kernel to execute that any time it encounters an executable matching that binary pattern. Farid uses NixOS here, but without NixOS I think registration looks something like this:\n\n printf '%s\\n' ':self:M:68:SELF::/usr/local/bin/self-exec:' \\\n > /proc/sys/fs/binfmt_misc/register\n \n\n Via Hacker News \n\n\n\n Tags: c , linux , sqlite",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-25/원문/your-executable-is-a-sqlite-database-b809feda.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.776
+    }
+  ]
+}
