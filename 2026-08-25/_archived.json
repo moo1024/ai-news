@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-08-25",
+  "브리핑페이지": "https://app.notion.com/p/3c63f6aa67a481e59c6ee50c1ffa938a",
+  "정식아카이빙": [
+    {
+      "id": "v2-1-243-163e5f4b",
+      "source_library": "https://app.notion.com/p/3c73f6aa67a4818a811edf84540ba270",
+      "서고": "https://app.notion.com/p/3c73f6aa67a4812abf8dfe87c86ba062",
+      "결과": "생성"
+    },
+    {
+      "id": "x64dbg-mcp-server-8eae3aea",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a4813e9539e21e8a6cdd9a",
+      "서고": "https://app.notion.com/p/3c63f6aa67a481bf80cdd6ef8ff3874f",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "awesome-deepseek-harness-f6859766",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a4813e86b0dd3e0d811852",
+      "서고": "https://app.notion.com/p/3c63f6aa67a4817bb67eca2218604e2b",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "dsh-desktop-182a57bd",
+      "source_library": "https://app.notion.com/p/3c73f6aa67a4818c87f6c1308f30ff35",
+      "서고": "https://app.notion.com/p/3c73f6aa67a4814cb6fbdfad5ac042c1",
+      "결과": "생성"
+    },
+    {
+      "id": "main-db36f883",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a4816ba26edea4cd24f31f",
+      "서고": "https://app.notion.com/p/3c63f6aa67a481168ba9f33bbfeb4b26",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "index-html-451496f8",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a481a18eacd4bcb06d775b",
+      "서고": "https://app.notion.com/p/3c63f6aa67a48171a7efee965750429f",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "ai-coding-will-prevent-expertise-42f46d42",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a481cfbf34c58b07fa3aaf",
+      "서고": "https://app.notion.com/p/3c63f6aa67a4819a9c0bd6f78540537b",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "news-id-1ptvdtcm-19799d74",
+      "source_library": "https://app.notion.com/p/3c73f6aa67a4818c9889f7c064120aa0",
+      "서고": "https://app.notion.com/p/3c73f6aa67a481c185a2cf2b5f2f921c",
+      "결과": "생성"
+    },
+    {
+      "id": "claude-plugins-93517016",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a4817dac1dfdc5304b45e5",
+      "서고": "https://app.notion.com/p/3c63f6aa67a481afba8ac39b0d62674e",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "llm-anthropic-cce482ec",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a4819599e3de731531f042",
+      "서고": "https://app.notion.com/p/3c63f6aa67a4814db19ac1dd447d5859",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "gpt-5-6-in-kiro-df015003",
+      "source_library": "https://app.notion.com/p/3c73f6aa67a4812f8d95efa484587c09",
+      "서고": "https://app.notion.com/p/3c73f6aa67a481f5b4a1eb39df3f668f",
+      "결과": "생성"
+    },
+    {
+      "id": "3mtu2ue3p7c2j-eb32d41c",
+      "source_library": "https://app.notion.com/p/3c63f6aa67a48169a7aaf21c059ab216",
+      "서고": "https://app.notion.com/p/3c63f6aa67a481d78f53c2f6db3eb404",
+      "결과": "중복 — 건너뜀"
+    }
+  ],
+  "전체수집건수": 141,
+  "메모": "오전 08:14 KST 에 앞선 실행이 이미 12건을 2단계로 넣어둔 상태였다(_archived.json 은 남기지 못함). 이후 03:54 UTC 재수집으로 _후보.json 이 갱신되어 후보 12건 중 8건이 그 실행분과 겹쳤고, 겹치지 않은 4건(v2.1.243 · dsh-desktop · Apple Hide My Email · GPT-5.6 in Kiro)만 새로 2단계 처리했다. 브리핑 행은 새로 만들지 않고 기존 2026-08-25 행을 갱신했다 — 수집건수 120→141, 출처수 26→31, 정식정리 12→16(오늘 하루 총계)."
+}

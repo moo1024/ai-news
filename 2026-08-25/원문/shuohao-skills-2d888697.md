@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/eternityspring/shuohao-skills
-- 발행: 2026-08-24T22:23:55.781145+00:00
+- 발행: 2026-08-25T03:54:28.331130+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  Fork
- 243 
+ 245 
  
  
 
@@ -750,7 +750,7 @@ ln -s " $PWD /skills/novel-characters " ~ /.codex/skills/novel-characters
  Apache 2.0 
 
  About AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
- Resources Readme Apache-2.0 license Activity Stars 2.0k stars Watchers 2 watching Forks 243 forks Report repository Releases Packages Contributors Languages 
+ Resources Readme Apache-2.0 license Activity Stars 2.0k stars Watchers 2 watching Forks 245 forks Report repository Releases Packages Contributors Languages 
  
 
 

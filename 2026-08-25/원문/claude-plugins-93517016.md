@@ -301,7 +301,7 @@ GitHub - l3a0/claude-plugins: l3a0's Claude Code plugin marketplace — kindle-h
  
  
  Star
- 11 
+ 14 
  
  
 
@@ -643,7 +643,7 @@ flags for anything recovered or approximate, then runs a QA pass.
  MIT 
 
  About l3a0's Claude Code plugin marketplace — kindle-highlights: verbatim Kindle highlight extraction with truncation recovery
- Topics ai-agents claude claude-code claude-plugin data-ownership kindle kindle-highlights note-taking ocr pkm Resources Readme MIT license Activity Stars 11 stars Watchers 0 watching Forks 1 fork Report repository Releases Packages Used by Contributors Languages 
+ Topics ai-agents claude claude-code claude-plugin data-ownership kindle kindle-highlights note-taking ocr pkm Resources Readme MIT license Activity Stars 14 stars Watchers 0 watching Forks 1 fork Report repository Releases Packages Used by Contributors Languages 
  
 
 

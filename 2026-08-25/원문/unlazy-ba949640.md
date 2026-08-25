@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/Leonxlnx/unlazy
-- 발행: 2026-08-24T22:23:55.781145+00:00
+- 발행: 2026-08-25T03:54:28.331130+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - Leonxlnx/unlazy: Anti-laziness skill for AI agents. Core: the Depth Tre
  
  
  Fork
- 119 
+ 123 
  
  
 
@@ -301,7 +301,7 @@ GitHub - Leonxlnx/unlazy: Anti-laziness skill for AI agents. Core: the Depth Tre
  
  
  Star
- 2.2k 
+ 2.3k 
  
  
 

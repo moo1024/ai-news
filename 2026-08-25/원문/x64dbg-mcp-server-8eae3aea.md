@@ -1,8 +1,8 @@
 # duty1g/x64dbg-mcp-server — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
-- 출처: GitHub 신규 (MCP 서버)
+- 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/duty1g/x64dbg-mcp-server
-- 발행: 2026-08-24T22:23:55.781145+00:00
+- 발행: 2026-08-25T03:54:28.331130+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - duty1g/x64dbg-mcp-server: x64dbg-MCP Server is a native MCP (Model Cont
  
  
  Fork
- 120 
+ 124 
  
  
 
@@ -301,7 +301,7 @@ GitHub - duty1g/x64dbg-mcp-server: x64dbg-MCP Server is a native MCP (Model Cont
  
  
  Star
- 1.2k 
+ 1.3k 
  
  
 

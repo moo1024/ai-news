@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (AI 에이전트)
 - 원본 링크: https://github.com/deepseek-ai/deepseek-harness
-- 발행: 2026-08-24T22:23:55.781145+00:00
+- 발행: 2026-08-25T03:54:28.331130+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.
  
  
  Fork
- 21.5k 
+ 21.6k 
  
  
 
@@ -323,7 +323,7 @@ GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.
  
  
  Star
- 192k 
+ 193k 
  
  
 
@@ -548,7 +548,7 @@ pnpm dsh web
  Third-party dependencies and their licenses are disclosed in THIRD_PARTY_NOTICES.md .
 
  About DeepSeek Harness: Everything is a Plugin.
- deepseek.com/harness Topics ai-agents cordis dsh dsh-plugin Resources Readme MIT license Contributing Contributing Activity Custom properties Stars 191.8k stars Watchers 841 watching Forks 21.5k forks Report repository Releases Contributors Languages 
+ deepseek.com/harness Topics ai-agents cordis dsh dsh-plugin Resources Readme MIT license Contributing Contributing Activity Custom properties Stars 192.7k stars Watchers 847 watching Forks 21.6k forks Report repository Releases Contributors Languages 
  
 
 

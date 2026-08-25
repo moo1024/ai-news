@@ -189,7 +189,7 @@ Import AI 470: No rights for machines; automating environment generation with SP
  
 
  
- Subscribe Sign in Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye Differential acceleration of cyber, math, and AI Jack Clark Aug 24, 2026 58 3 Share Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.
+ Subscribe Sign in Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye Differential acceleration of cyber, math, and AI Jack Clark Aug 24, 2026 59 3 Share Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.
  Subscribe AI is accelerating some types of progress but not others: 
  …A nice METR study lays out where acceleration is showing up… 
  Here’s a little analysis from METR which looks at where AI may be accelerating different types of science and technology. The study looks at three different areas: cyber, math, and AI research, and finds that AI has contributed a lot to cyber, a little bit to math, and it’s hard to say for AI. 

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/larashero3-dotcom/lieflat-charts
-- 발행: 2026-08-24T22:23:55.781145+00:00
+- 발행: 2026-08-25T03:54:28.331130+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - larashero3-dotcom/lieflat-charts: Data visualization Skill for AI Agent
  
  
  Fork
- 91 
+ 93 
  
  
 
@@ -904,7 +904,7 @@ catalog.md 和 mono-tokens.js 是否存在。
  Chart.js、Apache ECharts 和 Inter 字体遵循各自的原始许可证，详见 THIRD_PARTY_NOTICES.md 。
 
  About Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
- Topics agent-skills charts claude-code codex data-visualization html moxt svg Resources Readme License Activity Stars 1.8k stars Watchers 0 watching Forks 91 forks Report repository Releases Packages Contributors Languages 
+ Topics agent-skills charts claude-code codex data-visualization html moxt svg Resources Readme License Activity Stars 1.8k stars Watchers 0 watching Forks 93 forks Report repository Releases Packages Contributors Languages 
  
 
 
