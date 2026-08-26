@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/AMAP-ML/LongHorizon-Harness
-- 발행: 2026-08-26T03:54:38.294674+00:00
+- 발행: 2026-08-26T10:54:40.125059+00:00
 - 접근상태: 확인 완료
 
 ---

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/0xsline/awesome-deepseek-harness
-- 발행: 2026-08-26T03:54:38.294674+00:00
+- 발행: 2026-08-26T10:54:40.125059+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  
  
  Fork
- 328 
+ 329 
  
  
 
@@ -301,7 +301,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  
  
  Star
- 902 
+ 909 
  
  
 
@@ -563,7 +563,7 @@ GitHub - 0xsline/awesome-deepseek-harness: DeepSeek Harness (DSH) ecosystem: cur
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 1,033 Commits 1,033 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     assets assets     scripts scripts     .gitignore .gitignore     CATALOG.md CATALOG.md     LICENSE LICENSE     README.md README.md     README.zh-CN.md README.zh-CN.md     contributing.md contributing.md     View all files Repository files navigation README Contributing CC0-1.0 license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 1,038 Commits 1,038 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     assets assets     scripts scripts     .gitignore .gitignore     CATALOG.md CATALOG.md     LICENSE LICENSE     README.md README.md     README.zh-CN.md README.zh-CN.md     contributing.md contributing.md     View all files Repository files navigation README Contributing CC0-1.0 license More items 
  English   |  
  简体中文 
 

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/AminBlg/SimpleEnglish
-- 발행: 2026-08-26T03:54:38.294674+00:00
+- 발행: 2026-08-26T10:54:40.125059+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - AminBlg/SimpleEnglish: Agent skill: make LLMs write docs in ASD-STE100 
  
  
  Fork
- 101 
+ 102 
  
  
 
@@ -880,7 +880,7 @@ Set DB_PASSWORD to the correct value, then connect again.
  MIT for everything here. The repo paraphrases the rules for teaching and reproduces zero spec text or dictionary content. Unofficial project, not affiliated with or endorsed by ASD or STEMG. ASD-STE100 is a registered trademark of ASD.
 
  About Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
- Resources Readme MIT license Activity Stars 2.8k stars Watchers 6 watching Forks 101 forks Report repository Releases Contributors Languages 
+ Resources Readme MIT license Activity Stars 2.8k stars Watchers 6 watching Forks 102 forks Report repository Releases Contributors Languages 
  
 
 

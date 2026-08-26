@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/eternityspring/shuohao-skills
-- 발행: 2026-08-26T03:54:38.294674+00:00
+- 발행: 2026-08-26T10:54:40.125059+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  Fork
- 253 
+ 263 
  
  
 
@@ -301,7 +301,7 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  Star
- 2k 
+ 2.1k 
  
  
 
@@ -563,18 +563,10 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 59 Commits 59 Commits Folders and files Name Name Last commit message Last commit date assets assets     docs/ superpowers docs/ superpowers     scripts scripts     skills skills     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     LICENSE LICENSE     NOTICE NOTICE     README.en.md README.en.md     README.md README.md     View all files Repository files navigation README Apache-2.0 license More items 中文 · English 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 64 Commits 64 Commits Folders and files Name Name Last commit message Last commit date assets assets     docs/ superpowers docs/ superpowers     scripts scripts     skills skills     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     LICENSE LICENSE     NOTICE NOTICE     README.en.md README.en.md     README.md README.md     View all files Repository files navigation README Apache-2.0 license More items 🎬 AI视频工作台 
 
  
- 👋 找工作 / 合作 — 作者目前在空窗期，这个仓库就是业余的一点小探索。
-有缘的朋友欢迎联系。 远程工作 之外，也接受 半合作 ——每月几千块生活费 + 利润分成。如有必要，FED的话，也是可以考虑到场出差。希望在AI浪潮下，能找到同频朋友一起做点事情。
-个人简历： resume.79px.com 
 
- 我建了一个 AI 短剧交流群 （付费），聊 AI 短剧的工作流、工具和实操。
-有兴趣的加我： 微信 hao_dev ，添加时 备注 github 。
-
- 
- 
  shuohao-skills 
  AI 短剧制作的 skill 集合 ：从一本小说到直接喂生成管线的制作素材——拆角色、排大纲、出场景与道具设定、写剧本、切分镜。给 AI 编码 agent 用， Claude Code 和 codex 都能跑 。
 
@@ -613,6 +605,13 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  五个 skill 的报告都支持中英双语界面 ：默认中文， render --lang en 出全英文报告（数据内容保持原文）。
+
+ AI 短剧交流社群 
+ 这是作者独立运营的付费交流群，讨论 AI 短剧的工作流、工具和实操。 交流群与上方 ReelBench AI 视频工作台是两项独立服务。 
+
+ 有兴趣的加我： 微信 hao_dev ，添加时备注 github 。
+
+ 
 
  合成一张单页 
  五段的报告可以合成一张单页，左侧导航切换—— 有哪几段就出哪几个面板 ：
@@ -750,7 +749,7 @@ ln -s " $PWD /skills/novel-characters " ~ /.codex/skills/novel-characters
  Apache 2.0 
 
  About AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
- Resources Readme Apache-2.0 license Activity Stars 2.0k stars Watchers 2 watching Forks 253 forks Report repository Releases Packages Contributors Languages 
+ Resources Readme Apache-2.0 license Activity Stars 2.1k stars Watchers 3 watching Forks 263 forks Report repository Releases Packages Contributors Languages 
  
 
 

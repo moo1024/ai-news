@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/vibeinging/dsh-desktop
-- 발행: 2026-08-26T03:54:38.294674+00:00
+- 발행: 2026-08-26T10:54:40.125059+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -336,7 +336,7 @@ GitHub - vibeinging/dsh-desktop: DeepSeek Harness Desktop App: a local AI deskto
  
  
  Issues 
- 4 
+ 3 
 
 
  

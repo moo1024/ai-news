@@ -27,7 +27,7 @@ Granite 4.2 LLMs: How They're Built
  Granite 4.2 LLMs: How They're Built
  
  Enterprise Article Published
- August 25, 2026 Upvote 33 +27 Yousaf Shah yousafshah Follow ibm-granite Swanand Kadhe kswanand1 Follow ibm-granite Riddhiman Moulick rmoulick Follow ibm-granite Ashish Sunil Agrawal ashish23 Follow ibm-granite :last-child]:mb-0"> 
+ August 25, 2026 Upvote 42 +36 Yousaf Shah yousafshah Follow ibm-granite Swanand Kadhe kswanand1 Follow ibm-granite Riddhiman Moulick rmoulick Follow ibm-granite Ashish Sunil Agrawal ashish23 Follow ibm-granite :last-child]:mb-0"> 
  Overview Model Architecture Pre-Training SFT: Data Preparation & Quality Control Data Quality Control SFT Training Details Phase 2 SFT for the 30B Model Reinforcement Learning: A Multi-Stage, Multi-Environment Pipeline Training Methodology The Staged Curriculum Reward Signals Foundational RL: Build the Skills Agentic RL: Learning to Act (8B / 30B) Alignment: RLHF How the Three Sizes Differ Agentic AI Infrastructure for Scalable RL Results Quantization FP8 FP4 GGUF Infrastructure Hardware Software Stack Getting Started (Transformers) Installation Basic Inference (Thinking Mode) Non-Thinking Mode Low-Effort Thinking Tool Calling Basic Tool Calling Multi-Turn with Tool Response Multi-Turn Conversations History Thinking Truncation Parsing Thinking vs. Final Answer Using with Agentic Coding Harnesses OpenCode Pi OpenHands A technical walkthrough of how we built the Granite 4.2 reasoning model family. 
 
  Authors: Granite Team, IBM

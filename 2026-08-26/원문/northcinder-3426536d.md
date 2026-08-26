@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/cinderline/northcinder
-- 발행: 2026-08-26T03:54:38.294674+00:00
+- 발행: 2026-08-26T10:54:40.125059+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - cinderline/northcinder: Open-source MCP server for comparing products a
  
  
  Fork
- 7 
+ 8 
  
  
 
@@ -658,7 +658,7 @@ node northcinder/bin/northcinder.js init
  NorthCinder is open source under the MIT License .
 
  About Open-source MCP server for comparing products and asking the buyer before purchase.
- Topics agentic-commerce human-in-the-loop local-first mcp mcp-server model-context-protocol privacy self-hosted shopping-agent typescript Resources Readme MIT license Code of conduct Code of conduct Contributing Contributing Security policy Security policy Activity Stars 1.2k stars Watchers 5 watching Forks 7 forks Report repository Releases Packages Contributors Languages 
+ Topics agentic-commerce human-in-the-loop local-first mcp mcp-server model-context-protocol privacy self-hosted shopping-agent typescript Resources Readme MIT license Code of conduct Code of conduct Contributing Contributing Security policy Security policy Activity Stars 1.2k stars Watchers 5 watching Forks 8 forks Report repository Releases Packages Contributors Languages 
  
 
 

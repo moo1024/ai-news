@@ -1,20 +1,80 @@
 {
   "날짜": "2026-08-26",
-  "브리핑페이지": "",
+  "브리핑페이지": "https://app.notion.com/p/3c83f6aa67a48139a76ec46da819b82f",
   "정식아카이빙": [
-    {"id": "2092300848483143735-d8526ed4", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "v2-1-246-4fff4d69", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "LongHorizon-Harness-fddc749f", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "2092335305366069305-84eeb42b", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "v2-1-245-6fcd3014", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "2092300846675505602-75a7b22a", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "introducing-admin-plugin-cfc376ad", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "maiao-22dba9e7", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "2608-16603-48b0088e", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "openai-jalapeno-better-than-nvidia-e61f241d", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "how-much-of-hn-is-ai-b15a1197", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
-    {"id": "the-full-stack-behind-abundant-intellige-829e237a", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"}
+    {
+      "id": "2092300848483143735-d8526ed4",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a481579eb7d109afe6bfce",
+      "서고": "https://app.notion.com/p/3c83f6aa67a48117826dec0814aac8fe",
+      "결과": "생성"
+    },
+    {
+      "id": "LongHorizon-Harness-fddc749f",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a48156b5c8fcb6dac3879c",
+      "서고": "https://app.notion.com/p/3c83f6aa67a481e292eff154159c75f1",
+      "결과": "생성"
+    },
+    {
+      "id": "v2-1-246-4fff4d69",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a481b6893ad9fe6c25c8d6",
+      "서고": "https://app.notion.com/p/3c83f6aa67a481688799df3e1af753ca",
+      "결과": "생성"
+    },
+    {
+      "id": "loveholidays-d34e82ea",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a481f793daf4252b6863c8",
+      "서고": "https://app.notion.com/p/3c83f6aa67a48119ba0fe4c2514ff2eb",
+      "결과": "생성"
+    },
+    {
+      "id": "2092335305366069305-84eeb42b",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a4811791d2cb952c2a0183",
+      "서고": "https://app.notion.com/p/3c83f6aa67a481188737d043ea5bcce2",
+      "결과": "생성"
+    },
+    {
+      "id": "2092300846675505602-75a7b22a",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a481e391dce4e9cea2dee2",
+      "서고": "https://app.notion.com/p/3c83f6aa67a481c6b9e8c55a4f4de6d6",
+      "결과": "생성"
+    },
+    {
+      "id": "2607-21503-489929a1",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a481bab653d15831ba2383",
+      "서고": "https://app.notion.com/p/3c83f6aa67a48170ad4acdc349ffb2e7",
+      "결과": "생성"
+    },
+    {
+      "id": "v2-1-245-6fcd3014",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a48199a6b0c0b4afbb74d0",
+      "서고": "https://app.notion.com/p/3c83f6aa67a48174a274fe9edfddeb44",
+      "결과": "생성"
+    },
+    {
+      "id": "deepseek-harness-889ea1c1",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a48155a05cc154e234c371",
+      "서고": "https://app.notion.com/p/3c83f6aa67a4817581b8f318ce357904",
+      "결과": "생성"
+    },
+    {
+      "id": "disrupting-malicious-uses-of-ai-influenc-da55f7d7",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a4817fb5fcf20c99e911d0",
+      "서고": "https://app.notion.com/p/3c83f6aa67a481a3b42ce02b9c5270e5",
+      "결과": "생성"
+    },
+    {
+      "id": "maiao-22dba9e7",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a4817a93a6cf0c9da060ac",
+      "서고": "https://app.notion.com/p/3c83f6aa67a481de92faee740de40b63",
+      "결과": "생성"
+    },
+    {
+      "id": "openai-jalapeno-better-than-nvidia-e61f241d",
+      "source_library": "https://app.notion.com/p/3c83f6aa67a481dbaa6efed34bf2ae9e",
+      "서고": "https://app.notion.com/p/3c83f6aa67a4812292a7e6b0f6dcbbae",
+      "결과": "생성"
+    }
   ],
-  "전체수집건수": 170,
-  "메모": "Notion MCP 서버(plugin:Notion:notion)가 미인증 상태로 이 세션에 도구가 하나도 로드되지 않음. 절차서 0단계에 따라 노션에 아무것도 쓰지 않고 중단. 재인증(/mcp) 후 재실행하면 중복 없이 12건 전부 처리 가능."
+  "전체수집건수": 176,
+  "메모": "후보 12건 전건 2단계 완료, 중복 없음. LongHorizon-Harness·arXiv 2607.21503·SemiAnalysis 3건은 원문이 중간에 잘려 접근상태를 '일부 확인'으로 표기. 수집 단계에서 MarkTechPost(403)·BAIR(타임아웃)·Reddit 3개 서브(429) 실패."
 }

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-08-26T03:54:38.294674+00:00
+- 발행: 2026-08-26T10:54:40.125059+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 354 
+ 359 
  
  
 
@@ -323,7 +323,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Star
- 2.9k 
+ 3k 
  
  
 
@@ -358,7 +358,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Issues 
- 22 
+ 24 
 
 
  
@@ -370,7 +370,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Pull requests 
- 12 
+ 16 
 
 
  
@@ -816,4 +816,4 @@ docker run -p 3001:3001 --env-file .env \
  Decide who gets in : /admin/people lists everybody who has signed in, promotes and demotes them, and removes access, which ends the session they are using and stops the next sign-in. Every change is on the audit trail. 
  An audit trail you can read : /admin/audit lists what was permitted, what was refused and what failed, and every refusal carries the rule that caused it. 
  Credentials encrypted at rest : stored through /admin/credentials , never returned by an API, and redacted from audit events. 
- Loopback by default : computers bind to 127.0.0.1 and require a pe
+ Loopback by default : computers bind to 127.0.0.1 and require a per-

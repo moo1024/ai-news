@@ -326,7 +326,7 @@ GitHub - runetes/maiao: Seamless GitHub PR management from the command-line · G
  
  
  Star
- 57 
+ 115 
  
  
 
@@ -695,7 +695,7 @@ git config maiao.useNativeStack false # disable entirely
  MIT License - see DISCLAIMER.md for details.
 
  About Seamless GitHub PR management from the command-line
- Resources Readme License Contributing Contributing Activity Custom properties Stars 57 stars Watchers 0 watching Forks 0 forks Report repository Releases Packages Contributors Languages 
+ Resources Readme License Contributing Contributing Activity Custom properties Stars 115 stars Watchers 1 watching Forks 0 forks Report repository Releases Packages Contributors Languages 
  
 
 
