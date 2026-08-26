@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-08-26",
+  "브리핑페이지": "",
+  "정식아카이빙": [
+    {"id": "2092300848483143735-d8526ed4", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "v2-1-246-4fff4d69", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "LongHorizon-Harness-fddc749f", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "2092335305366069305-84eeb42b", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "v2-1-245-6fcd3014", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "2092300846675505602-75a7b22a", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "introducing-admin-plugin-cfc376ad", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "maiao-22dba9e7", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "2608-16603-48b0088e", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "openai-jalapeno-better-than-nvidia-e61f241d", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "how-much-of-hn-is-ai-b15a1197", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"},
+    {"id": "the-full-stack-behind-abundant-intellige-829e237a", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계 인증 확인 불가"}
+  ],
+  "전체수집건수": 170,
+  "메모": "Notion MCP 서버(plugin:Notion:notion)가 미인증 상태로 이 세션에 도구가 하나도 로드되지 않음. 절차서 0단계에 따라 노션에 아무것도 쓰지 않고 중단. 재인증(/mcp) 후 재실행하면 중복 없이 12건 전부 처리 가능."
+}

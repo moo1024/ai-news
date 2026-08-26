@@ -1,0 +1,200 @@
+{
+  "날짜": "2026-08-26",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "2092300848483143735-d8526ed4",
+      "출처": "X @OpenAI",
+      "제목": "Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand contin",
+      "url": "https://x.com/OpenAI/status/2092300848483143735",
+      "정규url": "https://x.com/OpenAI/status/2092300848483143735",
+      "발행": "2026-08-25T17:19:30+00:00",
+      "요약": "Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow. https://t.co/QgBKRa3Xz6",
+      "반응": 972,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-26/원문/2092300848483143735-d8526ed4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 5.8
+    },
+    {
+      "id": "v2-1-246-4fff4d69",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.246",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.246",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.246",
+      "발행": "2026-08-25T22:31:52+00:00",
+      "요약": "What's changed \n \n Added a startup warning for Bash allow rules with a wildcard before the subcommand (e.g. Bash(git * main) ), since they also match options inserted before the subcommand \n Added an Auto mode tab to /permissions for viewing and editing auto mode classifier rules \n Added the turn's completion time to the end-of-turn duration line, e.g. ✻ Sautéed for 23s · done 6:05 PM \n Fixed fullscreen mode showing a blank transcript after resizing the terminal and jumping to the bottom until the next keypress \n Fixed a severe transcript slowdown when a diff contained a very long single line (e.g. a base64 string); such lines now render truncated with a marker \n Fixed erratic fullscreen scrolling when positioned at an earlier message, including jump-to-bottom getting stuck mid-transcript \n Fixed background sessions failing to open after 45 seconds when Claude Code's starting directory had been deleted, the machine had slept, or the host is slow to start processes \n Fixed background sessions failing to open with \"Couldn't start the background service … EACCES\" when another Claude Code process was re-installing the npm package at that moment \n Fixed markdown rendering being disabled",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/v2-1-246-4fff4d69.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.506
+    },
+    {
+      "id": "LongHorizon-Harness-fddc749f",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "AMAP-ML/LongHorizon-Harness — The long-horizon computer-use harness. Run AI agents across desktop apps and the",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "정규url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "발행": "2026-08-26T03:54:38.294674+00:00",
+      "요약": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.\n\n별 1,316개 · 언어 Python · 생성 2026-08-04 · 토픽 agent, claude, claude-code, claude-plugin, cli, codex, codex-desktop, codex-plugin",
+      "반응": 1316,
+      "원저자": "AMAP-ML",
+      "본문파일": "2026-08-26/원문/LongHorizon-Harness-fddc749f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex"
+      ],
+      "점수": 5.265
+    },
+    {
+      "id": "2092335305366069305-84eeb42b",
+      "출처": "X @OpenAI",
+      "제목": "Introducing ChatGPT Business Premium Seats\n\nThe new $100 Premium seat is a game changer for small businesses and startup",
+      "url": "https://x.com/OpenAI/status/2092335305366069305",
+      "정규url": "https://x.com/OpenAI/status/2092335305366069305",
+      "발행": "2026-08-25T19:36:25+00:00",
+      "요약": "Introducing ChatGPT Business Premium Seats\n\nThe new $100 Premium seat is a game changer for small businesses and startups—giving lean teams better tools, faster workflows, and capabilities once reserved for big companies.\n\nA flexible plan that scales with your team’s ambition. https://t.co/BsR2phYfc9",
+      "반응": 3116,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-26/원문/2092335305366069305-84eeb42b.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.822
+    },
+    {
+      "id": "v2-1-245-6fcd3014",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.245",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
+      "발행": "2026-08-25T05:13:24+00:00",
+      "요약": "What's changed \n \n Fixed a crash on startup on Linux distributions that ship glibc 2.44 (for example Arch Linux, CachyOS and Fedora Rawhide)",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/v2-1-245-6fcd3014.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.819
+    },
+    {
+      "id": "2092300846675505602-75a7b22a",
+      "출처": "X @OpenAI",
+      "제목": "Since announcing Jalapeño, our first custom inference chip, we’ve been testing it and the system around it.\n\nThe results",
+      "url": "https://x.com/OpenAI/status/2092300846675505602",
+      "정규url": "https://x.com/OpenAI/status/2092300846675505602",
+      "발행": "2026-08-25T17:19:29+00:00",
+      "요약": "Since announcing Jalapeño, our first custom inference chip, we’ve been testing it and the system around it.\n\nThe results show a major advance: more intelligence from every watt and faster responses, delivering both higher throughput and lower latency in one architecture without https://t.co/vj7VOrA8pP",
+      "반응": 9995,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-26/원문/2092300846675505602-75a7b22a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.794
+    },
+    {
+      "id": "introducing-admin-plugin-cfc376ad",
+      "출처": "OpenAI News",
+      "제목": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "정규url": "https://openai.com/index/introducing-admin-plugin",
+      "발행": "2026-08-25T00:00:00+00:00",
+      "요약": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/introducing-admin-plugin-cfc376ad.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.192
+    },
+    {
+      "id": "maiao-22dba9e7",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "정규url": "https://github.com/runetes/maiao",
+      "발행": "2026-08-25T22:40:07+00:00",
+      "요약": "Article URL: https://github.com/runetes/maiao \n\n Comments URL: https://news.ycombinator.com/item?id=49441666 \n\n Points: 46\n\n # Comments: 18",
+      "반응": 46,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/maiao-22dba9e7.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.129
+    },
+    {
+      "id": "2608-16603-48b0088e",
+      "출처": "Hacker News",
+      "제목": "Characterizing Agentic Flooding of Government Services",
+      "url": "https://arxiv.org/abs/2608.16603",
+      "정규url": "https://arxiv.org/abs/2608.16603",
+      "발행": "2026-08-24T16:30:21+00:00",
+      "요약": "",
+      "반응": 77,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/2608-16603-48b0088e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 4.086
+    },
+    {
+      "id": "openai-jalapeno-better-than-nvidia-e61f241d",
+      "출처": "Hacker News",
+      "제목": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "정규url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "발행": "2026-08-25T14:06:02+00:00",
+      "요약": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl... , https://archive.ph/yCTrr",
+      "반응": 373,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/openai-jalapeno-better-than-nvidia-e61f241d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.959
+    },
+    {
+      "id": "how-much-of-hn-is-ai-b15a1197",
+      "출처": "Hacker News",
+      "제목": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "정규url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "발행": "2026-08-25T15:23:41+00:00",
+      "요약": "",
+      "반응": 253,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/how-much-of-hn-is-ai-b15a1197.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.877
+    },
+    {
+      "id": "the-full-stack-behind-abundant-intellige-829e237a",
+      "출처": "OpenAI News",
+      "제목": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "정규url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "발행": "2026-08-25T07:05:00+00:00",
+      "요약": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-26/원문/the-full-stack-behind-abundant-intellige-829e237a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.421
+    }
+  ]
+}
