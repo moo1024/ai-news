@@ -1,0 +1,202 @@
+{
+  "날짜": "2026-08-27",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "story-to-handdrawn-video-a114906c",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "gnipbao/story-to-handdrawn-video — Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "정규url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "발행": "2026-08-26T22:24:35.451568+00:00",
+      "요약": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).\n\n별 1,608개 · 언어 JavaScript · 생성 2026-07-21",
+      "반응": 1608,
+      "원저자": "gnipbao",
+      "본문파일": "2026-08-27/원문/story-to-handdrawn-video-a114906c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agent skill"
+      ],
+      "점수": 5.335
+    },
+    {
+      "id": "2092661574523867302-b9658760",
+      "출처": "X @AnthropicAI",
+      "제목": "Three research groups—Stanford’s Social and Language Technologies lab, Oxford’s Human Information Processing Lab, and ME",
+      "url": "https://x.com/AnthropicAI/status/2092661574523867302",
+      "정규url": "https://x.com/AnthropicAI/status/2092661574523867302",
+      "발행": "2026-08-26T17:12:53+00:00",
+      "요약": "Three research groups—Stanford’s Social and Language Technologies lab, Oxford’s Human Information Processing Lab, and METR—designed independent studies to analyze the aggregated outputs from 250,000 https://t.co/SVzAB0InAs or Claude Code conversations between April and May 2026.",
+      "반응": 119,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-08-27/원문/2092661574523867302-b9658760.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.198
+    },
+    {
+      "id": "2092661577086636154-cab6e8d3",
+      "출처": "X @AnthropicAI",
+      "제목": "The other two studies are ongoing: HIP Lab is studying how Claude's behavior relates to how people feel when using AI, w",
+      "url": "https://x.com/AnthropicAI/status/2092661577086636154",
+      "정규url": "https://x.com/AnthropicAI/status/2092661577086636154",
+      "발행": "2026-08-26T17:12:54+00:00",
+      "요약": "The other two studies are ongoing: HIP Lab is studying how Claude's behavior relates to how people feel when using AI, while METR is estimating real-world productivity gains from coding agents. We'll share more from both soon.",
+      "반응": 64,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-08-27/원문/2092661577086636154-cab6e8d3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 4.982
+    },
+    {
+      "id": "2092691861773160673-9f8f5d79",
+      "출처": "X @OpenAI",
+      "제목": "We have conducted a thorough investigation into the Hugging Face incident.\n\nWe are releasing a technical report and acco",
+      "url": "https://x.com/OpenAI/status/2092691861773160673",
+      "정규url": "https://x.com/OpenAI/status/2092691861773160673",
+      "발행": "2026-08-26T19:13:14+00:00",
+      "요약": "We have conducted a thorough investigation into the Hugging Face incident.\n\nWe are releasing a technical report and accompanying blog post that reconstruct the agents’ activity, explain why existing safeguards failed, and detail how we’re preventing recurrence.",
+      "반응": 3603,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-27/원문/2092691861773160673-9f8f5d79.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.938
+    },
+    {
+      "id": "rust-v0-150-0-47c3a732",
+      "출처": "Codex 릴리스",
+      "제목": "0.150.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.0",
+      "정규url": "https://github.com/openai/codex/releases/tag/rust-v0.150.0",
+      "발행": "2026-08-26T19:39:18+00:00",
+      "요약": "New Features \n \n Reference other Codex tasks with @ mentions, and ask agents to read, create, or message tasks from the terminal. ( #40308 , #40315 ) \n /copy now offers a picker for full responses, individual code blocks, and blockquotes. ( #39997 ) \n Unnamed terminal tasks receive descriptive titles automatically, and /rename suggests an editable title based on the conversation. ( #40492 , #40495 ) \n Markdown links appear as clickable labels in supported terminals, with visible URLs retained elsewhere. ( #40471 ) \n Bind shortcuts to cycle permission modes, and use . in Vim mode to repeat your last edit. ( #39873 , #40521 ) \n New Interrupt hooks can run commands or MCP handlers when an active top-level turn is interrupted. ( #40511 ) \n \n Bug Fixes \n \n Untrusted projects no longer supply project-level AGENTS.md instructions, and managed deny-read rules remain enforced after permission changes. ( #39837 , #40004 ) \n Improved credential redaction in app-server diagnostics, including provider, authentication refresh, and attestation fields. ( #39993 ) \n Fixed remote MCP bearer-token lookup and required-server startup while preserving compatibility with older executors. ( #39926 , #3995",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-27/원문/rust-v0-150-0-47c3a732.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "mcp",
+        "hooks",
+        "agents.md"
+      ],
+      "점수": 4.335
+    },
+    {
+      "id": "tailcat-25600500",
+      "출처": "Hacker News",
+      "제목": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "정규url": "https://github.com/tailscale/tailcat",
+      "발행": "2026-08-26T17:42:22+00:00",
+      "요약": "",
+      "반응": 392,
+      "원저자": "",
+      "본문파일": "2026-08-27/원문/tailcat-25600500.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.137
+    },
+    {
+      "id": "rag-is-simpler-than-you-think-28a246d4",
+      "출처": "Hacker News",
+      "제목": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "정규url": "https://lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "발행": "2026-08-26T08:39:17+00:00",
+      "요약": "",
+      "반응": 414,
+      "원저자": "",
+      "본문파일": "2026-08-27/원문/rag-is-simpler-than-you-think-28a246d4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.988
+    },
+    {
+      "id": "focus-is-the-main-feature-why-i-miss-the-39680163",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "I miss the old Claude Code",
+      "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+      "정규url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code",
+      "발행": "2026-08-26T06:34:35+00:00",
+      "요약": "Article URL: https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/ \n\n Comments URL: https://news.ycombinator.com/item?id=49444863 \n\n Points: 36\n\n # Comments: 21",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-27/원문/focus-is-the-main-feature-why-i-miss-the-39680163.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code"
+      ],
+      "점수": 3.703
+    },
+    {
+      "id": "learning-never-stops-cdfc1003",
+      "출처": "OpenAI News",
+      "제목": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "정규url": "https://openai.com/index/learning-never-stops",
+      "발행": "2026-08-26T10:00:00+00:00",
+      "요약": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-27/원문/learning-never-stops-cdfc1003.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.655
+    },
+    {
+      "id": "openai-restores-5-hour-codex-and-work-li-22b21fdf",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+      "정규url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+      "발행": "2026-08-25T12:33:00+00:00",
+      "요약": "Article URL: https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/ \n\n Comments URL: https://news.ycombinator.com/item?id=49432879 \n\n Points: 117\n\n # Comments: 121",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-27/원문/openai-restores-5-hour-codex-and-work-li-22b21fdf.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 3.182
+    },
+    {
+      "id": "intelligent-transcription-with-gemini-3-fe44bb74",
+      "출처": "Google DeepMind",
+      "제목": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "정규url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "발행": "2026-08-26T17:01:00+00:00",
+      "요약": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-27/원문/intelligent-transcription-with-gemini-3-fe44bb74.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.08
+    },
+    {
+      "id": "3mtyly5pyh22e-944615ee",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "I know it is a lot for instructors who never asked for AI to change things about their teaching, but if you teach and ha",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtyly5pyh22e",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mtyly5pyh22e",
+      "발행": "2026-08-26T15:00:51.397000+00:00",
+      "요약": "I know it is a lot for instructors who never asked for AI to change things about their teaching, but if you teach and have not updated your expectations over the last 6 months over what AI can do (a lot more), its error rate (a lot less) and its ubiquity among your students (near total), you need to",
+      "반응": 89,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-27/원문/3mtyly5pyh22e-944615ee.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.929
+    }
+  ]
+}

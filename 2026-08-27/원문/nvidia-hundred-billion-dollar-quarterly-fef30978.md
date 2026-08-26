@@ -1,0 +1,43 @@
+# Nvidia is about to be a hundred-billion-dollar-a-quarter company
+
+- 출처: The Verge AI
+- 원본 링크: https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue
+- 발행: 2026-08-26T21:40:53+00:00
+- 접근상태: 확인 완료
+
+---
+
+Nvidia is about to be a hundred-billion-dollar-a-quarter company | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up close Close Search Light System Dark Tech Expand Amazon Apple Facebook Google Microsoft Samsung Business See all tech Reviews Expand Smart Home Reviews Phone Reviews Tablet Reviews Headphone Reviews See all reviews Science Expand Space Energy Environment Health See all science Entertainment Expand TV Shows Movies Audio See all entertainment AI Expand OpenAI Anthropic See all AI Policy Expand Antitrust Politics Law Security See all policy Gadgets Expand Laptops Phones TVs Headphones Speakers Wearables See all gadgets Verge Shopping Expand Buying Guides Deals Gift Guides See all shopping Gaming Expand Xbox PlayStation Nintendo See all gaming Streaming Expand Disney HBO Netflix YouTube Creators See all streaming Transportation Expand Electric Cars Autonomous Cars Ride-sharing Scooters See all transportation Features Verge Video Expand TikTok YouTube Instagram Podcasts Expand Decoder The Vergecast Version History Newsletters Archives Store Verge Product Updates Subscribe Facebook Threads Instagram Youtube RSS The Verge The Verge logo. Nvidia is about to be a hundred-billion-dollar-a-quarter company Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... Tech Close Tech Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Tech 
+ AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ Business Close Business Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Business 
+ Nvidia is about to be a hundred-billion-dollar-a-quarter company ﻿The chip company made over $96 billion in the past quarter, most of it from its data center business.
+ ﻿The chip company made over $96 billion in the past quarter, most of it from its data center business.
+ by Stevie Bonifield Close Stevie Bonifield News Writer Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Stevie Bonifield 
+ Aug 26, 2026, 9:40 PM UTC Link Share Gift Image: Cath Virginia / The Verge Part Of Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy see all updates Stevie Bonifield Close Stevie Bonifield Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Stevie Bonifield 
+ is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI. Nvidia’s predicting it will pull in $108 billion in revenue within just a few months. It wouldn’t be the first company to rake in over $100 billion in quarterly revenue — Amazon, Apple, and Alphabet have repeatedly reached the milestone.
+ Nvidia said in its latest earnings report that it brought in a record $96.2 billion in overall revenue in the past quarter, a jump of over $10 billion from the previous quarter. Its data center revenue alone more than doubled year-over-year to a record $89 billion, and the company’s profits more than doubled to $59.7 billion.
+ Previous Next 1 / 2 Nvidia’s overall revenue doubled year-over-year. Image: Nvidia Nvidia’s “edge computing” category, which includes its consumer gaming business , accounted for just $7.2 billion of its revenue last quarter. That’s a 27 percent increase year-over-year, but Nvidia acknowledged that it experienced “slower consumer PC sales that were tempered by elevated memory and systems prices.” Component shortages continue to drive up prices for Nvidia’s consumer GPUs , and it also warned of price hikes for its AI chips ahead of Wednesday’s earnings report.
+ Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Stevie Bonifield Close Stevie Bonifield News Writer Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Stevie Bonifield 
+ AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ Business Close Business Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Business 
+ News Close News Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All News 
+ Nvidia Close Nvidia Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Nvidia 
+ Tech Close Tech Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Tech 
+ More in: Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy Amazon’s adding another 2 million of Nvidia’s GPUs to its AWS data centers. Stevie Bonifield 10 seconds ago OpenAI says its Jalapeño chip can power faster AI responses than the competition Emma Roth Aug 25 Nvidia’s AI chips are about to get more expensive too. Richard Lawler Aug 22 Most Popular Most Popular Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks Xbox announces disc-to-digital feature that digitizes your physical games Apple announces September iPhone launch event Bill Gates is deeply worried about AI, and he’s no longer staying quiet Ikea’s Xbox collection includes a giant thumbstick stool The Verge Daily A free daily digest of the news that matters most. 
+ Email (required) Sign Up By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Advertiser Content From This is the title for the native ad
+ More in Tech All the ways Instagram and Facebook are changing for teens Apple Maps has ads now Google’s new AI transcription edits out your ‘ums’ and ‘ahs’ Apple announces September iPhone launch event Xbox announces disc-to-digital feature that digitizes your physical games Microsoft’s 25th anniversary Xbox will cost $899 All the ways Instagram and Facebook are changing for teens Emma Roth Two hours ago Apple Maps has ads now Stevie Bonifield 5:34 PM UTC Google’s new AI transcription edits out your ‘ums’ and ‘ahs’ Jess Weatherbed 5:00 PM UTC Apple announces September iPhone launch event Jay Peters 4:03 PM UTC Xbox announces disc-to-digital feature that digitizes your physical games Tom Warren 2:30 PM UTC Microsoft’s 25th anniversary Xbox will cost $899 Stevie Bonifield 2:05 PM UTC Advertiser Content From This is the title for the native ad
+ Top Stories 41 minutes ago OpenAI’s rogue AI model incident was worse than we thought 1:31 PM UTC Meta agrees to heavy restrictions on teen users in major lawsuit settlement 6:14 PM UTC Being a mom is hard — the heat is making it harder 4:03 PM UTC Apple announces September iPhone launch event 2:30 PM UTC Xbox announces disc-to-digital feature that digitizes your physical games The Verge The Verge logo. Facebook Threads Instagram Youtube RSS Contact Tip Us Community Guidelines Archives About Ethics Statement How We Rate and Review Products Cookie Settings Terms of Use Privacy Policy Your California Privacy Rights Your Privacy Choices Cookie Notice AdChoices Licensing FAQ Accessibility Platform Status Penske Media Corporation The Verge is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation.
+ © 2026 VM Publishing, LLC. All rights reserved.
+ Our Sites The American Pavilion ARTnews Art in America Artforum Art Week NYC Beauty Inc Billboard Deadline Dick Clark Productions The Dodo Eater Flow Space FN Gold Derby Golden Globes The Hollywood Reporter IndieWire Life is Beautiful Popsugar Punch SJ Denim Robb Report Rolling Stone SB Nation SHE Media She Knows Sourcing Journal Soaps Sportico StyleCaster SXSW Thrillist Variety The Verge Vibe WWD Notifications Drawer The Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.
+ Sign in
