@@ -1,0 +1,202 @@
+{
+  "날짜": "2026-08-28",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "v2-1-248-a6b29337",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.248",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
+      "발행": "2026-08-27T22:12:20+00:00",
+      "요약": "What's changed \n \n Added --restricted (or CLAUDE_CODE_RESTRICTED=1 ): removes the built-in tools that run commands or code and WebFetch (unless named in --tools ), keeps file tools inside the working directory, refuses bypassPermissions , and ignores user, project and local settings files \n Added experimental.cacheTtl ( \"5m\" or \"1h\" ) to agent frontmatter: a per-agent prompt cache TTL used when no subagent TTL setting is configured \n Added claude self-hosted-runner --client-label <label> (or SELF_HOSTED_RUNNER_CLIENT_LABEL ) to override the label the runner registers with (default: hostname) \n Added server-managed settings diagnostics: a startup warning when the settings fail to load, and a /doctor and /status line explaining a load failure or why they weren't fetched (Bedrock/Vertex/third-party provider, custom ANTHROPIC_BASE_URL ) \n Added a warning in /web-setup when the GitHub CLI token lacks the workflow scope, since pushes to very large repositories can be rejected without it \n Added /usage-credits for Enterprise organizations billed through AWS Marketplace, self-serve Enterprise, and Enterprise trials, so members can request a higher usage limit from their admin \n Added cross",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/v2-1-248-a6b29337.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "subagent"
+      ],
+      "점수": 5.712
+    },
+    {
+      "id": "2093038431190548803-418d1db3",
+      "출처": "X @AnthropicAI",
+      "제목": "MHS currently best covers lab and manufacturing equipment. Many developers are already using Claude Code to operate hard",
+      "url": "https://x.com/AnthropicAI/status/2093038431190548803",
+      "정규url": "https://x.com/AnthropicAI/status/2093038431190548803",
+      "발행": "2026-08-27T18:10:23+00:00",
+      "요약": "MHS currently best covers lab and manufacturing equipment. Many developers are already using Claude Code to operate hardware like boards and cameras; our research preview will help us extend MHS to these devices, so they can all work under one interface.",
+      "반응": 104,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-08-28/원문/2093038431190548803-418d1db3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.175
+    },
+    {
+      "id": "2093074192636018977-9ffda455",
+      "출처": "X @OpenAI",
+      "제목": "We have a limited window to strengthen cyber defenses, and together with organizations including @AnthropicAI, @awscloud",
+      "url": "https://x.com/OpenAI/status/2093074192636018977",
+      "정규url": "https://x.com/OpenAI/status/2093074192636018977",
+      "발행": "2026-08-27T20:32:29+00:00",
+      "요약": "We have a limited window to strengthen cyber defenses, and together with organizations including @AnthropicAI, @awscloud, @Google, @Microsoft, and @Oracle, we're calling for a global effort to give defenders the tools, resources, and support to protect the infrastructure we all https://t.co/XiKitsf5wb",
+      "반응": 2820,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-28/원문/2093074192636018977-9ffda455.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.92
+    },
+    {
+      "id": "v2-1-247-37c894b1",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.247",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
+      "발행": "2026-08-26T23:06:39+00:00",
+      "요약": "What's changed \n \n Added the SendFeedback tool: when something goes wrong in a session, Claude can draft a feedback report for you to review and send from /feedback (turn off with the feedbackDrafts setting) \n Added {id, text, cooldownSessions, priority} entries, tipsFile , and label to spinnerTipsOverride , so organizations can rotate their own tips alongside the built-in ones \n Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke \"Yes, and switch to auto mode\" option \n Added /claude-api cost-optimize to profile an existing project's Claude API spend and work through cost levers (caching, token hygiene, batch, effort, model choice) one measured change at a time \n Updated the /claude-api skill with Admin API coverage (organization members, invites, workspaces, API keys, rate limit reports, workload identity federation, CMEK) \n Fixed fast arrow-key + Enter sequences acting on the row above the one you navigated to in history search, /config , /mcp , /skills , background tasks, and /model \n Fixed sub-agents dying on a first-call model 404: they now use the session's fallback model chain, and the error returned to the parent includes the error type, statu",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/v2-1-247-37c894b1.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "mcp",
+        "sub-agent",
+        "skills"
+      ],
+      "점수": 4.794
+    },
+    {
+      "id": "2092961763553677387-4cd37700",
+      "출처": "X @GoogleDeepMind",
+      "제목": "In an industry first, we’re piloting double-blind evaluations for frontier AI.\n\nBy creating a secure environment where n",
+      "url": "https://x.com/GoogleDeepMind/status/2092961763553677387",
+      "정규url": "https://x.com/GoogleDeepMind/status/2092961763553677387",
+      "발행": "2026-08-27T13:05:44+00:00",
+      "요약": "In an industry first, we’re piloting double-blind evaluations for frontier AI.\n\nBy creating a secure environment where neither test prompts nor model weights are revealed, we can ensure external safety and performance evaluations of our models remain private, robust, and https://t.co/puvIVxDjq7",
+      "반응": 568,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-08-28/원문/2092961763553677387-4cd37700.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.341
+    },
+    {
+      "id": "OpenExecutive-fa7623ee",
+      "출처": "Hacker News",
+      "제목": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "정규url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "발행": "2026-08-27T01:46:22+00:00",
+      "요약": "",
+      "반응": 923,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/OpenExecutive-fa7623ee.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.081
+    },
+    {
+      "id": "build-with-gemini-omni-1-1-flash-9411c1d3",
+      "출처": "Hacker News",
+      "제목": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "정규url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
+      "발행": "2026-08-27T17:06:32+00:00",
+      "요약": "",
+      "반응": 161,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/build-with-gemini-omni-1-1-flash-9411c1d3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.885
+    },
+    {
+      "id": "cz6zwgg9y8go-42ea49da",
+      "출처": "Hacker News",
+      "제목": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "정규url": "https://bbc.com/news/articles/cz6zwgg9y8go",
+      "발행": "2026-08-27T17:33:13+00:00",
+      "요약": "",
+      "반응": 149,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/cz6zwgg9y8go-42ea49da.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.872
+    },
+    {
+      "id": "rust-v0-150-1-bd1edce9",
+      "출처": "Codex 릴리스",
+      "제목": "0.150.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.1",
+      "정규url": "https://github.com/openai/codex/releases/tag/rust-v0.150.1",
+      "발행": "2026-08-27T01:58:35+00:00",
+      "요약": "Bug Fixes \n \n Remote compaction now counts retained images toward its token budget by default, trimming older images as needed. ( #41003 ) \n \n Changelog \n Full Changelog: rust-v0.150.0...rust-v0.150.1 \n\n \n #41003 Backport retained-image compaction budgeting to 0.150 @rhan-oai",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/rust-v0-150-1-bd1edce9.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 3.793
+    },
+    {
+      "id": "start-from-scratch-f30efa9b",
+      "출처": "Cursor 체인지로그",
+      "제목": "Start from scratch, without a repo",
+      "url": "https://cursor.com/changelog/start-from-scratch",
+      "정규url": "https://cursor.com/changelog/start-from-scratch",
+      "발행": "2026-08-27T00:00:00+00:00",
+      "요약": "Cloud Agents now work without a connected repo, plus live preview and Vercel publishing.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/start-from-scratch-f30efa9b.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 3.732
+    },
+    {
+      "id": "what-students-gain-from-chatgpt-critical-3062d8cd",
+      "출처": "OpenAI News",
+      "제목": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "정규url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "발행": "2026-08-27T09:00:00+00:00",
+      "요약": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-28/원문/what-students-gain-from-chatgpt-critical-3062d8cd.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.627
+    },
+    {
+      "id": "3mu35oijits2v-dd34fd37",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "🚨Our new research examines agentic shopping: can you consistently predict (or, using marketing, influence) what an agent",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mu35oijits2v",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mu35oijits2v",
+      "발행": "2026-08-27T15:22:54.003000+00:00",
+      "요약": "🚨Our new research examines agentic shopping: can you consistently predict (or, using marketing, influence) what an agent chooses?\n\nNope.\n\nWe found that even small differences (viewing order of pages, memories) changed AI preferences in unpredictable ways. papers.ssrn.com/sol3/papers....",
+      "반응": 25,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-28/원문/3mu35oijits2v-dd34fd37.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 3.375
+    }
+  ]
+}

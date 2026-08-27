@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-08-28",
+  "브리핑페이지": "https://app.notion.com/p/3c93f6aa67a48116ae6bfcba6c87de6a",
+  "정식아카이빙": [
+    {"id": "v2-1-248-a6b29337", "source_library": "https://app.notion.com/p/3c93f6aa67a481878f27e7d3beb17e10", "서고": "https://app.notion.com/p/3c93f6aa67a481528c93d54591bfb5dc", "결과": "생성"},
+    {"id": "2093038431190548803-418d1db3", "source_library": "https://app.notion.com/p/3c93f6aa67a481118517d19ab23b866e", "서고": "https://app.notion.com/p/3c93f6aa67a48179b07cc47bf8fd39d1", "결과": "생성"},
+    {"id": "2093074192636018977-9ffda455", "source_library": "https://app.notion.com/p/3c93f6aa67a4815bad91efb884750603", "서고": "https://app.notion.com/p/3c93f6aa67a4811ba363f60806853753", "결과": "생성"},
+    {"id": "v2-1-247-37c894b1", "source_library": "https://app.notion.com/p/3c93f6aa67a4812a858ac71bd4702d1a", "서고": "https://app.notion.com/p/3c93f6aa67a4816fbe14f5b4f177a7e6", "결과": "생성"},
+    {"id": "2092961763553677387-4cd37700", "source_library": "https://app.notion.com/p/3c93f6aa67a481039a06f5ed6f4407cd", "서고": "https://app.notion.com/p/3c93f6aa67a481dbb65fce24c5cc3b42", "결과": "생성"},
+    {"id": "OpenExecutive-fa7623ee", "source_library": "https://app.notion.com/p/3c93f6aa67a48149be8dd35729e31d24", "서고": "https://app.notion.com/p/3c93f6aa67a48139b756e598b932c7bb", "결과": "생성"},
+    {"id": "build-with-gemini-omni-1-1-flash-9411c1d3", "source_library": "https://app.notion.com/p/3c93f6aa67a48128adfdc38b55912fba", "서고": "https://app.notion.com/p/3c93f6aa67a481758d20fefea285811d", "결과": "생성"},
+    {"id": "cz6zwgg9y8go-42ea49da", "source_library": "https://app.notion.com/p/3c93f6aa67a481e4bb60d9107879f5b1", "서고": "https://app.notion.com/p/3c93f6aa67a4810d846ccea27c25e435", "결과": "생성"},
+    {"id": "rust-v0-150-1-bd1edce9", "source_library": "https://app.notion.com/p/3c93f6aa67a4816caa1bdc544cd3ab0a", "서고": "https://app.notion.com/p/3c93f6aa67a48145b65bdb21e22c182c", "결과": "생성"},
+    {"id": "start-from-scratch-f30efa9b", "source_library": "https://app.notion.com/p/3c93f6aa67a48160bbd7c726ff6a9cb9", "서고": "https://app.notion.com/p/3c93f6aa67a48181a0c2cd92250be252", "결과": "생성"},
+    {"id": "what-students-gain-from-chatgpt-critical-3062d8cd", "source_library": "https://app.notion.com/p/3c93f6aa67a48111930ad7ccfea88ed3", "서고": "https://app.notion.com/p/3c93f6aa67a481b8ac56e093dac0ac34", "결과": "생성"},
+    {"id": "3mu35oijits2v-dd34fd37", "source_library": "https://app.notion.com/p/3c93f6aa67a4814eb80be204a1281280", "서고": "https://app.notion.com/p/3c93f6aa67a481f996ecc791b9e2a021", "결과": "생성"}
+  ],
+  "전체수집건수": 192,
+  "메모": "12건 전건 2단계(원문 정본+정리본) 생성 완료. 중복 없음(오늘자 신규 12건 모두 노션에 처음 등록). BBC 말라리아 기사(cz6zwgg9y8go-42ea49da)는 AI와 무관한 HN 인기글이라 정리본에 그 사실을 명시함. 브리핑 DB 행 신규 생성(출처수 34개 섹션, 수집 192건 전부 본문에 반영)."
+}
