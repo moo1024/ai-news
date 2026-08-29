@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-08-30",
+  "브리핑페이지": "https://app.notion.com/p/3cb3f6aa67a4812e98d3d5661fd239e9",
+  "정식아카이빙": [
+    {"id": "our-decision-on-cursor-following-its-acq-092c8de0", "source_library": "https://app.notion.com/p/3cb3f6aa67a48103947ee3f251cb72c6", "서고": "https://app.notion.com/p/3cb3f6aa67a48111b2fdd37851f3516c", "결과": "생성"},
+    {"id": "2093515564786540695-614212e8", "source_library": "https://app.notion.com/p/3cb3f6aa67a4819e91c7cd5af53867b0", "서고": "https://app.notion.com/p/3cb3f6aa67a48141a084e0a5284dc2d4", "결과": "생성"},
+    {"id": "how-warp-builds-self-improving-agents-on-ce496cd8", "source_library": "https://app.notion.com/p/3cb3f6aa67a481e5bb3fd05904a054bc", "서고": "https://app.notion.com/p/3cb3f6aa67a4818fa21de8844b611cf1", "결과": "생성"},
+    {"id": "1091231-9b2727cb", "source_library": "https://app.notion.com/p/3cb3f6aa67a4818bab44c17c8d129728", "서고": "https://app.notion.com/p/3cb3f6aa67a481d583acf8e1dca22eef", "결과": "생성"},
+    {"id": "rust-v0-151-0-92daedc2", "source_library": "https://app.notion.com/p/3cb3f6aa67a481249838d0e210c3830d", "서고": "https://app.notion.com/p/3cb3f6aa67a48105ab0ddcdbeb60b5f2", "결과": "생성"},
+    {"id": "2093742321473065266-4d812cfb", "source_library": "https://app.notion.com/p/3cb3f6aa67a4813d8833e76458b4419c", "서고": "https://app.notion.com/p/3cb3f6aa67a4815da5fdf84a1a9e1bd1", "결과": "생성"},
+    {"id": "good-culture-is-the-biggest-productivity-6472bbcb", "source_library": "https://app.notion.com/p/3cb3f6aa67a481549e30f5810da8b246", "서고": "https://app.notion.com/p/3cb3f6aa67a48170942fc7d1cc54661b", "결과": "생성"},
+    {"id": "llm-memory-program-analysis-6f071560", "source_library": "https://app.notion.com/p/3cb3f6aa67a481d3bbdae859eb7b991c", "서고": "https://app.notion.com/p/3cb3f6aa67a48137937cef3df82e06e7", "결과": "생성"},
+    {"id": "3mu6uexzec22o-1ae520da", "source_library": "https://app.notion.com/p/3cb3f6aa67a4816c9ff3e15cfb47cbc5", "서고": "https://app.notion.com/p/3cb3f6aa67a481179657df103dfdf872", "결과": "생성"},
+    {"id": "ainews-openai-shuts-off-cursor-a9a06ca4", "source_library": "https://app.notion.com/p/3cb3f6aa67a481419fd0dfadccd8fec6", "서고": "https://app.notion.com/p/3cb3f6aa67a48154a3e3d2316c55070e", "결과": "생성"},
+    {"id": "3mu5xtm24zk2o-952600dd", "source_library": "https://app.notion.com/p/3cb3f6aa67a481838c39c40b8108b3d3", "서고": "https://app.notion.com/p/3cb3f6aa67a481c595faf76cb7a09fa3", "결과": "생성"},
+    {"id": "3muavt5mrv22b-bd214a2d", "source_library": "https://app.notion.com/p/3cb3f6aa67a481f48134fa5134efa619", "서고": "https://app.notion.com/p/3cb3f6aa67a481f0b5a9e3a63b2c335a", "결과": "생성"}
+  ],
+  "전체수집건수": 129,
+  "메모": "12건 전부 신규 생성(중복 없음). AINews는 유료 구독 벽으로 후반부 미확보라 접근상태 '일부 확인'. 노션이 반환한 핵심요약·제목의 한글 오타 5곳(지렛대·툴링·몰아두는·나쁘면·곧 2건)은 발견 즉시 update_properties로 수정 완료."
+}

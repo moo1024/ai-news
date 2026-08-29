@@ -1,0 +1,200 @@
+{
+  "날짜": "2026-08-30",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "our-decision-on-cursor-following-its-acq-092c8de0",
+      "출처": "OpenAI News",
+      "제목": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "정규url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "발행": "2026-08-28T06:00:00+00:00",
+      "요약": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "반응": 786,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/our-decision-on-cursor-following-its-acq-092c8de0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 6.094
+    },
+    {
+      "id": "2093515564786540695-614212e8",
+      "출처": "X @OpenAI",
+      "제목": "We’re ending our partnership with Cursor following its acquisition by SpaceX. Under our proposal, Cursor’s direct access",
+      "url": "https://x.com/OpenAI/status/2093515564786540695",
+      "정규url": "https://x.com/OpenAI/status/2093515564786540695",
+      "발행": "2026-08-29T01:46:20+00:00",
+      "요약": "We’re ending our partnership with Cursor following its acquisition by SpaceX. Under our proposal, Cursor’s direct access to our models would end on November 12.\n\nWe know that the people most affected by this decision are the developers who rely on OpenAI models in Cursor. We care",
+      "반응": 20676,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-08-30/원문/2093515564786540695-614212e8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 5.978
+    },
+    {
+      "id": "how-warp-builds-self-improving-agents-on-ce496cd8",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Warp builds self-improving agents on Claude",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "정규url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "발행": "2026-08-29T19:09:33+00:00",
+      "요약": "Article URL: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude \n\n Comments URL: https://news.ycombinator.com/item?id=49492432 \n\n Points: 51\n\n # Comments: 49",
+      "반응": 51,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/how-warp-builds-self-improving-agents-on-ce496cd8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.2
+    },
+    {
+      "id": "1091231-9b2727cb",
+      "출처": "Hacker News",
+      "제목": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "정규url": "https://lwn.net/Articles/1091231",
+      "발행": "2026-08-29T14:02:10+00:00",
+      "요약": "",
+      "반응": 463,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/1091231-9b2727cb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.115
+    },
+    {
+      "id": "rust-v0-151-0-92daedc2",
+      "출처": "Codex 릴리스",
+      "제목": "0.151.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.151.0",
+      "정규url": "https://github.com/openai/codex/releases/tag/rust-v0.151.0",
+      "발행": "2026-08-29T09:57:02+00:00",
+      "요약": "New Features \n \n Added a configurable grace period for discovering tools from optional MCP servers. ( #41199 ) \n Extensions can now inspect or replace MCP tool results before they reach the model. ( #41202 ) \n Plugin catalogs now combine per-repository configuration and report invalid project marketplaces without hiding valid plugins. ( #41208 ) \n \n Bug Fixes \n \n Preserved restored permission profiles across TUI turns and prevented /cd from weakening sandbox restrictions. ( #41192 ) \n Kept tool availability and reasoning effort correct when switching models or falling back to another model. ( #41195 , #41206 ) \n Improved remote sandbox enforcement using the executor’s actual home directory, operating system, and path conventions. ( #41196 , #41204 , #41207 , #41209 ) \n Preserved structured MCP tool and resource errors in app-server responses. ( #41196 ) \n Counted nested subagent token usage toward root goal budgets. ( #41183 ) \n Prevented stale Guardian classifications from authorizing actions after permission state changes. ( #41196 ) \n \n Chores \n \n Added telemetry for escalated stdin reviews and remote executor MCP discovery. ( #41189 , #41205 ) \n Stabilized Guardian WebSocket an",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/rust-v0-151-0-92daedc2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "mcp",
+        "subagent"
+      ],
+      "점수": 4.037
+    },
+    {
+      "id": "2093742321473065266-4d812cfb",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Claude Code is going reduce limits by 25% from September 14",
+      "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+      "정규url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+      "발행": "2026-08-29T17:27:31+00:00",
+      "요약": "Article URL: https://twitter.com/ClaudeDevs/status/2093742321473065266 \n\n Comments URL: https://news.ycombinator.com/item?id=49491631 \n\n Points: 22\n\n # Comments: 13",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/2093742321473065266-4d812cfb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.017
+    },
+    {
+      "id": "good-culture-is-the-biggest-productivity-6472bbcb",
+      "출처": "Hacker News",
+      "제목": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "정규url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "발행": "2026-08-29T17:19:47+00:00",
+      "요약": "",
+      "반응": 180,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/good-culture-is-the-biggest-productivity-6472bbcb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.919
+    },
+    {
+      "id": "llm-memory-program-analysis-6f071560",
+      "출처": "Hacker News",
+      "제목": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "정규url": "https://pwning.systems/posts/llm-memory-program-analysis",
+      "발행": "2026-08-28T23:27:45+00:00",
+      "요약": "",
+      "반응": 266,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/llm-memory-program-analysis-6f071560.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.702
+    },
+    {
+      "id": "3mu6uexzec22o-1ae520da",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Some early evidence that Google AI Overviews may be doing to Wikipedia the same thing that coding agents did to StackExc",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mu6uexzec22o",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mu6uexzec22o",
+      "발행": "2026-08-29T02:47:09.984000+00:00",
+      "요약": "Some early evidence that Google AI Overviews may be doing to Wikipedia the same thing that coding agents did to StackExchange... papers.ssrn.com/sol3/papers....",
+      "반응": 76,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-30/원문/3mu6uexzec22o-1ae520da.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 3.554
+    },
+    {
+      "id": "ainews-openai-shuts-off-cursor-a9a06ca4",
+      "출처": "Latent Space",
+      "제목": "[AINews] OpenAI shuts off Cursor",
+      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "정규url": "https://latent.space/p/ainews-openai-shuts-off-cursor",
+      "발행": "2026-08-29T05:11:52+00:00",
+      "요약": "Elon v Altman has a real consequence.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-08-30/원문/ainews-openai-shuts-off-cursor-a9a06ca4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 2.747
+    },
+    {
+      "id": "3mu5xtm24zk2o-952600dd",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "I think the release of GLM-5.3, a very good open weights models with considerable offensive cyber capability, is worth n",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mu5xtm24zk2o",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mu5xtm24zk2o",
+      "발행": "2026-08-28T18:16:22.231000+00:00",
+      "요약": "I think the release of GLM-5.3, a very good open weights models with considerable offensive cyber capability, is worth noticing. Open weights models have effectively no guardrails, and they only provide minimal risk testing (though what they do test is eye opening, as you can see in the image).",
+      "반응": 80,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-30/원문/3mu5xtm24zk2o-952600dd.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.641
+    },
+    {
+      "id": "3muavt5mrv22b-bd214a2d",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "It might soon be disrespectful to use a weaker AI model for producing human-facing content: “you saved 6 cents to make m",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3muavt5mrv22b",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3muavt5mrv22b",
+      "발행": "2026-08-29T22:18:18.840000+00:00",
+      "요약": "It might soon be disrespectful to use a weaker AI model for producing human-facing content: “you saved 6 cents to make me read through error-filled & badly written AI slop? At least send me high quality and low-error slop that doesn’t waste my time.”",
+      "반응": 11,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-08-30/원문/3muavt5mrv22b-bd214a2d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.473
+    }
+  ]
+}
