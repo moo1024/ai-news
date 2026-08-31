@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-08-31",
+  "브리핑페이지": "https://app.notion.com/p/3cd3f6aa67a481bd9bc2c418cb908abf?pvs=204",
+  "정식아카이빙": [
+    {"id": "66504-773e6152", "source_library": "https://app.notion.com/p/3cd3f6aa67a4817a98ebfecd2b498338?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a48117b5b4d4aefdf20d45?pvs=204", "결과": "생성"},
+    {"id": "understanding-chatgpt-work-d20b99a4", "source_library": "https://app.notion.com/p/3cd3f6aa67a48123bdecc9b3f8291088?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a481b8a7a5cd46c53eeaeb?pvs=204", "결과": "생성"},
+    {"id": "codex-with-chatgpt-61c5cb98", "source_library": "https://app.notion.com/p/3cd3f6aa67a481b0968fcb4742b722bb?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a4814d813eda0431e41954?pvs=204", "결과": "생성"},
+    {"id": "2026-08-26-haiku-r1-beta6-13246190", "source_library": "https://app.notion.com/p/3cd3f6aa67a481b18998f1a7feeda137?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a4812181e3f03a5869dd1e?pvs=204", "결과": "생성"},
+    {"id": "3mudnl6dq7c27-673edaf9", "source_library": "https://app.notion.com/p/3cd3f6aa67a481379ddcf02f467aa0ee?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a481e2906df577238d92bb?pvs=204", "결과": "생성"},
+    {"id": "texas-flock-cameras-auto-insurance-fee-m-a3821bad", "source_library": "https://app.notion.com/p/3cd3f6aa67a4817f86ccd76904f2ed88?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a481ceba71f63264275b66?pvs=204", "결과": "생성"},
+    {"id": "1804-07389-a651615e", "source_library": "https://app.notion.com/p/3cd3f6aa67a481a785acd3b0629196e1?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a481009d72df9b7f3f2ea7?pvs=204", "결과": "생성"},
+    {"id": "3mudmaynuz22c-459131b8", "source_library": "https://app.notion.com/p/3cd3f6aa67a48177afbffeca45b7e497?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a48109b350ebf0db2ad7b8?pvs=204", "결과": "생성"},
+    {"id": "3mudusne3is2o-80cb1cac", "source_library": "https://app.notion.com/p/3cd3f6aa67a48178b7f2e8470b54c52f?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a4813f8889c6c9a2f0092a?pvs=204", "결과": "생성"},
+    {"id": "hy4-bf0f613e", "source_library": "https://app.notion.com/p/3cd3f6aa67a48158b591ff1a3012df87?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a48123800bf05dd00d3f75?pvs=204", "결과": "생성"},
+    {"id": "3muduei36bk27-52958920", "source_library": "https://app.notion.com/p/3cd3f6aa67a4819f84c3c0f2d2317530?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a4818f82edc5d89135a046?pvs=204", "결과": "생성"},
+    {"id": "texas-governor-abbott-flock-cameras-81c50070", "source_library": "https://app.notion.com/p/3cd3f6aa67a481819a1ecce3d2d0f704?pvs=204", "서고": "https://app.notion.com/p/3cd3f6aa67a481ed882bffe36cac91ef?pvs=204", "결과": "생성"}
+  ],
+  "전체수집건수": 115,
+  "메모": "후보 12건 전건 신규(사전 notion-search 중복조회 결과 기존 없음), 2단계(Source Library+서고) 전건 생성. 브리핑 DB에 오늘 행 1개 신규 생성. 창작 중 발견한 한글 오타 5건은 update_page로 즉시 정정."
+}
