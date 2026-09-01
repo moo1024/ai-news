@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/AMAP-ML/LongHorizon-Harness
-- 발행: 2026-08-31T22:24:36.646225+00:00
+- 발행: 2026-09-01T03:54:36.330680+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - AMAP-ML/LongHorizon-Harness: The long-horizon computer-use harness. Run
  
  
  Fork
- 148 
+ 149 
  
  
 

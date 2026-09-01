@@ -1,0 +1,85 @@
+{
+  "날짜": "2026-09-01",
+  "브리핑페이지": "https://app.notion.com/p/3ce3f6aa67a481fd9918f9570bf59ba7",
+  "정식아카이빙": [
+    {
+      "id": "breaking-claude-code-opus-5-and-automode-0620f79b",
+      "source_library": "https://app.notion.com/p/3cd3f6aa67a481f08a5fd60f4e00d9c3",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a4810eab80ced4eb4f2375",
+      "결과": "생성",
+      "메모": "①은 이전에 이미 생성돼 있던 페이지를 재사용, ②만 신규 생성"
+    },
+    {
+      "id": "v2-1-252-fb37b61c",
+      "source_library": "https://app.notion.com/p/3cd3f6aa67a48122909ef831543a9ef4",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a4811b9b1ce88c003621f2",
+      "결과": "생성",
+      "메모": "①은 이전에 이미 생성돼 있던 페이지를 재사용, ②만 신규 생성"
+    },
+    {
+      "id": "asd-ste100-skill-62faf991",
+      "source_library": "https://app.notion.com/p/3cd3f6aa67a481288009d03fc0353253",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a481fdbb3edc875682e99e",
+      "결과": "생성",
+      "메모": "①은 이전에 이미 생성돼 있던 페이지를 재사용, ②만 신규 생성"
+    },
+    {
+      "id": "polimill-7bc34157",
+      "source_library": "https://app.notion.com/p/3ce3f6aa67a481f0828cffb3fb8b2416",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a481d99657c3eb5573ef22",
+      "결과": "생성"
+    },
+    {
+      "id": "rust-v0-152-0-51413cfb",
+      "source_library": "https://app.notion.com/p/3ce3f6aa67a48119aefae2fd0a0fd54f",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a481f4aa5dcc577755e1fd",
+      "결과": "생성"
+    },
+    {
+      "id": "ai-written-code-is-still-yours-7b150ac3",
+      "source_library": "https://app.notion.com/p/3ce3f6aa67a481ee855ffdefaf491c62",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a48119a96acfae67697fc9",
+      "결과": "생성"
+    },
+    {
+      "id": "2094577956668715491-4b5b069e",
+      "source_library": "https://app.notion.com/p/3ce3f6aa67a48173b48ff9cd0b2e8408",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a48125b8c2f2cc58f49183",
+      "결과": "생성"
+    },
+    {
+      "id": "apple-unexpected-mac-mini-and-studio-dem-9a5f1851",
+      "source_library": "https://app.notion.com/p/3cd3f6aa67a481928b71e192ad573bb2",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a481a78b17c41e0c9f8b19",
+      "결과": "생성",
+      "메모": "①은 이전에 이미 생성돼 있던 페이지를 재사용, ②만 신규 생성"
+    },
+    {
+      "id": "2094577948762485207-dcc2422e",
+      "source_library": "https://app.notion.com/p/3ce3f6aa67a4813eb06ff9e0f04e39b1",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a4815eafd4c08c15750960",
+      "결과": "생성"
+    },
+    {
+      "id": "2094577958975578518-7c7fe4d1",
+      "source_library": "https://app.notion.com/p/3ce3f6aa67a48178a83bca8563720c21",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a481219291fdd647407c9b",
+      "결과": "생성"
+    },
+    {
+      "id": "codex-tool-reference-simonw-chatgpt-site-cb043406",
+      "source_library": "https://app.notion.com/p/3cd3f6aa67a481b8ab5bef3046059253",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a48191bdbfd9c981b85a1d",
+      "결과": "생성",
+      "메모": "①은 이전에 이미 생성돼 있던 페이지를 재사용, ②만 신규 생성"
+    },
+    {
+      "id": "the-safest-job-from-ai-may-be-writing-ht-f467f95d",
+      "source_library": "https://app.notion.com/p/3ce3f6aa67a4819abc86e0b02131b0df",
+      "서고": "https://app.notion.com/p/3ce3f6aa67a481318b24ed249d3d61ae",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 151,
+  "메모": "12건 중 5건(breaking-claude-code-opus-5, v2.1.252, asd-ste100-skill, apple-mac-mini, codex-tool-reference)은 세션 시작 전 이미 ① Source Library만 생성돼 있고 ② 서고가 비어 있던 부분완료 상태였다(오늘 이른 시간대의 별도 실행 흔적으로 추정). notion-search로 URL 대조해 확인 후 ①은 재사용하고 ②만 신규 생성해 2단계를 완성했다. 나머지 7건은 ①·② 모두 신규 생성. 본문 작성 중 손으로 입력한 한국어 분석 문장 일부에서 음절이 깨지는 오타가 다수 발생해(예: 공직→공개, 스왕→스웜) fetch로 재확인 후 update_content로 전수 교정했다. 브리핑 페이지의 '그 외 수집된 것'은 151건 전체를 출처별로 묶었다."
+}

@@ -1,4 +1,4 @@
-# Hugging Face hack could indicate cultural issues at OpenAI
+# The Hugging Face hack could indicate cultural issues at OpenAI
 
 - 출처: MIT Tech Review AI
 - 원본 링크: https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
@@ -7,7 +7,7 @@
 
 ---
 
-Hugging Face hack could indicate cultural issues at OpenAI | MIT Technology Review 
+The Hugging Face hack could indicate cultural issues at OpenAI | MIT Technology Review 
  
  
  
@@ -40,7 +40,7 @@ Hugging Face hack could indicate cultural issues at OpenAI | MIT Technology Revi
  You need to enable JavaScript to view this site.
  
 
- Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio MIT Technology Review Featured Topics Newsletters Events Audio Artificial intelligence Hugging Face hack could indicate cultural issues at OpenAI Alarm bells within the company should have stopped model training from going forward. So why didn’t they?
+ Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio MIT Technology Review Featured Topics Newsletters Events Audio Artificial intelligence The Hugging Face hack could indicate cultural issues at OpenAI Alarm bells within the company should have stopped model training from going forward. So why didn’t they?
 
  By Grace Huckins archive page August 31, 2026 Stephanie Arnett/MIT Technology Review | Getty Images, Adobe Stock This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,  sign up here . 
  By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test. It’s a wild story. On Wednesday, OpenAI released a postmortem technical report on the incident, which I wrote about here . 

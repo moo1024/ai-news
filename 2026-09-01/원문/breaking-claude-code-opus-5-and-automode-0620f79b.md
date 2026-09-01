@@ -1,6 +1,6 @@
 # Breaking Claude Code Opus 5 Auto Mode
 
-- 출처: Hacker News
+- 출처: 코딩에이전트 (HN)
 - 원본 링크: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
 - 발행: 2026-08-31T07:49:18+00:00
 - 접근상태: 확인 완료

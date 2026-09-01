@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/danyuchn/asd-ste100-skill
-- 발행: 2026-08-31T22:24:36.646225+00:00
+- 발행: 2026-09-01T03:54:36.330680+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - danyuchn/asd-ste100-skill: ASD-STE100 Simplified Technical English rule
  
  
  Fork
- 85 
+ 86 
  
  
 
@@ -336,7 +336,7 @@ GitHub - danyuchn/asd-ste100-skill: ASD-STE100 Simplified Technical English rule
  
  
  Issues 
- 0 
+ 2 
 
 
  
@@ -653,7 +653,7 @@ Apply ASD-STE100 to this instruction
  MIT — see LICENSE .
 
  About ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
- Resources Readme MIT license Activity Stars 1.6k stars Watchers 5 watching Forks 85 forks Report repository Releases Packages Contributors 
+ Resources Readme MIT license Activity Stars 1.6k stars Watchers 5 watching Forks 86 forks Report repository Releases Packages Contributors 
  
 
 
