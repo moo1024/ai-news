@@ -1,0 +1,198 @@
+{
+  "날짜": "2026-09-02",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "2094840179676660097-7e04f323",
+      "출처": "X @GoogleDeepMind",
+      "제목": "We’re bringing agentic video understanding to our latest Gemini models.\n\nThey can now analyze videos with better accurac",
+      "url": "https://x.com/GoogleDeepMind/status/2094840179676660097",
+      "정규url": "https://x.com/GoogleDeepMind/status/2094840179676660097",
+      "발행": "2026-09-01T17:29:53+00:00",
+      "요약": "We’re bringing agentic video understanding to our latest Gemini models.\n\nThey can now analyze videos with better accuracy while using up to 88% fewer tokens. 🧵 https://t.co/ZTjlaLk7tX",
+      "반응": 965,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-09-02/원문/2094840179676660097-7e04f323.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 5.941
+    },
+    {
+      "id": "codex-libreoffice-123fd05b",
+      "출처": "Simon Willison",
+      "제목": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "정규url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+      "발행": "2026-09-01T19:03:01+00:00",
+      "요약": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime , including a full Python installation, a full Node.js installation, and native binaries for Poppler , git, and the LibreOffice open source office suite (which forked from OpenOffice.org in 2010):\n\n \n\n The ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents folder includes skills which tell Codex how to find and use those binaries.\n\n\n Tags: codex , generative-ai , openai , ai , llms , openoffice , open-source",
+      "반응": 152,
+      "원저자": "",
+      "본문파일": "2026-09-02/원문/codex-libreoffice-123fd05b.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "skills"
+      ],
+      "점수": 5.584
+    },
+    {
+      "id": "v2-1-257-f415247f",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.257",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.257",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.257",
+      "발행": "2026-09-01T17:53:52+00:00",
+      "요약": "What's changed \n \n Added Claude Fable 5.1 ( claude-fable-5-1 ), now the default Fable model — 1M context, $10/$50 per Mtok with $0.25/Mtok cache reads \n Added \"Time format\" ( timeFormat ) and timeZone settings: 12-hour, 24-hour, 24-hour UTC, or a strftime pattern for the turn-end clock and transcript-view timestamps \n Added a Containment Escape rule to auto mode so cloud metadata-credential fetches, egress evasion, and cross-tenant reach are no longer auto-approved unless your environment marks them expected \n Added CLAUDE_CODE_SUBAGENT_MODEL_FORCE to apply CLAUDE_CODE_SUBAGENT_MODEL (or the main model) to every subagent, ignoring per-spawn and agent-definition model overrides \n Added s in /effort to change effort for the current session only, matching /model \n Added a /doctor warning for stale sandbox mask files left by a killed session \n Added a one-time prompt in auto mode before the first file read outside the working directories, with the option to block such reads ( permissions.blockReadsOutsideWorkingDirectories ) \n Added support for a gateway-supplied description on discovered /model picker entries ( CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY ); entries without one still re",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-02/원문/v2-1-257-f415247f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "subagent"
+      ],
+      "점수": 5.541
+    },
+    {
+      "id": "2094885578173260259-e4c6db82",
+      "출처": "X @OpenAI",
+      "제목": "As we prepare to release Astra, we’re focused on making increasingly capable AI safe and broadly accessible.\n\nAstra repr",
+      "url": "https://x.com/OpenAI/status/2094885578173260259",
+      "정규url": "https://x.com/OpenAI/status/2094885578173260259",
+      "발행": "2026-09-01T20:30:17+00:00",
+      "요약": "As we prepare to release Astra, we’re focused on making increasingly capable AI safe and broadly accessible.\n\nAstra represents a significant advance in cybersecurity capability, reaching the Critical threshold under our Preparedness Framework.\n\nWe're previewing how we evaluated",
+      "반응": 5940,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-02/원문/2094885578173260259-e4c6db82.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.963
+    },
+    {
+      "id": "claude-fable-and-mythos-5-1-c3eef50e",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "정규url": "https://anthropic.com/claude-fable-and-mythos-5-1",
+      "발행": "2026-09-01T18:01:24+00:00",
+      "요약": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-1 \n\n Comments URL: https://news.ycombinator.com/item?id=49525496 \n\n Points: 69\n\n # Comments: 1",
+      "반응": 754,
+      "원저자": "",
+      "본문파일": "2026-09-02/원문/claude-fable-and-mythos-5-1-c3eef50e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.901
+    },
+    {
+      "id": "44-on-arc-1-44526c12",
+      "출처": "Hacker News",
+      "제목": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "정규url": "https://mvakde.github.io/blog/44-on-arc-1",
+      "발행": "2026-09-01T09:52:45+00:00",
+      "요약": "",
+      "반응": 520,
+      "원저자": "",
+      "본문파일": "2026-09-02/원문/44-on-arc-1-44526c12.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.072
+    },
+    {
+      "id": "introducing-agentic-video-in-gemini-9658836c",
+      "출처": "Google DeepMind",
+      "제목": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "정규url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "발행": "2026-09-01T17:08:51+00:00",
+      "요약": "",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-02/원문/introducing-agentic-video-in-gemini-9658836c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 4.008
+    },
+    {
+      "id": "2094840182457422260-4bd15ae5",
+      "출처": "X @GoogleDeepMind",
+      "제목": "Instead of scanning an entire file, Gemini reasons across the video’s transcript, audio, and frames, dynamically adjusti",
+      "url": "https://x.com/GoogleDeepMind/status/2094840182457422260",
+      "정규url": "https://x.com/GoogleDeepMind/status/2094840182457422260",
+      "발행": "2026-09-01T17:29:54+00:00",
+      "요약": "Instead of scanning an entire file, Gemini reasons across the video’s transcript, audio, and frames, dynamically adjusting the frame rate to pull the exact moments needed.\n\nThe efficiency gains are most significant for long-form content, from 10-minute guides to multi-hour https://t.co/fYwegD6aOv",
+      "반응": 120,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-09-02/원문/2094840182457422260-4bd15ae5.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.006
+    },
+    {
+      "id": "zitron-56a6fd93",
+      "출처": "Hacker News",
+      "제목": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "정규url": "https://danluu.com/zitron",
+      "발행": "2026-09-01T18:35:15+00:00",
+      "요약": "",
+      "반응": 222,
+      "원저자": "",
+      "본문파일": "2026-09-02/원문/zitron-56a6fd93.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.999
+    },
+    {
+      "id": "3mui4h3h76223-2c859b04",
+      "출처": "Bluesky simonwillison.net",
+      "제목": "Just noticed the ChatGPT desktop app (previously named Codex) bundles a full copy of the LibreOffice open source office",
+      "url": "https://bsky.app/profile/simonwillison.net/post/3mui4h3h76223",
+      "정규url": "https://bsky.app/profile/simonwillison.net/post/3mui4h3h76223",
+      "발행": "2026-09-01T19:05:28.270000+00:00",
+      "요약": "Just noticed the ChatGPT desktop app (previously named Codex) bundles a full copy of the LibreOffice open source office suite, tucked away in a hidden folder in the ~/.cache directory",
+      "반응": 114,
+      "원저자": "simonwillison.net",
+      "본문파일": "2026-09-02/원문/3mui4h3h76223-2c859b04.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 3.96
+    },
+    {
+      "id": "dwarf-fortress-creator-says-the-industry-d1bfe22b",
+      "출처": "Hacker News",
+      "제목": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "정규url": "https://pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
+      "발행": "2026-09-01T15:53:42+00:00",
+      "요약": "",
+      "반응": 184,
+      "원저자": "",
+      "본문파일": "2026-09-02/원문/dwarf-fortress-creator-says-the-industry-d1bfe22b.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.899
+    },
+    {
+      "id": "3mugm575l4s2v-f9a92e9f",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "For the people and bots reading this without context: it is not necessarily good news that the best open model has been",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mugm575l4s2v",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mugm575l4s2v",
+      "발행": "2026-09-01T04:40:57+00:00",
+      "요약": "For the people and bots reading this without context: it is not necessarily good news that the best open model has been jailbroken and will happily conduct offensive cyberattacks, and that inference is being hosted by a company that keeps no records of how you use their system.",
+      "반응": 536,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-02/원문/3mugm575l4s2v-f9a92e9f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.285
+    }
+  ]
+}
