@@ -1,0 +1,203 @@
+{
+  "날짜": "2026-09-03",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "2095175498967949359-587cb2b8",
+      "출처": "X @GoogleDeepMind",
+      "제목": "Two new Gemini models are here to help scale your AI agents and secure code:\n\n🔘 3.8 Flash: our most intelligent model ye",
+      "url": "https://x.com/GoogleDeepMind/status/2095175498967949359",
+      "정규url": "https://x.com/GoogleDeepMind/status/2095175498967949359",
+      "발행": "2026-09-02T15:42:20+00:00",
+      "요약": "Two new Gemini models are here to help scale your AI agents and secure code:\n\n🔘 3.8 Flash: our most intelligent model yet with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.\n\n🔘 3.8 Flash Cyber: our most capable https://t.co/EEJDIMhRwp",
+      "반응": 1779,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-09-03/원문/2095175498967949359-587cb2b8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 6.111
+    },
+    {
+      "id": "scroll-craft-21883fcb",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "nateherkai/scroll-craft — Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "정규url": "https://github.com/nateherkai/scroll-craft",
+      "발행": "2026-09-02T22:24:33.980040+00:00",
+      "요약": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.\n\n별 1,583개 · 언어 JavaScript · 생성 2026-08-22 · 토픽 accessibility, agent-skills, ai-web-design, anthropic, claude-code, claude-code-plugin, creative-coding, design-system",
+      "반응": 1583,
+      "원저자": "nateherkai",
+      "본문파일": "2026-09-03/원문/scroll-craft-21883fcb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "skills"
+      ],
+      "점수": 5.33
+    },
+    {
+      "id": "headcount-e54780d0",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "cbrock84/headcount — An agent organization for Claude Code, structured as a company — 15+ departments",
+      "url": "https://github.com/cbrock84/headcount",
+      "정규url": "https://github.com/cbrock84/headcount",
+      "발행": "2026-09-02T22:24:33.980040+00:00",
+      "요약": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.\n\n별 1,106개 · 언어 Markdown · 생성 2026-08-28 · 토픽 agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills, mcp",
+      "반응": 1106,
+      "원저자": "cbrock84",
+      "본문파일": "2026-09-03/원문/headcount-e54780d0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "점수": 5.203
+    },
+    {
+      "id": "check-content-0705366d",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "정규url": "https://claude.com/check-content",
+      "발행": "2026-09-02T12:23:20+00:00",
+      "요약": "Article URL: https://claude.com/check-content \n\n Comments URL: https://news.ycombinator.com/item?id=49535201 \n\n Points: 140\n\n # Comments: 106",
+      "반응": 140,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/check-content-0705366d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.321
+    },
+    {
+      "id": "2095196704769237137-73013fb5",
+      "출처": "X @GoogleDeepMind",
+      "제목": "Gemini 3.8 Flash Cyber gives defenders a decisive advantage with expert vulnerability detection and autonomous patching.",
+      "url": "https://x.com/GoogleDeepMind/status/2095196704769237137",
+      "정규url": "https://x.com/GoogleDeepMind/status/2095196704769237137",
+      "발행": "2026-09-02T17:06:35+00:00",
+      "요약": "Gemini 3.8 Flash Cyber gives defenders a decisive advantage with expert vulnerability detection and autonomous patching.\n\nHere’s how it helps teams stay ahead of emerging threats 🧵 https://t.co/1RXF9bRWws",
+      "반응": 328,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-09-03/원문/2095196704769237137-73013fb5.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.27
+    },
+    {
+      "id": "3-8-flash-and-3-8-flash-cyber-7bf30931",
+      "출처": "Hacker News",
+      "제목": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "정규url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+      "발행": "2026-09-02T15:12:40+00:00",
+      "요약": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+      "반응": 733,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/3-8-flash-and-3-8-flash-cyber-7bf30931.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.261
+    },
+    {
+      "id": "455207-can-i-opt-out-of-my-input-or-outp-441ed5a2",
+      "출처": "Hacker News",
+      "제목": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "정규url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "발행": "2026-09-02T12:30:39+00:00",
+      "요약": "",
+      "반응": 346,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/455207-can-i-opt-out-of-my-input-or-outp-441ed5a2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.009
+    },
+    {
+      "id": "manufactured-sources-behind-ai-recommend-164af9b8",
+      "출처": "Hacker News",
+      "제목": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "정규url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
+      "발행": "2026-09-02T13:59:59+00:00",
+      "요약": "",
+      "반응": 257,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/manufactured-sources-behind-ai-recommend-164af9b8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.955
+    },
+    {
+      "id": "2095196714479071566-4c1b5209",
+      "출처": "X @GoogleDeepMind",
+      "제목": "On benchmarks like CyberGym, the model leads in finding weaknesses autonomously while staying fast and efficient.\n\nIn re",
+      "url": "https://x.com/GoogleDeepMind/status/2095196714479071566",
+      "정규url": "https://x.com/GoogleDeepMind/status/2095196714479071566",
+      "발행": "2026-09-02T17:06:38+00:00",
+      "요약": "On benchmarks like CyberGym, the model leads in finding weaknesses autonomously while staying fast and efficient.\n\nIn real-world testing across @GoogleChrome codebases, it produced 2.6 times more valid fixes to help protect software faster. https://t.co/VqewNeIXQ8",
+      "반응": 47,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-09-03/원문/2095196714479071566-4c1b5209.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.748
+    },
+    {
+      "id": "llm-gemini-43c216d6",
+      "출처": "Simon Willison",
+      "제목": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "정규url": "https://simonwillison.net/2026/Sep/2/llm-gemini",
+      "발행": "2026-09-02T16:39:38+00:00",
+      "요약": "Release: llm-gemini 0.34 \n\n \n \n New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 \n Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 \n \n \n Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today.\n\n Here are the pelicans for high, medium, and low. This is high:\n\n \n\n For comparison, here are the same pelicans generated using Gemini 3.7 Flash .\n\n Something I appreciate about Gemini Flash is that it's fast, cheap, and competent at things like HTML and JavaScript. I was messing around with it and prompted \"make me a cool thing in html\" and it built this , which is certainly a cool thing in HTML! Took 13 seconds, cost 1.8 cents.\n\n \n \n Your browser does not support HTML5 video.\n \n\n\n\n If you click through to the demo you'll see one more thing I built with Gemini 3.8 Flash.\n\n My markdown-svg-renderer tool lets me feed in the URL to a Gist with Markdown in and renders that markdown with fenced code blocks for SVG correctly rendered.\n\n I used Gemini 3.8 Flash (with my very basic llm-coding-agent coding agent plugin) to add support for HTML ",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/llm-gemini-43c216d6.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 3.744
+    },
+    {
+      "id": "self-hosted-machines-fe5941ee",
+      "출처": "Cursor 체인지로그",
+      "제목": "Self-hosted machines",
+      "url": "https://cursor.com/changelog/self-hosted-machines",
+      "정규url": "https://cursor.com/changelog/self-hosted-machines",
+      "발행": "2026-09-02T00:00:00+00:00",
+      "요약": "Cursor supports self-hosted machines, which let you keep tool execution entirely in your own network.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/self-hosted-machines-fe5941ee.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 3.732
+    },
+    {
+      "id": "claudes-new-system-prompt-7c32fbb7",
+      "출처": "Simon Willison",
+      "제목": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "정규url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
+      "발행": "2026-09-02T14:16:42+00:00",
+      "요약": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well.\n\n\n They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, which has the original prompt from October 15th 2025 and an updated prompt from January 18th 2026.\n\n A neat thing about Anthropic's platform.claude.com/docs site is that it's designed to be usable by LLMs. You can add .md to any page to get back the content as Markdown - here's the system prompt index page and the Markdown prompts for Fable 5.1 .\n\n TL;DR: this makes it really easy to diff the prompts.\n\n\n\n \n Don't reproduce song lyrics \n Don't draw copyrighted characters or logos \n Tweaks to Claude's answering style \n The missing end_conversation guidelines \n Recommended substance support sites \n Reliable cutoff date of June 2026 \n How I'm tracking these prompts \n \n\n Don't reproduce song ly",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/claudes-new-system-prompt-7c32fbb7.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 3.68
+    }
+  ]
+}
