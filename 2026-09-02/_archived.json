@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-02",
+  "브리핑페이지": "https://app.notion.com/p/3ce3f6aa67a481e0818cfb1bd66c41d1",
+  "정식아카이빙": [
+    {
+      "id": "2094840179676660097-7e04f323",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "codex-libreoffice-123fd05b",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "v2-1-258-68024f80",
+      "source_library": "https://app.notion.com/p/3cf3f6aa67a48163a7a6db72fa601730",
+      "서고": "https://app.notion.com/p/3cf3f6aa67a4816aaa38e117c2cb9f8e",
+      "결과": "생성"
+    },
+    {
+      "id": "v2-1-257-f415247f",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "2094885578173260259-e4c6db82",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "claude-fable-and-mythos-5-1-c3eef50e",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "rust-v0-152-1-32aec480",
+      "source_library": "https://app.notion.com/p/3cf3f6aa67a481ec9af8fb5c63203f7e",
+      "서고": "https://app.notion.com/p/3cf3f6aa67a48105b84ef504daf8988b",
+      "결과": "생성"
+    },
+    {
+      "id": "gilbert-tobin-631a857c",
+      "source_library": "https://app.notion.com/p/3cf3f6aa67a481469a04cdbf2c197b4f",
+      "서고": "https://app.notion.com/p/3cf3f6aa67a4819897f7de2bdaeb05e4",
+      "결과": "생성"
+    },
+    {
+      "id": "zitron-56a6fd93",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "44-on-arc-1-44526c12",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "2094840182457422260-4bd15ae5",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "apple-openai-forensic-macbook-evidence-84c84240",
+      "source_library": "https://app.notion.com/p/3cf3f6aa67a481388693e755e81e8916",
+      "서고": "https://app.notion.com/p/3cf3f6aa67a4819f8c18d35795d07172",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 175,
+  "메모": "오늘 두 번 수집됐다. 오전 1차(181건·36출처)로 이미 12건이 2단계 아카이빙되고 브리핑 행도 생성된 상태였고, 오후 재수집(175건·35출처)에서 후보가 일부 교체돼 4건이 새로 올라왔다. 그 4건(v2.1.258·Codex 0.152.1·Gilbert+Tobin·애플 소송)만 신규 생성하고 나머지 8건은 중복으로 건너뛰었다. 브리핑은 새로 만들지 않고 기존 2026-09-02 행을 갱신했다 — 정식정리 12→16, 주요 주제에 '업계 동향' 추가, 본문 '정식 정리한 것'에 13~16번 추가. 수집건수·출처수 속성은 본문이 1차 수집분(181건)으로 채워져 있어 그대로 뒀다. 하루 총 정식정리는 16건."
+}

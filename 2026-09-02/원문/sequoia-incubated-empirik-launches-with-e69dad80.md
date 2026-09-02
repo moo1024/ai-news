@@ -892,6 +892,24 @@ Sequoia-incubated Empirik launches with $21M to predict outages before they happ
  
  
  
+ Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI 
+
+ 
+ 
+ 
+ Amanda Silberling 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Microsoft tests fix for latest hours-long Outlook outage 
 
  
@@ -934,24 +952,6 @@ Sequoia-incubated Empirik launches with $21M to predict outages before they happ
  
  
  Connie Loizos 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- Nvidia’s AI advantage is moving beyond the GPU 
-
- 
- 
- 
- Russell Brandom 
  
 
  

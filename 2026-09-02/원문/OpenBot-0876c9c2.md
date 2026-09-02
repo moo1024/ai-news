@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-09-01T22:24:35.739242+00:00
+- 발행: 2026-09-02T03:55:15.848608+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 460 
+ 465 
  
  
 
@@ -323,7 +323,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Star
- 3.7k 
+ 3.8k 
  
  
 
@@ -358,7 +358,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Issues 
- 6 
+ 11 
 
 
  
@@ -370,7 +370,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Pull requests 
- 7 
+ 6 
 
 
  
@@ -823,4 +823,4 @@ docker run -p 3001:3001 --env-file .env \
  Components instead of prose : compiled React components live in app/src/components/gallery/ , sandboxed ones are authored in /admin/playground and published with no deployment. Every call asks the server whether the component exists, is published, and is not withheld from that Bot. Data functions are granted per component. 
  Governed MCP : Google Drive and Notion ship in the catalogue, reached as the person asking. The catalogue carries only vendors this deployment stands behind, so adding one is a review of that vendor. Custom servers must pass URL checks; unknown tools and custom-server tools are treated as writes, and a catalogue tool the server advertises but does not name as a write classifies as a read. A Bot is told which connectors exist here and which it holds, so it says it has not been granted one rather than browsing to the vendor's website. 
  Skills are instructions, not capabilities : personal skills attach only to Bots their author owns, deployment skills are admin-owned, and both are invoked with / in the composer. 
- Sign in with wh
+ Sign in with w

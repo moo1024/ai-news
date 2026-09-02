@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/ccch1mneyyy/dsh-TUI
-- 발행: 2026-09-01T22:24:35.739242+00:00
+- 발행: 2026-09-02T03:55:15.848608+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Fork
- 144 
+ 145 
  
  
 
@@ -336,7 +336,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Issues 
- 67 
+ 69 
 
 
  
@@ -591,7 +591,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 796 Commits 796 Commits Folders and files Name Name Last commit message Last commit date .agents/ skills .agents/ skills     .github .github     bin bin     docs docs     dsh-auth @ 4e7cba3 dsh-auth @ 4e7cba3     dsh-ecosystem-spec @ d28c267 dsh-ecosystem-spec @ d28c267     presets/ liangshen presets/ liangshen     screenshots screenshots     scripts scripts     src src     standalone standalone     vendor vendor     .editorconfig .editorconfig     .gitattributes .gitattributes     .gitignore .gitignore     .gitmodules .gitmodules     .npmignore .npmignore     .npmrc .npmrc     ADAPTER.md ADAPTER.md     AGENTS.md AGENTS.md     CLAUDE.md CLAUDE.md     CODE_OF_CONDUCT.en.md CODE_OF_CONDUCT.en.md     CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md     LICENSE LICENSE     README.md README.md     README_EN.md README_EN.md     THIRD_PARTY_LICENSES THIRD_PARTY_LICENSES     cordis.patch.yml cordis.patch.yml     cordis.yml cordis.yml     dsh-tui.cmd dsh-tui.cmd     install.sh install.sh     package.json package.json     patch-surface.snapshot.json patch-surface.snapshot.json     pnpm-lock.yaml pnpm-lock.yaml     pnpm-workspace.yaml pnpm-workspace.yaml     tsconfig.json tsconfig.json     tsconfig.typecheck.json tsconfig.typecheck.json     View all files Repository files navigation README Code of conduct Contributing MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 798 Commits 798 Commits Folders and files Name Name Last commit message Last commit date .agents/ skills .agents/ skills     .github .github     bin bin     docs docs     dsh-auth @ 4e7cba3 dsh-auth @ 4e7cba3     dsh-ecosystem-spec @ d28c267 dsh-ecosystem-spec @ d28c267     presets/ liangshen presets/ liangshen     screenshots screenshots     scripts scripts     src src     standalone standalone     vendor vendor     .editorconfig .editorconfig     .gitattributes .gitattributes     .gitignore .gitignore     .gitmodules .gitmodules     .npmignore .npmignore     .npmrc .npmrc     ADAPTER.md ADAPTER.md     AGENTS.md AGENTS.md     CLAUDE.md CLAUDE.md     CODE_OF_CONDUCT.en.md CODE_OF_CONDUCT.en.md     CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md     LICENSE LICENSE     README.md README.md     README_EN.md README_EN.md     THIRD_PARTY_LICENSES THIRD_PARTY_LICENSES     cordis.patch.yml cordis.patch.yml     cordis.yml cordis.yml     dsh-tui.cmd dsh-tui.cmd     install.sh install.sh     package.json package.json     patch-surface.snapshot.json patch-surface.snapshot.json     pnpm-lock.yaml pnpm-lock.yaml     pnpm-workspace.yaml pnpm-workspace.yaml     tsconfig.json tsconfig.json     tsconfig.typecheck.json tsconfig.typecheck.json     View all files Repository files navigation README Code of conduct Contributing MIT license More items 
  
 
 
@@ -831,7 +831,7 @@ dst
  MIT 
 
  About DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
- dshtui.com/ Topics claude-code coding-agent deepseek deepseek-harness dsh-plugin ink react terminal tui Resources Readme MIT license Code of conduct Code of conduct Contributing Contributing Activity Stars 2.8k stars Watchers 2 watching Forks 144 forks Report repository Releases Packages Contributors Languages 
+ dshtui.com/ Topics claude-code coding-agent deepseek deepseek-harness dsh-plugin ink react terminal tui Resources Readme MIT license Code of conduct Code of conduct Contributing Contributing Activity Stars 2.8k stars Watchers 2 watching Forks 145 forks Report repository Releases Packages Contributors Languages 
  
 
 

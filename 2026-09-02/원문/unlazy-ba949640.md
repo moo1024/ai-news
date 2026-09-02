@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/Leonxlnx/unlazy
-- 발행: 2026-09-01T22:24:35.739242+00:00
+- 발행: 2026-09-02T03:55:15.848608+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -301,7 +301,7 @@ GitHub - Leonxlnx/unlazy: Anti-laziness skill for AI agents. Core: the Depth Tre
  
  
  Star
- 2.9k 
+ 3k 
  
  
 
@@ -697,4 +697,4 @@ node <path-to-skill>/scripts/install-hooks.mjs --uninstall
  
  strict shared ledger parsing and explicit named-file targeting 
  --reverify , explicit --approve , and fail-closed exit-plus-EXPECT success 
- --shell and UNLAZY_SHELL , with pre-execution PATH disclosure and resolved shell, CWD, exit, match, and successful-output fingerprin
+ --shell and UNLAZY_SHELL , with pre-execution PATH disclosure and resolved shell, CWD, exit, match, and successful-output fingerprint 

@@ -27,7 +27,7 @@ BenchMIRT: What are LLM benchmarks actually measuring?
  BenchMIRT: What are LLM benchmarks actually measuring?
  
  Enterprise Article Published
- September 1, 2026 Upvote - Kyle Wiggers Ai2Comms Follow allenai :last-child]:mb-0"> 
+ September 1, 2026 Upvote 2 Kyle Wiggers Ai2Comms Follow allenai :last-child]:mb-0"> 
  Finding the signals inside a benchmark What BenchMIRT reveals about existing benchmarks Doing more with fewer questions What this could mean for LLM evaluation 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT 
 
  
@@ -126,6 +126,6 @@ BenchMIRT: What are LLM benchmarks actually measuring?
 
  Still, we see BenchMIRT – and future tools like it – as a step toward more targeted benchmark design and efficient evaluation. By showing which questions are actually driving a benchmark’s results, these approaches could help researchers build evaluations that are smaller, more focused, and easier to interpret, while giving a clearer picture of the capabilities they’re meant to measure.
 
- Collections mentioned in this article 1 BenchMIRT Collection 4 items • Updated about 3 hours ago More from this author
+ Collections mentioned in this article 1 BenchMIRT Collection 4 items • Updated about 8 hours ago More from this author
  Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 17 August 12, 2026 TutorMoments: Do AI tutors know when to help and when to hold back? 31 August 7, 2026 Community Edit Preview Upload images, audio, and videos by dragging in the text input, pasting, or clicking here . Tap or paste here to upload images Comment · Sign up or log in to comment
- Upvote - Collections mentioned in this article 1 BenchMIRT Collection 4 items • Updated about 3 hours ago System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs
+ Upvote 2 Collections mentioned in this article 1 BenchMIRT Collection 4 items • Updated about 8 hours ago System theme Company TOS Privacy About Careers Website Models Datasets Spaces Pricing Docs

@@ -3378,6 +3378,71 @@ Mapping global methane emissions from space with deep learning
  
  
  
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+
+ Search 
+ 
+ 
+ 
+ 
+ 
 
  
  
@@ -3831,5 +3896,4 @@ Mapping global methane emissions from space with deep learning
 
 
  Measuring methane from space requires balancing three key factors: (1) field of view (spatial coverage/revisit), (2) spatial resolution, and (3) spectral resolution.
- Global mappers like TROPOMI were designed to detect small changes in background methane concentrations by integrating high coverage (approximately 2,600 km swath width), coarse spatial resolution (around 5.5 km x 3.5 km), and fine spectral sampling (0.1 nm).
- In contrast, point source mappers like EMIT excel at measuring methane emissions at the fac
+ Global mappers like TROPOMI were designed to detect small changes in background methane concentrations by integrating high coverage (approximately 2,600 km swath width), coarse spatial resolution (around 5.5 km x 3.5 km), and fine spectral sam

@@ -94,11 +94,11 @@ Python 3.15.0 candidate 2 is here!
  Recent articles 
  
  
+ Claude Fable 5.1 made me a really nice animated pelican - 1st September 2026 
+ 
  Understanding ChatGPT Work - 30th August 2026 
  
  Conceptual integrity and counting lines of code - 19th August 2026 
- 
- Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things - 16th August 2026 
  
  
  
