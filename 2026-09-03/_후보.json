@@ -10,33 +10,70 @@
       "정규url": "https://x.com/GoogleDeepMind/status/2095175498967949359",
       "발행": "2026-09-02T15:42:20+00:00",
       "요약": "Two new Gemini models are here to help scale your AI agents and secure code:\n\n🔘 3.8 Flash: our most intelligent model yet with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.\n\n🔘 3.8 Flash Cyber: our most capable https://t.co/EEJDIMhRwp",
-      "반응": 1779,
+      "반응": 2010,
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-09-03/원문/2095175498967949359-587cb2b8.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "agentic"
       ],
-      "점수": 6.111
+      "점수": 6.015
     },
     {
-      "id": "scroll-craft-21883fcb",
+      "id": "v2-1-259-b2e61466",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.259",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
+      "발행": "2026-09-02T22:33:51+00:00",
+      "요약": "What's changed \n \n Added managedMcpServers managed setting: organizations can provide HTTP/SSE MCP servers to every user (same entry shape as .mcp.json ); entries that name a command to run are skipped \n Added --permission-prompts none for unattended headless hosts: anything that would prompt is denied automatically while the active permission mode (including auto mode) keeps deciding \n Added recognition of glab mr create/merge/close/reopen/note/update so GitLab merge requests show as MR !N in the collapsed tool summary and refresh the footer MR badge \n Added --json to claude plugin validate for a machine-readable validation report \n Fixed concurrent sessions silently reverting each other's ~/.claude.json changes — workspace trust no longer resets and MCP/project state is no longer lost when running many sessions at once \n Fixed a conversation whose thinking was rejected once being rejected again on every later turn \n Fixed Bash Read() deny rules not covering files given as option values ( --ignore-revs-file=.env , -f.env , @file ), git diff / git grep file operands, or cd DIR && cat FILE compounds; grep -r / cp -r over a directory holding a denied file now asks \n Fixed the prompt ",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/v2-1-259-b2e61466.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "mcp"
+      ],
+      "점수": 5.508
+    },
+    {
+      "id": "sepia-9392f565",
       "출처": "GitHub 신규 (claude-code)",
-      "제목": "nateherkai/scroll-craft — Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin",
-      "url": "https://github.com/nateherkai/scroll-craft",
-      "정규url": "https://github.com/nateherkai/scroll-craft",
-      "발행": "2026-09-02T22:24:33.980040+00:00",
-      "요약": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.\n\n별 1,583개 · 언어 JavaScript · 생성 2026-08-22 · 토픽 accessibility, agent-skills, ai-web-design, anthropic, claude-code, claude-code-plugin, creative-coding, design-system",
-      "반응": 1583,
-      "원저자": "nateherkai",
-      "본문파일": "2026-09-03/원문/scroll-craft-21883fcb.md",
+      "제목": "Nanako0129/sepia — De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL",
+      "url": "https://github.com/Nanako0129/sepia",
+      "정규url": "https://github.com/Nanako0129/sepia",
+      "발행": "2026-09-03T03:54:34.234601+00:00",
+      "요약": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).\n\n별 1,641개 · 언어 Python · 생성 2026-08-28 · 토픽 agent-skills, ai-writing, antigravity, claude-code, codex, developer-tools, fiction, grok",
+      "반응": 1641,
+      "원저자": "Nanako0129",
+      "본문파일": "2026-09-03/원문/sepia-9392f565.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "claude code",
         "claude-code",
+        "codex",
+        "agent skill",
         "skills"
       ],
-      "점수": 5.33
+      "점수": 5.342
+    },
+    {
+      "id": "FrontierAgent-cf935b11",
+      "출처": "GitHub 신규 (AI 에이전트)",
+      "제목": "ApodexAI/FrontierAgent — 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "정규url": "https://github.com/ApodexAI/FrontierAgent",
+      "발행": "2026-09-03T03:54:34.234601+00:00",
+      "요약": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.\n\n별 1,434개 · 언어 Python · 생성 2026-08-22 · 토픽 agent-orchestration, agentic-ai, agentic-framework, ai-agents, harness, multi-agent, terminal-agent, tui",
+      "반응": 1434,
+      "원저자": "ApodexAI",
+      "본문파일": "2026-09-03/원문/FrontierAgent-cf935b11.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 5.295
     },
     {
       "id": "headcount-e54780d0",
@@ -44,9 +81,9 @@
       "제목": "cbrock84/headcount — An agent organization for Claude Code, structured as a company — 15+ departments",
       "url": "https://github.com/cbrock84/headcount",
       "정규url": "https://github.com/cbrock84/headcount",
-      "발행": "2026-09-02T22:24:33.980040+00:00",
-      "요약": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.\n\n별 1,106개 · 언어 Markdown · 생성 2026-08-28 · 토픽 agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills, mcp",
-      "반응": 1106,
+      "발행": "2026-09-03T03:54:34.234601+00:00",
+      "요약": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.\n\n별 1,123개 · 언어 Markdown · 생성 2026-08-28 · 토픽 agent-marketplace, claude-code, claude-code-plugin, claude-plugin, claude-skills, mcp",
+      "반응": 1123,
       "원저자": "cbrock84",
       "본문파일": "2026-09-03/원문/headcount-e54780d0.md",
       "본문상태": "확인 완료",
@@ -56,7 +93,24 @@
         "mcp",
         "skills"
       ],
-      "점수": 5.203
+      "점수": 5.209
+    },
+    {
+      "id": "rust-v0-153-0-b3cc85d1",
+      "출처": "Codex 릴리스",
+      "제목": "0.153.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0",
+      "정규url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0",
+      "발행": "2026-09-03T01:39:03+00:00",
+      "요약": "New Features \n \n Vim mode now supports undo with u and redo with Ctrl+R , preserving complete drafts including pasted content and attachments. ( #41941 , #42140 ) \n The plugin CLI can list, install, and remove plugins from remote marketplaces. ( #42150 ) \n Set tui.auto_recap = false to disable automatic recaps while keeping manual /recap available. ( #42101 ) \n TUI history shows complete patches, input sent to background terminals, and individual completed commands. ( #41893 , #42107 ) \n Plus and Team users receive an earlier warning when less than half of their allowance remains in an approximately five-hour usage window. ( #42142 ) \n \n Bug Fixes \n \n TUI sessions reconnect after an external app-server connection drops, preserving drafts and transcripts while keeping uncertain or queued submissions paused for review. ( #41911 , #41916 , #41918 ) \n Full Access skips Guardian reviews for confirmation-only actions. User approval mode skips background Guardian scoring and prewarming, while sensitive-action checks and requests for user input retain their existing handling. ( #42147 , #42256 ) \n Guardian review history survives compaction, restarts, and user-created forks while respectin",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-03/원문/rust-v0-153-0-b3cc85d1.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.351
     },
     {
       "id": "check-content-0705366d",
@@ -65,13 +119,13 @@
       "url": "https://claude.com/check-content",
       "정규url": "https://claude.com/check-content",
       "발행": "2026-09-02T12:23:20+00:00",
-      "요약": "Article URL: https://claude.com/check-content \n\n Comments URL: https://news.ycombinator.com/item?id=49535201 \n\n Points: 140\n\n # Comments: 106",
-      "반응": 140,
+      "요약": "Article URL: https://claude.com/check-content \n\n Comments URL: https://news.ycombinator.com/item?id=49535201 \n\n Points: 153\n\n # Comments: 112",
+      "반응": 153,
       "원저자": "",
       "본문파일": "2026-09-03/원문/check-content-0705366d.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.321
+      "점수": 4.222
     },
     {
       "id": "2095196704769237137-73013fb5",
@@ -81,12 +135,12 @@
       "정규url": "https://x.com/GoogleDeepMind/status/2095196704769237137",
       "발행": "2026-09-02T17:06:35+00:00",
       "요약": "Gemini 3.8 Flash Cyber gives defenders a decisive advantage with expert vulnerability detection and autonomous patching.\n\nHere’s how it helps teams stay ahead of emerging threats 🧵 https://t.co/1RXF9bRWws",
-      "반응": 328,
+      "반응": 405,
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-09-03/원문/2095196704769237137-73013fb5.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.27
+      "점수": 4.22
     },
     {
       "id": "3-8-flash-and-3-8-flash-cyber-7bf30931",
@@ -96,12 +150,12 @@
       "정규url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
       "발행": "2026-09-02T15:12:40+00:00",
       "요약": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-      "반응": 733,
+      "반응": 871,
       "원저자": "",
       "본문파일": "2026-09-03/원문/3-8-flash-and-3-8-flash-cyber-7bf30931.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.261
+      "점수": 4.208
     },
     {
       "id": "455207-can-i-opt-out-of-my-input-or-outp-441ed5a2",
@@ -111,12 +165,12 @@
       "정규url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "발행": "2026-09-02T12:30:39+00:00",
       "요약": "",
-      "반응": 346,
+      "반응": 389,
       "원저자": "",
       "본문파일": "2026-09-03/원문/455207-can-i-opt-out-of-my-input-or-outp-441ed5a2.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.009
+      "점수": 3.941
     },
     {
       "id": "manufactured-sources-behind-ai-recommend-164af9b8",
@@ -126,78 +180,27 @@
       "정규url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
       "발행": "2026-09-02T13:59:59+00:00",
       "요약": "",
-      "반응": 257,
+      "반응": 328,
       "원저자": "",
       "본문파일": "2026-09-03/원문/manufactured-sources-behind-ai-recommend-164af9b8.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.955
+      "점수": 3.922
     },
     {
-      "id": "2095196714479071566-4c1b5209",
+      "id": "2095196708254658820-13941387",
       "출처": "X @GoogleDeepMind",
-      "제목": "On benchmarks like CyberGym, the model leads in finding weaknesses autonomously while staying fast and efficient.\n\nIn re",
-      "url": "https://x.com/GoogleDeepMind/status/2095196714479071566",
-      "정규url": "https://x.com/GoogleDeepMind/status/2095196714479071566",
-      "발행": "2026-09-02T17:06:38+00:00",
-      "요약": "On benchmarks like CyberGym, the model leads in finding weaknesses autonomously while staying fast and efficient.\n\nIn real-world testing across @GoogleChrome codebases, it produced 2.6 times more valid fixes to help protect software faster. https://t.co/VqewNeIXQ8",
-      "반응": 47,
+      "제목": "Security teams often face a tough trade-off: large frontier models can be expensive and slow to use, while smaller optio",
+      "url": "https://x.com/GoogleDeepMind/status/2095196708254658820",
+      "정규url": "https://x.com/GoogleDeepMind/status/2095196708254658820",
+      "발행": "2026-09-02T17:06:36+00:00",
+      "요약": "Security teams often face a tough trade-off: large frontier models can be expensive and slow to use, while smaller options struggle with complex code repair.\n\n3.8 Flash Cyber generates secure, deployable fixes in minutes – all within an organization's cloud environment. https://t.co/BkkNWMF9P9",
+      "반응": 54,
       "원저자": "@GoogleDeepMind",
-      "본문파일": "2026-09-03/원문/2095196714479071566-4c1b5209.md",
+      "본문파일": "2026-09-03/원문/2095196708254658820-13941387.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.748
-    },
-    {
-      "id": "llm-gemini-43c216d6",
-      "출처": "Simon Willison",
-      "제목": "llm-gemini 0.34",
-      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-      "정규url": "https://simonwillison.net/2026/Sep/2/llm-gemini",
-      "발행": "2026-09-02T16:39:38+00:00",
-      "요약": "Release: llm-gemini 0.34 \n\n \n \n New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 \n Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 \n \n \n Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today.\n\n Here are the pelicans for high, medium, and low. This is high:\n\n \n\n For comparison, here are the same pelicans generated using Gemini 3.7 Flash .\n\n Something I appreciate about Gemini Flash is that it's fast, cheap, and competent at things like HTML and JavaScript. I was messing around with it and prompted \"make me a cool thing in html\" and it built this , which is certainly a cool thing in HTML! Took 13 seconds, cost 1.8 cents.\n\n \n \n Your browser does not support HTML5 video.\n \n\n\n\n If you click through to the demo you'll see one more thing I built with Gemini 3.8 Flash.\n\n My markdown-svg-renderer tool lets me feed in the URL to a Gist with Markdown in and renders that markdown with fenced code blocks for SVG correctly rendered.\n\n I used Gemini 3.8 Flash (with my very basic llm-coding-agent coding agent plugin) to add support for HTML ",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-09-03/원문/llm-gemini-43c216d6.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "coding agent"
-      ],
-      "점수": 3.744
-    },
-    {
-      "id": "self-hosted-machines-fe5941ee",
-      "출처": "Cursor 체인지로그",
-      "제목": "Self-hosted machines",
-      "url": "https://cursor.com/changelog/self-hosted-machines",
-      "정규url": "https://cursor.com/changelog/self-hosted-machines",
-      "발행": "2026-09-02T00:00:00+00:00",
-      "요약": "Cursor supports self-hosted machines, which let you keep tool execution entirely in your own network.",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-09-03/원문/self-hosted-machines-fe5941ee.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "cursor"
-      ],
-      "점수": 3.732
-    },
-    {
-      "id": "claudes-new-system-prompt-7c32fbb7",
-      "출처": "Simon Willison",
-      "제목": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "정규url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
-      "발행": "2026-09-02T14:16:42+00:00",
-      "요약": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well.\n\n\n They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, which has the original prompt from October 15th 2025 and an updated prompt from January 18th 2026.\n\n A neat thing about Anthropic's platform.claude.com/docs site is that it's designed to be usable by LLMs. You can add .md to any page to get back the content as Markdown - here's the system prompt index page and the Markdown prompts for Fable 5.1 .\n\n TL;DR: this makes it really easy to diff the prompts.\n\n\n\n \n Don't reproduce song lyrics \n Don't draw copyrighted characters or logos \n Tweaks to Claude's answering style \n The missing end_conversation guidelines \n Recommended substance support sites \n Reliable cutoff date of June 2026 \n How I'm tracking these prompts \n \n\n Don't reproduce song ly",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-09-03/원문/claudes-new-system-prompt-7c32fbb7.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code"
-      ],
-      "점수": 3.68
+      "점수": 3.678
     }
   ]
 }

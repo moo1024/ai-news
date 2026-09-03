@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/cbrock84/headcount
-- 발행: 2026-09-02T22:24:33.980040+00:00
+- 발행: 2026-09-03T03:54:34.234601+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - cbrock84/headcount: An agent organization for Claude Code, structured a
  
  
  Fork
- 173 
+ 180 
  
  
 
@@ -336,7 +336,7 @@ GitHub - cbrock84/headcount: An agent organization for Claude Code, structured a
  
  
  Issues 
- 1 
+ 0 
 
 
  
@@ -348,7 +348,7 @@ GitHub - cbrock84/headcount: An agent organization for Claude Code, structured a
  
  
  Pull requests 
- 2 
+ 1 
 
 
  
@@ -563,7 +563,7 @@ GitHub - cbrock84/headcount: An agent organization for Claude Code, structured a
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 66 Commits 66 Commits Folders and files Name Name Last commit message Last commit date .claude-plugin .claude-plugin     .claude/ agents .claude/ agents     .github/ workflows .github/ workflows     docs docs     plugins plugins     scripts scripts     .gitattributes .gitattributes     .gitignore .gitignore     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     README.md README.md     View all files Repository files navigation README Contributing MIT license More items headcount 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 72 Commits 72 Commits Folders and files Name Name Last commit message Last commit date .claude-plugin .claude-plugin     .claude/ agents .claude/ agents     .github/ workflows .github/ workflows     docs docs     plugins plugins     scripts scripts     .gitattributes .gitattributes     .gitignore .gitignore     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     README.md README.md     View all files Repository files navigation README Contributing MIT license More items headcount 
  Add a department, not a prompt. 
 
  

@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-03",
+  "브리핑페이지": "https://app.notion.com/p/3cf3f6aa67a48132b518df51266bf521",
+  "정식아카이빙": [
+    {"id": "2095175498967949359-587cb2b8", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "v2-1-259-b2e61466", "source_library": "https://app.notion.com/p/3d03f6aa67a48183b919fd97278b2873", "서고": "https://app.notion.com/p/3d03f6aa67a481449339c1660ccccbfa", "결과": "생성"},
+    {"id": "sepia-9392f565", "source_library": "https://app.notion.com/p/3d03f6aa67a4814793c0f690c51fa255", "서고": "https://app.notion.com/p/3d03f6aa67a4819bb1c2cb5f2f8a25b8", "결과": "생성"},
+    {"id": "FrontierAgent-cf935b11", "source_library": "https://app.notion.com/p/3d03f6aa67a48109bd94e008164ec6b2", "서고": "https://app.notion.com/p/3d03f6aa67a48109b3b5dd76582bd8d4", "결과": "생성"},
+    {"id": "headcount-e54780d0", "source_library": "https://app.notion.com/p/3cf3f6aa67a481419584cfad21d77292", "서고": "https://app.notion.com/p/3cf3f6aa67a481689b71f4409a42ac3f", "결과": "중복 — 건너뜀"},
+    {"id": "rust-v0-153-0-b3cc85d1", "source_library": "https://app.notion.com/p/3d03f6aa67a48165bdf2ef08a086ae65", "서고": "https://app.notion.com/p/3d03f6aa67a481358d91c5e5a0cef9f8", "결과": "생성"},
+    {"id": "check-content-0705366d", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "2095196704769237137-73013fb5", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "3-8-flash-and-3-8-flash-cyber-7bf30931", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "455207-can-i-opt-out-of-my-input-or-outp-441ed5a2", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "manufactured-sources-behind-ai-recommend-164af9b8", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "2095196708254658820-13941387", "source_library": "https://app.notion.com/p/3d03f6aa67a481569325fbc17ca08f8d", "서고": "https://app.notion.com/p/3d03f6aa67a481828281e724638b8f76", "결과": "생성"}
+  ],
+  "전체수집건수": 197,
+  "메모": "오늘 수집기가 두 번 돌았다(07:24 185건 → 12:54 197건). 오전 실행이 후보 12건 중 7건을 이미 2단계로 넣어둔 상태여서, Source Library·지식 서고를 2026-09-02 이후 createdTime 으로 조회해 원본 링크를 대조한 뒤 신규 5건만 생성했다. 브리핑도 같은 날짜 행이 이미 있어 새로 만들지 않고 갱신했다(수집건수 185→197, 정식정리 12→17, 정식 정리한 것 13~17 추가, 릴리스·레포 섹션에 오후 보강분 반영). 출처수 38은 변동 없음."
+}
