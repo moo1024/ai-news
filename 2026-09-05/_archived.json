@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-05",
+  "브리핑페이지": "https://app.notion.com/p/3d13f6aa67a4812cad5fdff6e07ee485",
+  "정식아카이빙": [
+    {"id": "2095968413646737608-1c97dc46", "source_library": "https://app.notion.com/p/3d13f6aa67a48137b658d9eb81b7f224", "서고": "https://app.notion.com/p/3d13f6aa67a481f4aad1e37021483dd3", "결과": "생성"},
+    {"id": "v2-1-261-6f223637", "source_library": "https://app.notion.com/p/3d13f6aa67a4818aaae4fd7c4ba93ddf", "서고": "https://app.notion.com/p/3d13f6aa67a48140b9b7f6ffe93dd2b6", "결과": "생성"},
+    {"id": "ip-as-logo-skill-5fadc46e", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "stop-that-shit-b9eafdaf", "source_library": "https://app.notion.com/p/3d13f6aa67a4818e8f9bfaa4eb5728de", "서고": "https://app.notion.com/p/3d13f6aa67a48110877dd874c6aa865a", "결과": "생성"},
+    {"id": "2095947707605266436-2de5ae3a", "source_library": "https://app.notion.com/p/3d13f6aa67a481b690fec649caa55f6c", "서고": "https://app.notion.com/p/3d13f6aa67a481f2baf3d954c462e5df", "결과": "생성"},
+    {"id": "v2-1-260-8d16badc", "source_library": "https://app.notion.com/p/3d13f6aa67a481fe9773e326721f917d", "서고": "https://app.notion.com/p/3d13f6aa67a4810d8f39c64a2625857d", "결과": "생성"},
+    {"id": "development-md-5a4d9310", "source_library": "https://app.notion.com/p/3d13f6aa67a481868183ed0b0fa0fa3c", "서고": "https://app.notion.com/p/3d13f6aa67a48100afb3ee6f8294c1c7", "결과": "생성"},
+    {"id": "2095595758967988662-965ebd77", "source_library": "https://app.notion.com/p/3d13f6aa67a4810ea089c1917c553fb3", "서고": "https://app.notion.com/p/3d13f6aa67a481ed9917f6bf32db147e", "결과": "생성"},
+    {"id": "collusion-wiki-df157840", "source_library": "https://app.notion.com/p/3d13f6aa67a481bf8268ed123d283d4c", "서고": "https://app.notion.com/p/3d13f6aa67a481ce85e0cfed758cc678", "결과": "생성"},
+    {"id": "google-ai-mode-prefers-more-expensive-pr-959aa5be", "source_library": "https://app.notion.com/p/3d13f6aa67a4812ca418f35315260729", "서고": "https://app.notion.com/p/3d13f6aa67a4818aa65fc7c56fc44e84", "결과": "생성"},
+    {"id": "3mup6ewbst22i-de8c55bf", "source_library": "https://app.notion.com/p/3d13f6aa67a48196a564e11b0e47a6cb", "서고": "https://app.notion.com/p/3d13f6aa67a481df9da6ebdf77e1831a", "결과": "생성"},
+    {"id": "rogue-agent-wikis-5ba31ce3", "source_library": "https://app.notion.com/p/3d13f6aa67a4817984b8c3c79c97cd68", "서고": "https://app.notion.com/p/3d13f6aa67a481dfb6a4dcc8dbb0ad6f", "결과": "생성"}
+  ],
+  "전체수집건수": 184,
+  "메모": "ip-as-logo-skill은 2026-08-20 기존 아카이빙(원문+정리본)과 같은 레포 URL이라 건너뜀. 원문 파일 6건(v2.1.261·v2.1.260·stop-that-shit·TERMy·collusion.wiki·google-ai-mode)은 수집기 캡처가 문장 중간에서 잘려 접근상태를 '일부 확인'으로 기록."
+}

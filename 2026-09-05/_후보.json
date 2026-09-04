@@ -1,0 +1,204 @@
+{
+  "날짜": "2026-09-05",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "2095968413646737608-1c97dc46",
+      "출처": "X @OpenAI",
+      "제목": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex. It's also liv",
+      "url": "https://x.com/OpenAI/status/2095968413646737608",
+      "정규url": "https://x.com/OpenAI/status/2095968413646737608",
+      "발행": "2026-09-04T20:13:05+00:00",
+      "요약": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex. It's also live in the API.\n\nIt might take a few days to roll out to our Plus and Business users. Thank you for your patience.",
+      "반응": 16308,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-05/원문/2095968413646737608-1c97dc46.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 6.445
+    },
+    {
+      "id": "v2-1-261-6f223637",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.261",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
+      "발행": "2026-09-04T19:58:10+00:00",
+      "요약": "What's changed \n \n Added an \"Organization policy\" line to /status and claude doctor that says why your organization's policy could not be loaded, such as a proxy not passing the endpoint through \n Added bashOutputMaxChars and taskOutputMaxChars settings to raise how much command and background-task output Claude receives inline before it is saved to a file, up to 128K characters \n Added --append-subagent-system-prompt-file to read the subagent system prompt from a file, for prompts too large to pass on the command line \n Added /skill-doctor to show which loaded skills go unused and what they cost in context, so you can prune them \n Fixed typed or pasted characters occasionally landing out of order or being dropped during fast input or key repeat \n Fixed /add-dir <subdirectory> printing a false \"couldn't be resolved\" error when the working directory is on a /net automount \n Fixed the Bedrock setup wizard hanging when AWS or an AWS credential helper never responds (it now times out with a clear error), and its model checks failing behind a TLS-inspecting proxy \n Fixed cloud sessions discarding a plugin synced from claude.ai when managed settings force-enable it in enabledPlugins , th",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-05/원문/v2-1-261-6f223637.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "subagent",
+        "skills"
+      ],
+      "점수": 5.623
+    },
+    {
+      "id": "ip-as-logo-skill-5fadc46e",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "s1dashu/ip-as-logo-skill — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "정규url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "발행": "2026-09-04T22:24:38.164063+00:00",
+      "요약": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.\n\n별 4,927개 · 언어 미상 · 생성 2026-08-18 · 토픽 codex, codex-skill, image-generation, logo-design, mascot-design",
+      "반응": 4927,
+      "원저자": "s1dashu",
+      "본문파일": "2026-09-05/원문/ip-as-logo-skill-5fadc46e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "agent skill"
+      ],
+      "점수": 5.59
+    },
+    {
+      "id": "stop-that-shit-b9eafdaf",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "lennney/stop-that-shit — Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent",
+      "url": "https://github.com/lennney/stop-that-shit",
+      "정규url": "https://github.com/lennney/stop-that-shit",
+      "발행": "2026-09-04T22:24:38.164063+00:00",
+      "요약": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.\n\n별 1,545개 · 언어 JavaScript · 생성 2026-08-11 · 토픽 agent-skills, ai-agents, ai-coding, claude-code, codex, codex-cli, codex-plugin, developer-tools",
+      "반응": 1545,
+      "원저자": "lennney",
+      "본문파일": "2026-09-05/원문/stop-that-shit-b9eafdaf.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude-code",
+        "codex",
+        "skills",
+        "coding agent"
+      ],
+      "점수": 5.321
+    },
+    {
+      "id": "2095947707605266436-2de5ae3a",
+      "출처": "X @AnthropicAI",
+      "제목": "Checking that a major mathematical proof is correct can take years. Formalization—converting the mathematical reasoning",
+      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "정규url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "발행": "2026-09-04T18:50:48+00:00",
+      "요약": "Checking that a major mathematical proof is correct can take years. Formalization—converting the mathematical reasoning into a form computer proof assistants like Lean can verify—can help.\n\nLast month, Claude completed the first formalized proof of Fermat’s Last Theorem, one of https://t.co/pdT8zwlV4A",
+      "반응": 5282,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-09-05/원문/2095947707605266436-2de5ae3a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.931
+    },
+    {
+      "id": "v2-1-260-8d16badc",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.260",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.260",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.260",
+      "발행": "2026-09-03T23:48:12+00:00",
+      "요약": "What's changed \n \n Added a diff panel that opens beside the conversation in fullscreen mode and shows your uncommitted changes as Claude edits; toggle it with /diff \n Added a likely cause for prompt-cache misses (e.g. tool definitions or system prompt changed, idle past the TTL) to /cost and the status line's prompt_cache field \n Added /reload-plugins to headless sessions, so it appears in the Claude Code Desktop and SDK command lists \n Added a text form of /advisor ( /advisor , /advisor <model> , /advisor off ) for the desktop app, Remote Control, and other headless ( -p /Agent SDK) sessions \n Added oidc.scope_on_refresh to the Claude apps gateway for IdPs that return an id_token on refresh only when asked for openid again \n Added Claude apps gateway support for newer Claude Desktop keys in desktop policy blocks, including userPluginMarketplacesEnabled and userPluginUploadsEnabled \n Fixed Edit / Write / Read permission rules whose path contains parentheses being dropped as invalid or ignored by the Bash sandbox, which left \"read-only\" folders writable \n Fixed one file permission rule with an uncompilable pattern (e.g. an unclosed [ ) making every file edit fail with Invalid regula",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-05/원문/v2-1-260-8d16badc.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.822
+    },
+    {
+      "id": "development-md-5a4d9310",
+      "출처": "Hacker News",
+      "제목": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "정규url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "발행": "2026-09-04T09:03:00+00:00",
+      "요약": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber. I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (even on a Raspberry Pi Zero) both in the terminal or client-side in a browser tab and responds in milliseconds. It is a cynical but very knowledgeable Linux terminal assistant that translates your natural language into shell commands without relying on a single artificial neuron. I had a chance to focus for 2 months on my personal projects since early July, during the strange times of AI price hikes and the end of subsidized tokenmaxing. I was curious to see if I could develop from scratch a terminal assistant capable of handling simple natural language requests. I have a bad memory and got used to ask to copilot \"activate the virtual environment\" or similar trivial operations spending a non neg",
+      "반응": 78,
+      "원저자": "",
+      "본문파일": "2026-09-05/원문/development-md-5a4d9310.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "copilot"
+      ],
+      "점수": 4.608
+    },
+    {
+      "id": "2095595758967988662-965ebd77",
+      "출처": "X @OpenAI",
+      "제목": "\"Put That There\" clip courtesy of MIT Media Laboratory, Chris Schmandt, and Eric Hulteen.",
+      "url": "https://x.com/OpenAI/status/2095595758967988662",
+      "정규url": "https://x.com/OpenAI/status/2095595758967988662",
+      "발행": "2026-09-03T19:32:17+00:00",
+      "요약": "\"Put That There\" clip courtesy of MIT Media Laboratory, Chris Schmandt, and Eric Hulteen.",
+      "반응": 2752,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-05/원문/2095595758967988662-965ebd77.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.427
+    },
+    {
+      "id": "collusion-wiki-df157840",
+      "출처": "Hacker News",
+      "제목": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "정규url": "https://collusion.wiki",
+      "발행": "2026-09-04T11:54:53+00:00",
+      "요약": "https://www.reuters.com/world/europe/openai-agents-hijacked-...",
+      "반응": 1371,
+      "원저자": "",
+      "본문파일": "2026-09-05/원문/collusion-wiki-df157840.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.371
+    },
+    {
+      "id": "google-ai-mode-prefers-more-expensive-pr-959aa5be",
+      "출처": "Hacker News",
+      "제목": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "정규url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "발행": "2026-09-04T11:59:15+00:00",
+      "요약": "",
+      "반응": 357,
+      "원저자": "",
+      "본문파일": "2026-09-05/원문/google-ai-mode-prefers-more-expensive-pr-959aa5be.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.008
+    },
+    {
+      "id": "3mup6ewbst22i-de8c55bf",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Another agent message board. So far, there isn't evidence that production models with guardrails collude in this way, bu",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mup6ewbst22i",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mup6ewbst22i",
+      "발행": "2026-09-04T14:28:41.397000+00:00",
+      "요약": "Another agent message board. So far, there isn't evidence that production models with guardrails collude in this way, but both smarter closed models (which may be less compliant) & Mythos-class open models (that can be ablated) are coming.\n\nCybersecurity is going to become a mess soon collusion.wiki",
+      "반응": 141,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-05/원문/3mup6ewbst22i-de8c55bf.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.046
+    },
+    {
+      "id": "rogue-agent-wikis-5ba31ce3",
+      "출처": "Simon Willison",
+      "제목": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "정규url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+      "발행": "2026-09-04T17:38:48+00:00",
+      "요약": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly) controlled access to the Web. The agents figured out they could update public Wikis and spent weeks exchanging thousands of messages with each other to collaborate on the benchmark.\n\n This story only broke a few hours ago. There are already hints that this affects many other wikis that may not have been found yet.\n\n (One of the Wikis on that list belongs to ludism.org . For a delightfully surreal moment I thought that a Ludite organization might have a swarm of agents defacing their space, but it turns out Ludism is \"philosophy as it applies to games and gaming\".)\n\n The research team also published the data they collected during their investigation. I've converted that into a 68MB SQLite database, which you can download from here , or explore in Datasette Lite (68.3MB page load), or sign in with GitHub to agent.datasette.io and browse or ask questions of it using Datasette A",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-05/원문/rogue-agent-wikis-5ba31ce3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.901
+    }
+  ]
+}
