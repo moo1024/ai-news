@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-06",
+  "브리핑페이지": "https://app.notion.com/p/3d23f6aa67a48168b0caf31bde8e2c49",
+  "정식아카이빙": [
+    {"id": "OpenBot-0876c9c2", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "dsh-TUI-2bfd1ae3", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "portal-by-spotify-cut-my-claude-code-tok-44a6c9ac", "source_library": "https://app.notion.com/p/3d23f6aa67a481c4a10aca940ba27937", "서고": "https://app.notion.com/p/3d23f6aa67a481e99fa8cc2fcd6e4fb8", "결과": "생성"},
+    {"id": "scroll-craft-21883fcb", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "context-engineering-kit-e2e70ddc", "source_library": "https://app.notion.com/p/3d23f6aa67a481b38681df83a7d9989d", "서고": "https://app.notion.com/p/3d23f6aa67a4819da93ced1610290d1a", "결과": "생성"},
+    {"id": "2096133504417616165-8c9a7c4f", "source_library": "https://app.notion.com/p/3d23f6aa67a481d09601e96cdf952acc", "서고": "https://app.notion.com/p/3d23f6aa67a481cdb9abd49b333272a8", "결과": "생성"},
+    {"id": "2095998532692140283-93fc7e0d", "source_library": "https://app.notion.com/p/3d23f6aa67a48162a9b0d8f8edec386a", "서고": "https://app.notion.com/p/3d23f6aa67a4814d8b5bf0cc4f4cbe51", "결과": "생성"},
+    {"id": "moadim-io-26217271", "source_library": "https://app.notion.com/p/3d23f6aa67a481be8ccecd9662f0139a", "서고": "https://app.notion.com/p/3d23f6aa67a4814b8f75c704dc2136cc", "결과": "생성"},
+    {"id": "gpt-6-astra-code-review-evaluation-e63a150c", "source_library": "https://app.notion.com/p/3d23f6aa67a481f0b5fbcd3cd52a5245", "서고": "https://app.notion.com/p/3d23f6aa67a481f7bef4c5530d045a99", "결과": "생성"},
+    {"id": "ai-handles-incidents-engineers-lose-touc-ff327903", "source_library": "https://app.notion.com/p/3d23f6aa67a4811694b0e946987186c6", "서고": "https://app.notion.com/p/3d23f6aa67a4816d9147ca52d0dee174", "결과": "생성"},
+    {"id": "astra-pelicans-b3b9e98f", "source_library": "https://app.notion.com/p/3d23f6aa67a481f58e77e5e0c7d57b85", "서고": "https://app.notion.com/p/3d23f6aa67a4818d90e2f16c62c82790", "결과": "생성"},
+    {"id": "3musgowtq2c2h-73341341", "source_library": "https://app.notion.com/p/3d23f6aa67a481bdb565fbb32985ad01", "서고": "https://app.notion.com/p/3d23f6aa67a4812ab069e5025add8afa", "결과": "생성"}
+  ],
+  "전체수집건수": 138,
+  "메모": "중복 3건(OpenBot 8/21, dsh-TUI 8/21, scroll-craft 9/2 기존 아카이브)은 URL 대조로 확인 후 건너뜀. 신규 9건 전부 2단계 완료, 브리핑 1행 생성(수집 138건·출처 26)"
+}

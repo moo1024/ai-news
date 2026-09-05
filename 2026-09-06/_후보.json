@@ -1,0 +1,209 @@
+{
+  "날짜": "2026-09-06",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "OpenBot-0876c9c2",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "CopilotKit/OpenBot — Open-source AI coworkers that each get a computer of their own: a browser, files",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "정규url": "https://github.com/CopilotKit/OpenBot",
+      "발행": "2026-09-05T22:24:36.336801+00:00",
+      "요약": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\n별 4,313개 · 언어 TypeScript · 생성 2026-08-17 · 토픽 ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp",
+      "반응": 4313,
+      "원저자": "CopilotKit",
+      "본문파일": "2026-09-06/원문/OpenBot-0876c9c2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "copilot",
+        "mcp"
+      ],
+      "점수": 5.59
+    },
+    {
+      "id": "dsh-TUI-2bfd1ae3",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "ccch1mneyyy/dsh-TUI — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "정규url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "발행": "2026-09-05T22:24:36.336801+00:00",
+      "요약": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.\n\n별 2,847개 · 언어 TypeScript · 생성 2026-08-13 · 토픽 claude-code, coding-agent, deepseek, deepseek-harness, dsh-plugin, ink, react, terminal",
+      "반응": 2847,
+      "원저자": "ccch1mneyyy",
+      "본문파일": "2026-09-06/원문/dsh-TUI-2bfd1ae3.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code"
+      ],
+      "점수": 5.537
+    },
+    {
+      "id": "portal-by-spotify-cut-my-claude-code-tok-44a6c9ac",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "정규url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "발행": "2026-09-04T23:38:50+00:00",
+      "요약": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 \n\n Comments URL: https://news.ycombinator.com/item?id=49571465 \n\n Points: 240\n\n # Comments: 151",
+      "반응": 240,
+      "원저자": "",
+      "본문파일": "2026-09-06/원문/portal-by-spotify-cut-my-claude-code-tok-44a6c9ac.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code"
+      ],
+      "점수": 5.438
+    },
+    {
+      "id": "scroll-craft-21883fcb",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "nateherkai/scroll-craft — An agent skill for building premium, immersive, scroll-driven websites. Works wi",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "정규url": "https://github.com/nateherkai/scroll-craft",
+      "발행": "2026-09-05T22:24:36.336801+00:00",
+      "요약": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.\n\n별 1,980개 · 언어 JavaScript · 생성 2026-08-22 · 토픽 accessibility, agent-skills, ai-web-design, anthropic, claude-code, claude-code-plugin, creative-coding, design-system",
+      "반응": 1980,
+      "원저자": "nateherkai",
+      "본문파일": "2026-09-06/원문/scroll-craft-21883fcb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex",
+        "agent skill",
+        "skills",
+        "coding agent"
+      ],
+      "점수": 5.409
+    },
+    {
+      "id": "context-engineering-kit-e2e70ddc",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Claude Code skills for advanced context engineering techniques and patterns",
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "정규url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "발행": "2026-09-04T22:52:14+00:00",
+      "요약": "Article URL: https://github.com/NeoLabHQ/context-engineering-kit \n\n Comments URL: https://news.ycombinator.com/item?id=49571131 \n\n Points: 35\n\n # Comments: 4",
+      "반응": 35,
+      "원저자": "",
+      "본문파일": "2026-09-06/원문/context-engineering-kit-e2e70ddc.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "skills"
+      ],
+      "점수": 4.744
+    },
+    {
+      "id": "2096133504417616165-8c9a7c4f",
+      "출처": "X @OpenAI",
+      "제목": "How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to defin",
+      "url": "https://x.com/OpenAI/status/2096133504417616165",
+      "정규url": "https://x.com/OpenAI/status/2096133504417616165",
+      "발행": "2026-09-05T07:09:06+00:00",
+      "요약": "How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\n\nHistorically, we have treated misalignment https://t.co/NNTbfSxVWn",
+      "반응": 3371,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-06/원문/2096133504417616165-8c9a7c4f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.703
+    },
+    {
+      "id": "2095998532692140283-93fc7e0d",
+      "출처": "X @OpenAI",
+      "제목": "In Chat, GPT-6 Astra powers GPT-6 Pro, now available to all Pro, Business, and Enterprise users.",
+      "url": "https://x.com/OpenAI/status/2095998532692140283",
+      "정규url": "https://x.com/OpenAI/status/2095998532692140283",
+      "발행": "2026-09-04T22:12:46+00:00",
+      "요약": "In Chat, GPT-6 Astra powers GPT-6 Pro, now available to all Pro, Business, and Enterprise users.",
+      "반응": 1166,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-06/원문/2095998532692140283-93fc7e0d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.246
+    },
+    {
+      "id": "moadim-io-26217271",
+      "출처": "Hacker News",
+      "제목": "Show HN: Moadim.io – A scheduler for agents",
+      "url": "https://moadim.io/",
+      "정규url": "https://moadim.io",
+      "발행": "2026-09-04T23:50:29+00:00",
+      "요약": "Why can't we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp/ui/http - unlimited routines/crons So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~/.config/moadim folder. With more than 1,000 users, I define this project as almost \"done\" and ready for production. Me and thousand more people are use it in a daily manner. It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it's 100% configurable. You are welcome to have a look at the source code of the daemon in \" http://github.com/moadim-io/daemon \" Feel free to provide me with suggestions for more features around this topic. I don't want to branch out to new off road topics likt webhooks, this is a \"done\" software in the realm of agents schedulers that focus on cron-like work. Also feel ",
+      "반응": 30,
+      "원저자": "",
+      "본문파일": "2026-09-06/원문/moadim-io-26217271.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "mcp",
+        "hooks"
+      ],
+      "점수": 4.062
+    },
+    {
+      "id": "gpt-6-astra-code-review-evaluation-e63a150c",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "정규url": "https://coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "발행": "2026-09-05T03:38:56+00:00",
+      "요약": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation \n\n Comments URL: https://news.ycombinator.com/item?id=49572875 \n\n Points: 70\n\n # Comments: 68",
+      "반응": 70,
+      "원저자": "",
+      "본문파일": "2026-09-06/원문/gpt-6-astra-code-review-evaluation-e63a150c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.94
+    },
+    {
+      "id": "ai-handles-incidents-engineers-lose-touc-ff327903",
+      "출처": "Hacker News",
+      "제목": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "정규url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "발행": "2026-09-05T07:52:50+00:00",
+      "요약": "",
+      "반응": 360,
+      "원저자": "",
+      "본문파일": "2026-09-06/원문/ai-handles-incidents-engineers-lose-touc-ff327903.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.936
+    },
+    {
+      "id": "astra-pelicans-b3b9e98f",
+      "출처": "Simon Willison",
+      "제목": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "정규url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+      "발행": "2026-09-04T23:59:05+00:00",
+      "요약": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful.\n\n \nSee the grid for full quality images. Here's the transcript that created the GPT-6 Nova pelicans.\n\n There are a few interesting things that stand out from this grid.\n\n \n The Astra pelicans are much better . The very best GPT-5.6-Sol pelican (I liked xhigh better than max) is still pretty clearly a bunch of abstract shapes. Every single one of the Astra pelicans, from low to xhigh, looks better than that. The Astra max one is really good. \n Astra below max still doesn't reliably get the pelican legs on both sides of the frame. \n In terms of cost, Astra may be around twice the price of Sol ($10/million input, $50/million output, compared to $5/$30 for Sol), but it uses significantly less tokens at each of the levels, making the prices at the different levels closer than they might otherwise be. \n Astra low produces a better pelican than",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-06/원문/astra-pelicans-b3b9e98f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.533
+    },
+    {
+      "id": "3musgowtq2c2h-73341341",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Someone pointed out that the original Zork description said the house was in a field, with forests further out. The AI f",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3musgowtq2c2h",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3musgowtq2c2h",
+      "발행": "2026-09-05T21:35:26.676000+00:00",
+      "요약": "Someone pointed out that the original Zork description said the house was in a field, with forests further out. The AI fixed. To be fair to the AI, Grand Inquisitor & Return to Zork had similar woods\n\n(it being BlueSky their posts also had personal insults aimed at me, but what are you going to do?)",
+      "반응": 12,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-06/원문/3musgowtq2c2h-73341341.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.486
+    }
+  ]
+}

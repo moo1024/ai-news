@@ -1,0 +1,42 @@
+# OpenAI admits to German wiki ‘incident’
+
+- 출처: The Verge AI
+- 원본 링크: https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident
+- 발행: 2026-09-05T11:15:55+00:00
+- 접근상태: 확인 완료
+
+---
+
+OpenAI admits to German wiki ‘incident’ | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up close Close Search Light System Dark Tech Expand Amazon Apple Facebook Google Microsoft Samsung Business See all tech Reviews Expand Smart Home Reviews Phone Reviews Tablet Reviews Headphone Reviews See all reviews Science Expand Space Energy Environment Health See all science Entertainment Expand TV Shows Movies Audio See all entertainment AI Expand OpenAI Anthropic See all AI Policy Expand Antitrust Politics Law Security See all policy Gadgets Expand Laptops Phones TVs Headphones Speakers Wearables See all gadgets Verge Shopping Expand Buying Guides Deals Gift Guides See all shopping Gaming Expand Xbox PlayStation Nintendo See all gaming Streaming Expand Disney HBO Netflix YouTube Creators See all streaming Transportation Expand Electric Cars Autonomous Cars Ride-sharing Scooters See all transportation Features Verge Video Expand TikTok YouTube Instagram Podcasts Expand Decoder The Vergecast Version History Newsletters Archives Store Verge Product Updates Subscribe Facebook Threads Instagram Youtube RSS The Verge The Verge logo. OpenAI admits to German wiki ‘incident’ Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ Tech Close Tech Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Tech 
+ OpenAI Close OpenAI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All OpenAI 
+ OpenAI admits to German wiki ‘incident’ The company pledged to overhaul their agent ‘misalignment incident’ reporting.
+ The company pledged to overhaul their agent ‘misalignment incident’ reporting.
+ by Robert Hart Close Robert Hart AI Reporter Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Robert Hart 
+ Sep 5, 2026, 11:15 AM UTC Link Share Gift Image: The Verge Robert Hart Close Robert Hart Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Robert Hart 
+ is a London-based reporter at The Verge covering all things AI and a Senior Tarbell Fellow. Previously, he wrote about health, science and tech for Forbes . OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site .
+ Regarding the “‘wiki incident,’ where our agents wrote to several internet sites,” OpenAI wrote in a post on X on Saturday morning, “it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.”
+ OpenAI said it has typically treated cases of AI agents acting in unintended ways as a “research question,” but that recent incidents involving real-world targets, particularly the hack on Hugging Face , show the need to take stock.
+ Related Rogue OpenAI agents appear to have organized another attack using a German wiki The rise of AI ‘civilizations’ and the fall of corporate responsibility Rogue AI aren’t science fiction anymore The post marks the first time OpenAI has acknowledged its involvement in what it terms the “wiki incident” since it was first reported on Friday. The full extent and scope of that is not yet known, but reports indicate a swarm of seemingly internal OpenAI agents took over a German-language wiki, impersonating moderators and turning it into a message board to share information about how to cheat on tasks and evade detection.
+ Reports that the company knew that it lost control of their agents in this way but did not report this “incident” sparked widespread concern among the AI community about the safety of frontier systems and the reliability of the companies developing them. In the X post, OpenAI said it had “considered the wiki incident to be an instance of misalignment similar to the ones we’d shared” in previous safety reports.
+ The company said it is working on a new reporting framework and will “share it in upcoming weeks,” calling on the larger AI community to develop clear standards on how to report misalignment.
+ Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Robert Hart Close Robert Hart AI Reporter Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Robert Hart 
+ AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ OpenAI Close OpenAI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All OpenAI 
+ Tech Close Tech Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Tech 
+ Most Popular Most Popular What to expect at Apple’s September 9th launch event You can watch the coolant flow inside Ugreen’s liquid-cooled power bank Why AI food looks like that Is this the future of America? The best tech and gadgets announced at IFA so far The Verge Daily A free daily digest of the news that matters most. 
+ Email (required) Sign Up By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Advertiser Content From This is the title for the native ad
+ More in AI Roland is getting into generative AI music with Melody Flip Microsoft says virtually nobody was grabbing NYT articles through its chatbot Rogue OpenAI agents appear to have organized another attack using a German wiki Instagram’s AI detection is a mess (again) Why AI food looks like that Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers Roland is getting into generative AI music with Melody Flip Terrence O'Brien Sep 4 Microsoft says virtually nobody was grabbing NYT articles through its chatbot Lauren Feiner Sep 4 Rogue OpenAI agents appear to have organized another attack using a German wiki Robert Hart Sep 4 Instagram’s AI detection is a mess (again) Jess Weatherbed Sep 4 Why AI food looks like that Robert Hart Sep 4 Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers Tom Warren Sep 4 Advertiser Content From This is the title for the native ad
+ Top Stories 11:00 AM UTC Robotaxis enter their villain era  2:00 PM UTC Content creators drop the ball Sep 4 What to expect at Apple’s September 9th launch event 3:00 PM UTC Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy Sep 4 IFA 2026: the biggest tech and gadget announcements The Verge The Verge logo. Facebook Threads Instagram Youtube RSS Contact Tip Us Community Guidelines Archives About Ethics Statement How We Rate and Review Products Cookie Settings Terms of Use Privacy Policy Your California Privacy Rights Your Privacy Choices Cookie Notice AdChoices Licensing FAQ Accessibility Platform Status Penske Media Corporation The Verge is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation.
+ © 2026 VM Publishing, LLC. All rights reserved.
+ Our Sites The American Pavilion ARTnews Art in America Artforum Art Week NYC Beauty Inc Billboard Deadline Dick Clark Productions The Dodo Eater Flow Space FN Gold Derby Golden Globes The Hollywood Reporter IndieWire Life is Beautiful Popsugar Punch SJ Denim Robb Report Rolling Stone SB Nation SHE Media She Knows Sourcing Journal Soaps Sportico StyleCaster SXSW Thrillist Variety The Verge Vibe WWD Notifications Drawer The Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.
+ Sign in
