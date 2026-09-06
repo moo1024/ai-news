@@ -1,0 +1,200 @@
+{
+  "날짜": "2026-09-07",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "research-acceleration-view-inside-openai-19672c48",
+      "출처": "OpenAI News",
+      "제목": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "정규url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "발행": "2026-09-06T08:00:00+00:00",
+      "요약": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "반응": 88,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/research-acceleration-view-inside-openai-19672c48.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 6.263
+    },
+    {
+      "id": "shuohao-skills-2d888697",
+      "출처": "GitHub 신규 (에이전트 스킬)",
+      "제목": "eternityspring/shuohao-skills — AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama pro",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "정규url": "https://github.com/eternityspring/shuohao-skills",
+      "발행": "2026-09-06T22:24:35.842827+00:00",
+      "요약": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.\n\n별 3,075개 · 언어 JavaScript · 생성 2026-08-06",
+      "반응": 3075,
+      "원저자": "eternityspring",
+      "본문파일": "2026-09-07/원문/shuohao-skills-2d888697.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "codex",
+        "agent skill",
+        "skills"
+      ],
+      "점수": 5.564
+    },
+    {
+      "id": "v2-1-263-173dd150",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.263",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.263",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.263",
+      "발행": "2026-09-06T02:54:20+00:00",
+      "요약": "What's changed \n \n Bug fixes and reliability improvements",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/v2-1-263-173dd150.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.945
+    },
+    {
+      "id": "okf-agent-memory-f31be0c6",
+      "출처": "Hacker News",
+      "제목": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "정규url": "https://github.com/okf-memory/okf-agent-memory",
+      "발행": "2026-09-05T22:15:52+00:00",
+      "요약": "",
+      "반응": 75,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/okf-agent-memory-f31be0c6.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 4.341
+    },
+    {
+      "id": "2609-03344-b6a75cdb",
+      "출처": "Hacker News",
+      "제목": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "정규url": "https://arxiv.org/abs/2609.03344",
+      "발행": "2026-09-05T20:02:35+00:00",
+      "요약": "",
+      "반응": 371,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/2609-03344-b6a75cdb.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.73
+    },
+    {
+      "id": "gpt-6-astra-ae0c2e33",
+      "출처": "Hacker News",
+      "제목": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "정규url": "https://openai.robocurve.org/gpt-6-astra",
+      "발행": "2026-09-06T01:52:45+00:00",
+      "요약": "",
+      "반응": 229,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/gpt-6-astra-ae0c2e33.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.705
+    },
+    {
+      "id": "blender-coding-agents-macos-22aacec0",
+      "출처": "Simon Willison",
+      "제목": "Using Blender with coding agents on macOS",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "정규url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+      "발행": "2026-09-05T15:51:09+00:00",
+      "요약": "TIL: Using Blender with coding agents on macOS \n\n I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this:\n\n \n Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle \n\n \n In this case I followed that up with these two prompts:\n\n \n OK add a background and a lot of flair \n\n \n Then:\n\n \n OK make it a whole lot better \n\n \n And got this image, generated using Blender's Python API :\n\n \n\n This was covered by my existing Codex subscription, but according to AgentsView it would have cost $4.24 at API prices for gpt-6-astra .\n\n \n \n Tags: ai , generative-ai , llms , blender , pelican-riding-a-bicycle , coding-agents , gpt-6-astra",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/blender-coding-agents-macos-22aacec0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "coding agent"
+      ],
+      "점수": 3.072
+    },
+    {
+      "id": "3muuhy3m6jc2o-7deb8bd9",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "This is both an interesting experiment and a sign of a tsunami coming for academia. AIs retroactively reading the resear",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3muuhy3m6jc2o",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3muuhy3m6jc2o",
+      "발행": "2026-09-06T17:03:46.881000+00:00",
+      "요약": "This is both an interesting experiment and a sign of a tsunami coming for academia. AIs retroactively reading the research and finding both opportunities and issues with published papers, then sharing those judgements publicly. d3jhl7jsny6f2h.cloudfront.net",
+      "반응": 69,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-07/원문/3muuhy3m6jc2o-7deb8bd9.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.886
+    },
+    {
+      "id": "the-purpose-of-dns-is-to-spread-scams-07a08096",
+      "출처": "Simon Willison",
+      "제목": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "정규url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams",
+      "발행": "2026-09-06T14:40:07+00:00",
+      "요약": "The purpose of DNS is to spread scams \n\nTerence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\".\n\n On this Interisle report ( via Andrew Campling ), Terence says:\n\n \n It says 85 million new registrations of gTLDs were made in 2025. Of those 8.5 million were added to blocklists by May 2025. It reckons that a 10% abuse rate is the likely floor for these numbers and it's probably closer to 20%. One in five newly registered domains with a gTLD are scams. That's a bloody crisis.\n\n \n I had no idea. Apparently ICANN have been discussing this problem for years.\n\n\n Tags: dns , scams , terence-eden",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/the-purpose-of-dns-is-to-spread-scams-07a08096.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.839
+    },
+    {
+      "id": "3musqxshmjk2h-501a42a2",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Sparks of AGI was a remarkably prescient paper that got a lot of pushback at the time, but absolutely sensed where the v",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxshmjk2h",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxshmjk2h",
+      "발행": "2026-09-06T00:39:21.494000+00:00",
+      "요약": "Sparks of AGI was a remarkably prescient paper that got a lot of pushback at the time, but absolutely sensed where the vibes were heading with LLMs based on a lot of qualitative experiments. It deserves credit in retrospect.\n\nwww.microsoft.com/en-us/resear...",
+      "반응": 95,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-07/원문/3musqxshmjk2h-501a42a2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.767
+    },
+    {
+      "id": "theres-no-limit-to-how-bad-code-can-get-fe2b1af4",
+      "출처": "Simon Willison",
+      "제목": "There's No Limit to How Bad Code Can Get",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "정규url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get",
+      "발행": "2026-09-06T09:08:06+00:00",
+      "요약": "My comment on There's No Limit to How Bad Code Can Get — Lobste.rs.\n [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] \n\n In my experience it's  so rare  for that to work.\n\n You announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite it from scratch. Work begins.\n\n Meanwhile the old thing remains a moving target: it's running the core business, so changes are still necessary. The developers working on it know that it's going to be made obsolete by the new thing soon, so they don't have any incentive to go beyond the smallest effort possible to add the new features. Technical debt continues to mount.\n\n Meanwhile, the team working on the new thing are ambitious and probably a little naive. They start out at a great pace - it's greenfield after all - but as time progresses it becomes apparent that nobody fully understands the behavior and scope of the thing they are replacing. If it was well documented and tested it wouldn't  need  to be replaced, after all...\n\n After months (or even years) without delivering value, the pressure is on to \"ship it\", so the new system is launched to handle a ",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/theres-no-limit-to-how-bad-code-can-get-fe2b1af4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.723
+    },
+    {
+      "id": "3musqxtuab22h-c3fa5608",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "The Sparks paper made a big deal of the ability of GPT-4 to draw a unicorn in TiKZ, a language for scientific results in",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxtuab22h",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxtuab22h",
+      "발행": "2026-09-06T00:39:21.495000+00:00",
+      "요약": "The Sparks paper made a big deal of the ability of GPT-4 to draw a unicorn in TiKZ, a language for scientific results in LaTeX, not drawing images & thus not a part of its training. They reasoned the GPT-4 unicorn drawing showed creativity & problem solving, the \"sparks of AGI\" in the paper.",
+      "반응": 39,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-07/원문/3musqxtuab22h-c3fa5608.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.529
+    }
+  ]
+}

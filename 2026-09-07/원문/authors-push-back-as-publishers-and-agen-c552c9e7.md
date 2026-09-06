@@ -1,0 +1,1161 @@
+# Authors push back as publishers and agents make claims on Anthropic settlement
+
+- 출처: TechCrunch AI
+- 원본 링크: https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
+- 발행: 2026-09-06T20:47:37+00:00
+- 접근상태: 확인 완료
+
+---
+
+Authors push back as publishers and agents make claims on Anthropic settlement | TechCrunch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+	
+
+ 
+ 
+ 
+ 
+
+ 
+	
+
+ Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now 
+
+
+ 
+
+
+
+ 
+	
+
+ Back by popular demand: Save up to $300 on Disrupt 
+
+
+ 
+
+ 
+ 
+ Close 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ TechCrunch Desktop Logo 
+ 
+ 
+ 
+ 
+ 
+ TechCrunch Mobile Logo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest Startups Venture Apple Security AI Apps Disrupt 2026 
+
+ 
+
+
+
+
+ Events Podcasts Newsletters 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Submit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site Search Toggle 
+ 
+ 
+
+
+ 
+ 
+ Mega Menu Toggle 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Topics 
+
+
+
+ 
+ 
+ 
+ Latest 
+
+
+
+
+ 
+ 
+ AI 
+
+
+
+
+ 
+ 
+ Amazon 
+
+
+
+
+ 
+ 
+ Apps 
+
+
+
+
+ 
+ 
+ Biotech & Health 
+
+
+
+
+ 
+ 
+ Climate 
+
+
+
+
+ 
+ 
+ Cloud Computing 
+
+
+
+
+ 
+ 
+ Commerce 
+
+
+
+
+ 
+ 
+ Crypto 
+
+
+
+
+ 
+ 
+ Enterprise 
+
+
+
+
+ 
+ 
+ EVs 
+
+
+
+
+ 
+ 
+ Fintech 
+
+
+
+
+ 
+ 
+ Fundraising 
+
+
+
+
+ 
+ 
+ Gadgets 
+
+
+
+
+ 
+ 
+ Gaming 
+
+
+
+
+ 
+ 
+ Google 
+
+
+
+
+ 
+ 
+ Government & Policy 
+
+
+ 
+
+
+
+ 
+ 
+ Hardware 
+
+
+
+
+ 
+ 
+ Instagram 
+
+
+
+
+ 
+ 
+ Layoffs 
+
+
+
+
+ 
+ 
+ Media & Entertainment 
+
+
+
+
+ 
+ 
+ Meta 
+
+
+
+
+ 
+ 
+ Microsoft 
+
+
+
+
+ 
+ 
+ Privacy 
+
+
+
+
+ 
+ 
+ Robotics 
+
+
+
+
+ 
+ 
+ Security 
+
+
+
+
+ 
+ 
+ Social 
+
+
+
+
+ 
+ 
+ Space 
+
+
+
+
+ 
+ 
+ Startups 
+
+
+
+
+ 
+ 
+ TikTok 
+
+
+
+
+ 
+ 
+ Transportation 
+
+
+
+
+ 
+ 
+ Venture 
+
+
+ 
+ 
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+ More from TechCrunch
+ 
+
+
+
+ 
+ 
+ Staff 
+
+
+
+
+ 
+ 
+ Events 
+
+
+
+
+ 
+ 
+ Startup Battlefield 
+
+
+
+
+ 
+ 
+ StrictlyVC 
+
+
+
+
+ 
+ 
+ Newsletters 
+
+
+
+
+ 
+ 
+ Podcasts 
+
+
+
+
+ 
+ 
+ Videos 
+
+
+
+
+ 
+ 
+ Partner Content 
+
+
+
+
+ 
+ 
+ TechCrunch Brand Studio 
+
+
+
+
+ 
+ 
+ Contact Us 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+	
+ 
+ 
+ 
+ 
+
+
+	
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+ Image Credits: Benjamin White (opens in a new window) / Flickr (opens in a new window) under a CC BY-SA 2.0 (opens in a new window) license. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Authors push back as publishers and agents make claims on Anthropic settlement 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 1:47 PM PDT · September 6, 2026 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+	
+ 
+ 
+ 
+ 
+ Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments.
+
+
+ Anthropic settled a copyright class action suit last year, after a judge ruled that training AI models on copyrighted material is legal under fair use doctrine, but pirating that material was not. The deal received final approval in July, allowing the payments to move forward.
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ Under the terms of the settlement, the authors of nearly 500,000 titles will be paid $3,000 for each pirated work. If the book is still in-print with a traditional publisher, the money will be split 50-50 between author and publisher. If the book was self-published, or if the publisher reverted the rights by allowing the book to go out-of-print, then the author should get the entire payment.
+
+
+ But writers have been posting on social media that publishers seem to be claiming more than their fair share of some payments. For example, mystery and thriller author April Henry asked , “WTF is HarperCollins playing at? They claimed one of my books on the Anthropic Settlement that reverted back at least 17 years ago AND on the same day I got a credit alert saying they had been added as my employer! (which they never were).”
+
+
+ At the popular blog Writers Beware , Victoria Strauss wrote that she’s been receiving author complaints that fall into two broad categories: one where publishers are seeking payment for works that they no longer have a legitimate claim on (because the rights have reverted), and another where publishers are seeking a full 100% payment when they’re only entitled to 50%.
+
+
+ In both cases, Strauss said she’s “reluctant to attribute to malice what can be plausibly explained by poor recordkeeping” — and she noted that some publishers have already said this is a mistake that they’ve asked Anthropic to fix.
+
+
+ Similarly, Authors Guild CEO Mary Rasenberger told The New York Times that she doesn’t see this as “a grab by the publishers” and that she doesn’t believe publishers are “specifically trying to screw any author over.” Instead, she argued that this is the predictable result of bad record-keeping and a confusing settlement process.
+
+ 
+ 
+ 
+ 
+ 
+
+ Strauss also acknowledged that any complaints she’s seen are just “a peek through a small crack in a massive wall.”
+
+
+ “But the unusually large number of reports I’ve received over the last two days, as well as the fact that authors are reporting the exact same errors over and over, suggest to me that these aren’t the kind of routine glitches you might expect from such a large operation, but something much more wide[s]pread and systemic,” she wrote.
+
+
+ And publishers aren’t the only ones seeking a cut of the payments. Strauss said she’s gotten complaints that a number of literary agencies are also making claims, which she said is surprising since “agents are not rightsholders in the books that they sell.”
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ Author Courtney Milan (the pen name of former law clerk and law professor Heidi Bond) was more blunt in a post on Bluesky , writing, “Apparently some agents are trying to claim percentages on the Anthropic settlement, and I do not REMOTELY think they should do this, what the fuck, stop that shit!”
+
+
+ Milan and the Authors Guild also shared more details about how authors can dispute their payment allocations. (One tricky issue: When the rights to a specific book reverted. In order for an author to make a 100% claim on a book, the rights reversion needs to have happened before August 10, 2022, which is the “download date” in the settlement.)
+
+ 
+
+ 
+
+ 
+ Topics
+
+ 
+ AI , Media & Entertainment 
+ 
+
+
+ 
+ When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+	
+	
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Anthony Ha 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+	
+
+	
+ 
+ 
+ Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.
+
+
+ You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com .
+ 
+ 
+
+
+	
+ 
+ View Bio 
+ 
+	
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ October 13 – 15 
+ San Francisco 
+ 
+ 
+ Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?
+
+ 
+
+ 
+ REGISTER NOW 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ Most Popular 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Phil Schiller’s App Store exit reportedly driven by wariness over future plans 
+
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Authors push back as publishers and agents make claims on Anthropic settlement 
+
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Travis Kalanick’s Atoms might be getting into the robotaxi business 
+
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TechCrunch Mobility: Tesla Cybercab hits the road — and a snag 
+
+ 
+ 
+ 
+ Kirsten Korosec 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Let’s take a look at the retro tech making a comeback 
+
+ 
+ 
+ 
+ Lauren Forristal 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft 
+
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hikers rescued after using Google Gemini for planning 
+
+ 
+ 
+ 
+ Anthony Ha 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+
+
+ 
+ 
+ Loading the next article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Error loading the next article 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+ X 
+
+ LinkedIn 
+
+ Facebook 
+
+ Instagram 
+
+ youTube 
+
+ Mastodon 
+
+ Threads 
+
+ Bluesky 
+ 
+
+
+
+ 
+ 
+ TechCrunch Staff Contact Us Advertise Site Map 
+
+
+
+ Terms of Service Privacy Policy RSS Terms of Use Code of Conduct 
+
+
+
+ OpenAI Hugging Face Flock Startup Battlefield Disrupt 2026 Tech Layoffs ChatGPT 
+ 
+ 
+ 
+
+
+
+ © 2026 TechCrunch Media LLC.

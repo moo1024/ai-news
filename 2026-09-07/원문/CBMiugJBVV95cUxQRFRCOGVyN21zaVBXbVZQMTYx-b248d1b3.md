@@ -1,0 +1,10 @@
+# Science - Anthropic
+
+- 출처: Anthropic (구글뉴스)
+- 원본 링크: https://news.google.com/rss/articles/CBMiugJBVV95cUxQRFRCOGVyN21zaVBXbVZQMTYxc1hvdldiUlRFT0tyeHdROVZHdkxNc01mMTd5WnE0dWVzenFtcnBHY21wY2NOR0ZJYlhJbFhFV2N2cjNqSERIM29Vdi1TYVRZWllkWV9rMi1DQnloWWE2d2M5YWlSWC02VXg3emtEdjRzWVdna0NWUEdMV3RUTGN3UmpqcW8zcTFUNk90VjloNE9TNkFHdTV6U3VNaEc1QWZKNzdtS0w0S041VFdwM1FGN3Y2VnlvNVFLODlMbW9uZlI4ME4tZ3ZubkJ2eXNlZ1NUWXZBUEtlcW1QdE1sWjRvTWt6QkJnWWRISzJmQkd0MUhQMmlmQldlUjVoUHpDaW1hRFFTbnQwc0M4UkxFZ2hNR2RkSU9pNTRobmpfaGIyVVBkV0dTeXlsQQ?oc=5
+- 발행: 2026-09-06T17:32:30+00:00
+- 접근상태: 일부 확인 (본문이 짧게만 잡힘)
+
+---
+
+Google 뉴스
