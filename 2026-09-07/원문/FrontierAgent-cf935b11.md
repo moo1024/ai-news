@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (AI 에이전트)
 - 원본 링크: https://github.com/ApodexAI/FrontierAgent
-- 발행: 2026-09-06T22:24:35.842827+00:00
+- 발행: 2026-09-07T03:55:57.418019+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - ApodexAI/FrontierAgent: 🧩 FrontierAgent, our agent framework, open-s
  
  
  Fork
- 145 
+ 147 
  
  
 

@@ -835,7 +835,7 @@ Travis Kalanick’s Atoms might be getting into the robotaxi business | TechCrun
  Anthony Ha 
  
  
-	1 hour ago 
+	7 hours ago 
  
  
  
@@ -874,7 +874,7 @@ Travis Kalanick’s Atoms might be getting into the robotaxi business | TechCrun
  Kirsten Korosec 
  
  
-	6 hours ago 
+	12 hours ago 
  
  
  
@@ -913,7 +913,7 @@ Travis Kalanick’s Atoms might be getting into the robotaxi business | TechCrun
  Lauren Forristal 
  
  
-	6 hours ago 
+	12 hours ago 
  
  
  
@@ -966,7 +966,7 @@ Travis Kalanick’s Atoms might be getting into the robotaxi business | TechCrun
  Anthony Ha 
  
  
-	5 hours ago 
+	11 hours ago 
  
  
  
@@ -1005,7 +1005,7 @@ Travis Kalanick’s Atoms might be getting into the robotaxi business | TechCrun
  Kirsten Korosec 
  
  
-	6 hours ago 
+	12 hours ago 
  
  
  

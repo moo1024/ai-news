@@ -3,31 +3,14 @@
   "건수": 12,
   "항목": [
     {
-      "id": "research-acceleration-view-inside-openai-19672c48",
-      "출처": "OpenAI News",
-      "제목": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "정규url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "발행": "2026-09-06T08:00:00+00:00",
-      "요약": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "반응": 88,
-      "원저자": "",
-      "본문파일": "2026-09-07/원문/research-acceleration-view-inside-openai-19672c48.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "coding agent"
-      ],
-      "점수": 6.263
-    },
-    {
       "id": "shuohao-skills-2d888697",
       "출처": "GitHub 신규 (에이전트 스킬)",
       "제목": "eternityspring/shuohao-skills — AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama pro",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "정규url": "https://github.com/eternityspring/shuohao-skills",
-      "발행": "2026-09-06T22:24:35.842827+00:00",
-      "요약": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.\n\n별 3,075개 · 언어 JavaScript · 생성 2026-08-06",
-      "반응": 3075,
+      "발행": "2026-09-07T03:55:57.418019+00:00",
+      "요약": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.\n\n별 3,084개 · 언어 JavaScript · 생성 2026-08-06",
+      "반응": 3084,
       "원저자": "eternityspring",
       "본문파일": "2026-09-07/원문/shuohao-skills-2d888697.md",
       "본문상태": "확인 완료",
@@ -37,7 +20,24 @@
         "agent skill",
         "skills"
       ],
-      "점수": 5.564
+      "점수": 5.565
+    },
+    {
+      "id": "chat-on-steroids-20e5d5ca",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "totec448-spec/chat-on-steroids — Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal,",
+      "url": "https://github.com/totec448-spec/chat-on-steroids",
+      "정규url": "https://github.com/totec448-spec/chat-on-steroids",
+      "발행": "2026-09-07T03:55:57.418019+00:00",
+      "요약": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.\n\n별 1,038개 · 언어 TypeScript · 생성 2026-08-22 · 토픽 automation, chatgpt, chrome-extension, electron, linux, local-first, macos, mcp",
+      "반응": 1038,
+      "원저자": "totec448-spec",
+      "본문파일": "2026-09-07/원문/chat-on-steroids-20e5d5ca.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "mcp"
+      ],
+      "점수": 5.181
     },
     {
       "id": "v2-1-263-173dd150",
@@ -54,24 +54,37 @@
       "관심주제": [
         "claude code"
       ],
-      "점수": 4.945
+      "점수": 4.726
     },
     {
-      "id": "okf-agent-memory-f31be0c6",
+      "id": "your-intellectual-fly-is-open-0c4cbb7f",
       "출처": "Hacker News",
-      "제목": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "정규url": "https://github.com/okf-memory/okf-agent-memory",
-      "발행": "2026-09-05T22:15:52+00:00",
+      "제목": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "정규url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+      "발행": "2026-09-06T11:56:43+00:00",
       "요약": "",
-      "반응": 75,
+      "반응": 578,
       "원저자": "",
-      "본문파일": "2026-09-07/원문/okf-agent-memory-f31be0c6.md",
+      "본문파일": "2026-09-07/원문/your-intellectual-fly-is-open-0c4cbb7f.md",
       "본문상태": "확인 완료",
-      "관심주제": [
-        "coding agent"
-      ],
-      "점수": 4.341
+      "관심주제": [],
+      "점수": 4.038
+    },
+    {
+      "id": "1-html-5a28257a",
+      "출처": "Hacker News",
+      "제목": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "정규url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "발행": "2026-09-05T23:39:47+00:00",
+      "요약": "",
+      "반응": 566,
+      "원저자": "",
+      "본문파일": "2026-09-07/원문/1-html-5a28257a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.81
     },
     {
       "id": "2609-03344-b6a75cdb",
@@ -81,27 +94,42 @@
       "정규url": "https://arxiv.org/abs/2609.03344",
       "발행": "2026-09-05T20:02:35+00:00",
       "요약": "",
-      "반응": 371,
+      "반응": 381,
       "원저자": "",
       "본문파일": "2026-09-07/원문/2609-03344-b6a75cdb.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.73
+      "점수": 3.638
     },
     {
-      "id": "gpt-6-astra-ae0c2e33",
-      "출처": "Hacker News",
-      "제목": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "정규url": "https://openai.robocurve.org/gpt-6-astra",
-      "발행": "2026-09-06T01:52:45+00:00",
-      "요약": "",
-      "반응": 229,
+      "id": "an-alien-mind-a8e8f9dc",
+      "출처": "OpenAI News",
+      "제목": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "정규url": "https://openai.com/index/an-alien-mind",
+      "발행": "2026-09-06T09:00:00+00:00",
+      "요약": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "반응": 0,
       "원저자": "",
-      "본문파일": "2026-09-07/원문/gpt-6-astra-ae0c2e33.md",
+      "본문파일": "2026-09-07/원문/an-alien-mind-a8e8f9dc.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.705
+      "점수": 3.474
+    },
+    {
+      "id": "3muvbhicbkk2k-83a8ee5b",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "It is less than a decade since the development of the transformer. \n\nLess than four years since the release of GPT-3.5 (",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3muvbhicbkk2k",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3muvbhicbkk2k",
+      "발행": "2026-09-07T00:39:47.051000+00:00",
+      "요약": "It is less than a decade since the development of the transformer. \n\nLess than four years since the release of GPT-3.5 (ChatGPT).\n\nLess than two years since the release of o1-preview (the first Reasoner).",
+      "반응": 117,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-07/원문/3muvbhicbkk2k-83a8ee5b.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.054
     },
     {
       "id": "blender-coding-agents-macos-22aacec0",
@@ -119,7 +147,7 @@
         "codex",
         "coding agent"
       ],
-      "점수": 3.072
+      "점수": 2.923
     },
     {
       "id": "3muuhy3m6jc2o-7deb8bd9",
@@ -129,12 +157,12 @@
       "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3muuhy3m6jc2o",
       "발행": "2026-09-06T17:03:46.881000+00:00",
       "요약": "This is both an interesting experiment and a sign of a tsunami coming for academia. AIs retroactively reading the research and finding both opportunities and issues with published papers, then sharing those judgements publicly. d3jhl7jsny6f2h.cloudfront.net",
-      "반응": 69,
+      "반응": 88,
       "원저자": "emollick.bsky.social",
       "본문파일": "2026-09-07/원문/3muuhy3m6jc2o-7deb8bd9.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.886
+      "점수": 2.882
     },
     {
       "id": "the-purpose-of-dns-is-to-spread-scams-07a08096",
@@ -149,22 +177,7 @@
       "본문파일": "2026-09-07/원문/the-purpose-of-dns-is-to-spread-scams-07a08096.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.839
-    },
-    {
-      "id": "3musqxshmjk2h-501a42a2",
-      "출처": "Bluesky emollick.bsky.social",
-      "제목": "Sparks of AGI was a remarkably prescient paper that got a lot of pushback at the time, but absolutely sensed where the v",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxshmjk2h",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxshmjk2h",
-      "발행": "2026-09-06T00:39:21.494000+00:00",
-      "요약": "Sparks of AGI was a remarkably prescient paper that got a lot of pushback at the time, but absolutely sensed where the vibes were heading with LLMs based on a lot of qualitative experiments. It deserves credit in retrospect.\n\nwww.microsoft.com/en-us/resear...",
-      "반응": 95,
-      "원저자": "emollick.bsky.social",
-      "본문파일": "2026-09-07/원문/3musqxshmjk2h-501a42a2.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.767
+      "점수": 2.724
     },
     {
       "id": "theres-no-limit-to-how-bad-code-can-get-fe2b1af4",
@@ -179,22 +192,7 @@
       "본문파일": "2026-09-07/원문/theres-no-limit-to-how-bad-code-can-get-fe2b1af4.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.723
-    },
-    {
-      "id": "3musqxtuab22h-c3fa5608",
-      "출처": "Bluesky emollick.bsky.social",
-      "제목": "The Sparks paper made a big deal of the ability of GPT-4 to draw a unicorn in TiKZ, a language for scientific results in",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxtuab22h",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxtuab22h",
-      "발행": "2026-09-06T00:39:21.495000+00:00",
-      "요약": "The Sparks paper made a big deal of the ability of GPT-4 to draw a unicorn in TiKZ, a language for scientific results in LaTeX, not drawing images & thus not a part of its training. They reasoned the GPT-4 unicorn drawing showed creativity & problem solving, the \"sparks of AGI\" in the paper.",
-      "반응": 39,
-      "원저자": "emollick.bsky.social",
-      "본문파일": "2026-09-07/원문/3musqxtuab22h-c3fa5608.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.529
+      "점수": 2.608
     }
   ]
 }

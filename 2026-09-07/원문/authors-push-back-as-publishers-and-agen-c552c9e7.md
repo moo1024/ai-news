@@ -927,7 +927,7 @@ Authors push back as publishers and agents make claims on Anthropic settlement |
  
  
  
- Phil Schiller’s App Store exit reportedly driven by wariness over future plans 
+ Hikers rescued after using Google Gemini for planning 
 
  
  
@@ -945,30 +945,13 @@ Authors push back as publishers and agents make claims on Anthropic settlement |
  
  
  
- Authors push back as publishers and agents make claims on Anthropic settlement 
+ Feds launch investigation into Tesla’s Cybercab deployment 
 
  
  
  
- Anthony Ha 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- Travis Kalanick’s Atoms might be getting into the robotaxi business 
-
- 
- 
- 
- Anthony Ha 
+ Sean O'Kane 
+ Kirsten Korosec 
  
 
  
@@ -981,7 +964,7 @@ Authors push back as publishers and agents make claims on Anthropic settlement |
  
  
  
- TechCrunch Mobility: Tesla Cybercab hits the road — and a snag 
+ Tesla is asking people if they want to buy and run Cybercab fleets 
 
  
  
@@ -999,30 +982,12 @@ Authors push back as publishers and agents make claims on Anthropic settlement |
  
  
  
- Let’s take a look at the retro tech making a comeback 
+ Norway considers ban on camera-enabled wearable ‘pervert glasses’ 
 
  
  
  
- Lauren Forristal 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft 
-
- 
- 
- 
- Anthony Ha 
+ Zack Whittaker 
  
 
  
@@ -1035,12 +1000,48 @@ Authors push back as publishers and agents make claims on Anthropic settlement |
  
  
  
- Hikers rescued after using Google Gemini for planning 
+ Uber is laying off 10% of staff, or 3,300 people 
 
  
  
  
- Anthony Ha 
+ Ram Iyer 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B 
+
+ 
+ 
+ 
+ Julie Bort 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario 
+
+ 
+ 
+ 
+ Sarah Perez 
  
 
  

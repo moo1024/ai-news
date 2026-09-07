@@ -1,4 +1,4 @@
-# Claude Code found 5 bugs in my project that I never would have caught - makeuseof.com
+# Claude Code found 5 bugs in my project that I never would have caught - MakeUseOf
 
 - 출처: 코딩에이전트 (구글뉴스)
 - 원본 링크: https://news.google.com/rss/articles/CBMickFVX3lxTFBXemlqa0ZzcDlBczVNSFBiR1BqbTJ3T0hfal9TZmpCUXNnbThPTUp0QWNsZDdJbGxmV21Jc2hwS2Nyd091ZjFkZ3ozcnhjX3ROaHFVdmRZZ05WRV9NMjRvTVFZQ1lNZWtYR0d6bE10SmNYUQ?oc=5

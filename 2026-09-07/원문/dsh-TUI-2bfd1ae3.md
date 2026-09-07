@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/ccch1mneyyy/dsh-TUI
-- 발행: 2026-09-06T22:24:35.842827+00:00
+- 발행: 2026-09-07T03:55:57.418019+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -336,7 +336,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Issues 
- 73 
+ 76 
 
 
  
@@ -348,7 +348,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Pull requests 
- 30 
+ 35 
 
 
  
