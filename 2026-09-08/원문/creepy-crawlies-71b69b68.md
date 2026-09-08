@@ -1,13 +1,13 @@
-# Video compressor
+# Creepy crawlies
 
 - 출처: Simon Willison
-- 원본 링크: https://simonwillison.net/2026/Sep/7/video-compressor/
-- 발행: 2026-09-07T18:29:07+00:00
+- 원본 링크: https://simonwillison.net/2026/Sep/7/creepy-crawlies/
+- 발행: 2026-09-07T23:08:58+00:00
 - 접근상태: 확인 완료
 
 ---
 
-Tool: Video compressor 
+Creepy crawlies 
  
  
  
@@ -17,8 +17,6 @@ Tool: Video compressor
  
 
 
- 
- 
  
  
  
@@ -55,35 +53,24 @@ Tool: Video compressor
  
 
 
- 7th September 2026
-
- 
-
+ 7th September 2026 - Link Blog
 
 
  
- 
- 
- Tool 
- 
- Video compressor 
- 
- 
- I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG.
+ Creepy crawlies ( via ) Konstantin Ryabitsev discusses how bad the "background radiation" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel:
 
  
- 
- 
+ TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other kinds of legitimate access, including git clones. At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html.
 
  
+ I worry about this a lot from the perspective of Datasette, which serves a huge number of crawlable web pages.
 
- Posted 7th September 2026 at 6:29 pm 
+ 
+ Posted 7th September 2026 at 11:08 pm 
  
 
 
  
-
-
 
 
  
@@ -101,50 +88,41 @@ Tool: Video compressor
 
 
 
-
-
  
 
  
 
-
  
- This is a beat by Simon Willison, posted on 7th September 2026 .
+ This is a link post by Simon Willison, posted on 7th September 2026 .
 
 
 
  
  
- ffmpeg
- 7 
+ crawling
+ 14 
  
  
  
- video
- 34 
+ git
+ 54 
  
  
  
- webassembly
- 130 
+ linux
+ 53 
  
  
  
- claude
- 309 
+ datasette
+ 1,537 
  
  
  
- claude-code
- 126 
+ ai-ethics
+ 338 
  
  
- 
- claude-mythos-fable
- 40 
- 
- 
-
 
 
 
@@ -165,10 +143,8 @@ Tool: Video compressor
  Sponsor & subscribe
  
  
-
-
  
-
+ 
 
  
  

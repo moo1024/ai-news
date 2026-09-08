@@ -1,8 +1,8 @@
 # Leonxlnx/unlazy — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
-- 출처: GitHub 신규 (claude-code)
+- 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/Leonxlnx/unlazy
-- 발행: 2026-09-07T22:24:38.821148+00:00
+- 발행: 2026-09-08T03:54:37.901583+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - Leonxlnx/unlazy: Anti-laziness skill for AI agents. Core: the Depth Tre
  
  
  Fork
- 207 
+ 210 
  
  
 

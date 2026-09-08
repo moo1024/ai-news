@@ -1,8 +1,8 @@
 # lennney/stop-that-shit — Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent
 
-- 출처: GitHub 신규 (에이전트 스킬)
+- 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/lennney/stop-that-shit
-- 발행: 2026-09-07T22:24:38.821148+00:00
+- 발행: 2026-09-08T03:54:37.901583+00:00
 - 접근상태: 확인 완료
 
 ---

@@ -181,7 +181,7 @@ Import AI 472: DeepMind's cheating math agents; populist AI policies; and Foreth
  
 
  
- Subscribe Sign in 번역 Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman Plus, a machine hermeneutics story Jack Clark Sep 07, 2026 63 10 1 Share Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.
+ Subscribe Sign in Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman Plus, a machine hermeneutics story Jack Clark Sep 07, 2026 68 13 1 Share Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.
  Subscribe Researchers discover another OpenAI agent emergent communication incident: 
  …Less severe, but worrying nonetheless… 
  Some researchers recently found another incident of AI agents autonomously creating their own communication system - this time via hijacking a German messageboard. 
@@ -258,4 +258,4 @@ Import AI 472: DeepMind's cheating math agents; populist AI policies; and Foreth
  What the nightwatchman does: Maintains “a decisive strategic advantage in the colony established by the probe” such as by monitoring the industrial build-up and the creation of new ASIs. The nightwatchman would only allow probes to leave the star system if they also carried a copy of the nightwatchman, and it’d watch over people within the colony to ensure they didn’t carry out prohibited activities (e.g, trying to develop malicious or unaligned ASIs). The nightwatchman could also backstop trade with other star systems by agreeing to ensure agreements are enforced. 
 
  Bad parts of the idea: 
- “Lock-in event”: The nightwatchman is equivalent to an eternal government; if your ruleset is too expansive it is oppressive an
+ “Lock-in event”: The nightwatchman is equivalent to an eternal government; if your ruleset is too expansive it is oppressive and i

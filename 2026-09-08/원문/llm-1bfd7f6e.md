@@ -1,13 +1,13 @@
-# Video compressor
+# llm 0.35
 
 - 출처: Simon Willison
-- 원본 링크: https://simonwillison.net/2026/Sep/7/video-compressor/
-- 발행: 2026-09-07T18:29:07+00:00
+- 원본 링크: https://simonwillison.net/2026/Sep/7/llm/
+- 발행: 2026-09-07T23:54:54+00:00
 - 접근상태: 확인 완료
 
 ---
 
-Tool: Video compressor 
+Release: llm 0.35 
  
  
  
@@ -17,8 +17,6 @@ Tool: Video compressor
  
 
 
- 
- 
  
  
  
@@ -64,20 +62,21 @@ Tool: Video compressor
  
  
  
- Tool 
+ Release 
  
- Video compressor 
+ llm 0.35 
+ — Access large language models from the command-line 
  
  
- I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG.
+ 
+ New OpenAI model: gpt-6-astra for GPT-6 Astra . 
+ 
+ 
+ 
 
  
- 
- 
 
- 
-
- Posted 7th September 2026 at 6:29 pm 
+ Posted 7th September 2026 at 11:54 pm 
  
 
 
@@ -115,33 +114,18 @@ Tool: Video compressor
 
  
  
- ffmpeg
+ openai
+ 459 
+ 
+ 
+ 
+ llm
+ 631 
+ 
+ 
+ 
+ gpt-6-astra
  7 
- 
- 
- 
- video
- 34 
- 
- 
- 
- webassembly
- 130 
- 
- 
- 
- claude
- 309 
- 
- 
- 
- claude-code
- 126 
- 
- 
- 
- claude-mythos-fable
- 40 
  
  
 
