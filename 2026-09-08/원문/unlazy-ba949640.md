@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/Leonxlnx/unlazy
-- 발행: 2026-09-08T10:54:37.779781+00:00
+- 발행: 2026-09-08T22:24:41.611498+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - Leonxlnx/unlazy: Anti-laziness skill for AI agents. Core: the Depth Tre
  
  
  Fork
- 210 
+ 211 
  
  
 

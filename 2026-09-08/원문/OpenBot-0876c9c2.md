@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-09-08T10:54:37.779781+00:00
+- 발행: 2026-09-08T22:24:41.611498+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 549 
+ 553 
  
  
 
@@ -358,7 +358,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Issues 
- 20 
+ 18 
 
 
  
@@ -370,7 +370,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Pull requests 
- 24 
+ 12 
 
 
  
@@ -613,7 +613,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 250 Commits 250 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-bot agent-bot     agent-computer agent-computer     agent-langgraph agent-langgraph     app app     assets assets     charts/ openbot charts/ openbot     desktop desktop     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     prompt.txt prompt.txt     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 270 Commits 270 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-bot agent-bot     agent-computer agent-computer     agent-langgraph agent-langgraph     app app     assets assets     charts/ openbot charts/ openbot     desktop desktop     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     prompt.txt prompt.txt     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
  OpenBot 
  AI coworkers you can hand real work to, and actually trust with the access. Each gets a computer of its own: a real browser with its own logins, its own files, and only the tools you grant. Every action decided before it happens and recorded after.
 
@@ -732,6 +732,8 @@ bash scripts/start.sh
  
  scripts/start.sh starts Docker services, applies migrations, starts the API server on port 3001, starts the app on port 3010, and checks that the services answer their own health routes before printing next steps.
 
+ scripts/stop.sh takes the same things down, including each Bot's computer, which compose does not own. Nothing is deleted: the database, the Bots' files and their browser profiles are volumes.
+
  Deploy it 
  One image carries the app, the API, the browser the Bots drive, and optionally PostgreSQL. Same
  .env , no Kubernetes.
@@ -823,5 +825,4 @@ docker run -p 3001:3001 --env-file .env \
  Secrets never enter the transcript : the trail records that a secret was requested and how long it was, not what it said. 
  Bring your own agent : any AG-UI endpoint is a Bot, on a framework or hand-written. Endpoints are validated with the same target checks used for browser navigation, and an auth header is stored write-only. 
  Components instead of prose : compiled React components live in app/src/components/gallery/ , sandboxed ones are authored in /admin/playground and published with no deployment. Every call asks the server whether the component exists, is published, and is not withheld from that Bot. Data functions are granted per component. 
- Governed MCP : Google Drive and Notion ship in the catalogue, reached as the person asking. The catalogue carries only vendors this deployment stands behind, so adding one is a review of that vendor. Custom servers must pass URL checks; unknown tools and custom-server tools are treated as writes, and a catalogue tool the server advertises but does not name as a write classifies as a read. A Bot is told which connectors exist here and which it holds, so it says it has not been granted one rather than browsing to the vendor's website. 
- Skills are instructions, not capabilities : personal skills attach only to Bots their author owns, deployment skills are admin-o
+ Governed MCP : Google Drive and Notion ship in the catalogue, reached as the person asking. The catalogue carries only vendors this deployment stands behind, so adding one is a review of that vendor. Custom servers must pass URL checks; unknown tools and custom-server tools are treated as writes, and a catalogue tool the server advertises but does not name as a write classifies as a read. A Bot is told which connectors exist here and which it holds, so it says it has no

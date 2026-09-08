@@ -3,39 +3,91 @@
   "건수": 12,
   "항목": [
     {
+      "id": "2097431322117476423-a5e79783",
+      "출처": "X @OpenAI",
+      "제목": "Astra is fully rolled out to Plus, Pro, Business, and Enterprise users in Codex and ChatGPT Work.\n\nGo build!\n\nAnd if you",
+      "url": "https://x.com/OpenAI/status/2097431322117476423",
+      "정규url": "https://x.com/OpenAI/status/2097431322117476423",
+      "발행": "2026-09-08T21:06:10+00:00",
+      "요약": "Astra is fully rolled out to Plus, Pro, Business, and Enterprise users in Codex and ChatGPT Work.\n\nGo build!\n\nAnd if you need inspiration, watch Astra in action, live: https://t.co/VmBLksCNZW",
+      "반응": 3213,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-08/원문/2097431322117476423-a5e79783.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 6.456
+    },
+    {
+      "id": "2097394962782384318-84b3c6ab",
+      "출처": "X @OpenAI",
+      "제목": "ChatGPT Images 2.5 is rolling out today to all ChatGPT, ChatGPT Work, and Codex users across desktop, mobile, and web.",
+      "url": "https://x.com/OpenAI/status/2097394962782384318",
+      "정규url": "https://x.com/OpenAI/status/2097394962782384318",
+      "발행": "2026-09-08T18:41:41+00:00",
+      "요약": "ChatGPT Images 2.5 is rolling out today to all ChatGPT, ChatGPT Work, and Codex users across desktop, mobile, and web.\n\nWe’re also introducing two new models in the API: GPT-Image-2.5 Flare brings the same quality, editing, and speed improvements, while GPT-Image-2.5 Sunburst",
+      "반응": 1037,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-08/원문/2097394962782384318-84b3c6ab.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 5.997
+    },
+    {
+      "id": "v2-1-265-e40558a0",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.265",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
+      "발행": "2026-09-08T20:37:31+00:00",
+      "요약": "What's changed \n \n Added user.email and user.groups to the telemetry Claude Desktop and Cowork send through a Claude apps gateway, matching terminal sessions \n Added support for pointing --plugin-dir at a folder of plugins: each child folder with a manifest loads, and children added or removed while running are picked up \n Added a 1 GB cap on tool results saved to disk; the in-conversation preview says when a saved file was truncated \n Fixed resuming a foreground-spawned subagent changing its tool list and system prompt prefix, which broke prompt-cache reuse for that agent \n Fixed agent teammates and resumed subagents moving SubagentStart hook context and preloaded skills out of the prompt prefix on later turns, which broke prompt-cache reuse \n Fixed resume after the previous process died while a tool was running: the last prompt is no longer rewritten, and the interrupted tool call is kept and marked interrupted \n Fixed /model opusplan[1m] being rejected with \"Model not found\" \n Fixed syntax-highlighted code in permission prompts and messages sometimes omitting a character after a Ruby ? , Erlang $ , or Perl $ sigil \n Fixed the fullscreen transcript jumping by one row whenever the",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-08/원문/v2-1-265-e40558a0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "subagent",
+        "skills"
+      ],
+      "점수": 5.649
+    },
+    {
       "id": "unlazy-ba949640",
       "출처": "GitHub 신규 (에이전트 스킬)",
       "제목": "Leonxlnx/unlazy — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t",
       "url": "https://github.com/Leonxlnx/unlazy",
       "정규url": "https://github.com/Leonxlnx/unlazy",
-      "발행": "2026-09-08T10:54:37.779781+00:00",
-      "요약": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n별 3,167개 · 언어 JavaScript · 생성 2026-08-09 · 토픽 ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill",
-      "반응": 3167,
+      "발행": "2026-09-08T22:24:41.611498+00:00",
+      "요약": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n별 3,179개 · 언어 JavaScript · 생성 2026-08-09 · 토픽 ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill",
+      "반응": 3179,
       "원저자": "Leonxlnx",
       "본문파일": "2026-09-08/원문/unlazy-ba949640.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "claude-code"
       ],
-      "점수": 5.574
+      "점수": 5.576
     },
     {
-      "id": "northcinder-3426536d",
-      "출처": "GitHub 신규 (MCP 서버)",
-      "제목": "cinderline/northcinder — Open-source MCP server for comparing products and asking the buyer before purcha",
-      "url": "https://github.com/cinderline/northcinder",
-      "정규url": "https://github.com/cinderline/northcinder",
-      "발행": "2026-09-08T10:54:37.779781+00:00",
-      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,215개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
-      "반응": 1215,
-      "원저자": "cinderline",
-      "본문파일": "2026-09-08/원문/northcinder-3426536d.md",
+      "id": "i-have-adhd-16169d53",
+      "출처": "Hacker News",
+      "제목": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "정규url": "https://github.com/ayghri/i-have-adhd",
+      "발행": "2026-09-08T14:13:26+00:00",
+      "요약": "",
+      "반응": 253,
+      "원저자": "",
+      "본문파일": "2026-09-08/원문/i-have-adhd-16169d53.md",
       "본문상태": "확인 완료",
       "관심주제": [
-        "mcp",
-        "agentic"
+        "coding agent"
       ],
-      "점수": 5.236
+      "점수": 5.142
     },
     {
       "id": "platforms-html-2245a3ab",
@@ -44,50 +96,60 @@
       "url": "https://rohanadwankar.github.io/posts/platforms.html",
       "정규url": "https://rohanadwankar.github.io/posts/platforms.html",
       "발행": "2026-09-08T04:36:26+00:00",
-      "요약": "Article URL: https://rohanadwankar.github.io/posts/platforms.html \n\n Comments URL: https://news.ycombinator.com/item?id=49605644 \n\n Points: 34\n\n # Comments: 7",
-      "반응": 34,
+      "요약": "Article URL: https://rohanadwankar.github.io/posts/platforms.html \n\n Comments URL: https://news.ycombinator.com/item?id=49605644 \n\n Points: 67\n\n # Comments: 26",
+      "반응": 67,
       "원저자": "",
       "본문파일": "2026-09-08/원문/platforms-html-2245a3ab.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "claude code"
       ],
-      "점수": 5.232
+      "점수": 5.134
     },
     {
-      "id": "reverify-f1e34982",
-      "출처": "GitHub 신규 (AI 에이전트)",
-      "제목": "2akouwu/reverify — Stop your AI from making things up — it proposes, deterministic tools decide, ev",
-      "url": "https://github.com/2akouwu/reverify",
-      "정규url": "https://github.com/2akouwu/reverify",
-      "발행": "2026-09-08T10:54:37.779781+00:00",
-      "요약": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.\n\n별 1,026개 · 언어 Python · 생성 2026-08-31 · 토픽 ai, ai-agents, ai-coding, anti-hallucination, binary-analysis, context-engineering, ctf, developer-tools",
-      "반응": 1026,
-      "원저자": "2akouwu",
-      "본문파일": "2026-09-08/원문/reverify-f1e34982.md",
+      "id": "2097325048109384166-1764b093",
+      "출처": "X @GoogleDeepMind",
+      "제목": "We’re launching AlphaGenome Atlas: an AI-powered searchable database mapping the predicted impact of all 9 billion possi",
+      "url": "https://x.com/GoogleDeepMind/status/2097325048109384166",
+      "정규url": "https://x.com/GoogleDeepMind/status/2097325048109384166",
+      "발행": "2026-09-08T14:03:52+00:00",
+      "요약": "We’re launching AlphaGenome Atlas: an AI-powered searchable database mapping the predicted impact of all 9 billion possible single-letter DNA changes.\n\nHere’s how it could help researchers better understand our biology 🧵 https://t.co/SABFZW5SiR",
+      "반응": 3132,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-09-08/원문/2097325048109384166-1764b093.md",
       "본문상태": "확인 완료",
-      "관심주제": [
-        "mcp"
-      ],
-      "점수": 5.177
+      "관심주제": [],
+      "점수": 4.823
     },
     {
-      "id": "coop-2f902337",
-      "출처": "코딩에이전트 (HN)",
-      "제목": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://github.com/trailofbits/coop",
-      "정규url": "https://github.com/trailofbits/coop",
-      "발행": "2026-09-07T04:18:28+00:00",
-      "요약": "Article URL: https://github.com/trailofbits/coop \n\n Comments URL: https://news.ycombinator.com/item?id=49593842 \n\n Points: 61\n\n # Comments: 16",
-      "반응": 61,
+      "id": "libreoffice-download-record-no-ai-30ea9b11",
+      "출처": "Hacker News",
+      "제목": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "정규url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "발행": "2026-09-08T14:05:57+00:00",
+      "요약": "",
+      "반응": 639,
       "원저자": "",
-      "본문파일": "2026-09-08/원문/coop-2f902337.md",
+      "본문파일": "2026-09-08/원문/libreoffice-download-record-no-ai-30ea9b11.md",
       "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "codex"
-      ],
-      "점수": 4.732
+      "관심주제": [],
+      "점수": 4.204
+    },
+    {
+      "id": "alphagenome-atlas-93b4203e",
+      "출처": "Hacker News",
+      "제목": "Google DeepMind Releases AlphaGenome Atlas",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "정규url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas",
+      "발행": "2026-09-08T14:55:45+00:00",
+      "요약": "",
+      "반응": 443,
+      "원저자": "",
+      "본문파일": "2026-09-08/원문/alphagenome-atlas-93b4203e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.119
     },
     {
       "id": "mistral-makes-sovereign-open-weight-ai-t-55085dd1",
@@ -97,75 +159,27 @@
       "정규url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
       "발행": "2026-09-08T12:00:22+00:00",
       "요약": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-      "반응": 497,
+      "반응": 796,
       "원저자": "",
       "본문파일": "2026-09-08/원문/mistral-makes-sovereign-open-weight-ai-t-55085dd1.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.086
+      "점수": 4.04
     },
     {
-      "id": "i-spent-my-vacations-de-brainrotting-0b5ef84a",
-      "출처": "Hacker News",
-      "제목": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "정규url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting",
-      "발행": "2026-09-07T13:00:48+00:00",
-      "요약": "",
-      "반응": 486,
-      "원저자": "",
-      "본문파일": "2026-09-08/원문/i-spent-my-vacations-de-brainrotting-0b5ef84a.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 3.884
-    },
-    {
-      "id": "google-jail-4af081f7",
-      "출처": "Hacker News",
-      "제목": "There's a new \"Google Jail\" for independent wikis",
-      "url": "https://weirdgloop.org/blog/google-jail",
-      "정규url": "https://weirdgloop.org/blog/google-jail",
-      "발행": "2026-09-08T01:57:23+00:00",
-      "요약": "",
-      "반응": 187,
-      "원저자": "",
-      "본문파일": "2026-09-08/원문/google-jail-4af081f7.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 3.86
-    },
-    {
-      "id": "5294532-1444d346",
-      "출처": "Hacker News",
-      "제목": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "정규url": "https://theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "발행": "2026-09-07T11:46:37+00:00",
-      "요약": "",
-      "반응": 292,
-      "원저자": "",
-      "본문파일": "2026-09-08/원문/5294532-1444d346.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 3.724
-    },
-    {
-      "id": "video-compressor-d4c2f188",
-      "출처": "Simon Willison",
-      "제목": "Video compressor",
-      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-      "정규url": "https://simonwillison.net/2026/Sep/7/video-compressor",
-      "발행": "2026-09-07T18:29:07+00:00",
-      "요약": "Tool: Video compressor \n\n I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG.\n\n \n\n \n \n Tags: ffmpeg , video , webassembly , claude , claude-code , claude-mythos-fable",
+      "id": "alphagenome-atlas-a-predictive-map-of-ev-f7dd334d",
+      "출처": "Google DeepMind",
+      "제목": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "정규url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "발행": "2026-09-08T14:00:15+00:00",
+      "요약": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "반응": 0,
       "원저자": "",
-      "본문파일": "2026-09-08/원문/video-compressor-d4c2f188.md",
+      "본문파일": "2026-09-08/원문/alphagenome-atlas-a-predictive-map-of-ev-f7dd334d.md",
       "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "claude-code"
-      ],
-      "점수": 3.455
+      "관심주제": [],
+      "점수": 3.013
     },
     {
       "id": "3muwzopsoqs26-e07c1445",
@@ -175,27 +189,12 @@
       "정규url": "https://bsky.app/profile/simonwillison.net/post/3muwzopsoqs26",
       "발행": "2026-09-07T17:25:59.347000+00:00",
       "요약": "\"I don't know the answer myself, but I asked a blowhard I know and he took a wild guess, here's what he said: \"\n\nHow I interpret pasted replies from an LLM in online conversations",
-      "반응": 145,
+      "반응": 153,
       "원저자": "simonwillison.net",
       "본문파일": "2026-09-08/원문/3muwzopsoqs26-e07c1445.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.934
-    },
-    {
-      "id": "3muy6d3lnwk2u-5dc5b9d7",
-      "출처": "Bluesky emollick.bsky.social",
-      "제목": "Another informal nerd benchmark that AIs had struggled with has been passed: Astra successfully designed a Magic the Gat",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3muy6d3lnwk2u",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3muy6d3lnwk2u",
-      "발행": "2026-09-08T04:21:37.496000+00:00",
-      "요약": "Another informal nerd benchmark that AIs had struggled with has been passed: Astra successfully designed a Magic the Gathering deck and then used it to defeat a bot on Arena.\n\n(the deck may not be stunning, but it does seem to be original, and it worked)",
-      "반응": 71,
-      "원저자": "emollick.bsky.social",
-      "본문파일": "2026-09-08/원문/3muy6d3lnwk2u-5dc5b9d7.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.879
+      "점수": 2.805
     }
   ]
 }

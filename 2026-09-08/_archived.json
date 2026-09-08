@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-08",
+  "브리핑페이지": "https://app.notion.com/p/3d53f6aa67a481549757e7ff63911371",
+  "정식아카이빙": [
+    {
+      "id": "2097431322117476423-a5e79783",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48160b430f22504f33112",
+      "서고": "https://app.notion.com/p/3d53f6aa67a4815aa980e9ff0aa71ad6",
+      "결과": "생성"
+    },
+    {
+      "id": "2097394962782384318-84b3c6ab",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a4811584d1f3704c9405d0",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481e8b92ddd866cb190ec",
+      "결과": "생성"
+    },
+    {
+      "id": "v2-1-265-e40558a0",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a4810f872cecb305bc248f",
+      "서고": "https://app.notion.com/p/3d53f6aa67a4812dade5e3475e4a27d5",
+      "결과": "생성"
+    },
+    {
+      "id": "unlazy-ba949640",
+      "source_library": "https://app.notion.com/p/3c53f6aa67a481ebb804dd2d660e2f37",
+      "서고": "https://app.notion.com/p/3c53f6aa67a4819796ceeca023d77f13",
+      "결과": "중복 — 건너뜀 (2026-08-23에 동일 수집 ID로 이미 2단계 완료)"
+    },
+    {
+      "id": "i-have-adhd-16169d53",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48150ac54cac03d1794af",
+      "서고": "https://app.notion.com/p/3d53f6aa67a4816db098feb35b81dc94",
+      "결과": "생성"
+    },
+    {
+      "id": "platforms-html-2245a3ab",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481358ee6e39c8f4c6fec",
+      "서고": "https://app.notion.com/p/3d53f6aa67a4810eb086d9e175c5977f",
+      "결과": "생성"
+    },
+    {
+      "id": "2097325048109384166-1764b093",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481189ae6cf94d0e97518",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481e9b4d9db8b25ec8a6a",
+      "결과": "생성"
+    },
+    {
+      "id": "libreoffice-download-record-no-ai-30ea9b11",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481b99f65ecebb102a7a9",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481c5895ed651c6507285",
+      "결과": "생성"
+    },
+    {
+      "id": "alphagenome-atlas-93b4203e",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481f39363ff56b6dff2ae",
+      "서고": "https://app.notion.com/p/3d53f6aa67a48159875efec90a84e340",
+      "결과": "생성"
+    },
+    {
+      "id": "mistral-makes-sovereign-open-weight-ai-t-55085dd1",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481e2ad59da59943ebbd7",
+      "서고": "https://app.notion.com/p/3d53f6aa67a48138af91f38f4ef1f62f",
+      "결과": "생성"
+    },
+    {
+      "id": "alphagenome-atlas-a-predictive-map-of-ev-f7dd334d",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481aca9d7ca013ddb24dc",
+      "서고": "https://app.notion.com/p/3d53f6aa67a48143a19bd55de9e15982",
+      "결과": "생성"
+    },
+    {
+      "id": "3muwzopsoqs26-e07c1445",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48140bf33c88eed8de7cb",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481508846efa90b3b686c",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 146,
+  "메모": "후보 12건 중 unlazy-ba949640 1건은 2026-08-23에 동일 수집 ID(Leonxlnx/unlazy)로 이미 2단계 완료 아카이빙되어 있음을 notion-search + notion-fetch로 확인 후 건너뜀. 나머지 11건은 원문 정본(Source Library)과 정리본(🤖 서고)을 모두 생성하고 원본자료 릴레이션으로 연결. AlphaGenome Atlas 관련 소스가 3건(X 트윗·blog.google·deepmind.google 상세판) 겹치지만 각각 원본 URL이 달라 규칙에 따라 모두 개별 처리. 브리핑 페이지는 수집 146건 전체를 28개 출처로 묶어 정리."
+}

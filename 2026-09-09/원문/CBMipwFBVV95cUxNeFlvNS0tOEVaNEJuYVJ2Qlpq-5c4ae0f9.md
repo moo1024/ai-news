@@ -1,0 +1,10 @@
+# Logitech MX Keypad Brings AI Controls to Developers: Price Revealed - Analytics Insight
+
+- 출처: 코딩에이전트 (구글뉴스)
+- 원본 링크: https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFlvNS0tOEVaNEJuYVJ2QlpqN2hvTk9uS2tlRHBRSGF5YlZIRFIzcjRfeUhSd2JaZEFJRTdKTVY5NlRWVWtETXprUlRHQWtTRE5ac2dSLVlTdmN2RFU1T1VEcHB1bl93bFpSWk0wTTVkVGdrTTRKcVdHUlRrd1dVeDUxSnpXaGZIbjdCNm5TTjJIaEZsdkVoSE5GWnRzdUlCRTlHMUl3c9IBtAFBVV95cUxQM1NrazliVEY1MHhtbS11ZnNZT3Jtd1lESEpROWxCazN1NmpOcEN0UUhHZzczNHpGN2x1R21pN3cxeFZYY0tuOThRWDBRbkZmeHNwVEYwNHhrNzE5UE83amxIWU1sSnB5Sm5ON3hWR0xnOVJTVW0tVUZsX1NDM0lYNno3VU1jT2Z2ZTdPcXBjLTEyRnU3MnJaRGdpancxMUVXWmtVZW1iYXVwX2l0TjVsN01pRG0?oc=5
+- 발행: 2026-09-08T16:30:00+00:00
+- 접근상태: 일부 확인 (본문이 짧게만 잡힘)
+
+---
+
+Google 뉴스

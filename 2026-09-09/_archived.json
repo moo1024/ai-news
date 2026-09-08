@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-09",
+  "브리핑페이지": "https://app.notion.com/p/3d53f6aa67a481028653d3c579877d02",
+  "정식아카이빙": [
+    {
+      "id": "x64dbg-mcp-server-8eae3aea",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "2097394956457623964-943cc615",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a4817db865cb75f5754b60",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481d4a80fd7ac114ed519",
+      "결과": "생성"
+    },
+    {
+      "id": "2097394958516781301-58b425ca",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481a88830e0bc2c017a6e",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481c39d14df18df8b0a1f",
+      "결과": "생성"
+    },
+    {
+      "id": "2097394960366456951-d995399d",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481908d73dfa0e0ee8c8d",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481b4a7d5c1559cc20dc8",
+      "결과": "생성"
+    },
+    {
+      "id": "video-compressor-d4c2f188",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48172ab47cb0163c0dea7",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481bb9ce8e0ee534e8c6d",
+      "결과": "생성"
+    },
+    {
+      "id": "3mv225r63tc2v-49ff58e7",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481358b12fac4dff02c8d",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481cea5ebf201556c6301",
+      "결과": "생성"
+    },
+    {
+      "id": "cognition-hits-48b-valuation-signaling-i-59b443a4",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48185aa8ec1b84c7a56fe",
+      "서고": "https://app.notion.com/p/3d53f6aa67a4816eb7abcda1a1332543",
+      "결과": "생성"
+    },
+    {
+      "id": "llm-1bfd7f6e",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48136834aeacdbda36a41",
+      "서고": "https://app.notion.com/p/3d53f6aa67a481699f83d2b5c5a81bc6",
+      "결과": "생성"
+    },
+    {
+      "id": "creepy-crawlies-71b69b68",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a4813cb6aff612a06d954a",
+      "서고": "https://app.notion.com/p/3d53f6aa67a48194896cd20f48e1426e",
+      "결과": "생성"
+    },
+    {
+      "id": "3muzw4lzb5k2v-40c9a774",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a481eaadd2e9407c8ed3e1",
+      "서고": "https://app.notion.com/p/3d53f6aa67a48116bac2f6c4dd198d88",
+      "결과": "생성"
+    },
+    {
+      "id": "openai-navier-stokes-solution-50608086",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48155a2d7edf32c17eedf",
+      "서고": "https://app.notion.com/p/3d53f6aa67a4811b8ceeec59d36b892b",
+      "결과": "생성"
+    },
+    {
+      "id": "openai-chatgpt-images-2-5-sketch-00bd6999",
+      "source_library": "https://app.notion.com/p/3d53f6aa67a48162ae36c1aaf1ac90ec",
+      "서고": "https://app.notion.com/p/3d53f6aa67a48105b777dc8d3bdc577b",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 134,
+  "메모": "x64dbg-mcp-server-8eae3aea는 2026-08-24에 같은 수집 ID로 이미 서고에 등록되어 있어(원문 재확인 완료) 중복 건너뜀. 나머지 11건은 원문 정본(Source Library) + 정리본(🤖 클로드·AI 자동화 지식) 2단계 모두 완료. 브리핑 DB 행도 신규 생성 완료."
+}

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/ccch1mneyyy/dsh-TUI
-- 발행: 2026-09-08T10:54:37.779781+00:00
+- 발행: 2026-09-08T22:24:41.611498+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -336,7 +336,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Issues 
- 79 
+ 78 
 
 
  
@@ -348,7 +348,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Pull requests 
- 34 
+ 33 
 
 
  
@@ -591,7 +591,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 907 Commits 907 Commits Folders and files Name Name Last commit message Last commit date .agents/ skills .agents/ skills     .github .github     bin bin     docs docs     dsh-auth @ 94fdf81 dsh-auth @ 94fdf81     dsh-ecosystem-spec @ d28c267 dsh-ecosystem-spec @ d28c267     presets/ liangshen presets/ liangshen     screenshots screenshots     scripts scripts     src src     standalone standalone     vendor vendor     .coderabbit.yaml .coderabbit.yaml     .editorconfig .editorconfig     .gitattributes .gitattributes     .gitignore .gitignore     .gitmodules .gitmodules     .npmignore .npmignore     .npmrc .npmrc     ADAPTER.md ADAPTER.md     AGENTS.md AGENTS.md     CLAUDE.md CLAUDE.md     CODE_OF_CONDUCT.en.md CODE_OF_CONDUCT.en.md     CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md     LICENSE LICENSE     README.md README.md     README_EN.md README_EN.md     THIRD_PARTY_LICENSES THIRD_PARTY_LICENSES     cordis.patch.yml cordis.patch.yml     cordis.yml cordis.yml     dsh-tui.cmd dsh-tui.cmd     install.sh install.sh     package.json package.json     patch-surface.snapshot.json patch-surface.snapshot.json     pnpm-lock.yaml pnpm-lock.yaml     pnpm-workspace.yaml pnpm-workspace.yaml     tsconfig.json tsconfig.json     tsconfig.typecheck.json tsconfig.typecheck.json     View all files Repository files navigation README Code of conduct Contributing MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 911 Commits 911 Commits Folders and files Name Name Last commit message Last commit date .agents/ skills .agents/ skills     .github .github     bin bin     docs docs     dsh-auth @ 94fdf81 dsh-auth @ 94fdf81     dsh-ecosystem-spec @ d28c267 dsh-ecosystem-spec @ d28c267     presets/ liangshen presets/ liangshen     screenshots screenshots     scripts scripts     src src     standalone standalone     vendor vendor     .coderabbit.yaml .coderabbit.yaml     .editorconfig .editorconfig     .gitattributes .gitattributes     .gitignore .gitignore     .gitmodules .gitmodules     .npmignore .npmignore     .npmrc .npmrc     ADAPTER.md ADAPTER.md     AGENTS.md AGENTS.md     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     CODE_OF_CONDUCT.en.md CODE_OF_CONDUCT.en.md     CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md     LICENSE LICENSE     README.md README.md     README_EN.md README_EN.md     THIRD_PARTY_LICENSES THIRD_PARTY_LICENSES     cordis.patch.yml cordis.patch.yml     cordis.yml cordis.yml     dsh-tui.cmd dsh-tui.cmd     install.sh install.sh     package.json package.json     patch-surface.snapshot.json patch-surface.snapshot.json     pnpm-lock.yaml pnpm-lock.yaml     pnpm-workspace.yaml pnpm-workspace.yaml     tsconfig.json tsconfig.json     tsconfig.typecheck.json tsconfig.typecheck.json     View all files Repository files navigation README Code of conduct Contributing MIT license More items 
  
 
 
@@ -744,215 +744,91 @@ dst
  
  
  
- 另： @deepseek-harness-tui/dsh-tui/test-utils （headless 准入/挂载测试助手）与
- @deepseek-harness-tui/dsh-tui/api （纯类型入口）为实验性公开面。
+ 另： @deepseek-harness-tui/dsh-tui/api （纯类型入口）为实验性公开面。
+ @deepseek-harness-tui/dsh-tui/test-utils 公共子路径已移除——它包含可注入真实
+activationId 的测试助手，不适合作为公共生产 API；需要 headless 测试请复制仓库内
+ scripts/lib/plugin-test-utils.ts 的思路，在自己的测试环境走正式准入流程。
 
- 文档索引 
- 
- 
- 
- 主题 
- 内容 
- 
- 
- 
- 
- 安装与快速开始 
- 前置条件、安装、启动、profile 生命周期、源码开发 
- 
- 
- 配置参考 
- Cordis 覆盖、配置字段、Agent preset、MCP、环境变量 
- 
- 
- 主题系统 
- 内置主题、自动检测、静态 JSON 与 npm 插件主题、校验规则 
- 
- 
- 交互与命令 
- 快捷键、鼠标、问卷、slash command 与会话工作流 
- 
- 
- 架构与限制 
- 运行链路、渲染与持久化设计、安全边界、已知限制 
- 
- 
- 社区管理框架 
- 社区入口、角色、提案流程、roadmap 规则与维护节奏 
- 
- 
- 项目路线图 
- 公开目标、阶段、任务状态、退出条件与 Future Work 
- 
- 
- VS Code 使用指南 
- 在 VS Code 集成终端运行 dsh-tui；companion 扩展 dsh-tui-vscode 提供多会话、会话历史与指定会话恢复（已上架 Marketplace） 
- 
- 
- 贡献与开发约定 
- 贡献流程、仓库地图、构建产物、验证矩阵与修改规则 
- 
- 
- 插件准入与开发指南 
- 接口与兼容性协定 / 插件准入规范 / 插件接缝 / 契约 / 验证清单（已并入 dsh-ecosystem-spec） 
- 
- 
- 
- 完整的中英文索引见 docs/README.md 。
-
- 社区 
- 
- 生态组织 ： dsh-tui-ecosystem —— 社区插件、模板与收录列表的家。欢迎来发插件、提创意、互相取暖 🐋 
- 社区交流群 ：使用问题、插件创意、功能许愿，都欢迎进来聊。 
- 行为准则 ：参与前请读一遍 贡献者行为准则 。 
- 
- 
- 
- 
- 微信群（dsh-TUI 社区交流 4 群） 
- QQ 群（群号 572549239） 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 微信群二维码约 7 天过期一次，如遇失效请走 QQ 群（572549239），或开个 issue 提醒我们更新。
+ 公共面的导入迁移：
 
  
- 权限与安全边界 
+ ctx.tuiPluginHost.grants.corrupt 已不存在 。新的 HostGrantFacade 只暴露
+ allows(pluginCtx, permission, scope) 、 defaultOf 、 knownPermissions 和
+ onChange(pluginCtx, listener) ；损坏的 grant 文件不再通过一个布尔字段暴露给插件。
+ onChange 是 subscribe 类托管能力：必须传入调用 activation，受 shadow 门禁约束，
+返回的取消函数绑定到该 activation，避免文件轮询/监听器泄漏。需要诊断时请使用
+ ctx.tuiPluginHost.selfCheck() 、 /doctor ，或通过显式诊断查询在宿主侧检查
+grant 文件状态。 
+ createAdmissionCatalog 不再从 ./plugin-host 导出；诊断请使用
+ ctx.tuiPluginHost.selfCheck() 与 /doctor 。 
+ ctx.tuiPluginHost.grants 改为调用方安全的 HostGrantFacade ：
+ grants.allows(pluginCtx, permission, scope) 由宿主从当前 activation 推导身份，
+不再接受任意 GrantPrincipal /完整 GrantStore 。 
+ GrantStore 、 GrantPrincipal 不再是公开导出的插件 API；它们保留在
+ src/adapter/standard/grants.ts 作为宿主内部实现类型。需要构造/校验 grant
+文件的宿主方请走仓库内部路径，生态测试不要在公共包依赖这些类型。 
+ @deepseek-harness-tui/dsh-tui/test-utils 子路径已删除；仓库内的
+ scripts/lib/plugin-test-utils.ts 仅用于本仓库无头验证，不属于公共契约。
+生态插件请在自己的测试环境通过正式 admission 流程复现。 
  
- Windows 安全警告： Windows profile 默认使用 danger-full-access ，且 approval 默认是 never 。这会授予工具不受限制的访问权限；在敏感凭证或不可信仓库环境中启动前，务必先检查并收紧 profile 配置。
+ 平台已知边界（Shadow 门禁不承诺覆盖） 
+ TUI 的 shadow/门禁只覆盖自有托管接缝；以下由 Cordis/上游 DSH 拥有的路径属于已写死的
+平台边界，不会被门禁描述为全路径覆盖：
 
  
- dsh-TUI 不实现独立沙箱，而是使用当前 DSH profile 的文件、Shell、sandbox 与 approval 策略。权限预设来自 DSH permissionPresets registry：服务缺失时使用 legacy 三项兼容名册；服务已挂载但为空、损坏或不一致时标记为 unavailable，TUI fail closed，不伪造名册。可用 registry 按声明顺序提供第三方预设并自动进入补全、picker 与 Shift+Tab 循环（排除 custom / status 、canonical 预设、重复 identity 与不安全 token）；首次观察遵循 registry 顺序，后续刷新保留已见 identity 的相对顺序。服务可用时 /permission 以本地命令形式常驻菜单：切换优先调用官方 /permission <preset> 命令；命令行未暴露给本 agent 时，回退到 permissionPresets 服务自身的官方写路径（与命令 handler 同一实现，写真实 permission/preset / sandbox/mode / approval/policy 事件，绝不由 TUI 伪造），并以事件/读回确认；两条路都不可用时显式提示，绝不静默。计划模式退出先恢复进入前的 atom，再把权限身份还原到你进入前所在的预设（registry 仍提供时）。在包含敏感凭证或不可信仓库的环境中启动前，请先检查 profile 配置。
-
- 详见 权限边界与已知限制 。
-
- 致谢 
+ 直接 ctx.get('commands').register / ctx.get('commands').execute （C-070）； 
+ ctx.plugin() / candidate.plugin() 子插件安装（Cordis 平台）； 
+ agent preset 名册 / recompose 注册（ @deepseek-ai/dsh-agent-presets ）； 
+ system prompt section 注册（ @deepseek-ai/dsh-system-prompt ）； 
+ skill registry 注册/调用（ @deepseek-ai/dsh-skill ）。 
  
- 像素鲸鱼娘的 22 帧手绘原图（Excel 逐格绘制）与闲置动画行为（摆鱼鳍、拍尾巴、入睡冒 Z、点击冒爱心）移植自 dsh-ui-whale （DeepSeek Harness Web 端鲸鱼宠物插件，作者 @lhh010 ，BSD-3-Clause），感谢作者与灵感 🐋💜 
- 
- 友情链接 
- 朋友们开发的 社区、相关项目与周边工具 
+ 这些路径在 verify-adapter-shadow 中以 platform-known boundary 显式列出。
+此外， verify-adapter-shadow 还显式记录两类门禁已知边界：未列入
+ NON_SERVICE_POLICY 的内部 TUI 状态/视图辅助类，以及 src/screens /
+ src/components 的 React UI 状态与事件处理——它们不是 adapter capability
+入口，门禁不将其描述为已覆盖。
 
- Stars 
-
- 
-
-
- License 
- MIT 
-
- About DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
- dshtui.com/ Topics claude-code coding-agent deepseek deepseek-harness dsh-plugin ink react terminal tui Resources Readme MIT license Code of conduct Code of conduct Contributing Contributing Activity Stars 2.9k stars Watchers 2 watching Forks 165 forks Report repository Releases Packages Contributors Languages 
- 
-
-
-
+ Adapter live-probe 诚实性与 P2 边界 
+ 本轮把 Command / LocalStorage / MessageObserver 从“无实探的 staged”
+推进到了“有可逆实探的 live”（在 legacy/new 模式下异步执行），并实现最小
+ KernelRuntime 与 passive/replay harness：
 
  
-
- 
-
- 
- 
-
- 
-
- 
- Footer 
-
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- © 2026 GitHub, Inc.
- 
- 
-
- 
- Footer navigation 
-
- 
-
-
- 
- Terms 
- 
-
- 
- Privacy 
- 
-
-
- 
- Security 
- 
-
- 
- Status 
- 
-
- 
- Community 
- 
-
- 
- Docs 
- 
-
- 
- Contact 
- 
-
- 
- 
- 
- 
- Manage cookies
- 
- 
- 
-
- 
- 
- 
- Do not share my personal information
- 
- 
- 
-
- 
- 
- 
- 
-
-
-
- 
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- You can’t perform that action at this time.
+ Command live probe ：在真实命令服务上临时注册唯一 no-op command，经
+ find / list 验证可见，并以内存 fake agent session 执行一次，确认
+execute 返回 success；无论成功失败都在 finally 反注册。该操作不写任何
+DSH 持久化 session 日志，唯一瞬时副作用是进程内命令注册表的一次
+ commands/change 通知。 
+ LocalStorage live probe ：在真实 storage 目录下创建随机临时 namespace
+文件，完成 write/read/delete，并在 finally 删除；不触碰任何真实插件
+namespace，也不保留探针数据。 
+ MessageObserver live probe ：通过 broker 的内部 probe-only 发布通道添加一个临时探针订阅并投递一条合成事件；真实插件的 session:* 通配订阅不会收到任何探针消息，探针结束后订阅数回到原值。这些 live probe 方法不是插件可见的公开 service 方法，宿主内核通过内部 host-only accessor 调用。 
+ 默认 legacy 兼容发布 ： DSH_TUI_ADAPTER_MODE 默认是 legacy ，不会加载新 Kernel、不会执行可逆 live probe。该模式保留旧发布语义，使用独立的 buildLegacyHostDescriptor 路径：只要 Command / LocalStorage / MessageObserver 的既有服务行已挂载， describe() / hostDescriptor() 就发布这些契约供插件准入使用；构建结果会在 warnings 中明确标注为 legacy 兼容声明，与新模式 live-only 的公开 descriptor 分离。 
+ 模式配置 fail-closed ：只有未设置 DSH_TUI_ADAPTER_MODE 时才默认 legacy ；显式值只接受 legacy / passive-shadow / replay-shadow / new （忽略大小写与首尾空白），空值或未知值会报错并拒绝启动。非 legacy 模式在 Kernel 未就绪、refresh skipped/failed 或已释放时返回空契约 descriptor，不回退兼容发布。 
+ Host probe 访问边界 ： host-probe-access 内部的 token 是模块级不导出符号，普通包 exports 路径也拒绝 deep import。但插件与宿主同进程时，绝对路径加载内部文件仍无法被 exports 阻止——这是 trusted-in-process 边界，不是安全沙箱 ；宿主不会用“插件不可调用”这类无限定承诺。内部注册函数不会覆盖已引导的宿主 probe runner。 
+ Passive Shadow ：不执行上述可逆 probe，只做只读 detect/descriptor 快照；
+ Replay Shadow ：生产环境不接真实 DSH，必须通过 scripts/verify-adapter-replay-harness.ts 
+或 src/adapter/kernel/replay.ts 在隔离 replay context 上运行，否则 fail-closed
+并输出明确提示。 
+ Replay harness 用法：在隔离输入上运行
+ node --import tsx/esm scripts/verify-adapter-replay-harness.ts （门禁脚本），
+或在代码中调用 runReplayShadow({ schemaVersion: 'tui-adapter-replay/v1', ... }) 
+获取 { kernelContracts, legacyContracts, missing, extra, lifecycles } 对比报告。
+P5 起还支持真实 DSH session snapshot/transcript 的
+ runChannelReplay(...) / verify:adapter-channel-conformance ，走
+ tui.dsh/v1alpha1#Channel 的 Provider/Consumer 与协议校验。 
+ 公开 Host Descriptor 仍然只发布带真实 probe evidence 的 live 生命周期；
+未完成 live refresh 或 passive/replay 下 Command / LocalStorage /
+ MessageObserver 保持 staged/degraded，不伪造完整支持。 DecisionEvents 
+维持逐 feature probe + 真实 channel/dispatch 拓扑发布规则。 
+ P6 已彻底移除内部 admissionCompat 平行视图，并删除
+ src/plugin-spec/* 与 src/dsh-adapter/{grants,host-descriptor}.ts compat
+shim。生产代码直接导入 src/adapter/standard/* ； verify:compat-removal 
+现在扫描 src/ 、 scripts/ 、 bin/ 、生成 lib/ （存在时）与 package export
+图， verify:package 也会拒绝 npm tarball 中的旧 shim；仍保留的兼容别名
+（ ExtensionGrants 、 envelopeSchema 、 createAdmissionCatalog 、
+ facadeFromLegacy 等）已明确标注为 P6 范围外/长期兼容面。 
+ 新 Kernel 不再是 P1 空壳： KernelRuntime 管理 driver 注册/mount、detection、
+ declared → staged → live 、清理与诊断快照；生产 Host Descriptor、 getHostFacade() 、
+ /doctor 、 /plugins 均走该 runtime。 
+ P3 feature-level live 拆分 ： Wor

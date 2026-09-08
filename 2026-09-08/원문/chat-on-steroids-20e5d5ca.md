@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/totec448-spec/chat-on-steroids
-- 발행: 2026-09-08T10:54:37.779781+00:00
+- 발행: 2026-09-08T22:24:41.611498+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Fork
- 211 
+ 216 
  
  
 
@@ -336,7 +336,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Issues 
- 16 
+ 17 
 
 
  
@@ -348,7 +348,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Pull requests 
- 7 
+ 10 
 
 
  
@@ -563,8 +563,8 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 104 Commits 104 Commits Folders and files Name Name Last commit message Last commit date .githooks .githooks     .github .github     artwork artwork     docs docs     extension extension     native native     scripts scripts     src src     test test     .gitattributes .gitattributes     .gitignore .gitignore     AGENTS.md AGENTS.md     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     electron-builder.yml electron-builder.yml     electron.vite.config.ts electron.vite.config.ts     package-lock.json package-lock.json     package.json package.json     tsconfig.json tsconfig.json     vitest.config.ts vitest.config.ts     View all files Repository files navigation README Contributing MIT license Security More items Important
- 2.0.7 needs its matching companion extension. Reload the unpacked extension after updating.
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 105 Commits 105 Commits Folders and files Name Name Last commit message Last commit date .githooks .githooks     .github .github     artwork artwork     docs docs     extension extension     native native     scripts scripts     src src     test test     .gitattributes .gitattributes     .gitignore .gitignore     AGENTS.md AGENTS.md     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     THIRD-PARTY-NOTICES.txt THIRD-PARTY-NOTICES.txt     electron-builder.yml electron-builder.yml     electron.vite.config.ts electron.vite.config.ts     package-lock.json package-lock.json     package.json package.json     tsconfig.json tsconfig.json     vitest.config.ts vitest.config.ts     View all files Repository files navigation README Contributing MIT license Security More items Important
+ 2.0.8 — Darkex by dark tibo — needs its matching companion extension. Reload the unpacked extension after updating.
 Model discovery now reads your account's native picker state across languages and nested version menus.
 See Browser behavior for tab reuse, Browser only and native file attachments.
 
@@ -603,6 +603,7 @@ See Browser behavior for tab reuse, Browser only and native file attachments.
  Sub agents inside ChatGPT. One prime chat can spawn worker chats, hand them tasks, read their reports and wake them again later. Workers are ordinary ChatGPT conversations in your own browser, brokered by the app, so you can watch every one of them. 
  Sessions that outlive the context window. Every tool call is recorded locally with its real result. When a chat gets heavy, Compact & Resume asks it for a handoff brief, opens a fresh chat and moves the same local session across. The new chat can query everything the old one did. 
  Plans, Goal and Loop. Split a request into editable tasks or generate follow-ups through a separate ChatGPT helper or the API. Astra can receive the next task through session_finish in the same turn, without opening another model turn. 
+ External MCP plugins. Settings → Plugins installs integrations such as Blender MCP, Playwright, Memory and Web Fetch behind a separate Chat On Steroids Plugins connector. Enable individual tools, import MCPB bundles or connect custom local/remote servers. Setup and supported sources . External servers run with their own OS/service permissions, outside CoS's approved-folder sandbox. 
  You stay the permission boundary. Only the folders you approve are visible. Each capability is a switch. Read-only mode is a single kill switch. Nothing runs on this machine that you did not turn on. 
  
  It runs in the tray, hosts no model of its own, and works with the ChatGPT you already use in the browser.
@@ -711,9 +712,4 @@ sha256sum Chat-On-Steroids-Linux-x64.AppImage # Linux
  
  
  
- The live tool list follows your settings: find is the no-shell search fallback and steps aside when commands are enabled. Enabling Session finish adds the Astra-only session_finish tool. Revoking a permission takes effect immediately, even while ChatGPT still shows the old schema. The full contract lives in docs/tool-surface.md .
-
- Every call is answered with a structured outcome the model can act on. A refused call says why and what to do next, whether that is a missing permission, a folder outside the approved roots, unread background results it has to collect first, or a chat that lost its identity.
-
- Sessions and the extension 
- Recording is on by default and can be switched off. The app keeps a durable local history of every conversation the exte
+ The live tool list follows your settings: find is the no-shell search fallback and steps aside when commands are enabled. Enabling Session finish adds the Astra-only session_finish tool. Revoking a permission takes effect immediately, even while ChatGPT still shows the old schema. The full contra
