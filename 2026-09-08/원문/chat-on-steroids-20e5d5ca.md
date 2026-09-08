@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/totec448-spec/chat-on-steroids
-- 발행: 2026-09-08T03:54:37.901583+00:00
+- 발행: 2026-09-08T10:54:37.779781+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Fork
- 201 
+ 211 
  
  
 
@@ -301,7 +301,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Star
- 1.5k 
+ 1.6k 
  
  
 
@@ -336,7 +336,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Issues 
- 14 
+ 16 
 
 
  
@@ -348,7 +348,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Pull requests 
- 9 
+ 7 
 
 
  
@@ -563,7 +563,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 101 Commits 101 Commits Folders and files Name Name Last commit message Last commit date .githooks .githooks     .github .github     artwork artwork     docs docs     extension extension     native native     scripts scripts     src src     test test     .gitattributes .gitattributes     .gitignore .gitignore     AGENTS.md AGENTS.md     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     electron-builder.yml electron-builder.yml     electron.vite.config.ts electron.vite.config.ts     package-lock.json package-lock.json     package.json package.json     tsconfig.json tsconfig.json     vitest.config.ts vitest.config.ts     View all files Repository files navigation README Contributing MIT license Security More items Important
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 104 Commits 104 Commits Folders and files Name Name Last commit message Last commit date .githooks .githooks     .github .github     artwork artwork     docs docs     extension extension     native native     scripts scripts     src src     test test     .gitattributes .gitattributes     .gitignore .gitignore     AGENTS.md AGENTS.md     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     CONTRIBUTING.md CONTRIBUTING.md     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     electron-builder.yml electron-builder.yml     electron.vite.config.ts electron.vite.config.ts     package-lock.json package-lock.json     package.json package.json     tsconfig.json tsconfig.json     vitest.config.ts vitest.config.ts     View all files Repository files navigation README Contributing MIT license Security More items Important
  2.0.7 needs its matching companion extension. Reload the unpacked extension after updating.
 Model discovery now reads your account's native picker state across languages and nested version menus.
 See Browser behavior for tab reuse, Browser only and native file attachments.

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/eternityspring/shuohao-skills
-- 발행: 2026-09-08T03:54:37.901583+00:00
+- 발행: 2026-09-08T10:54:37.779781+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角
  
  
  Fork
- 414 
+ 416 
  
  
 
@@ -751,7 +751,7 @@ ln -s " $PWD /skills/novel-characters " ~ /.codex/skills/novel-characters
  Apache 2.0 
 
  About AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
- reelbench.79px.com Resources Readme Apache-2.0 license Activity Stars 3.1k stars Watchers 5 watching Forks 414 forks Report repository Releases Packages Contributors Languages 
+ reelbench.79px.com Resources Readme Apache-2.0 license Activity Stars 3.1k stars Watchers 6 watching Forks 416 forks Report repository Releases Packages Contributors Languages 
  
 
 

@@ -181,7 +181,7 @@ Import AI 472: DeepMind's cheating math agents; populist AI policies; and Foreth
  
 
  
- Subscribe Sign in Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman Plus, a machine hermeneutics story Jack Clark Sep 07, 2026 68 13 1 Share Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.
+ Subscribe Sign in Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman Plus, a machine hermeneutics story Jack Clark Sep 07, 2026 69 13 1 Share Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.
  Subscribe Researchers discover another OpenAI agent emergent communication incident: 
  …Less severe, but worrying nonetheless… 
  Some researchers recently found another incident of AI agents autonomously creating their own communication system - this time via hijacking a German messageboard. 

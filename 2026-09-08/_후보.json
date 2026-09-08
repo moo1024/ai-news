@@ -8,33 +8,16 @@
       "제목": "Leonxlnx/unlazy — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t",
       "url": "https://github.com/Leonxlnx/unlazy",
       "정규url": "https://github.com/Leonxlnx/unlazy",
-      "발행": "2026-09-08T03:54:37.901583+00:00",
-      "요약": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n별 3,159개 · 언어 JavaScript · 생성 2026-08-09 · 토픽 ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill",
-      "반응": 3159,
+      "발행": "2026-09-08T10:54:37.779781+00:00",
+      "요약": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n별 3,167개 · 언어 JavaScript · 생성 2026-08-09 · 토픽 ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill",
+      "반응": 3167,
       "원저자": "Leonxlnx",
       "본문파일": "2026-09-08/원문/unlazy-ba949640.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "claude-code"
       ],
-      "점수": 5.573
-    },
-    {
-      "id": "research-acceleration-view-inside-openai-19672c48",
-      "출처": "OpenAI News",
-      "제목": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "정규url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "발행": "2026-09-06T08:00:00+00:00",
-      "요약": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "반응": 209,
-      "원저자": "",
-      "본문파일": "2026-09-08/원문/research-acceleration-view-inside-openai-19672c48.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "coding agent"
-      ],
-      "점수": 5.501
+      "점수": 5.574
     },
     {
       "id": "northcinder-3426536d",
@@ -42,9 +25,9 @@
       "제목": "cinderline/northcinder — Open-source MCP server for comparing products and asking the buyer before purcha",
       "url": "https://github.com/cinderline/northcinder",
       "정규url": "https://github.com/cinderline/northcinder",
-      "발행": "2026-09-08T03:54:37.901583+00:00",
-      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,216개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
-      "반응": 1216,
+      "발행": "2026-09-08T10:54:37.779781+00:00",
+      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,215개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
+      "반응": 1215,
       "원저자": "cinderline",
       "본문파일": "2026-09-08/원문/northcinder-3426536d.md",
       "본문상태": "확인 완료",
@@ -52,7 +35,41 @@
         "mcp",
         "agentic"
       ],
-      "점수": 5.237
+      "점수": 5.236
+    },
+    {
+      "id": "platforms-html-2245a3ab",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "정규url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "발행": "2026-09-08T04:36:26+00:00",
+      "요약": "Article URL: https://rohanadwankar.github.io/posts/platforms.html \n\n Comments URL: https://news.ycombinator.com/item?id=49605644 \n\n Points: 34\n\n # Comments: 7",
+      "반응": 34,
+      "원저자": "",
+      "본문파일": "2026-09-08/원문/platforms-html-2245a3ab.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.232
+    },
+    {
+      "id": "reverify-f1e34982",
+      "출처": "GitHub 신규 (AI 에이전트)",
+      "제목": "2akouwu/reverify — Stop your AI from making things up — it proposes, deterministic tools decide, ev",
+      "url": "https://github.com/2akouwu/reverify",
+      "정규url": "https://github.com/2akouwu/reverify",
+      "발행": "2026-09-08T10:54:37.779781+00:00",
+      "요약": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.\n\n별 1,026개 · 언어 Python · 생성 2026-08-31 · 토픽 ai, ai-agents, ai-coding, anti-hallucination, binary-analysis, context-engineering, ctf, developer-tools",
+      "반응": 1026,
+      "원저자": "2akouwu",
+      "본문파일": "2026-09-08/원문/reverify-f1e34982.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "mcp"
+      ],
+      "점수": 5.177
     },
     {
       "id": "coop-2f902337",
@@ -61,8 +78,8 @@
       "url": "https://github.com/trailofbits/coop",
       "정규url": "https://github.com/trailofbits/coop",
       "발행": "2026-09-07T04:18:28+00:00",
-      "요약": "Article URL: https://github.com/trailofbits/coop \n\n Comments URL: https://news.ycombinator.com/item?id=49593842 \n\n Points: 56\n\n # Comments: 12",
-      "반응": 56,
+      "요약": "Article URL: https://github.com/trailofbits/coop \n\n Comments URL: https://news.ycombinator.com/item?id=49593842 \n\n Points: 61\n\n # Comments: 16",
+      "반응": 61,
       "원저자": "",
       "본문파일": "2026-09-08/원문/coop-2f902337.md",
       "본문상태": "확인 완료",
@@ -70,7 +87,22 @@
         "claude code",
         "codex"
       ],
-      "점수": 4.905
+      "점수": 4.732
+    },
+    {
+      "id": "mistral-makes-sovereign-open-weight-ai-t-55085dd1",
+      "출처": "Mistral AI",
+      "제목": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "정규url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "발행": "2026-09-08T12:00:22+00:00",
+      "요약": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+      "반응": 497,
+      "원저자": "",
+      "본문파일": "2026-09-08/원문/mistral-makes-sovereign-open-weight-ai-t-55085dd1.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.086
     },
     {
       "id": "i-spent-my-vacations-de-brainrotting-0b5ef84a",
@@ -80,12 +112,27 @@
       "정규url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting",
       "발행": "2026-09-07T13:00:48+00:00",
       "요약": "",
-      "반응": 473,
+      "반응": 486,
       "원저자": "",
       "본문파일": "2026-09-08/원문/i-spent-my-vacations-de-brainrotting-0b5ef84a.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.003
+      "점수": 3.884
+    },
+    {
+      "id": "google-jail-4af081f7",
+      "출처": "Hacker News",
+      "제목": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "정규url": "https://weirdgloop.org/blog/google-jail",
+      "발행": "2026-09-08T01:57:23+00:00",
+      "요약": "",
+      "반응": 187,
+      "원저자": "",
+      "본문파일": "2026-09-08/원문/google-jail-4af081f7.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.86
     },
     {
       "id": "5294532-1444d346",
@@ -95,12 +142,12 @@
       "정규url": "https://theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
       "발행": "2026-09-07T11:46:37+00:00",
       "요약": "",
-      "반응": 276,
+      "반응": 292,
       "원저자": "",
       "본문파일": "2026-09-08/원문/5294532-1444d346.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.835
+      "점수": 3.724
     },
     {
       "id": "video-compressor-d4c2f188",
@@ -118,22 +165,7 @@
         "claude code",
         "claude-code"
       ],
-      "점수": 3.645
-    },
-    {
-      "id": "ai-cold-showers-6b23b79f",
-      "출처": "Hacker News",
-      "제목": "AI Cold Showers",
-      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-      "정규url": "https://allan.reyes.sh/posts/ai-cold-showers",
-      "발행": "2026-09-07T19:05:39+00:00",
-      "요약": "",
-      "반응": 73,
-      "원저자": "",
-      "본문파일": "2026-09-08/원문/ai-cold-showers-6b23b79f.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 3.609
+      "점수": 3.455
     },
     {
       "id": "3muwzopsoqs26-e07c1445",
@@ -143,57 +175,27 @@
       "정규url": "https://bsky.app/profile/simonwillison.net/post/3muwzopsoqs26",
       "발행": "2026-09-07T17:25:59.347000+00:00",
       "요약": "\"I don't know the answer myself, but I asked a blowhard I know and he took a wild guess, here's what he said: \"\n\nHow I interpret pasted replies from an LLM in online conversations",
-      "반응": 133,
+      "반응": 145,
       "원저자": "simonwillison.net",
       "본문파일": "2026-09-08/원문/3muwzopsoqs26-e07c1445.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.998
+      "점수": 2.934
     },
     {
-      "id": "llm-1bfd7f6e",
-      "출처": "Simon Willison",
-      "제목": "llm 0.35",
-      "url": "https://simonwillison.net/2026/Sep/7/llm/",
-      "정규url": "https://simonwillison.net/2026/Sep/7/llm",
-      "발행": "2026-09-07T23:54:54+00:00",
-      "요약": "Release: llm 0.35 \n\n \n \n New OpenAI model: gpt-6-astra for GPT-6 Astra . \n \n \n \n \n Tags: openai , llm , gpt-6-astra",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-09-08/원문/llm-1bfd7f6e.md",
+      "id": "3muy6d3lnwk2u-5dc5b9d7",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Another informal nerd benchmark that AIs had struggled with has been passed: Astra successfully designed a Magic the Gat",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3muy6d3lnwk2u",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3muy6d3lnwk2u",
+      "발행": "2026-09-08T04:21:37.496000+00:00",
+      "요약": "Another informal nerd benchmark that AIs had struggled with has been passed: Astra successfully designed a Magic the Gathering deck and then used it to defeat a bot on Arena.\n\n(the deck may not be stunning, but it does seem to be original, and it worked)",
+      "반응": 71,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-08/원문/3muy6d3lnwk2u-5dc5b9d7.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.917
-    },
-    {
-      "id": "creepy-crawlies-71b69b68",
-      "출처": "Simon Willison",
-      "제목": "Creepy crawlies",
-      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-      "정규url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies",
-      "발행": "2026-09-07T23:08:58+00:00",
-      "요약": "Creepy crawlies \n\nKonstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel:\n\n \n TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other kinds of legitimate access, including git clones. At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html.\n\n \n I worry about this a lot from the perspective of Datasette, which serves a huge number of crawlable web pages.\n\n Via Hacker News \n\n\n\n Tags: crawling , git , linux , datasette , ai-ethics",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-09-08/원문/creepy-crawlies-71b69b68.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.901
-    },
-    {
-      "id": "3mux26ztekk26-778c3926",
-      "출처": "Bluesky simonwillison.net",
-      "제목": "Recent prompt guidelines from Anthropic and OpenAI recommend less detailed rules and more \"use your own judgement\", sin",
-      "url": "https://bsky.app/profile/simonwillison.net/post/3mux26ztekk26",
-      "정규url": "https://bsky.app/profile/simonwillison.net/post/3mux26ztekk26",
-      "발행": "2026-09-07T17:35:06.731000+00:00",
-      "요약": "Recent prompt guidelines from Anthropic and OpenAI recommend less detailed rules and more \"use your own judgement\", since the models are stricter rule followers and are hence likely to focus on the exact process you outline potentially to the detriment of task completion quality",
-      "반응": 6,
-      "원저자": "simonwillison.net",
-      "본문파일": "2026-09-08/원문/3mux26ztekk26-778c3926.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.199
+      "점수": 2.879
     }
   ]
 }

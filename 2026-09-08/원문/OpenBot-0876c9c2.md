@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-09-08T03:54:37.901583+00:00
+- 발행: 2026-09-08T10:54:37.779781+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 548 
+ 549 
  
  
 
@@ -323,7 +323,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Star
- 4.4k 
+ 4.5k 
  
  
 

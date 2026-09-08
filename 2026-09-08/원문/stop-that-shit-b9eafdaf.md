@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/lennney/stop-that-shit
-- 발행: 2026-09-08T03:54:37.901583+00:00
+- 발행: 2026-09-08T10:54:37.779781+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -301,7 +301,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
  
  
  Star
- 1.7k 
+ 1.8k 
  
  
 

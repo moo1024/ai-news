@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/ccch1mneyyy/dsh-TUI
-- 발행: 2026-09-08T03:54:37.901583+00:00
+- 발행: 2026-09-08T10:54:37.779781+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Fork
- 164 
+ 165 
  
  
 
@@ -336,7 +336,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Issues 
- 78 
+ 79 
 
 
  
@@ -348,7 +348,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Pull requests 
- 31 
+ 34 
 
 
  
@@ -849,7 +849,7 @@ dst
  MIT 
 
  About DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
- dshtui.com/ Topics claude-code coding-agent deepseek deepseek-harness dsh-plugin ink react terminal tui Resources Readme MIT license Code of conduct Code of conduct Contributing Contributing Activity Stars 2.9k stars Watchers 2 watching Forks 164 forks Report repository Releases Packages Contributors Languages 
+ dshtui.com/ Topics claude-code coding-agent deepseek deepseek-harness dsh-plugin ink react terminal tui Resources Readme MIT license Code of conduct Code of conduct Contributing Contributing Activity Stars 2.9k stars Watchers 2 watching Forks 165 forks Report repository Releases Packages Contributors Languages 
  
 
 

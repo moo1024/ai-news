@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (AI 에이전트)
 - 원본 링크: https://github.com/ApodexAI/FrontierAgent
-- 발행: 2026-09-08T03:54:37.901583+00:00
+- 발행: 2026-09-08T10:54:37.779781+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - ApodexAI/FrontierAgent: 🧩 FrontierAgent, our agent framework, open-s
  
  
  Fork
- 162 
+ 163 
  
  
 
@@ -358,7 +358,7 @@ GitHub - ApodexAI/FrontierAgent: 🧩 FrontierAgent, our agent framework, open-s
  
  
  Issues 
- 7 
+ 5 
 
 
  
@@ -370,7 +370,7 @@ GitHub - ApodexAI/FrontierAgent: 🧩 FrontierAgent, our agent framework, open-s
  
  
  Pull requests 
- 7 
+ 6 
 
 
  
@@ -613,7 +613,7 @@ GitHub - ApodexAI/FrontierAgent: 🧩 FrontierAgent, our agent framework, open-s
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 59 Commits 59 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     apodex apodex     assets assets     benchmarks benchmarks     config config     deploy deploy     docker docker     docs docs     frontier_agent frontier_agent     plugins plugins     scripts scripts     tests tests     tools tools     workflows workflows     .dockerignore .dockerignore     .env.example .env.example     .env.sglang.example .env.sglang.example     .env.transformers.example .env.transformers.example     .gitignore .gitignore     .python-version .python-version     CHANGELOG.md CHANGELOG.md     CONTRIBUTING.md CONTRIBUTING.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     compose.dev.yaml compose.dev.yaml     compose.network.yaml compose.network.yaml     compose.sglang.yaml compose.sglang.yaml     compose.transformers.yaml compose.transformers.yaml     compose.yaml compose.yaml     package-lock.json package-lock.json     pyproject.toml pyproject.toml     pyrightconfig.json pyrightconfig.json     uv.lock uv.lock     View all files Repository files navigation README Contributing Apache-2.0 license Security More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 62 Commits 62 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     apodex apodex     assets assets     benchmarks benchmarks     config config     deploy deploy     docker docker     docs docs     frontier_agent frontier_agent     plugins plugins     scripts scripts     tests tests     tools tools     workflows workflows     .dockerignore .dockerignore     .env.example .env.example     .env.sglang.example .env.sglang.example     .env.transformers.example .env.transformers.example     .gitignore .gitignore     .python-version .python-version     CHANGELOG.md CHANGELOG.md     CONTRIBUTING.md CONTRIBUTING.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     compose.dev.yaml compose.dev.yaml     compose.network.yaml compose.network.yaml     compose.sglang.yaml compose.sglang.yaml     compose.transformers.yaml compose.transformers.yaml     compose.yaml compose.yaml     package-lock.json package-lock.json     pyproject.toml pyproject.toml     pyrightconfig.json pyrightconfig.json     uv.lock uv.lock     View all files Repository files navigation README Contributing Apache-2.0 license Security More items 
  
  
  
