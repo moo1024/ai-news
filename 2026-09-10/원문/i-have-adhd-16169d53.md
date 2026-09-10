@@ -301,7 +301,7 @@ GitHub - ayghri/i-have-adhd: A skill to stop your coding agent from burying the 
  
  
  Star
- 35.1k 
+ 36.6k 
  
  
 
@@ -336,7 +336,7 @@ GitHub - ayghri/i-have-adhd: A skill to stop your coding agent from burying the 
  
  
  Issues 
- 17 
+ 19 
 
 
  
@@ -348,7 +348,7 @@ GitHub - ayghri/i-have-adhd: A skill to stop your coding agent from burying the 
  
  
  Pull requests 
- 20 
+ 30 
 
 
  
@@ -563,7 +563,7 @@ GitHub - ayghri/i-have-adhd: A skill to stop your coding agent from burying the 
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 197 Commits 197 Commits Folders and files Name Name Last commit message Last commit date .agents/ plugins .agents/ plugins     .claude-plugin .claude-plugin     .codex-plugin .codex-plugin     .cursor/ skills/ i-have-adhd .cursor/ skills/ i-have-adhd     .github .github     .opencode .opencode     evals evals     extensions extensions     hooks hooks     scripts scripts     skills/ i-have-adhd skills/ i-have-adhd     tests tests     .gitignore .gitignore     AGENTS.md AGENTS.md     CONTRIBUTING.md CONTRIBUTING.md     GEMINI.md GEMINI.md     INSTALL.md INSTALL.md     LICENSE LICENSE     README.md README.md     gemini-extension.json gemini-extension.json     kimi.plugin.json kimi.plugin.json     logo.png logo.png     opencode.json opencode.json     package.json package.json     plugin.json plugin.json     qwen-extension.json qwen-extension.json     View all files Repository files navigation README Contributing MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 201 Commits 201 Commits Folders and files Name Name Last commit message Last commit date .agents/ plugins .agents/ plugins     .claude-plugin .claude-plugin     .codex-plugin .codex-plugin     .cursor/ skills/ i-have-adhd .cursor/ skills/ i-have-adhd     .github .github     .opencode .opencode     evals evals     extensions extensions     hooks hooks     scripts scripts     skills/ i-have-adhd skills/ i-have-adhd     tests tests     .gitignore .gitignore     AGENTS.md AGENTS.md     CONTRIBUTING.md CONTRIBUTING.md     GEMINI.md GEMINI.md     INSTALL.md INSTALL.md     LICENSE LICENSE     README.md README.md     gemini-extension.json gemini-extension.json     kimi.plugin.json kimi.plugin.json     logo.png logo.png     opencode.json opencode.json     package.json package.json     plugin.json plugin.json     qwen-extension.json qwen-extension.json     View all files Repository files navigation README Contributing MIT license More items 
  
 
 
@@ -633,7 +633,7 @@ GitHub - ayghri/i-have-adhd: A skill to stop your coding agent from burying the 
  Specific time estimates (minutes, not "a bit"). 
  Make wins visible. 
  Matter-of-fact errors. 
- Rank and group long lists; aim for at most five items per group without omitting relevant items. 
+ Cap lists to 5 items. 
  No preamble. No recap. No closers. 
  
  Tune it 
@@ -654,7 +654,7 @@ claude plugin install i-have-adhd@i-have-adhd
  Star ⭐ if it saved you one scroll past one "Great question!"
 
  About A skill to stop your coding agent from burying the answer. ADHD-friendly output.
- Topics adhd claude- claude-code-plugin claude-skills developer-tools productivity Resources Readme MIT license Contributing Contributing Activity Stars 35.1k stars Watchers 120 watching Forks 2.1k forks Report repository Releases Packages Contributors Languages 
+ Topics adhd claude- claude-code-plugin claude-skills developer-tools productivity Resources Readme MIT license Contributing Contributing Activity Stars 36.6k stars Watchers 123 watching Forks 2.1k forks Report repository Releases Packages Contributors Languages 
  
 
 

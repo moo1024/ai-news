@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/cbrock84/headcount
-- 발행: 2026-09-10T03:54:46.057681+00:00
+- 발행: 2026-09-10T12:22:47.260202+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - cbrock84/headcount: An agent organization for Claude Code, structured a
  
  
  Fork
- 206 
+ 207 
  
  
 

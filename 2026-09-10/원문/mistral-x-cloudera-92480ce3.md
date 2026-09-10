@@ -1,13 +1,13 @@
-# Mistral raises €3B to make sovereign, open-weight AI the technology frontier
+# Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data
 
 - 출처: Mistral AI
-- 원본 링크: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
-- 발행: 2026-09-08T12:00:22+00:00
+- 원본 링크: https://mistral.ai/news/mistral-x-cloudera/
+- 발행: 2026-09-10T10:42:55+00:00
 - 접근상태: 확인 완료
 
 ---
 
-Making sovereign, open-weight AI the technology frontier | Mistral 
+Cloudera and Mistral Partner for Sovereign Enterprise AI 
  
  
  
@@ -1400,7 +1400,8 @@ Making sovereign, open-weight AI the technology frontier | Mistral
  
  
  Company
- Mistral raises €3B to make sovereign, open-weight AI the technology frontier
+ Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data September 10, 2026
+ By Mistral
  
  
  
@@ -1408,6 +1409,7 @@ Making sovereign, open-weight AI the technology frontier | Mistral
  
  
  
+ Back to Blog 
  
  
  
@@ -1415,6 +1417,8 @@ Making sovereign, open-weight AI the technology frontier | Mistral
  
  
  
+ 3 min read
+ Share this post 
  
  
  
@@ -1451,311 +1455,15 @@ Making sovereign, open-weight AI the technology frontier | Mistral
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion, the largest equity fundraising round ever completed by a European technology company, three years after the company's launch.
- Samsung Electronics led the round, joined by co-leads Scaleup Europe Fund, managed by EQT, and existing investor PSG Equity.
- The round will significantly expand Mistral's frontier research, which is the foundation underpinning its infrastructure, products and sovereignty. While allowing Mistral to scale its compute capacity for training powerful models, it will help Mistral expand infrastructure and accelerate its commercial growth and international footprint. The company now operates across 20 countries and supports 125+ global enterprises’ mission-critical AI transformation, including Airbus, ASML, and HSBC.
- During the first wave of generative AI, the central question was who could build the most powerful model. Organizations and governments are now asking a different one: how to harness the power of AI for their mission-critical needs without surrendering control over the infrastructure and intelligence loop. Demand for that combination of performance with control, choice and independence is growing internationally, as enterprises and governments weigh the long-term technology dependencies, data governance requirements and deployment choices that come with any AI investment.
- Mistral is the only AI company in the world building the full stack required to answer that question: open-weight models, the infrastructure and the compute capacity they run on, and the products that bring them into production; ensuring that customers are never locked into a single vendor's roadmap, pricing or availability.
- Mistral’s full-stack and open approach also allows organizations to build on it without exposing their most valuable data, workflows and institutional knowledge to anyone outside their own walls. That's what makes Mistral’s stack the sovereign AI layer, meaning retaining control across four dimensions: data that stays inside the organization's boundaries, models that are controllable and customizable, compute that is private and predictable, and systems in production that are fully controllable and auditable.
- The round reflects a strategic endorsement from investors across Europe, Asia and North America. It brings together a world-class syndicate of strategic and financial investors, including global technology leaders, growth investors and existing shareholders that have supported Mistral’s development to date.
- With a Series C led by ASML and a Series D led by Samsung Electronics, Mistral has attracted backing from companies at the forefront of advanced manufacturing, engineering and industrial technology. This support reflects growing confidence that Mistral's approach can help organisations deploy state-of-the-art AI inside complex real-world environments while maintaining control over their data, infrastructure and knowledge.
- Advent, funds and accounts managed by BlackRock as well as the Grand Duchy of Luxembourg joined the round as new investors. Existing investors a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, NVIDIA, Phoenix Court's Solar fund (home to LocalGlobe, Latitude and Solar) and Salesforce Ventures participated in the round.
+ Copy url to clipboard Copied 
+ We’ve spoken with many of the world’s largest enterprises across regulated industries like financial services, manufacturing and telecommunications. One of their common strategic partners is Cloudera, providing them with a platform to gain valuable data insights across both on-prem and cloud environments.
+ What these organizations have in common is that they are data-driven and the processes they’re looking to transform with AI are mission-critical. These are industries that stand to benefit the most from AI, provided they have complete confidence in controlling their data and intelligence. This is exactly why a partnership between Mistral and Cloudera is a natural way to support the demand of our joint customers and help them continue to innovate under their terms.
+ Here’s what Mistral and Cloudera are announcing today as a part of our new partnership:
+ Running inference in your environment: Our models will be integrated with Cloudera’s hybrid data platform, allowing enterprises to deploy their AI models across private and public cloud environments, on-prem and fully air-gapped environments while maintaining full control.
+ Building custom models so enterprises control their own intelligence: Mistral enables enterprises to train their AI models against large amounts of proprietary data within controlled environments. Decades of institutional data can be transformed into customized AI models while maintaining ownership over both the data and the resulting intelligence.
+ "Every enterprise is heading toward the same destination: specialized intelligence,” said Abhas Ricky, Chief Business Officer & GM, Applied AI at Cloudera. “General-purpose models are the starting point, not the finish line. The real advantage comes from models trained on decades of proprietary data — the loan decisions, the production runs, the network telemetry that no one else has. With Mistral, our customers can turn that data into intelligence they own outright, tuned to their business and governed inside their own environment. That’s the shift we’re building for: “from renting generic AI to owning intelligence that’s uniquely theirs.”
+ “It’s a privilege to have the opportunity to bring Mistral’s sovereign AI to Cloudera’s 30 exabytes of customer-managed data running on its platform. We are looking forward to innovating on behalf of our joint customers,” said Kamal Brar, SVP of Partnerships & Alliances at Mistral. 
+ The collaboration is designed to meet growing demand for sovereign AI: AI that keeps data, intelligence, compute, and operations under the customer's control. That means data can remain within customer-defined boundaries, models can be adapted and owned on open weights, training and inference can run on infrastructure and in jurisdictions the customer chooses, and AI systems can be deployed, governed, observed, and improved over time without ceding control of the learning loop to an external platform.
  
  
  

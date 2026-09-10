@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/lennney/stop-that-shit
-- 발행: 2026-09-10T03:54:46.057681+00:00
+- 발행: 2026-09-10T12:22:47.260202+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -301,7 +301,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
  
  
  Star
- 1.8k 
+ 1.9k 
  
  
 
