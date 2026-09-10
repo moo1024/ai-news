@@ -1,0 +1,201 @@
+{
+  "날짜": "2026-09-10",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "codex-quantum-computing-experiments-167bce5d",
+      "출처": "OpenAI News",
+      "제목": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "정규url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "발행": "2026-09-08T17:00:00+00:00",
+      "요약": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "반응": 145,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/codex-quantum-computing-experiments-167bce5d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 5.698
+    },
+    {
+      "id": "v2-1-267-a38ee726",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.267",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267",
+      "발행": "2026-09-09T19:58:14+00:00",
+      "요약": "What's changed \n \n Added maxEffortLevel setting (top-level or per model under modelSettings ): caps the effort level on every provider, including Bedrock, Vertex and Foundry; users can still pick a lower level \n Added --system-prompt-snapshot off to render the system prompt fresh on every request instead of reusing the conversation's recorded prompt (for iterating on prompt text) \n Fixed Cowork scheduled tasks in the cloud failing at startup for organizations whose managed settings require sandboxing \n Fixed /context and other local command output rendering blank on mobile clients \n Fixed shift+enter and option+backspace not working after reconnecting to a tmux or ssh session inside an agent view \n Fixed the dim last-prompt header not appearing at the top of the conversation when scrolling up in fullscreen mode \n Fixed Workflow agent() calls with large output schemas being refused in auto mode instead of being checked by the safety classifier \n Fixed a case where a marketplace entry path containing a backslash could bypass the containment check for fetched marketplaces on macOS and Linux \n Fixed expired AWS or Google Cloud credentials under a host app such as Claude Desktop retryin",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/v2-1-267-a38ee726.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.404
+    },
+    {
+      "id": "2097762642958135398-336762a8",
+      "출처": "X @AnthropicAI",
+      "제목": "We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems du",
+      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+      "정규url": "https://x.com/AnthropicAI/status/2097762642958135398",
+      "발행": "2026-09-09T19:02:43+00:00",
+      "요약": "We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet.\n\nMETR will also conduct an independent investigation, with wide-ranging access,",
+      "반응": 4600,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-09-10/원문/2097762642958135398-336762a8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.828
+    },
+    {
+      "id": "2097786616311840853-35dc9a7e",
+      "출처": "X @OpenAI",
+      "제목": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find a",
+      "url": "https://x.com/OpenAI/status/2097786616311840853",
+      "정규url": "https://x.com/OpenAI/status/2097786616311840853",
+      "발행": "2026-09-09T20:37:58+00:00",
+      "요약": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise.\n\nWe’re sharing what we learned, the architecture, and a practical playbook so you can build https://t.co/Vx9b2EwO8N",
+      "반응": 2553,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-10/원문/2097786616311840853-35dc9a7e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.788
+    },
+    {
+      "id": "2097679796687769689-901c19af",
+      "출처": "X @AnthropicAI",
+      "제목": "Anthropic’s Economics team is sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030.",
+      "url": "https://x.com/AnthropicAI/status/2097679796687769689",
+      "정규url": "https://x.com/AnthropicAI/status/2097679796687769689",
+      "발행": "2026-09-09T13:33:31+00:00",
+      "요약": "Anthropic’s Economics team is sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030.\n\nExplore the scenarios, tell us what you think will happen, and see how your answers compare to more than 10,000 Americans. https://t.co/AvQlEZNxR0",
+      "반응": 15938,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-09-10/원문/2097679796687769689-901c19af.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.721
+    },
+    {
+      "id": "v2-1-266-c57bc54a",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.266",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266",
+      "발행": "2026-09-08T23:55:14+00:00",
+      "요약": "What's changed \n \n Fixed a 2.1.265 regression affecting LLM-gateway and proxy setups: the undocumented CLAUDE_CODE_USE_GATEWAY environment variable, previously ignored unless ANTHROPIC_BASE_URL and ANTHROPIC_AUTH_TOKEN were both set, began forcing Cloud-gateway sign-in on its own in 2.1.265, so configurations that set it alongside an API key, apiKeyHelper , or custom auth headers failed every request with \"Not signed in to the Cloud gateway\". The variable on its own is ignored again; no configuration change is needed",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/v2-1-266-c57bc54a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.608
+    },
+    {
+      "id": "introducing-chatgpt-images-2-5-305f03a4",
+      "출처": "OpenAI News",
+      "제목": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "정규url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "발행": "2026-09-08T11:30:00+00:00",
+      "요약": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "반응": 376,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/introducing-chatgpt-images-2-5-305f03a4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.488
+    },
+    {
+      "id": "copperhead-sh-9e332190",
+      "출처": "Hacker News",
+      "제목": "Show HN: Copperhead – Cursor for circuit boards",
+      "url": "https://copperhead.sh/",
+      "정규url": "https://copperhead.sh",
+      "발행": "2026-09-08T13:26:45+00:00",
+      "요약": "",
+      "반응": 242,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/copperhead-sh-9e332190.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 4.415
+    },
+    {
+      "id": "rust-v0-154-0-8d9adc02",
+      "출처": "Codex 릴리스",
+      "제목": "0.154.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.154.0",
+      "정규url": "https://github.com/openai/codex/releases/tag/rust-v0.154.0",
+      "발행": "2026-09-09T22:37:29+00:00",
+      "요약": "New Features \n \n GPT-6-Astra is now available in the model picker and Amazon Bedrock catalogs. ( #42879 , #42619 ) \n Experimental worktree support lets you create isolated checkouts for new or forked sessions using --worktree or /worktree , then browse and resume them. ( #42652 , #43069 , #43120 , #43286 ) \n Answer questions inline while Codex continues working, using suggested choices or custom text without losing your main draft. ( #42891 , #42894 , #42897 ) \n Windows sessions can now share a background Codex server, with daemon lifecycle commands and managed updates. ( #42405 , #42392 ) \n Vim editing gains R replace mode with undo and dot-repeat, plus more reliable Escape handling in legacy terminals. ( #42194 , #42584 ) \n Copying responses preserves formatting in rich-text apps, and /copy can copy status output or individual session fields. ( #42847 , #43055 ) \n \n Bug Fixes \n \n Existing sessions pick up newly installed plugin tools and refresh skills and hooks after external plugin upgrades or rollbacks. ( #42284 , #42593 , #42990 ) \n MCP connections coordinate OAuth token refreshes and surface login challenges when refresh fails, without automatically replaying rejected tool c",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/rust-v0-154-0-8d9adc02.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex",
+        "mcp",
+        "skills",
+        "hooks"
+      ],
+      "점수": 4.258
+    },
+    {
+      "id": "tailwind-is-joining-shopify-8ef59f4c",
+      "출처": "Hacker News",
+      "제목": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "정규url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "발행": "2026-09-09T13:27:11+00:00",
+      "요약": "",
+      "반응": 928,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/tailwind-is-joining-shopify-8ef59f4c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.194
+    },
+    {
+      "id": "blender-viewer-8df2f50f",
+      "출처": "Simon Willison",
+      "제목": ".blend URL Viewer",
+      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "정규url": "https://simonwillison.net/2026/Sep/9/blender-viewer",
+      "발행": "2026-09-09T23:58:32+00:00",
+      "요약": "Tool: .blend URL Viewer \n\n I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ).\n\n As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that celebrate popular culture.\n\n Yesterday I decided to try out the new ChatGPT Images 2.5 by running this prompt :\n\n \n Generate a photo of a faberge egg that's themed after the TV show Pluribus - research first \n\n \n It gave me this - honestly not bad for a first attempt!\n\n \n\n Then, just to see what would happen, I pasted that image into Codex running GPT-6 Astra (high) and prompted:\n\n \n Use your blender local skill to create a blender model of this faverge egg \n\n \n (Here's the skill file , which I created like this .)\n\n It churned away for 17m51s and built me several .blend files . I already had this vibe-coded Blender viewing experiment lying around, so I added that to my tools collection and now you can use it to see my Pluribus blender model in your browser :\n\n \n\n \n \n Tags: 3d , javascript , tools , ai , generative-ai , llms , blender , coding-agents , codex , gpt-6-astra",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/blender-viewer-8df2f50f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 3.793
+    },
+    {
+      "id": "gpt-6-astra-next-generation-work-587a7034",
+      "출처": "OpenAI News",
+      "제목": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "정규url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "발행": "2026-09-09T11:00:00+00:00",
+      "요약": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/gpt-6-astra-next-generation-work-587a7034.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.53
+    }
+  ]
+}
