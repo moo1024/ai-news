@@ -1,0 +1,201 @@
+{
+  "날짜": "2026-09-11",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "v2-1-268-a754c5c4",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.268",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.268",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.268",
+      "발행": "2026-09-10T20:30:54+00:00",
+      "요약": "What's changed \n \n Added to the Claude apps gateway: with pricing: set in gateway.yaml , signed-in Claude Code clients receive the same rates through managed settings, so /cost and telemetry match the spend meter \n Added a startup warning for gateways when access_control.allow_cidrs is empty, and a one-time warning the first time a request arrives from a public address \n Added the gatewayInternalNetworks managed setting, letting administrators allow /login to a Claude apps gateway on their organization's own public IPv4 block \n Added claude self-hosted-runner --remove-session-state (default off): delete each session's per-session directories under <base-dir>/_sessions/ when the session ends \n Added configDirectory to the output of claude auth status --json \n Added --json to claude plugin install , uninstall , update , enable and disable , and errorDetails / noteDetails to each row of claude plugin list --json \n Added browser-tab icons for published artifacts, chosen by Claude to match each page \n Fixed every turn failing with HTTP 400 on third-party Anthropic-compatible endpoints ( ANTHROPIC_BASE_URL ) since 2.1.265: a regex in the Artifact tool's input schema that those endpoints ",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-11/원문/v2-1-268-a754c5c4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.641
+    },
+    {
+      "id": "artemis-563f8ee1",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "google/artemis — ARTEMIS turns natural-language instructions into reliable Android automation. It",
+      "url": "https://github.com/google/artemis",
+      "정규url": "https://github.com/google/artemis",
+      "발행": "2026-09-10T22:30:10.227035+00:00",
+      "요약": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. Created by Google's Pixel-Test-Engineering (PTE) Fusion team.\n\n별 1,528개 · 언어 Python · 생성 2026-08-13 · 토픽 ai-agents, android, google, test-automation, testing",
+      "반응": 1528,
+      "원저자": "google",
+      "본문파일": "2026-09-11/원문/artemis-563f8ee1.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex"
+      ],
+      "점수": 5.317
+    },
+    {
+      "id": "2098118191029624911-c21699cd",
+      "출처": "X @OpenAI",
+      "제목": "Now available: ChatGPT for Financial Services.\n\nThis is a tailored ChatGPT Work experience that combines built-in financ",
+      "url": "https://x.com/OpenAI/status/2098118191029624911",
+      "정규url": "https://x.com/OpenAI/status/2098118191029624911",
+      "발행": "2026-09-10T18:35:32+00:00",
+      "요약": "Now available: ChatGPT for Financial Services.\n\nThis is a tailored ChatGPT Work experience that combines built-in financial data with GPT-6 Astra’s reasoning.\n\nTeams can develop research, build financial models, and create customized client materials.\n\nhttps://t.co/6WP5OJdnE8 https://t.co/AundGG3jtc",
+      "반응": 9482,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-11/원문/2098118191029624911-c21699cd.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.924
+    },
+    {
+      "id": "2098097512544444447-7f2ce4dd",
+      "출처": "X @AnthropicAI",
+      "제목": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for",
+      "url": "https://x.com/AnthropicAI/status/2098097512544444447",
+      "정규url": "https://x.com/AnthropicAI/status/2098097512544444447",
+      "발행": "2026-09-10T17:13:22+00:00",
+      "요약": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report,",
+      "반응": 7837,
+      "원저자": "@AnthropicAI",
+      "본문파일": "2026-09-11/원문/2098097512544444447-7f2ce4dd.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.897
+    },
+    {
+      "id": "v2-1-267-a38ee726",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.267",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267",
+      "발행": "2026-09-09T19:58:14+00:00",
+      "요약": "What's changed \n \n Added maxEffortLevel setting (top-level or per model under modelSettings ): caps the effort level on every provider, including Bedrock, Vertex and Foundry; users can still pick a lower level \n Added --system-prompt-snapshot off to render the system prompt fresh on every request instead of reusing the conversation's recorded prompt (for iterating on prompt text) \n Fixed Cowork scheduled tasks in the cloud failing at startup for organizations whose managed settings require sandboxing \n Fixed /context and other local command output rendering blank on mobile clients \n Fixed shift+enter and option+backspace not working after reconnecting to a tmux or ssh session inside an agent view \n Fixed the dim last-prompt header not appearing at the top of the conversation when scrolling up in fullscreen mode \n Fixed Workflow agent() calls with large output schemas being refused in auto mode instead of being checked by the safety classifier \n Fixed a case where a marketplace entry path containing a backslash could bypass the containment check for fetched marketplaces on macOS and Linux \n Fixed expired AWS or Google Cloud credentials under a host app such as Claude Desktop retryin",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-11/원문/v2-1-267-a38ee726.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 4.666
+    },
+    {
+      "id": "2097786616311840853-35dc9a7e",
+      "출처": "X @OpenAI",
+      "제목": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find a",
+      "url": "https://x.com/OpenAI/status/2097786616311840853",
+      "정규url": "https://x.com/OpenAI/status/2097786616311840853",
+      "발행": "2026-09-09T20:37:58+00:00",
+      "요약": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise.\n\nWe’re sharing what we learned, the architecture, and a practical playbook so you can build https://t.co/Vx9b2EwO8N",
+      "반응": 3584,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-11/원문/2097786616311840853-35dc9a7e.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.497
+    },
+    {
+      "id": "python-v0-154-0-2f252f02",
+      "출처": "Codex 릴리스",
+      "제목": "Python SDK 0.154.0",
+      "url": "https://github.com/openai/codex/releases/tag/python-v0.154.0",
+      "정규url": "https://github.com/openai/codex/releases/tag/python-v0.154.0",
+      "발행": "2026-09-10T19:51:43+00:00",
+      "요약": "Install with pip install --upgrade openai-codex==0.154.0 (Python 3.10 or later). This release includes the matching openai-codex-cli-bin==0.154.0 runtime.\n\n \n Add max and ultra reasoning-effort values. #39662 \n Add ExternalMessage to synchronous and asynchronous run() and turn() calls. External content can start a turn or join an active regular turn with tool-level authority; it does not grant user authorization. Consumers receive independent event streams. #44086 \n Add include_turns on resume/fork, turn_service_tier for one newly started turn, and source metadata. History selection changes the returned response, not model context. Existing defaults are preserved when these options are omitted. #44084 \n Refresh generated protocol models and notifications, and preserve completion events that arrive before a turn-start response. #44032 , #44400 \n \n Check these migrations when upgrading:\n\n \n HookMetadata wraps its handler in .root . Replace accesses such as hook.command with hook.root.command , checking hook.root.handler_type before reading handler-specific fields. \n Some previously unknown notifications now have typed payloads. Read named fields instead of .params ; unknown or invali",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-11/원문/python-v0-154-0-2f252f02.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.339
+    },
+    {
+      "id": "2097930608790167907-c599ab83",
+      "출처": "Hacker News",
+      "제목": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "정규url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "발행": "2026-09-10T06:11:05+00:00",
+      "요약": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "반응": 928,
+      "원저자": "",
+      "본문파일": "2026-09-11/원문/2097930608790167907-c599ab83.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.16
+    },
+    {
+      "id": "item-id-49643556-56ccc6af",
+      "출처": "Hacker News",
+      "제목": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "정규url": "https://news.ycombinator.com/item?id=49643556",
+      "발행": "2026-09-10T13:39:53+00:00",
+      "요약": "I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now.",
+      "반응": 418,
+      "원저자": "",
+      "본문파일": "2026-09-11/원문/item-id-49643556-56ccc6af.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.079
+    },
+    {
+      "id": "swe-2-69669dae",
+      "출처": "Hacker News",
+      "제목": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "정규url": "https://cognition.com/blog/swe-2",
+      "발행": "2026-09-10T15:29:47+00:00",
+      "요약": "",
+      "반응": 321,
+      "원저자": "",
+      "본문파일": "2026-09-11/원문/swe-2-69669dae.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.041
+    },
+    {
+      "id": "3mv6lhq5lyc2v-52219c1f",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "What you are seeing in math right now is a consequence of the jagged frontier, and a precursor of what is to come in oth",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mv6lhq5lyc2v",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mv6lhq5lyc2v",
+      "발행": "2026-09-10T17:32:50.350000+00:00",
+      "요약": "What you are seeing in math right now is a consequence of the jagged frontier, and a precursor of what is to come in other professions. Yes, mathematicians do math, but they also have other tasks they view as important (mentor students, maintain a community, safeguard the future) that AI can't do.",
+      "반응": 96,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-11/원문/3mv6lhq5lyc2v-52219c1f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor"
+      ],
+      "점수": 3.874
+    },
+    {
+      "id": "projects-8e4f4161",
+      "출처": "Cursor 체인지로그",
+      "제목": "Cursor Projects",
+      "url": "https://cursor.com/changelog/projects",
+      "정규url": "https://cursor.com/changelog/projects",
+      "발행": "2026-09-10T00:00:00+00:00",
+      "요약": "Projects lets you take on larger bodies of work, maintain context over months, and delegate tasks to thousands of subagents.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-11/원문/projects-8e4f4161.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "cursor",
+        "subagent"
+      ],
+      "점수": 3.729
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# Slack can now vibe-code interactive charts and reports inside chats
+
+- 출처: The Verge AI
+- 원본 링크: https://www.theverge.com/tech/989853/slackforce-surfaces-launch
+- 발행: 2026-09-10T21:25:21+00:00
+- 접근상태: 확인 완료
+
+---
+
+Slack can now vibe-code interactive charts and reports inside chats | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up close Close Search Light System Dark Tech Expand Amazon Apple Facebook Google Microsoft Samsung Business See all tech Reviews Expand Smart Home Reviews Phone Reviews Tablet Reviews Headphone Reviews See all reviews Science Expand Space Energy Environment Health See all science Entertainment Expand TV Shows Movies Audio See all entertainment AI Expand OpenAI Anthropic See all AI Policy Expand Antitrust Politics Law Security See all policy Gadgets Expand Laptops Phones TVs Headphones Speakers Wearables See all gadgets Verge Shopping Expand Buying Guides Deals Gift Guides See all shopping Gaming Expand Xbox PlayStation Nintendo See all gaming Streaming Expand Disney HBO Netflix YouTube Creators See all streaming Transportation Expand Electric Cars Autonomous Cars Ride-sharing Scooters See all transportation Features Verge Video Expand TikTok YouTube Instagram Podcasts Expand Decoder The Vergecast Version History Newsletters Archives Store Verge Product Updates Subscribe Facebook Threads Instagram Youtube RSS The Verge The Verge logo. Slack can now vibe-code interactive charts and reports inside chats Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... Tech Close Tech Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Tech 
+ AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ News Close News Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All News 
+ Slack can now vibe-code interactive charts and reports inside chats You can ask Slackbot to build a tool for you by just describing it.
+ You can ask Slackbot to build a tool for you by just describing it.
+ by Emma Roth Close Emma Roth News Writer Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Emma Roth 
+ Sep 10, 2026, 9:25 PM UTC Link Share Gift Image: Slack Emma Roth Close Emma Roth Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Emma Roth 
+ is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces , you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.
+ Once Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage. The AI assistant then generates an interactive dashboard showing token usage across different divisions, such as sales, design, and engineering.
+ “You’re not exporting your data to some other tool to make sense of it, you’re asking Slackbot to build the dashboard, the deck, the report right where the conversation already is, and your whole team can act on it together,” Ryan Gavin, Slack’s chief marketing officer, tells The Verge in an email.
+ This update comes just months after Slack overhauled Slackbot to make the tool more like an AI assistant , allowing it to summarize information across channels, sort through messages, and find time to schedule meetings. It also added collaborative vibe coding channels last month.
+ It seems like there are many other ways to use Surfaces, too, like building a live dashboard for a customer support queue that other workers can view, or creating a weather-themed financial forecast that pulls in data from connected apps. Slack notes that the feature will only pull information that you’ve given its AI tools permission to access.
+ Slackforce Surfaces is available to all customers — including those who use it for free — with Slackbot enabled in their workspace. You’ll be able to use it with live data starting in October.
+ Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Emma Roth Close Emma Roth News Writer Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Emma Roth 
+ AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ Apps Close Apps Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Apps 
+ News Close News Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All News 
+ Tech Close Tech Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Tech 
+ Most Popular Most Popular OpenAI’s sly mathematical breakthrough sends a chill through academia Hands-on with the foldable iPhone Duo iPhone 18 Pro and Pro Max: Our first hands-on impressions Video The iPhone Duo is Apple’s first foldable Verge staffers react to the iPhone Duo: What we love and don’t love The Verge Daily A free daily digest of the news that matters most. 
+ Email (required) Sign Up By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Advertiser Content From This is the title for the native ad
+ More in Tech Electric air taxis get the green light for test flights in Texas Meta’s Muse AI works and creeps me out Where to preorder the new Apple Watch Series 12 and Ultra 4 The iPhone Duo’s hardware doesn’t look special, but its software might be Play Why the current tech backlash feels different How the iPhone Duo compares to other folding phones Electric air taxis get the green light for test flights in Texas Andrew J. Hawkins 4:00 PM UTC Meta’s Muse AI works and creeps me out Emma Roth 3:00 PM UTC Where to preorder the new Apple Watch Series 12 and Ultra 4 Cameron Faulkner 3:00 PM UTC The iPhone Duo’s hardware doesn’t look special, but its software might be Dominic Preston 2:21 PM UTC Play Why the current tech backlash feels different Nick Statt , Greg Ott and 1 more 2:00 PM UTC How the iPhone Duo compares to other folding phones Brad Bourque 2:00 PM UTC Advertiser Content From This is the title for the native ad
+ Top Stories 2:21 PM UTC The iPhone Duo’s hardware doesn’t look special, but its software might be 3:00 PM UTC Meta’s Muse AI works and creeps me out 3:00 PM UTC Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game Sep 9 Hands-on with the foldable iPhone Duo 2:00 PM UTC New standards for masculinity are stacked against men’s health The Verge The Verge logo. Facebook Threads Instagram Youtube RSS Contact Tip Us Community Guidelines Archives About Ethics Statement How We Rate and Review Products Cookie Settings Terms of Use Privacy Policy Your California Privacy Rights Your Privacy Choices Cookie Notice AdChoices Licensing FAQ Accessibility Platform Status Penske Media Corporation The Verge is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation.
+ © 2026 VM Publishing, LLC. All rights reserved.
+ Our Sites The American Pavilion ARTnews Art in America Artforum Art Week NYC Beauty Inc Billboard Deadline Dick Clark Productions The Dodo Eater Flow Space FN Gold Derby Golden Globes The Hollywood Reporter IndieWire Life is Beautiful Popsugar Punch SJ Denim Robb Report Rolling Stone SB Nation SHE Media She Knows Sourcing Journal Soaps Sportico StyleCaster SXSW Thrillist Variety The Verge Vibe WWD Notifications Drawer The Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.
+ Sign in

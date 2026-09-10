@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-09-10T12:22:47.260202+00:00
+- 발행: 2026-09-10T22:24:37.127472+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 572 
+ 580 
  
  
 
@@ -358,7 +358,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Issues 
- 21 
+ 20 
 
 
  
@@ -370,7 +370,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Pull requests 
- 22 
+ 11 
 
 
  
@@ -613,7 +613,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 280 Commits 280 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-bot agent-bot     agent-computer agent-computer     agent-langgraph agent-langgraph     app app     assets assets     charts/ openbot charts/ openbot     desktop desktop     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     prompt.txt prompt.txt     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 292 Commits 292 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-bot agent-bot     agent-computer agent-computer     agent-langgraph agent-langgraph     app app     assets assets     charts/ openbot charts/ openbot     desktop desktop     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     prompt.txt prompt.txt     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
  OpenBot 
  AI coworkers you can hand real work to, and actually trust with the access. Each gets a computer of its own: a real browser with its own logins, its own files, and only the tools you grant. Every action decided before it happens and recorded after.
 

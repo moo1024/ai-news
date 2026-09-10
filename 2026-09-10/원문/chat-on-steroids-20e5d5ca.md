@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/totec448-spec/chat-on-steroids
-- 발행: 2026-09-10T12:22:47.260202+00:00
+- 발행: 2026-09-10T22:24:37.127472+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Fork
- 231 
+ 237 
  
  
 
@@ -336,7 +336,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Issues 
- 22 
+ 24 
 
 
  
@@ -348,7 +348,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Pull requests 
- 8 
+ 14 
 
 
  
@@ -712,4 +712,4 @@ sha256sum Chat-On-Steroids-Linux-x64.AppImage # Linux
  
  
  
- The live tool list follows your settings: find is the no-shell search fallback and steps aside when commands are enabled. Enabling Session finish adds the Astra-only session_finish tool. Revoking a permission takes effect immediately, even while ChatGPT still shows the old schema. The full contrac
+ The live tool list follows your settings: find is the no-shell search fallback and steps aside when commands are enabled. Enabling Session finish adds the Astra-only session_finish tool. Revoking a permission takes effect immediately, even while ChatGPT still shows the old schema. The full contra

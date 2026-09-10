@@ -1,8 +1,8 @@
 # cbrock84/headcount — An agent organization for Claude Code, structured as a company — 15+ departments
 
-- 출처: GitHub 신규 (claude-code)
+- 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/cbrock84/headcount
-- 발행: 2026-09-10T12:22:47.260202+00:00
+- 발행: 2026-09-10T22:24:37.127472+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -301,7 +301,7 @@ GitHub - cbrock84/headcount: An agent organization for Claude Code, structured a
  
  
  Star
- 1.3k 
+ 1.4k 
  
  
 
