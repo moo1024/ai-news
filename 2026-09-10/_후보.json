@@ -17,26 +17,7 @@
       "관심주제": [
         "claude code"
       ],
-      "점수": 5.645
-    },
-    {
-      "id": "artemis-563f8ee1",
-      "출처": "GitHub 신규 (claude-code)",
-      "제목": "google/artemis — ARTEMIS turns natural-language instructions into reliable Android automation. It",
-      "url": "https://github.com/google/artemis",
-      "정규url": "https://github.com/google/artemis",
-      "발행": "2026-09-10T22:24:37.127472+00:00",
-      "요약": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. Created by Google's Pixel-Test-Engineering (PTE) Fusion team.\n\n별 1,528개 · 언어 Python · 생성 2026-08-13 · 토픽 ai-agents, android, google, test-automation, testing",
-      "반응": 1528,
-      "원저자": "google",
-      "본문파일": "2026-09-10/원문/artemis-563f8ee1.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "claude-code",
-        "codex"
-      ],
-      "점수": 5.317
+      "점수": 5.426
     },
     {
       "id": "2098118191029624911-c21699cd",
@@ -46,12 +27,12 @@
       "정규url": "https://x.com/OpenAI/status/2098118191029624911",
       "발행": "2026-09-10T18:35:32+00:00",
       "요약": "Now available: ChatGPT for Financial Services.\n\nThis is a tailored ChatGPT Work experience that combines built-in financial data with GPT-6 Astra’s reasoning.\n\nTeams can develop research, build financial models, and create customized client materials.\n\nhttps://t.co/6WP5OJdnE8 https://t.co/AundGG3jtc",
-      "반응": 9307,
+      "반응": 15641,
       "원저자": "@OpenAI",
       "본문파일": "2026-09-10/원문/2098118191029624911-c21699cd.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.926
+      "점수": 4.819
     },
     {
       "id": "2098097512544444447-7f2ce4dd",
@@ -61,12 +42,29 @@
       "정규url": "https://x.com/AnthropicAI/status/2098097512544444447",
       "발행": "2026-09-10T17:13:22+00:00",
       "요약": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report,",
-      "반응": 7628,
+      "반응": 18452,
       "원저자": "@AnthropicAI",
       "본문파일": "2026-09-10/원문/2098097512544444447-7f2ce4dd.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.899
+      "점수": 4.792
+    },
+    {
+      "id": "using-codex-chatgpt-to-search-for-new-an-01415994",
+      "출처": "OpenAI News",
+      "제목": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "정규url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "발행": "2026-09-10T16:00:00+00:00",
+      "요약": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/using-codex-chatgpt-to-search-for-new-an-01415994.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.77
     },
     {
       "id": "v2-1-267-a38ee726",
@@ -83,7 +81,7 @@
       "관심주제": [
         "claude code"
       ],
-      "점수": 4.67
+      "점수": 4.451
     },
     {
       "id": "2097786616311840853-35dc9a7e",
@@ -93,12 +91,29 @@
       "정규url": "https://x.com/OpenAI/status/2097786616311840853",
       "발행": "2026-09-09T20:37:58+00:00",
       "요약": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise.\n\nWe’re sharing what we learned, the architecture, and a practical playbook so you can build https://t.co/Vx9b2EwO8N",
-      "반응": 3584,
+      "반응": 3638,
       "원저자": "@OpenAI",
       "본문파일": "2026-09-10/원문/2097786616311840853-35dc9a7e.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.499
+      "점수": 4.392
+    },
+    {
+      "id": "introducing-the-agents-api-2b26a806",
+      "출처": "OpenAI News",
+      "제목": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "정규url": "https://openai.com/index/introducing-the-agents-api",
+      "발행": "2026-09-10T00:00:00+00:00",
+      "요약": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-10/원문/introducing-the-agents-api-2b26a806.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "codex"
+      ],
+      "점수": 4.192
     },
     {
       "id": "python-v0-154-0-2f252f02",
@@ -115,7 +130,7 @@
       "관심주제": [
         "codex"
       ],
-      "점수": 4.342
+      "점수": 4.173
     },
     {
       "id": "2097930608790167907-c599ab83",
@@ -125,12 +140,12 @@
       "정규url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
       "발행": "2026-09-10T06:11:05+00:00",
       "요약": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "반응": 928,
+      "반응": 948,
       "원저자": "",
       "본문파일": "2026-09-10/원문/2097930608790167907-c599ab83.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.162
+      "점수": 4.068
     },
     {
       "id": "item-id-49643556-56ccc6af",
@@ -140,12 +155,12 @@
       "정규url": "https://news.ycombinator.com/item?id=49643556",
       "발행": "2026-09-10T13:39:53+00:00",
       "요약": "I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now.",
-      "반응": 417,
+      "반응": 438,
       "원저자": "",
       "본문파일": "2026-09-10/원문/item-id-49643556-56ccc6af.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.08
+      "점수": 3.994
     },
     {
       "id": "swe-2-69669dae",
@@ -155,12 +170,12 @@
       "정규url": "https://cognition.com/blog/swe-2",
       "발행": "2026-09-10T15:29:47+00:00",
       "요약": "",
-      "반응": 318,
+      "반응": 366,
       "원저자": "",
       "본문파일": "2026-09-10/원문/swe-2-69669dae.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.04
+      "점수": 3.979
     },
     {
       "id": "3mv6lhq5lyc2v-52219c1f",
@@ -170,31 +185,14 @@
       "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mv6lhq5lyc2v",
       "발행": "2026-09-10T17:32:50.350000+00:00",
       "요약": "What you are seeing in math right now is a consequence of the jagged frontier, and a precursor of what is to come in other professions. Yes, mathematicians do math, but they also have other tasks they view as important (mentor students, maintain a community, safeguard the future) that AI can't do.",
-      "반응": 96,
+      "반응": 105,
       "원저자": "emollick.bsky.social",
       "본문파일": "2026-09-10/원문/3mv6lhq5lyc2v-52219c1f.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "cursor"
       ],
-      "점수": 3.875
-    },
-    {
-      "id": "v2-1-266-c57bc54a",
-      "출처": "Claude Code 릴리스",
-      "제목": "v2.1.266",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266",
-      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266",
-      "발행": "2026-09-08T23:55:14+00:00",
-      "요약": "What's changed \n \n Fixed a 2.1.265 regression affecting LLM-gateway and proxy setups: the undocumented CLAUDE_CODE_USE_GATEWAY environment variable, previously ignored unless ANTHROPIC_BASE_URL and ANTHROPIC_AUTH_TOKEN were both set, began forcing Cloud-gateway sign-in on its own in 2.1.265, so configurations that set it alongside an API key, apiKeyHelper , or custom auth headers failed every request with \"Not signed in to the Cloud gateway\". The variable on its own is ignored again; no configuration change is needed",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-09-10/원문/v2-1-266-c57bc54a.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code"
-      ],
-      "점수": 3.873
+      "점수": 3.817
     }
   ]
 }

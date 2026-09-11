@@ -2,7 +2,7 @@
 
 - 출처: Anthropic (구글뉴스)
 - 원본 링크: https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5
-- 발행: 2026-09-10T14:08:48+00:00
+- 발행: 2026-09-11T01:57:12+00:00
 - 접근상태: 일부 확인 (본문이 짧게만 잡힘)
 
 ---

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/google/artemis
-- 발행: 2026-09-10T22:30:10.227035+00:00
+- 발행: 2026-09-11T04:38:53.303450+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliab
  
  
  Fork
- 133 
+ 148 
  
  
 
@@ -323,7 +323,7 @@ GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliab
  
  
  Star
- 1.5k 
+ 1.7k 
  
  
 
@@ -613,7 +613,7 @@ GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliab
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 110 Commits 110 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     apps apps     artemis artemis     config config     docs/ assets docs/ assets     mcp_server mcp_server     packages packages     playground/ artemis_container playground/ artemis_container     scripts scripts     tests tests     .dockerignore .dockerignore     .env.example .env.example     .gitignore .gitignore     .pre-commit-config.yaml .pre-commit-config.yaml     .quality-baseline.json .quality-baseline.json     CONTRIBUTING.md CONTRIBUTING.md     Dockerfile Dockerfile     LICENSE LICENSE     Makefile Makefile     README.md README.md     README_CN.md README_CN.md     pyproject.toml pyproject.toml     pyright-core.json pyright-core.json     setup.py setup.py     start.bat start.bat     start.sh start.sh     uv.lock uv.lock     View all files Repository files navigation README Code of conduct Contributing Apache-2.0 license Security More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 114 Commits 114 Commits Folders and files Name Name Last commit message Last commit date .github/ workflows .github/ workflows     apps apps     artemis artemis     config config     docs/ assets docs/ assets     mcp_server mcp_server     packages packages     playground playground     scripts scripts     tests tests     .dockerignore .dockerignore     .env.example .env.example     .gitignore .gitignore     .pre-commit-config.yaml .pre-commit-config.yaml     .quality-baseline.json .quality-baseline.json     CONTRIBUTING.md CONTRIBUTING.md     Dockerfile Dockerfile     LICENSE LICENSE     Makefile Makefile     README.md README.md     README_CN.md README_CN.md     pyproject.toml pyproject.toml     pyright-core.json pyright-core.json     setup.py setup.py     start.bat start.bat     start.sh start.sh     uv.lock uv.lock     View all files Repository files navigation README Code of conduct Contributing Apache-2.0 license Security More items 
  
 
 
@@ -871,5 +871,6 @@ agents, models, and image processing remain on the device host:
  
  
 
- Benchmarks: AndroidWorld (SOTA 99%+) 
- Artemis achieved a 99%+ completion rate on AndroidWorld , 
+ What ARTEMIS Installs on Your Phone 
+ The first task on a device installs the Artemis Accessibility Helper , a small
+accessibility serv

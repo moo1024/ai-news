@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/lennney/stop-that-shit
-- 발행: 2026-09-10T22:30:10.227035+00:00
+- 발행: 2026-09-11T04:38:53.303450+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
  
  
  Fork
- 47 
+ 48 
  
  
 
@@ -875,7 +875,7 @@ $stop-that-shit change agents=1 -- 使用一个独立测试 subagent。
  MIT 
 
  About Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.
- take-a-deep-breath0.com/zh/stop-that-shit Topics agent-skills ai-agents ai-coding claude-code codex codex-cli codex-plugin developer-tools guardrails hermes-agent local-first opencode overengineering scope-control yagni Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 1.9k stars Watchers 2 watching Forks 47 forks Report repository Releases Packages Contributors Languages 
+ take-a-deep-breath0.com/zh/stop-that-shit Topics agent-skills ai-agents ai-coding claude-code codex codex-cli codex-plugin developer-tools guardrails hermes-agent local-first opencode overengineering scope-control yagni Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 1.9k stars Watchers 2 watching Forks 48 forks Report repository Releases Packages Contributors Languages 
  
 
 

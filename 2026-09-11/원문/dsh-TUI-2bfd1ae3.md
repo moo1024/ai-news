@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/ccch1mneyyy/dsh-TUI
-- 발행: 2026-09-10T22:30:10.227035+00:00
+- 발행: 2026-09-11T04:38:53.303450+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Fork
- 175 
+ 176 
  
  
 
@@ -301,7 +301,7 @@ GitHub - ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Cl
  
  
  Star
- 2.9k 
+ 3k 
  
  
 
@@ -831,4 +831,4 @@ shim。生产代码直接导入 src/adapter/standard/* ； verify:compat-removal
  新 Kernel 不再是 P1 空壳： KernelRuntime 管理 driver 注册/mount、detection、
  declared → staged → live 、清理与诊断快照；生产 Host Descriptor、 getHostFacade() 、
  /doctor 、 /plugins 均走该 runtime。 
- P3 feature-level live 拆分 ： Wor
+ P3 feature-level live 拆分 ： Works

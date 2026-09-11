@@ -1,0 +1,42 @@
+# Universal Music is launching an AI music platform with ElevenLabs
+
+- 출처: The Verge AI
+- 원본 링크: https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai
+- 발행: 2026-09-10T15:38:19+00:00
+- 접근상태: 확인 완료
+
+---
+
+Universal Music is launching an AI music platform with ElevenLabs | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up close Close Search Light System Dark Tech Expand Amazon Apple Facebook Google Microsoft Samsung Business See all tech Reviews Expand Smart Home Reviews Phone Reviews Tablet Reviews Headphone Reviews See all reviews Science Expand Space Energy Environment Health See all science Entertainment Expand TV Shows Movies Audio See all entertainment AI Expand OpenAI Anthropic See all AI Policy Expand Antitrust Politics Law Security See all policy Gadgets Expand Laptops Phones TVs Headphones Speakers Wearables See all gadgets Verge Shopping Expand Buying Guides Deals Gift Guides See all shopping Gaming Expand Xbox PlayStation Nintendo See all gaming Streaming Expand Disney HBO Netflix YouTube Creators See all streaming Transportation Expand Electric Cars Autonomous Cars Ride-sharing Scooters See all transportation Features Verge Video Expand TikTok YouTube Instagram Podcasts Expand Decoder The Vergecast Version History Newsletters Archives Store Verge Product Updates Subscribe Facebook Threads Instagram Youtube RSS The Verge The Verge logo. Universal Music is launching an AI music platform with ElevenLabs Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ Entertainment Close Entertainment Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Entertainment 
+ News Close News Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All News 
+ Universal Music is launching an AI music platform with ElevenLabs UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks.
+ UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks.
+ by Emma Roth Close Emma Roth News Writer Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Emma Roth 
+ Sep 10, 2026, 3:38 PM UTC Link Share Gift Cath Virginia / The Verge | Photo from Getty Images Emma Roth Close Emma Roth Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Emma Roth 
+ is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday . The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.
+ Artists can choose whether to participate in UMG and ElevenLabs’ upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify , Nvidia , and Klay . This week, Suno released its first AI music model trained on licensed songs from Warner Music Group, BMG, and music industry partners.
+ UMG and ElevenLabs’ partnership will also include the “development of additional products and fan experiences in the months and years to come,” though the press release doesn’t include other details about what this might entail.
+ Related AI music is flooding streaming services — but who wants it? Musicians-turned-detectives are hunting for AI grifters ”By combining UMG’s global community and rights management expertise, with our AI models and products, we’ll enable artists and songwriters to create powerful new experiences for their fans, and ensure they are fairly compensated,” ElevenLabs CEO Mati Staniszewski says in the press release. The new AI music platform will remain separate from ElevenLabs’ Music API and ElevenMusic generator .
+ Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Emma Roth Close Emma Roth News Writer Posts from this author will be added to your daily email digest and your homepage feed.
+ Follow Follow See All by Emma Roth 
+ AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All AI 
+ Entertainment Close Entertainment Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Entertainment 
+ Music Close Music Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All Music 
+ News Close News Posts from this topic will be added to your daily email digest and your homepage feed.
+ Follow Follow See All News 
+ Most Popular Most Popular OpenAI’s sly mathematical breakthrough sends a chill through academia Hands-on with the foldable iPhone Duo The iPhone Duo is Apple’s first foldable iPhone 18 Pro and Pro Max: Our first hands-on impressions Video Verge staffers react to the iPhone Duo: What we love and don’t love The Verge Daily A free daily digest of the news that matters most. 
+ Email (required) Sign Up By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Advertiser Content From This is the title for the native ad
+ More in AI Schools are catching on to Big Tech’s playbook Meta’s Muse AI works and creeps me out Play Why the current tech backlash feels different Mathematicians want proof OpenAI didn’t use their work  Suno releases its first AI music model made with record industry help OpenAI’s sly mathematical breakthrough sends a chill through academia Schools are catching on to Big Tech’s playbook Lauren Feiner Sep 10 Meta’s Muse AI works and creeps me out Emma Roth Sep 10 Play Why the current tech backlash feels different Nick Statt , Greg Ott and 1 more Sep 10 Mathematicians want proof OpenAI didn’t use their work  Robert Hart Sep 10 Suno releases its first AI music model made with record industry help Terrence O'Brien Sep 9 OpenAI’s sly mathematical breakthrough sends a chill through academia Robert Hart Sep 9 Advertiser Content From This is the title for the native ad
+ Top Stories Sep 10 The iPhone Duo’s hardware doesn’t look special, but its software might be Sep 10 Meta’s Muse AI works and creeps me out Sep 10 Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game Sep 9 Hands-on with the foldable iPhone Duo Sep 10 New standards for masculinity are stacked against men’s health The Verge The Verge logo. Facebook Threads Instagram Youtube RSS Contact Tip Us Community Guidelines Archives About Ethics Statement How We Rate and Review Products Cookie Settings Terms of Use Privacy Policy Your California Privacy Rights Your Privacy Choices Cookie Notice AdChoices Licensing FAQ Accessibility Platform Status Penske Media Corporation The Verge is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation.
+ © 2026 VM Publishing, LLC. All rights reserved.
+ Our Sites The American Pavilion ARTnews Art in America Artforum Art Week NYC Beauty Inc Billboard Deadline Dick Clark Productions The Dodo Eater Flow Space FN Gold Derby Golden Globes The Hollywood Reporter IndieWire Life is Beautiful Popsugar Punch SJ Denim Robb Report Rolling Stone SB Nation SHE Media She Knows Sourcing Journal Soaps Sportico StyleCaster SXSW Thrillist Variety The Verge Vibe WWD Notifications Drawer The Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.
+ Sign in

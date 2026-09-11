@@ -112,11 +112,11 @@ Tool: .blend URL Viewer
  Recent articles 
  
  
+ Some thoughts on the Navier–Stokes Millennium Prize Problem - 8th September 2026 
+ 
  The Pelican comparison grid for Astra is pretty interesting - 4th September 2026 
  
  OpenAI's rogue agents were caught communicating via public wikis - 4th September 2026 
- 
- Claude's new system prompt really doesn't want to reproduce song lyrics - 2nd September 2026 
  
  
  
@@ -153,17 +153,17 @@ Tool: .blend URL Viewer
  
  
  ai
- 2,226 
+ 2,227 
  
  
  
  generative-ai
- 1,972 
+ 1,973 
  
  
  
  llms
- 1,938 
+ 1,939 
  
  
  

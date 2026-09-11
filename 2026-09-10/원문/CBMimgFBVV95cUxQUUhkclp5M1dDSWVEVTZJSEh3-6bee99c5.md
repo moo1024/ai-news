@@ -1,4 +1,4 @@
-# Unity Unveils Official Unity Plugin for Claude Code - Inven Global
+# Unity Unveils Official Unity Plugin for Claude Code - invenglobal.com
 
 - 출처: 코딩에이전트 (구글뉴스)
 - 원본 링크: https://news.google.com/rss/articles/CBMimgFBVV95cUxQUUhkclp5M1dDSWVEVTZJSEh3TEN0TUhfOTB6TE01MHRKYmQyc1VsTWtick8xSjNsMFlsQ0JzWURtZm00eEtUVXk5QzRVU2tncmJPdERKQm9oamVtQml3V2twUjZxMDJmeXliVFlZU1ROU0YxMC03cUN0eDJGeEp6cVZnajREZHJxcHdDMnU4U0dpSWxUX29Xc2h3?oc=5
