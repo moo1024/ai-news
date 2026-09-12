@@ -1,0 +1,19 @@
+# Perplexity trusts GPT-6 Astra with end-to-end systems
+
+- 출처: OpenAI News
+- 원본 링크: https://openai.com/index/perplexity-improving-accuracy-with-astra
+- 발행: 2026-09-14T00:00:00+00:00
+- 접근상태: 확인 완료
+
+---
+
+Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI September 14, 2026
+ Perplexity trusts GPT‑6 Astra with end-to-end systems Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
+ Start building with OpenAI Company size: Startup Region: North America Industry: Technology Products: API Loading… Share As an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely. 
+ But the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra. 
+ “We can have the model craft communications, edit real-world systems, and monitor our production software in a way that previous generations were not able to.” —Johnny Ho, Cofounder and Chief Strategy Officer, Perplexity Letting the model do the testing For Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application. 
+ The model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish. 
+ “We’re actually able to trust it with full end-to-end systems and check in on it much less frequently than previous generations of models.” —Johnny Ho, Cofounder and Chief Strategy Officer, Perplexity OpenAI <3 startups Join the community Start building (opens in a new window) Keep reading Rapidly scaling online storage to serve over 1 billion ChatGPT users Engineering Sep 11, 2026 
+ Cognition helps Devin test its own work with GPT‑6 Astra Sep 11, 2026 
+ How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules Applied AI Sep 10, 2026 
+ Research Research Index Research Overview Economic Research Latest Advancements GPT-6 GPT-5.6 GPT-5.5 GPT-5.4 Safety Safety Approach Deployment Safety (opens in a new window) Security & Privacy Trust & Transparency Products ChatGPT (opens in a new window) ChatGPT Business (opens in a new window) ChatGPT Enterprise (opens in a new window) ChatGPT for Education (opens in a new window) Codex Release Notes API Platform Overview API Log In (opens in a new window) Docs (opens in a new window) Business Overview Solutions Resources Customer Stories Partner Network Contact Sales Developers Apps SDK (opens in a new window) Open Models Docs (opens in a new window) Resources (opens in a new window) Developer Forum (opens in a new window) Company About Us Our Charter Careers News Support Help Center (opens in a new window) More Stories Academy Supply Co. Livestreams Podcast RSS Terms & Policies Terms of Use Privacy Policy Other Policies (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) OpenAI © 2015–2026 Manage Cookies English United States

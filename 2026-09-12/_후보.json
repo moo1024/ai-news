@@ -1,0 +1,200 @@
+{
+  "날짜": "2026-09-12",
+  "건수": 12,
+  "항목": [
+    {
+      "id": "codenotch-0279bd97",
+      "출처": "GitHub 신규 (claude-code)",
+      "제목": "vinzdg/codenotch — A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav",
+      "url": "https://github.com/vinzdg/codenotch",
+      "정규url": "https://github.com/vinzdg/codenotch",
+      "발행": "2026-09-12T10:54:37.403848+00:00",
+      "요약": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.\n\n별 1,481개 · 언어 Swift · 생성 2026-09-05",
+      "반응": 1481,
+      "원저자": "vinzdg",
+      "본문파일": "2026-09-12/원문/codenotch-0279bd97.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code",
+        "claude-code",
+        "codex",
+        "cursor"
+      ],
+      "점수": 5.306
+    },
+    {
+      "id": "northcinder-3426536d",
+      "출처": "GitHub 신규 (MCP 서버)",
+      "제목": "cinderline/northcinder — Open-source MCP server for comparing products and asking the buyer before purcha",
+      "url": "https://github.com/cinderline/northcinder",
+      "정규url": "https://github.com/cinderline/northcinder",
+      "발행": "2026-09-12T10:54:37.403848+00:00",
+      "요약": "Open-source MCP server for comparing products and asking the buyer before purchase.\n\n별 1,209개 · 언어 JavaScript · 생성 2026-08-17 · 토픽 agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted",
+      "반응": 1209,
+      "원저자": "cinderline",
+      "본문파일": "2026-09-12/원문/northcinder-3426536d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "mcp",
+        "agentic"
+      ],
+      "점수": 5.235
+    },
+    {
+      "id": "reverify-f1e34982",
+      "출처": "GitHub 신규 (AI 에이전트)",
+      "제목": "2akouwu/reverify — Stop your AI from making things up — it proposes, deterministic tools decide, ev",
+      "url": "https://github.com/2akouwu/reverify",
+      "정규url": "https://github.com/2akouwu/reverify",
+      "발행": "2026-09-12T10:54:37.403848+00:00",
+      "요약": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.\n\n별 1,166개 · 언어 Python · 생성 2026-08-31 · 토픽 ai, ai-agents, ai-coding, anti-hallucination, binary-analysis, context-engineering, ctf, developer-tools",
+      "반응": 1166,
+      "원저자": "2akouwu",
+      "본문파일": "2026-09-12/원문/reverify-f1e34982.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "mcp"
+      ],
+      "점수": 5.222
+    },
+    {
+      "id": "v2-1-269-1a2a404d",
+      "출처": "Claude Code 릴리스",
+      "제목": "v2.1.269",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.269",
+      "정규url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.269",
+      "발행": "2026-09-11T19:17:55+00:00",
+      "요약": "What's changed \n \n Added claude plugin eval : run a plugin's eval suite against Claude Code and get scored, reproducible results (JSON + HTML report); see claude plugin eval --help \n Added /output-style [name] to list and switch output styles, including over Remote Control and in cloud and other headless sessions \n Added a diff of the files a Bash command changed to the Bash tool result when the Bash tool handles file edits (setting bashEditDiffEnabled ) \n Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events with vcs.* repository attributes; commit events get vcs.ref.head.* with OTEL_LOG_TOOL_DETAILS \n Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway /v1/models discovery timeout (default 3s) \n Added a spinner tip suggesting /focus for a view with just your prompt, a one-line work summary, and the response \n Added CLAUDE_CODE_WORKFLOW_MAX_CONCURRENT_AGENTS (1–256) to raise the Workflow tool's per-run concurrent agent limit for inference-bound fan-outs \n Fixed the prompt cache being partially invalidated on the turn after a response was cut off at the output-token limit and automatically resumed \n Fixed a case where resuming a se",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-12/원문/v2-1-269-1a2a404d.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "claude code"
+      ],
+      "점수": 5.1
+    },
+    {
+      "id": "15171100-age-assurance-on-claude-8e10c987",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "정규url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "발행": "2026-09-11T10:48:00+00:00",
+      "요약": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude \n\n Comments URL: https://news.ycombinator.com/item?id=49656225 \n\n Points: 646\n\n # Comments: 629",
+      "반응": 646,
+      "원저자": "",
+      "본문파일": "2026-09-12/원문/15171100-age-assurance-on-claude-8e10c987.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.421
+    },
+    {
+      "id": "graphify-csharp-4cfbd6f7",
+      "출처": "Hacker News",
+      "제목": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "url": "https://github.com/zachsaw/graphify-csharp",
+      "정규url": "https://github.com/zachsaw/graphify-csharp",
+      "발행": "2026-09-12T00:16:10+00:00",
+      "요약": "",
+      "반응": 36,
+      "원저자": "",
+      "본문파일": "2026-09-12/원문/graphify-csharp-4cfbd6f7.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 4.404
+    },
+    {
+      "id": "2098417966647808219-38b598d2",
+      "출처": "X @GoogleDeepMind",
+      "제목": "How can we reconstruct a memory that was never filmed?\n\nOur team paired restored archival photos with pose control model",
+      "url": "https://x.com/GoogleDeepMind/status/2098417966647808219",
+      "정규url": "https://x.com/GoogleDeepMind/status/2098417966647808219",
+      "발행": "2026-09-11T14:26:44+00:00",
+      "요약": "How can we reconstruct a memory that was never filmed?\n\nOur team paired restored archival photos with pose control models to capture the mannerisms and micro-expressions of Burt and Ethelle.\n\nThis helped bring the day they first met to life for Love, Rendered, a new documentary https://t.co/2mMxcmRyva",
+      "반응": 1044,
+      "원저자": "@GoogleDeepMind",
+      "본문파일": "2026-09-12/원문/2098417966647808219-38b598d2.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.289
+    },
+    {
+      "id": "rubyhack-ai-375ca38a",
+      "출처": "Hacker News",
+      "제목": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "정규url": "https://rubyhack.ai",
+      "발행": "2026-09-11T23:17:42+00:00",
+      "요약": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...",
+      "반응": 724,
+      "원저자": "",
+      "본문파일": "2026-09-12/원문/rubyhack-ai-375ca38a.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.178
+    },
+    {
+      "id": "mathandai-org-da05411f",
+      "출처": "Hacker News",
+      "제목": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "정규url": "https://mathandai.org",
+      "발행": "2026-09-11T17:45:12+00:00",
+      "요약": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/...",
+      "반응": 948,
+      "원저자": "",
+      "본문파일": "2026-09-12/원문/mathandai-org-da05411f.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.151
+    },
+    {
+      "id": "perplexity-improving-accuracy-with-astra-12e9dd68",
+      "출처": "OpenAI News",
+      "제목": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "정규url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "발행": "2026-09-14T00:00:00+00:00",
+      "요약": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-12/원문/perplexity-improving-accuracy-with-astra-12e9dd68.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.0
+    },
+    {
+      "id": "2098118232133792050-e4fdec5c",
+      "출처": "X @OpenAI",
+      "제목": "Premium financial data is included, with datasets from Daloopa, PitchBook, and LSEG News. https://t.co/xRcmuzDcA2",
+      "url": "https://x.com/OpenAI/status/2098118232133792050",
+      "정규url": "https://x.com/OpenAI/status/2098118232133792050",
+      "발행": "2026-09-10T18:35:42+00:00",
+      "요약": "Premium financial data is included, with datasets from Daloopa, PitchBook, and LSEG News. https://t.co/xRcmuzDcA2",
+      "반응": 1040,
+      "원저자": "@OpenAI",
+      "본문파일": "2026-09-12/원문/2098118232133792050-e4fdec5c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.902
+    },
+    {
+      "id": "cognition-devin-testing-with-astra-c3aa3382",
+      "출처": "OpenAI News",
+      "제목": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "정규url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "발행": "2026-09-11T16:00:00+00:00",
+      "요약": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-12/원문/cognition-devin-testing-with-astra-c3aa3382.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.475
+    }
+  ]
+}
