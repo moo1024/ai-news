@@ -4,23 +4,22 @@
   "항목": [
     {
       "id": "agent-memory-9bb95970",
-      "출처": "GitHub 신규 (MCP 서버)",
+      "출처": "GitHub 신규 (claude-code)",
       "제목": "tigerless-labs/agent-memory — Long-term memory runtime for AI agents — plain Markdown as the source of truth,",
       "url": "https://github.com/tigerless-labs/agent-memory",
       "정규url": "https://github.com/tigerless-labs/agent-memory",
-      "발행": "2026-09-14T03:56:25.935712+00:00",
-      "요약": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.\n\n별 1,283개 · 언어 Python · 생성 2026-09-01 · 토픽 agent-memory, ai-agents, claude-code, codex, llm, local-first, long-term-memory, markdown",
-      "반응": 1283,
+      "발행": "2026-09-14T10:55:27.897306+00:00",
+      "요약": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.\n\n별 1,421개 · 언어 Python · 생성 2026-09-01 · 토픽 agent-memory, ai-agents, claude-code, codex, llm, local-first, long-term-memory, markdown",
+      "반응": 1421,
       "원저자": "tigerless-labs",
       "본문파일": "2026-09-14/원문/agent-memory-9bb95970.md",
       "본문상태": "확인 완료",
       "관심주제": [
         "claude code",
         "claude-code",
-        "codex",
-        "mcp"
+        "codex"
       ],
-      "점수": 5.256
+      "점수": 5.292
     },
     {
       "id": "anything2explainer-6030e95c",
@@ -28,9 +27,9 @@
       "제목": "Vincentwei1021/anything2explainer — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a",
       "url": "https://github.com/Vincentwei1021/anything2explainer",
       "정규url": "https://github.com/Vincentwei1021/anything2explainer",
-      "발행": "2026-09-14T03:56:25.935712+00:00",
-      "요약": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.\n\n별 1,194개 · 언어 TypeScript · 생성 2026-09-08 · 토픽 agent-skills, ai-agents, ai-video, claude-code, claude-code-skill, codex, edge-tts, educational-video",
-      "반응": 1194,
+      "발행": "2026-09-14T10:55:27.897306+00:00",
+      "요약": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.\n\n별 1,256개 · 언어 TypeScript · 생성 2026-09-08 · 토픽 agent-skills, ai-agents, ai-video, claude-code, claude-code-skill, codex, edge-tts, educational-video",
+      "반응": 1256,
       "원저자": "Vincentwei1021",
       "본문파일": "2026-09-14/원문/anything2explainer-6030e95c.md",
       "본문상태": "확인 완료",
@@ -40,7 +39,7 @@
         "codex",
         "skills"
       ],
-      "점수": 5.23
+      "점수": 5.248
     },
     {
       "id": "y-combinators-garry-tan-wants-u-s-open-w-543492d8",
@@ -50,12 +49,12 @@
       "정규url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "발행": "2026-09-13T15:44:38+00:00",
       "요약": "",
-      "반응": 369,
+      "반응": 390,
       "원저자": "",
       "본문파일": "2026-09-14/원문/y-combinators-garry-tan-wants-u-s-open-w-543492d8.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.985
+      "점수": 3.874
     },
     {
       "id": "2098973625252708460-4e3f293e",
@@ -65,27 +64,27 @@
       "정규url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "발행": "2026-09-13T16:52:33+00:00",
       "요약": "",
-      "반응": 283,
+      "반응": 305,
       "원저자": "",
       "본문파일": "2026-09-14/원문/2098973625252708460-4e3f293e.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.933
+      "점수": 3.828
     },
     {
-      "id": "why-are-ai-agents-lying-cheating-and-coo-ae1c0b14",
+      "id": "case-against-jxl-2f61b197",
       "출처": "Hacker News",
-      "제목": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "정규url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "발행": "2026-09-13T01:22:31+00:00",
+      "제목": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "정규url": "https://giannirosato.com/blog/post/case-against-jxl",
+      "발행": "2026-09-14T01:02:37+00:00",
       "요약": "",
-      "반응": 604,
+      "반응": 171,
       "원저자": "",
-      "본문파일": "2026-09-14/원문/why-are-ai-agents-lying-cheating-and-coo-ae1c0b14.md",
+      "본문파일": "2026-09-14/원문/case-against-jxl-2f61b197.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.859
+      "점수": 3.819
     },
     {
       "id": "commit-rewriter-3dab7f17",
@@ -102,25 +101,7 @@
       "관심주제": [
         "coding agent"
       ],
-      "점수": 3.806
-    },
-    {
-      "id": "houthis-used-claude-code-to-develop-miss-7f49d820",
-      "출처": "코딩에이전트 (HN)",
-      "제목": "Houthis used Claude Code to develop missile guidance software: Anthropic",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "정규url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "발행": "2026-09-13T14:15:40+00:00",
-      "요약": "Article URL: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo \n\n Comments URL: https://news.ycombinator.com/item?id=49684266 \n\n Points: 97\n\n # Comments: 86",
-      "반응": 0,
-      "원저자": "",
-      "본문파일": "2026-09-14/원문/houthis-used-claude-code-to-develop-miss-7f49d820.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "claude-code"
-      ],
-      "점수": 3.765
+      "점수": 3.617
     },
     {
       "id": "2097679796687769689-901c19af",
@@ -130,7 +111,7 @@
       "정규url": "https://x.com/AnthropicAI/status/2097679796687769689",
       "발행": "2026-09-09T13:33:31+00:00",
       "요약": "Anthropic’s Economics team is sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030.\n\nExplore the scenarios, tell us what you think will happen, and see how your answers compare to more than 10,000 Americans. https://t.co/AvQlEZNxR0",
-      "반응": 25499,
+      "반응": 25508,
       "원저자": "@AnthropicAI",
       "본문파일": "2026-09-14/원문/2097679796687769689-901c19af.md",
       "본문상태": "확인 완료",
@@ -145,27 +126,12 @@
       "정규url": "https://bsky.app/profile/simonwillison.net/post/3mvf4da4qes25",
       "발행": "2026-09-13T07:50:31.363000+00:00",
       "요약": "The semantic drift of “AI psychosis” from “break with reality exacerbated or caused by sycophantic chatbots” to “person with strong feelings about AI which are not the same as the strong feelings of AI held by the speaker” is bad",
-      "반응": 260,
+      "반응": 268,
       "원저자": "simonwillison.net",
       "본문파일": "2026-09-14/원문/3mvf4da4qes25-36930bbb.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.059
-    },
-    {
-      "id": "3mvghxans7c2g-2e414fd4",
-      "출처": "Bluesky emollick.bsky.social",
-      "제목": "Those effects will not be all at once, but the fact that change will occur is inevitable now. But inevitable change does",
-      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvghxans7c2g",
-      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mvghxans7c2g",
-      "발행": "2026-09-13T20:51:13.906000+00:00",
-      "요약": "Those effects will not be all at once, but the fact that change will occur is inevitable now. But inevitable change does not mean the type of change is inevitable. It is increasingly important that we develop & share models of AI-human work that enhance, rather than only replace, human labor.",
-      "반응": 72,
-      "원저자": "emollick.bsky.social",
-      "본문파일": "2026-09-14/원문/3mvghxans7c2g-2e414fd4.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 2.876
+      "점수": 2.98
     },
     {
       "id": "3mvgvewqm2c2k-5c3ae127",
@@ -175,12 +141,27 @@
       "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mvgvewqm2c2k",
       "발행": "2026-09-14T00:51:31.922000+00:00",
       "요약": "There seems to be a persistent belief that frontier AI companies are unprofitable serving models but it appears that Anthropic has 80%+ gross margins on inference. Training for new models are where most of the costs are. www.ft.com/content/4564...",
-      "반응": 47,
+      "반응": 81,
       "원저자": "emollick.bsky.social",
       "본문파일": "2026-09-14/원문/3mvgvewqm2c2k-5c3ae127.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.812
+      "점수": 2.87
+    },
+    {
+      "id": "3mvghxans7c2g-2e414fd4",
+      "출처": "Bluesky emollick.bsky.social",
+      "제목": "Those effects will not be all at once, but the fact that change will occur is inevitable now. But inevitable change does",
+      "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvghxans7c2g",
+      "정규url": "https://bsky.app/profile/emollick.bsky.social/post/3mvghxans7c2g",
+      "발행": "2026-09-13T20:51:13.906000+00:00",
+      "요약": "Those effects will not be all at once, but the fact that change will occur is inevitable now. But inevitable change does not mean the type of change is inevitable. It is increasingly important that we develop & share models of AI-human work that enhance, rather than only replace, human labor.",
+      "반응": 86,
+      "원저자": "emollick.bsky.social",
+      "본문파일": "2026-09-14/원문/3mvghxans7c2g-2e414fd4.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 2.836
     },
     {
       "id": "paul-ford-ee6663ae",
@@ -195,7 +176,22 @@
       "본문파일": "2026-09-14/원문/paul-ford-ee6663ae.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 2.293
+      "점수": 2.147
+    },
+    {
+      "id": "trump-mike-johnson-ai-industry-overreact-a324b0b8",
+      "출처": "The Verge AI",
+      "제목": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "정규url": "https://theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "발행": "2026-09-13T19:41:48+00:00",
+      "요약": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-14/원문/trump-mike-johnson-ai-industry-overreact-a324b0b8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 1.967
     }
   ]
 }

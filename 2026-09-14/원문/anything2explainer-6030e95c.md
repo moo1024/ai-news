@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (AI 에이전트)
 - 원본 링크: https://github.com/Vincentwei1021/anything2explainer
-- 발행: 2026-09-14T03:56:25.935712+00:00
+- 발행: 2026-09-14T10:55:27.897306+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - Vincentwei1021/anything2explainer: Topic in, narrated explainer video o
  
  
  Fork
- 210 
+ 214 
  
  
 
@@ -301,7 +301,7 @@ GitHub - Vincentwei1021/anything2explainer: Topic in, narrated explainer video o
  
  
  Star
- 1.2k 
+ 1.3k 
  
  
 

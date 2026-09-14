@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/totec448-spec/chat-on-steroids
-- 발행: 2026-09-14T03:56:25.935712+00:00
+- 발행: 2026-09-14T10:55:27.897306+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Fork
- 308 
+ 317 
  
  
 
@@ -301,7 +301,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Star
- 2.3k 
+ 2.5k 
  
  
 
@@ -336,7 +336,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Issues 
- 39 
+ 40 
 
 
  
@@ -348,7 +348,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Pull requests 
- 14 
+ 17 
 
 
  
@@ -630,7 +630,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  Not affiliated with or endorsed by OpenAI. ChatGPT and Codex are OpenAI trademarks. 
 
  About Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
- Topics automation chatgpt chrome-extension electron linux local-first macos mcp multi-agent windows Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 2.3k stars Watchers 7 watching Forks 308 forks Report repository Releases Packages Contributors Languages 
+ Topics automation chatgpt chrome-extension electron linux local-first macos mcp multi-agent windows Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 2.5k stars Watchers 7 watching Forks 317 forks Report repository Releases Packages Contributors Languages 
  
 
 

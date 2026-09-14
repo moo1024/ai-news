@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/nateherkai/scroll-craft
-- 발행: 2026-09-14T03:56:25.935712+00:00
+- 발행: 2026-09-14T10:55:27.897306+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - nateherkai/scroll-craft: An agent skill for building premium, immersive
  
  
  Fork
- 364 
+ 365 
  
  
 

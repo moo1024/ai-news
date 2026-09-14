@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-09-14T03:56:25.935712+00:00
+- 발행: 2026-09-14T10:55:27.897306+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 615 
+ 616 
  
  
 
@@ -370,7 +370,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Pull requests 
- 9 
+ 10 
 
 
  
@@ -847,4 +847,4 @@ most recent release and a version tag such as :v0.0.9 pins one.
  CEL policy, fail closed : rules can inspect tool.name , intent , bot.id , actor.id , page.url , page.host , element.* , key , file.* and mcp.* . Deny is evaluated before allow, a missing policy permits nothing, and a broken rule refuses rather than opens. 
  Watch what it is doing : the screen shows what a Bot is looking at, and the Activity tab beside it shows what it ran, read and saved, with the output. A command line in the transcript opens to the same thing. A saved file shows its path and size, never its contents. 
  Take the wheel : a Bot that hits a login wall or a 2FA prompt asks for help. Control is handed over in the same panel and recorded as computer.help_requested , computer.control_taken and computer.control_released . While a person is driving, Bot actions are refused rather than queued. 
- Secrets nev
+ Secrets ne

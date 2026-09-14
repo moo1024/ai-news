@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/s1dashu/ip-as-logo-skill
-- 발행: 2026-09-14T03:56:25.935712+00:00
+- 발행: 2026-09-14T10:55:27.897306+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - s1dashu/ip-as-logo-skill: A compact Agent Skill for highly simplified, 
  
  
  Fork
- 264 
+ 265 
  
  
 
@@ -639,7 +639,7 @@ LICENSE
  MIT
 
  About A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
- ipaslogo.com Topics codex codex-skill image-generation logo-design mascot-design Resources Readme MIT license Activity Stars 5.2k stars Watchers 7 watching Forks 264 forks Report repository Releases Packages Contributors 
+ ipaslogo.com Topics codex codex-skill image-generation logo-design mascot-design Resources Readme MIT license Activity Stars 5.2k stars Watchers 7 watching Forks 265 forks Report repository Releases Packages Contributors 
  
 
 
