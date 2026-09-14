@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-15",
+  "브리핑페이지": "https://app.notion.com/p/3db3f6aa67a481a0be02e211f7b050c2",
+  "정식아카이빙": [
+    {"id": "v2-1-271-bb4d61db", "source_library": "https://app.notion.com/p/3db3f6aa67a481308194cfc5f3ccc086", "서고": "https://app.notion.com/p/3db3f6aa67a4810fb84cd16d82844611", "결과": "중복 — 건너뜀"},
+    {"id": "codex-with-chatgpt-61c5cb98", "source_library": "https://app.notion.com/p/3cd3f6aa67a481b0968fcb4742b722bb", "서고": "https://app.notion.com/p/3cd3f6aa67a4814d813eda0431e41954", "결과": "중복 — 건너뜀"},
+    {"id": "agent-memory-9bb95970", "source_library": "https://app.notion.com/p/3db3f6aa67a481848e49f1cc500d15d6", "서고": "https://app.notion.com/p/3db3f6aa67a4813e8bb1d3f8bf645af6", "결과": "중복 — 건너뜀"},
+    {"id": "anything2explainer-6030e95c", "source_library": "https://app.notion.com/p/3db3f6aa67a4817f9181fe966561a4d2", "서고": "https://app.notion.com/p/3db3f6aa67a481d396d1cb3ce6fe36c7", "결과": "중복 — 건너뜀"},
+    {"id": "2099575049929802053-a4b04291", "source_library": "https://app.notion.com/p/3db3f6aa67a48120978fc0d014ce859e", "서고": "https://app.notion.com/3db3f6aa67a4818fae28e8dc20a37405", "결과": "중복 — 건너뜀"},
+    {"id": "what-a-time-to-be-alive-dce815e0", "source_library": "https://app.notion.com/p/3db3f6aa67a481cb8aa5d37a0c9218e0", "서고": "https://app.notion.com/3db3f6aa67a48115885df3876ef3f33e", "결과": "중복 — 건너뜀"},
+    {"id": "why-we-built-pion-310d4fd0", "source_library": "https://app.notion.com/p/3db3f6aa67a48123a283ec1d9c0193dd", "서고": "https://app.notion.com/p/3db3f6aa67a481dc8db1f4b5d62baede", "결과": "중복 — 건너뜀"},
+    {"id": "oracle-new-layoffs-restructuring-costs-2-bf24e5fd", "source_library": "https://app.notion.com/p/3db3f6aa67a481bcbbddf66e27b111d2", "서고": "https://app.notion.com/p/3db3f6aa67a481739bf3ccc26fccf069", "결과": "중복 — 건너뜀"},
+    {"id": "2099575262807478493-d06c1cc5", "source_library": "https://app.notion.com/p/3db3f6aa67a481628bb4f7ed8eb116c0", "서고": "https://app.notion.com/3db3f6aa67a481e4ab57e42a71a0fbef", "결과": "중복 — 건너뜀"},
+    {"id": "2099575265068249217-6573d9dc", "source_library": "https://app.notion.com/p/3db3f6aa67a481cbbf83d5fe4163e11b", "서고": "https://app.notion.com/3db3f6aa67a4817384cdcd434c24169d", "결과": "중복 — 건너뜀"},
+    {"id": "laurie-voss-09740d21", "source_library": "https://app.notion.com/p/3db3f6aa67a481edbed5db1cecebeab2", "서고": "https://app.notion.com/p/3db3f6aa67a4819e9402e51b4ff3335a", "결과": "중복 — 건너뜀"},
+    {"id": "devfest2026-2267286c", "source_library": "https://app.notion.com/p/3db3f6aa67a4816293e3c9e32bacb335", "서고": "https://app.notion.com/p/3db3f6aa67a481d5b52bfbb40f8e6c29", "결과": "생성"}
+  ],
+  "전체수집건수": 132,
+  "메모": "후보 12건 중 11건이 이미 노션에 있어 건너뜀 — 10건은 2026-09-14 후보와 id 가 그대로 겹쳤고(어제 실행분), codex-with-chatgpt-61c5cb98 은 2026-08-31 에 같은 id 로 들어가 있었다. 신규는 devfest2026-2267286c 1건뿐이라 이것만 ①②를 새로 만들었다. devfest 원문 파일은 3,570줄 중 대부분이 blog.google 전역 내비게이션과 빈 줄이라 Source Library 본문에는 기사 본문 텍스트를 빠짐없이 옮기고 내비게이션·언어선택·공유버튼·관련기사 목록만 제외했으며, 그 사실을 본문 끝에 수집 메모로 남겼다. 2026-09-14 브리핑 행이 브리핑 DB 에 없다 — 어제 실행이 2단계까지만 하고 4단계(브리핑)를 못 남긴 것으로 보인다. 오늘 범위 밖이라 손대지 않았다."
+}

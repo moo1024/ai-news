@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/CopilotKit/OpenBot
-- 발행: 2026-09-14T10:55:27.897306+00:00
+- 발행: 2026-09-14T22:24:46.559913+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -313,7 +313,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Fork
- 616 
+ 620 
  
  
 
@@ -358,7 +358,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Issues 
- 13 
+ 11 
 
 
  
@@ -370,7 +370,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  Pull requests 
- 10 
+ 7 
 
 
  
@@ -613,7 +613,7 @@ GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer o
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 327 Commits 327 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-adk agent-adk     agent-ag2 agent-ag2     agent-agno agent-agno     agent-bot agent-bot     agent-claude-sdk agent-claude-sdk     agent-computer agent-computer     agent-crewai agent-crewai     agent-langgraph-agui agent-langgraph-agui     agent-langgraph agent-langgraph     agent-langroid agent-langroid     agent-llamaindex agent-llamaindex     agent-mastra agent-mastra     agent-microsoft agent-microsoft     agent-pydantic-ai agent-pydantic-ai     agent-strands agent-strands     app app     assets assets     charts/ openbot charts/ openbot     desktop desktop     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     prompt.txt prompt.txt     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 340 Commits 340 Commits Folders and files Name Name Last commit message Last commit date .claude/ skills .claude/ skills     .github .github     agent-adk agent-adk     agent-ag2 agent-ag2     agent-agno agent-agno     agent-bot agent-bot     agent-claude-sdk agent-claude-sdk     agent-computer agent-computer     agent-crewai agent-crewai     agent-langgraph-agui agent-langgraph-agui     agent-langgraph agent-langgraph     agent-langroid agent-langroid     agent-llamaindex agent-llamaindex     agent-mastra agent-mastra     agent-microsoft agent-microsoft     agent-pydantic-ai agent-pydantic-ai     agent-strands agent-strands     app app     assets assets     charts/ openbot charts/ openbot     desktop desktop     docker/ s6 docker/ s6     docs docs     examples examples     scripts scripts     server server     shared shared     spire spire     supervisor supervisor     tests tests     worker worker     .dockerignore .dockerignore     .env.example .env.example     .gitattributes .gitattributes     .gitignore .gitignore     CHANGELOG.md CHANGELOG.md     Dockerfile Dockerfile     LICENSE LICENSE     README.md README.md     biome.json biome.json     bun.lock bun.lock     bunfig.toml bunfig.toml     docker-compose.yml docker-compose.yml     package.json package.json     prompt.txt prompt.txt     renovate.json renovate.json     tsconfig.base.json tsconfig.base.json     View all files Repository files navigation README MIT license More items 
  OpenBot 
  AI coworkers you can hand real work to, and actually trust with the access. Each gets a computer of its own: a real browser with its own logins, its own files, and only the tools you grant. Every action decided before it happens and recorded after.
 
@@ -844,7 +844,6 @@ most recent release and a version tag such as :v0.0.9 pins one.
  A computer per Bot : the supervisor gives each Bot its own container, its own /workspace volume and its own browser profile. Set COMPUTER_RUNTIME=runsc to run them under gVisor where the host supports it. 
  A shell, not just a browser : a Bot can run a command in its workspace, install what it needs, and process a file it saved. Through the same gate as everything else, so a rule can refuse a shell outright or refuse particular commands, and the command is on the record either way. The command inherits PATH, locale, terminal and proxy variables, not the rest of the deployment's environment. 
  The gateway is the only way in : it resolves the target from a server-held snapshot, evaluates the policy, writes the audit row, and only then calls the computer. There is no path that acts without the record existing first. 
- CEL policy, fail closed : rules can inspect tool.name , intent , bot.id , actor.id , page.url , page.host , element.* , key , file.* and mcp.* . Deny is evaluated before allow, a missing policy permits nothing, and a broken rule refuses rather than opens. 
+ CEL policy, fail closed : rules can inspect tool.name , intent , bot.id , actor.id , page.url , page.host , element.* , key , command , file.* , mcp.* and initiator.* (what started the run, so a rule can refuse a scheduled routine what it would allow a person). Deny is evaluated before allow, a missing policy permits nothing, and a broken rule refuses rather than opens. 
  Watch what it is doing : the screen shows what a Bot is looking at, and the Activity tab beside it shows what it ran, read and saved, with the output. A command line in the transcript opens to the same thing. A saved file shows its path and size, never its contents. 
- Take the wheel : a Bot that hits a login wall or a 2FA prompt asks for help. Control is handed over in the same panel and recorded as computer.help_requested , computer.control_taken and computer.control_released . While a person is driving, Bot actions are refused rather than queued. 
- Secrets ne
+ Take the wheel : a Bot that hits a login wall or a 2FA prompt asks for help. Control is handed over in the same panel and recorded as computer.help_requested , computer.control_taken

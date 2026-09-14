@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/XiaoDuoYa/codex-with-chatgpt
-- 발행: 2026-09-14T10:55:27.897306+00:00
+- 발행: 2026-09-14T22:24:46.559913+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT 
  
  
  Fork
- 445 
+ 447 
  
  
 
@@ -336,7 +336,7 @@ GitHub - XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT 
  
  
  Issues 
- 3 
+ 4 
 
 
  
@@ -797,7 +797,7 @@ connector setup, zero-touch first-run experience.
  
  
  About ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
- Topics ai-agents chatgpt codex mcp model-context-protocol oauth Resources Readme MIT license Security policy Security policy Activity Stars 4.3k stars Watchers 7 watching Forks 445 forks Report repository Releases Packages Contributors Languages 
+ Topics ai-agents chatgpt codex mcp model-context-protocol oauth Resources Readme MIT license Security policy Security policy Activity Stars 4.3k stars Watchers 7 watching Forks 447 forks Report repository Releases Packages Contributors Languages 
  
 
 

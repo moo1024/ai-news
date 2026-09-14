@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (MCP 서버)
 - 원본 링크: https://github.com/totec448-spec/chat-on-steroids
-- 발행: 2026-09-14T10:55:27.897306+00:00
+- 발행: 2026-09-14T22:24:46.559913+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Fork
- 317 
+ 338 
  
  
 
@@ -301,7 +301,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Star
- 2.5k 
+ 2.6k 
  
  
 
@@ -336,7 +336,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Issues 
- 40 
+ 45 
 
 
  
@@ -348,7 +348,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  Pull requests 
- 17 
+ 24 
 
 
  
@@ -563,7 +563,9 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 131 Commits 131 Commits Folders and files Name Name Last commit message Last commit date .githooks .githooks     .github .github     artwork artwork     docs docs     extension extension     native native     scripts scripts     src src     test test     .gitattributes .gitattributes     .gitignore .gitignore     AGENTS.md AGENTS.md     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     CONTRIBUTING.md CONTRIBUTING.md     CONTRIBUTORS.md CONTRIBUTORS.md     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     THIRD-PARTY-NOTICES.txt THIRD-PARTY-NOTICES.txt     electron-builder.yml electron-builder.yml     electron.vite.config.ts electron.vite.config.ts     package-lock.json package-lock.json     package.json package.json     tsconfig.json tsconfig.json     vitest.config.ts vitest.config.ts     View all files Repository files navigation README Contributing MIT license Security More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 137 Commits 137 Commits Folders and files Name Name Last commit message Last commit date .githooks .githooks     .github .github     artwork artwork     docs docs     extension extension     native native     scripts scripts     src src     test test     .gitattributes .gitattributes     .gitignore .gitignore     AGENTS.md AGENTS.md     CHANGELOG.md CHANGELOG.md     CLAUDE.md CLAUDE.md     CONTRIBUTING.md CONTRIBUTING.md     CONTRIBUTORS.md CONTRIBUTORS.md     LICENSE LICENSE     README.md README.md     SECURITY.md SECURITY.md     THIRD-PARTY-NOTICES.txt THIRD-PARTY-NOTICES.txt     electron-builder.yml electron-builder.yml     electron.vite.config.ts electron.vite.config.ts     package-lock.json package-lock.json     package.json package.json     tsconfig.json tsconfig.json     vitest.config.ts vitest.config.ts     View all files Repository files navigation README Contributing MIT license Security More items 
+
+ 
 
  
   
@@ -585,6 +587,8 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  Work on the real project. Let ChatGPT read and edit files, run tests, keep terminals open and use your desktop. Follow the actual tool results as they arrive.
 
  Give it a team. Split independent jobs across workers, then bring their results back. Workers keep their context, so the next task can pick up where they left off.
+
+ Bring your own skills. Import a Markdown skill through + → Skills , then select it from the list or type / in the composer. Skills guide → 
 
  Stay in control of long tasks. Send a correction while work runs. Goal follows unfinished work; Loop keeps working within your brief. Compact & Resume carries the session and worker history into a fresh chat.
 
@@ -630,7 +634,7 @@ GitHub - totec448-spec/chat-on-steroids: Cross-platform local MCP capabilities f
  Not affiliated with or endorsed by OpenAI. ChatGPT and Codex are OpenAI trademarks. 
 
  About Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
- Topics automation chatgpt chrome-extension electron linux local-first macos mcp multi-agent windows Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 2.5k stars Watchers 7 watching Forks 317 forks Report repository Releases Packages Contributors Languages 
+ Topics automation chatgpt chrome-extension electron linux local-first macos mcp multi-agent windows Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 2.6k stars Watchers 8 watching Forks 338 forks Report repository Releases Packages Contributors Languages 
  
 
 

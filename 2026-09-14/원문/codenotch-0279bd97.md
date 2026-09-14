@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/vinzdg/codenotch
-- 발행: 2026-09-14T10:55:27.897306+00:00
+- 발행: 2026-09-14T22:24:46.559913+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - vinzdg/codenotch: A macOS app that pins usage limits from Claude Code, 
  
  
  Fork
- 244 
+ 250 
  
  
 
@@ -336,7 +336,7 @@ GitHub - vinzdg/codenotch: A macOS app that pins usage limits from Claude Code, 
  
  
  Issues 
- 28 
+ 29 
 
 
  
@@ -348,7 +348,7 @@ GitHub - vinzdg/codenotch: A macOS app that pins usage limits from Claude Code, 
  
  
  Pull requests 
- 3 
+ 13 
 
 
  
@@ -792,4 +792,4 @@ reordered or switched off independently. Switching one off forgets only its
 Codenotch readings and leaves the Codex login intact.
 
  Codenotch reads each profile's auth.json ; keychain-only or API-key-only
-logins cannot provide these ChatGPT account limits. It never copies, r
+logins cannot provide these ChatGPT account limits. It never copies, 

@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (claude-code)
 - 원본 링크: https://github.com/tigerless-labs/agent-memory
-- 발행: 2026-09-14T10:55:27.897306+00:00
+- 발행: 2026-09-14T22:24:46.559913+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -762,7 +762,7 @@ pass, and cannot delete anything unattended.
  MIT .
 
  About Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.
- Topics agent-memory ai-agents claude-code codex llm local-first long-term-memory markdown mcp python retrieval sqlite Resources Readme MIT license Activity Custom properties Stars 1.4k stars Watchers 53 watching Forks 86 forks Report repository Releases Packages Contributors Languages 
+ Topics agent-memory ai-agents claude-code codex llm local-first long-term-memory markdown mcp python retrieval sqlite Resources Readme MIT license Activity Custom properties Stars 1.4k stars Watchers 54 watching Forks 86 forks Report repository Releases Packages Contributors Languages 
  
 
 

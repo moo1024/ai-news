@@ -2,7 +2,7 @@
 
 - 출처: GitHub 신규 (에이전트 스킬)
 - 원본 링크: https://github.com/lennney/stop-that-shit
-- 발행: 2026-09-14T10:55:27.897306+00:00
+- 발행: 2026-09-14T22:24:46.559913+00:00
 - 접근상태: 확인 완료
 
 ---
@@ -291,7 +291,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
  
  
  Fork
- 48 
+ 49 
  
  
 
@@ -336,7 +336,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
  
  
  Issues 
- 3 
+ 4 
 
 
  
@@ -348,7 +348,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
  
  
  Pull requests 
- 2 
+ 1 
 
 
  
@@ -563,7 +563,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
  
  
  
- main Branches Tags Go to file Code Open more actions menu Latest commit   History 70 Commits 70 Commits Folders and files Name Name Last commit message Last commit date .agents/ plugins .agents/ plugins     .claude-plugin .claude-plugin     .codex-plugin .codex-plugin     .github .github     .hermes-plugin .hermes-plugin     assets assets     cases cases     evals evals     hooks hooks     opencode opencode     pi pi     schemas schemas     scripts scripts     skills skills     src src     test test     .codexignore .codexignore     .gitignore .gitignore     ARCHITECTURE.md ARCHITECTURE.md     CHANGELOG.md CHANGELOG.md     CONTRIBUTING.md CONTRIBUTING.md     EVIDENCE.md EVIDENCE.md     HOST-ADAPTER-CONTRACT.md HOST-ADAPTER-CONTRACT.md     INSTALL.md INSTALL.md     INSTALL_FOR_AGENTS.md INSTALL_FOR_AGENTS.md     LICENSE LICENSE     PRIVACY.md PRIVACY.md     README.md README.md     README_CN.md README_CN.md     README_EN.md README_EN.md     README_KO.md README_KO.md     SECURITY.md SECURITY.md     package-lock.json package-lock.json     package.json package.json     release-files.json release-files.json     View all files Repository files navigation README Contributing MIT license Security More items 
+ main Branches Tags Go to file Code Open more actions menu Latest commit   History 71 Commits 71 Commits Folders and files Name Name Last commit message Last commit date .agents/ plugins .agents/ plugins     .claude-plugin .claude-plugin     .codex-plugin .codex-plugin     .github .github     .hermes-plugin .hermes-plugin     assets assets     cases cases     evals evals     hooks hooks     opencode opencode     pi pi     schemas schemas     scripts scripts     skills skills     src src     test test     .codexignore .codexignore     .gitignore .gitignore     ARCHITECTURE.md ARCHITECTURE.md     CHANGELOG.md CHANGELOG.md     CONTRIBUTING.md CONTRIBUTING.md     EVIDENCE.md EVIDENCE.md     HOST-ADAPTER-CONTRACT.md HOST-ADAPTER-CONTRACT.md     INSTALL.md INSTALL.md     INSTALL_FOR_AGENTS.md INSTALL_FOR_AGENTS.md     LICENSE LICENSE     PRIVACY.md PRIVACY.md     README.md README.md     README_CN.md README_CN.md     README_EN.md README_EN.md     README_KO.md README_KO.md     SECURITY.md SECURITY.md     package-lock.json package-lock.json     package.json package.json     release-files.json release-files.json     View all files Repository files navigation README Contributing MIT license Security More items 
  
 
 
@@ -656,7 +656,7 @@ GitHub - lennney/stop-that-shit: Stop That Shit（别再造史了）｜面向 Co
 
  
  Claude Code 
- 下载并解压 0.2.1 源码 ，在仓库根目录执行：
+ 下载并解压 0.2.2 源码 ，在仓库根目录执行：
 
  claude plugin validate . 
 claude plugin marketplace add ./
@@ -668,9 +668,9 @@ claude plugin install stop-that-shit@stop-that-shit
  
  
  Codex 
- codex plugin marketplace add lennney/stop-that-shit --ref 0.2.1
+ codex plugin marketplace add lennney/stop-that-shit --ref 0.2.2
 codex plugin add stop-that-shit@stop-that-shit 
- --ref 0.2.1 把安装固定到版本 tag，不跟随可变的 main 。重启 Codex。在新的 CLI TUI 中输入 /hooks ，检查命令后信任 UserPromptSubmit 和 PreToolUse 。也可以把 INSTALL_FOR_AGENTS.md 交给 Codex，让它完成非交互步骤。
+ --ref 0.2.2 把安装固定到版本 tag，不跟随可变的 main 。重启 Codex。在新的 CLI TUI 中输入 /hooks ，对照 打包的 Hook 清单 检查并信任命令。也可以把 INSTALL_FOR_AGENTS.md 交给 Codex，让它完成非交互步骤。
 
  
  
@@ -705,11 +705,11 @@ Adapter 的本地 checkout 安装：
 
  /skill:stop-that-shit review -- Review 这个 diff，只报告问题，不要修改。
  
- 从 0.2.1 tag 安装即可获得 Pi Adapter 和两个 Skill。详见 INSTALL.md 。
+ 从 0.2.2 tag 安装即可获得 Pi Adapter 和两个 Skill。详见 INSTALL.md 。
 
  
  使用 
- 在 Codex 或支持宿主无关指令的 prompt 中，先说清这次要做什么：
+ 在 Codex 或支持宿主无关指令的 prompt 中，把一条指令放在消息首个非空行，不要包在引用或代码块里。用 -- 分隔任务正文：
 
  $stop-that-shit review -- Review 这个 diff，只报告问题，不要修改。
 $stop-that-shit change -- 修复配置读取失败，补齐受影响的调用方和检查。
@@ -855,7 +855,7 @@ $stop-that-shit change agents=1 -- 使用一个独立测试 subagent。
 
  会保存我的代码和对话吗？ 
 
- 本地 Runtime 只保存任务边界状态和元数据记录，不保存代码或对话正文。详见 PRIVACY.md 。
+ Runtime 事件不保存代码或对话正文；会话状态另存显式路径、关联 ID 和指令错误等控制信息。分享插件数据前应先检查会话状态，详见 PRIVACY.md 。
 
  怎么更新、卸载或参与开发？ 
 
@@ -876,7 +876,7 @@ $stop-that-shit change agents=1 -- 使用一个独立测试 subagent。
  MIT 
 
  About Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.
- take-a-deep-breath0.com/zh/stop-that-shit Topics agent-skills ai-agents ai-coding claude-code codex codex-cli codex-plugin developer-tools guardrails hermes-agent local-first opencode overengineering scope-control yagni Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 2.0k stars Watchers 2 watching Forks 48 forks Report repository Releases Packages Contributors Languages 
+ take-a-deep-breath0.com/zh/stop-that-shit Topics agent-skills ai-agents ai-coding claude-code codex codex-cli codex-plugin developer-tools guardrails hermes-agent local-first opencode overengineering scope-control yagni Resources Readme MIT license Contributing Contributing Security policy Security policy Activity Stars 2.0k stars Watchers 2 watching Forks 49 forks Report repository Releases Packages Contributors Languages 
  
 
 
