@@ -714,7 +714,7 @@ Superhuman acquires YC-backed notetaker Fathom as productivity platforms push fo
  
 
 
- To date, Fathom , which was founded in 2020, has raised over $30 million in funding, and it was valued at $94 million in 2024, according to data from PitchBook. Its investors include Zoom Apps Fund, Telescope Partners, BoxOne Ventures, and Maven Ventures. Its cap table also includes individuals such as Reddit CEO Steve Huffman, former Twitch CEO Emmett Shear, and Cruise co-founder Kyle Vogt.
+ To date, Fathom , which was founded in 2020, has raised over $30 million in funding, and it was valued at $94 million in 2024, according to data from PitchBook. Its investors include Zoom Apps Fund, Telescope Partners, BoxOne Ventures, Character Capital, and Maven Ventures. Its cap table also includes individuals such as Reddit CEO Steve Huffman, former Twitch CEO Emmett Shear, and Cruise co-founder Kyle Vogt.
 
 
  The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now. 

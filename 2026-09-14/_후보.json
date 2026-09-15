@@ -19,61 +19,7 @@
         "subagent",
         "claude.md"
       ],
-      "점수": 5.712
-    },
-    {
-      "id": "agent-memory-9bb95970",
-      "출처": "GitHub 신규 (claude-code)",
-      "제목": "tigerless-labs/agent-memory — Long-term memory runtime for AI agents — plain Markdown as the source of truth,",
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "정규url": "https://github.com/tigerless-labs/agent-memory",
-      "발행": "2026-09-14T22:24:46.559913+00:00",
-      "요약": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.\n\n별 1,444개 · 언어 Python · 생성 2026-09-01 · 토픽 agent-memory, ai-agents, claude-code, codex, llm, local-first, long-term-memory, markdown",
-      "반응": 1444,
-      "원저자": "tigerless-labs",
-      "본문파일": "2026-09-14/원문/agent-memory-9bb95970.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "claude-code",
-        "codex"
-      ],
-      "점수": 5.297
-    },
-    {
-      "id": "anything2explainer-6030e95c",
-      "출처": "GitHub 신규 (AI 에이전트)",
-      "제목": "Vincentwei1021/anything2explainer — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a",
-      "url": "https://github.com/Vincentwei1021/anything2explainer",
-      "정규url": "https://github.com/Vincentwei1021/anything2explainer",
-      "발행": "2026-09-14T22:24:46.559913+00:00",
-      "요약": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.\n\n별 1,315개 · 언어 TypeScript · 생성 2026-09-08 · 토픽 agent-skills, ai-agents, ai-video, claude-code, claude-code-skill, codex, edge-tts, educational-video",
-      "반응": 1315,
-      "원저자": "Vincentwei1021",
-      "본문파일": "2026-09-14/원문/anything2explainer-6030e95c.md",
-      "본문상태": "확인 완료",
-      "관심주제": [
-        "claude code",
-        "claude-code",
-        "codex",
-        "skills"
-      ],
-      "점수": 5.264
-    },
-    {
-      "id": "siri-can-be-swapped-out-for-chatgpt-clau-111e01d8",
-      "출처": "코딩에이전트 (HN)",
-      "제목": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "정규url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
-      "발행": "2026-09-14T12:01:32+00:00",
-      "요약": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ \n\n Comments URL: https://news.ycombinator.com/item?id=49695409 \n\n Points: 215\n\n # Comments: 151",
-      "반응": 215,
-      "원저자": "",
-      "본문파일": "2026-09-14/원문/siri-can-be-swapped-out-for-chatgpt-clau-111e01d8.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 4.428
+      "점수": 5.493
     },
     {
       "id": "gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-mo-82404ffd",
@@ -82,13 +28,28 @@
       "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
       "정규url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
       "발행": "2026-09-14T19:56:20+00:00",
-      "요약": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review \n\n Comments URL: https://news.ycombinator.com/item?id=49703003 \n\n Points: 68\n\n # Comments: 86",
-      "반응": 68,
+      "요약": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review \n\n Comments URL: https://news.ycombinator.com/item?id=49703003 \n\n Points: 124\n\n # Comments: 117",
+      "반응": 124,
       "원저자": "",
       "본문파일": "2026-09-14/원문/gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-mo-82404ffd.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.294
+      "점수": 4.333
+    },
+    {
+      "id": "siri-can-be-swapped-out-for-chatgpt-clau-111e01d8",
+      "출처": "코딩에이전트 (HN)",
+      "제목": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "정규url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+      "발행": "2026-09-14T12:01:32+00:00",
+      "요약": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ \n\n Comments URL: https://news.ycombinator.com/item?id=49695409 \n\n Points: 219\n\n # Comments: 155",
+      "반응": 219,
+      "원저자": "",
+      "본문파일": "2026-09-14/원문/siri-can-be-swapped-out-for-chatgpt-clau-111e01d8.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 4.311
     },
     {
       "id": "2099575049929802053-a4b04291",
@@ -98,27 +59,12 @@
       "정규url": "https://x.com/GoogleDeepMind/status/2099575049929802053",
       "발행": "2026-09-14T19:04:34+00:00",
       "요약": "Weather forecasts play a critical role in the transition to renewables.\n\nWeatherNext 3 provides grid operators as well as wind and solar power producers with predictions for turbine-height wind speeds and solar radiation, enabling smarter, cleaner energy planning. 🧵 https://t.co/fJy61FhLGl",
-      "반응": 250,
+      "반응": 348,
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-09-14/원문/2099575049929802053-a4b04291.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 4.235
-    },
-    {
-      "id": "what-a-time-to-be-alive-dce815e0",
-      "출처": "Hacker News",
-      "제목": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "정규url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "발행": "2026-09-14T12:40:57+00:00",
-      "요약": "",
-      "반응": 321,
-      "원저자": "",
-      "본문파일": "2026-09-14/원문/what-a-time-to-be-alive-dce815e0.md",
-      "본문상태": "확인 완료",
-      "관심주제": [],
-      "점수": 3.992
+      "점수": 4.217
     },
     {
       "id": "why-we-built-pion-310d4fd0",
@@ -128,12 +74,27 @@
       "정규url": "https://andonlabs.com/blog/why-we-built-pion",
       "발행": "2026-09-14T17:16:06+00:00",
       "요약": "",
-      "반응": 220,
+      "반응": 317,
       "원저자": "",
       "본문파일": "2026-09-14/원문/why-we-built-pion-310d4fd0.md",
       "본문상태": "확인 완료",
       "관심주제": [],
       "점수": 3.972
+    },
+    {
+      "id": "what-a-time-to-be-alive-dce815e0",
+      "출처": "Hacker News",
+      "제목": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "정규url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "발행": "2026-09-14T12:40:57+00:00",
+      "요약": "",
+      "반응": 396,
+      "원저자": "",
+      "본문파일": "2026-09-14/원문/what-a-time-to-be-alive-dce815e0.md",
+      "본문상태": "확인 완료",
+      "관심주제": [],
+      "점수": 3.949
     },
     {
       "id": "oracle-new-layoffs-restructuring-costs-2-bf24e5fd",
@@ -143,12 +104,12 @@
       "정규url": "https://techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
       "발행": "2026-09-14T19:05:15+00:00",
       "요약": "",
-      "반응": 127,
+      "반응": 160,
       "원저자": "",
       "본문파일": "2026-09-14/원문/oracle-new-layoffs-restructuring-costs-2-bf24e5fd.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.857
+      "점수": 3.82
     },
     {
       "id": "2099575262807478493-d06c1cc5",
@@ -158,12 +119,12 @@
       "정규url": "https://x.com/GoogleDeepMind/status/2099575262807478493",
       "발행": "2026-09-14T19:05:25+00:00",
       "요약": "Because conditions can shift quickly, WeatherNext 3 updates every single hour:\n\n💨 For wind farms: Predicts speed and direction at turbines as high as 100m to project power generation.\n☀️ For solar farms: Forecasts cloud cover and radiation to estimate sunlight levels reaching",
-      "반응": 35,
+      "반응": 45,
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-09-14/원문/2099575262807478493-d06c1cc5.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.708
+      "점수": 3.667
     },
     {
       "id": "2099575265068249217-6573d9dc",
@@ -173,12 +134,12 @@
       "정규url": "https://x.com/GoogleDeepMind/status/2099575265068249217",
       "발행": "2026-09-14T19:05:26+00:00",
       "요약": "Giving teams a look ahead at rapidly changing weather helps them balance power grids and match clean energy to everyday consumer demand. 🌍\n\nFind out more about WeatherNext 3 → https://t.co/L0Aj0dracJ",
-      "반응": 33,
+      "반응": 40,
       "원저자": "@GoogleDeepMind",
       "본문파일": "2026-09-14/원문/2099575265068249217-6573d9dc.md",
       "본문상태": "확인 완료",
       "관심주제": [],
-      "점수": 3.693
+      "점수": 3.636
     },
     {
       "id": "laurie-voss-09740d21",
@@ -195,7 +156,41 @@
       "관심주제": [
         "agentic"
       ],
-      "점수": 3.688
+      "점수": 3.538
+    },
+    {
+      "id": "devfest2026-2267286c",
+      "출처": "Google AI Blog",
+      "제목": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "정규url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "발행": "2026-09-14T16:00:00+00:00",
+      "요약": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-14/원문/devfest2026-2267286c.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "agentic"
+      ],
+      "점수": 3.338
+    },
+    {
+      "id": "commit-rewriter-3dab7f17",
+      "출처": "Simon Willison",
+      "제목": "commit-rewriter 0.1",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "정규url": "https://simonwillison.net/2026/Sep/14/commit-rewriter",
+      "발행": "2026-09-14T00:28:10+00:00",
+      "요약": "Release: commit-rewriter 0.1 \n\n I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication.\n\n If you want to edit the commit messages for a repository you can run it like this:\n\n uvx commit-rewriter path/to/repo\n \n Omit the path if you are already in the directory for that repo.\n\n \n\n When you submit your edits the tool creates a timestamped branch of your current repo state - to allow you to revert if you need to - and then rewrites every commit from the first one you edited to the most recent.\n\n \n \n Tags: git , projects , python , ai-assisted-programming",
+      "반응": 0,
+      "원저자": "",
+      "본문파일": "2026-09-14/원문/commit-rewriter-3dab7f17.md",
+      "본문상태": "확인 완료",
+      "관심주제": [
+        "coding agent"
+      ],
+      "점수": 3.156
     }
   ]
 }

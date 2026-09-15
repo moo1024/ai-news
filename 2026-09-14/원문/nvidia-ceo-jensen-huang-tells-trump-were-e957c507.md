@@ -699,7 +699,7 @@ Nvidia CEO Jensen Huang tells Trump 'we're not going to let [an AI slowdown] hap
  While Nvidia CEO Jensen Huang was onstage at the All-In Summit on Monday morning in Los Angeles, he got a phone call that he couldn’t send to voicemail — it was from President Donald Trump.
 
 
- “I’m onstage with the besties,” Huang told Trump, referring to the venture capitalists who host the podcast All-In , including tech investors Chamath Palihapitiya, Jason Calacanis, and White House advisers David Friedberg and David Sacks. 
+ “I’m onstage with the besties,” Huang told Trump, referring to the venture capitalists who host the podcast All-In , including tech investors Chamath Palihapitiya, Jason Calacanis, and White House advisers David Friedberg and David Sacks .
 
 
  
@@ -726,7 +726,7 @@ This made my morning! $NVDA pic.twitter.com/Sr4wV9kMfz
 — Ben Pouladian ✈️ All-in Summit (@benitoz) September 14, 2026 
  
 
- “The great thing about life is Jensen can develop the most complex computer chip in the world… but he can’t figure out how to put you on speaker,” Trump said on the phone. (Huang is likely aware of how speakerphones work; he was asking stagehands for an extra microphone so that he could project the call to the audience.)
+ “The great thing about life is Jensen can develop the most complex computer chip in the world … but he can’t figure out how to put you on speaker,” Trump said on the phone. (Huang is likely aware of how speakerphones work; he was asking stagehands for an extra microphone so that he could project the call to the audience.)
 
 
  Onstage, Huang and the All-In hosts had been discussing Anthropic CEO Dario Amodei’s call to “ slow the pace at which we improve the capabilities of AI.” SpaceX CEO Elon Musk and OpenAI CEO Sam Altman have publicly said they agree with Amodei, while Huang’s views have diverged.
@@ -746,7 +746,7 @@ This made my morning! $NVDA pic.twitter.com/Sr4wV9kMfz
  Trump and his allies, like Y Combinator CEO Garry Tan, have stated their belief that the growing sentiment against data center construction is part of an international psyop to stifle American economic growth. But the source of the public’s concern is more straightforward. Recent Gallup polling shows that seven in 10 Americans oppose the construction of data centers in their area , with more than 50% of respondents citing the effect of data centers on environmental resources . About 20% said they were concerned about cost-of-living increases and effects on their quality of life.
 
 
- “We have to be a little bit careful… We have to do things and we have to do them prudently, but that doesn’t mean we’re going to stop an industry,” Trump said to Huang. “So I’m with you all the way. I didn’t even know how you felt about it. I just hoped you felt the same way as me. We’re going to lead.”
+ “We have to be a little bit careful … We have to do things and we have to do them prudently, but that doesn’t mean we’re going to stop an industry,” Trump said to Huang. “So I’m with you all the way. I didn’t even know how you felt about it. I just hoped you felt the same way as me. We’re going to lead.”
 
  
 
@@ -756,7 +756,7 @@ This made my morning! $NVDA pic.twitter.com/Sr4wV9kMfz
  Topics
 
  
- AI , Donald Trump , Jensen Huang , nvidia , TC 
+ AI , Donald Trump , Government & Policy , Jensen Huang , nvidia 
  
 
 

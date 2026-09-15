@@ -56,7 +56,7 @@ Tenderlove Making -
  
  Today Reuters and the Wall Street Journal both reported about rogue AI agents at OpenAI attacking RubyGems.org. https://www.rubyhack.ai/ has an amazing writeup, and you should read it. I just wanted to make a quick post about it because it’s wild .
 
- TL;DR: It seems like OpenAI Bots knew about this caching vulnerability , tried to take advantage of it, and at the same time ran some weird web scraping code on RubyDoc.info.
+ TL;DR: It seems like OpenAI Bots knew about the RubyGems caching vulnerability , tried to take advantage of it, and at the same time ran some weird web scraping code on RubyDoc.info.
 
  Back in May, socket.dev reported about a “GemStuffer Campaign” where someone (I guess OpenAI) was uploading tons of junk gems to RubyGems.org.
 For some reason, the gems would scrape UK government websites, then repackage the data as gems, and attempt to upload them to RubyGems .
@@ -124,7 +124,7 @@ If that regular expression doesn’t match, it falls back to a global KEY .
 The second request tries to upload the gem via POST.
 
  This brings me to the second crazy thing that stood out to me.
-This code is trying to fetch a cached authorization key from RubyGems.org .
+This code is trying to fetch a cached authorization key from RubyGems.org and use it .
 If this sounds familiar, it is.
 It’s exactly the security issue addressed in this post from RubyGems.org that was made in July.
 

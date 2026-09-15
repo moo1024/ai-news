@@ -518,7 +518,7 @@ AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop - Ars T
  
  | 
  
- 25
+ 67
  
  
  
@@ -761,7 +761,7 @@ AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop - Ars T
  
  
  
- 25 Comments
+ 67 Comments
  
  
  

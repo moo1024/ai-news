@@ -836,7 +836,7 @@ Last day to book an exhibit table is September 18. Don’t miss out on high-impa
  Ivan Mehta 
  
  
-	7 hours ago 
+	13 hours ago 
  
  
  
@@ -950,6 +950,47 @@ Last day to book an exhibit table is September 18. Don’t miss out on high-impa
  
  
  
+ In Brief 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Jensen Huang took a call from Trump, and showed off something else, too 
+ 
+ 
+ 
+ 
+ 
+ Connie Loizos 
+ 
+ 
+	2 hours ago 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+	
+ 
+
+ 
+ 
+	
+ 
+
+ 
+ 
+ 
+ 
  AI 
  
  
@@ -965,7 +1006,7 @@ Last day to book an exhibit table is September 18. Don’t miss out on high-impa
  Amanda Silberling 
  
  
-	17 minutes ago 
+	6 hours ago 
  
  
  
@@ -1006,46 +1047,7 @@ Last day to book an exhibit table is September 18. Don’t miss out on high-impa
  Amanda Silberling 
  
  
-	1 hour ago 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
-
-	
- 
-
- 
- 
-	
- 
-
- 
- 
- 
- 
- AI 
- 
- 
- 
-
- 
- With iOS 27, I’m actually using Siri again 
- 
- 
- 
- 
- 
- Ivan Mehta 
- 
- 
-	5 hours ago 
+	7 hours ago 
  
  
  
