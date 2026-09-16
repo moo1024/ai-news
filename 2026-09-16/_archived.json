@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-16",
+  "브리핑페이지": "https://app.notion.com/p/3dd3f6aa67a4818b8228f59c53c988ee",
+  "정식아카이빙": [
+    {
+      "id": "v2-1-273-10df20da",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a481a0869cfacb10313fbc",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a4812eae68fc04f04c3731",
+      "결과": "생성"
+    },
+    {
+      "id": "okf-agent-memory-f31be0c6",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "2099907440422830269-5202467a",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a4813fa0c7f446234689a8",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a481d6b552dd48c7e5b43c",
+      "결과": "생성"
+    },
+    {
+      "id": "v2-1-272-2fe213dd",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a481aa8420e5d738b4887e",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a4816cb05ed7920404d037",
+      "결과": "생성"
+    },
+    {
+      "id": "2099907447313899684-e57c2a43",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a481cb8740fd098c447f64",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a481b69dd5c2551f982223",
+      "결과": "생성"
+    },
+    {
+      "id": "gemini-3-8-live-gemini-3-8-live-extended-78ec933d",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a481a6a9c3c9d7307762cb",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a4814fa1a8f68068ec4162",
+      "결과": "생성"
+    },
+    {
+      "id": "c8ly49w9g1edo-a314c7c3",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a481009d95d7e9adc9b390",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a481d9bc59c34d6c545335",
+      "결과": "생성"
+    },
+    {
+      "id": "short-life-42532988",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a4817d9f76e6615dc2a2fa",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a4815a972ae66afebbb975",
+      "결과": "생성"
+    },
+    {
+      "id": "3mvlqa6h46c2h-b392d44c",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a481c18459f3883c2250d8",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a4813e9b5fcfc303d1d9bf",
+      "결과": "생성"
+    },
+    {
+      "id": "introducing-gemini-3-8-live-and-3-8-live-2f92a8ca",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a481309fafe19a2c5279f7",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a481539b0ffc399159594d",
+      "결과": "생성"
+    },
+    {
+      "id": "good-start-labs-eaf5399d",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a48132adf0c57b9240fd26",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a481f4ae34d3b11ab79acf",
+      "결과": "생성"
+    },
+    {
+      "id": "gemini-live-c9a26906",
+      "source_library": "https://app.notion.com/p/3dd3f6aa67a48102a914c069f26001a5",
+      "서고": "https://app.notion.com/p/3dd3f6aa67a481f4afe5e1e88212c5c7",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 169,
+  "메모": "후보 12건 중 11건 신규 생성, okf-agent-memory 1건은 URL 일치로 중복(2026-09-06 아카이빙분, 서고 3d33f6aa67a481f782f6e9259e867d8b). 후보 12건 중 5건이 Gemini 3.8 Live 같은 소식이어서 정리본 각도를 달리 잡았다. v2.1.273·blog.google·deepmind.google 3건은 원문 파일이 중간에서 잘려 접근상태를 일부 확인으로 넣었다. BBC 철도 사보타주와 노르웨이 순환경제 리포트 2건은 AI 무관 항목이지만 절차대로 처리하고 대분류는 표에 있는 값(AI 프롬프트 / AI 에이전트 / 자동화)을 썼다. 작성 중 유니코드 이스케이프로 한글이 깨지는 문제가 발생해 전 페이지를 다시 읽어 복구했다."
+}
