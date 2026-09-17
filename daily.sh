@@ -62,7 +62,10 @@ process_day() {
   # acceptEdits 는 MCP 도구를 자동 승인하지 않는다. 노션 도구를 하나씩 명시해야 한다.
   # 전역 권한을 넓히지 않으려고 여기서만, 필요한 것만 연다. (삭제 계열은 뺐다)
   rm -f "$HERE/$target/_archived.json"
-  timeout 3000 "$CLAUDE_BIN" -p "$HERE/ARCHIVE.md 의 절차를 그대로 따라 $target 날짜의 AI 뉴스를 노션에 아카이빙하라. 대상 폴더는 $HERE/$target 이다. 후보 전건을 2단계(원문 정본 + 정리본)로 처리하고, 마지막에 _archived.json 을 반드시 남겨라. 절차서의 '하지 말 것'을 지켜라." \
+  # 50분(3000초)은 빠듯했다. 실측 소요는 중앙값 31분이지만 꼬리가 길어서
+  # 9/7·9/14·9/15·9/17 이 정확히 50분에 잘렸다 — 그것도 24페이지를 다 만들고
+  # 마지막 브리핑 행만 남긴 상태로. 관측 최대는 72.5분이라 90분으로 잡는다.
+  timeout 5400 "$CLAUDE_BIN" -p "$HERE/ARCHIVE.md 의 절차를 그대로 따라 $target 날짜의 AI 뉴스를 노션에 아카이빙하라. 대상 폴더는 $HERE/$target 이다. 후보 전건을 2단계(원문 정본 + 정리본)로 처리하고, 마지막에 _archived.json 을 반드시 남겨라. 절차서의 '하지 말 것'을 지켜라." \
     --permission-mode acceptEdits \
     --allowedTools \
       "Read" "Glob" "Grep" "Write" \
