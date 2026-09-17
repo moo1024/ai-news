@@ -36,9 +36,11 @@ exec > >(tee -a "$LOG") 2>&1
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S') 시작 ====="
 
-for 실행파일 in "$CLAUDE_BIN" "$COLLECT_PY"; do
-  if [[ ! -x "$실행파일" ]]; then
-    echo "❌ 실행파일 없음: $실행파일 — 중단"
+# 변수명은 ASCII 여야 한다(위 15행 참조). `for 실행파일 in` 은 배시가 이름으로 받지 못해
+# `not a valid identifier` 로 루프 전체가 건너뛰어졌다 — 즉 이 검사는 여태 돌지 않았다.
+for BIN in "$CLAUDE_BIN" "$COLLECT_PY"; do
+  if [[ ! -x "$BIN" ]]; then
+    echo "❌ 실행파일 없음: $BIN — 중단"
     exit 1
   fi
 done
