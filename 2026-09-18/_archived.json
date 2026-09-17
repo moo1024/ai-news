@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-18",
+  "브리핑페이지": "https://app.notion.com/p/3de3f6aa67a481f38db2eea2f823f558",
+  "정식아카이빙": [
+    {
+      "id": "sepia-9392f565",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a481c2aa3ecab71c104b92",
+      "서고": "https://app.notion.com/p/3de3f6aa67a4814e8c6ef3412b4cb3af",
+      "결과": "생성"
+    },
+    {
+      "id": "2100680000072773702-c4b643da",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a481ceb2b4e083d580b8f1",
+      "서고": "https://app.notion.com/p/3de3f6aa67a481c79ca2ec39ea113473",
+      "결과": "생성"
+    },
+    {
+      "id": "headcount-e54780d0",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a4818e9f6cf27f3d4c2248",
+      "서고": "https://app.notion.com/p/3de3f6aa67a48111841fd2b13e31af4e",
+      "결과": "생성"
+    },
+    {
+      "id": "2100679992720142459-b5776205",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a48167a5c9c99accc4bcd5",
+      "서고": "https://app.notion.com/p/3de3f6aa67a48178af2eda1aa9ac2c86",
+      "결과": "생성"
+    },
+    {
+      "id": "mysetup-ai-d129627e",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a481b68ccceb395c325059",
+      "서고": "https://app.notion.com/p/3de3f6aa67a481bc882dfe390c1cd439",
+      "결과": "생성"
+    },
+    {
+      "id": "2100684274114699295-129ba263",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a4817da198ffed82319304",
+      "서고": "https://app.notion.com/p/3de3f6aa67a48167a4a1e31255f97626",
+      "결과": "생성"
+    },
+    {
+      "id": "bend-lang-com-91b1986b",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a4818bacf8f92e67ec9dc5",
+      "서고": "https://app.notion.com/p/3de3f6aa67a48177813bdf1254e4d4d0",
+      "결과": "생성"
+    },
+    {
+      "id": "compaction-summaries-e5c37e0d",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a481f08199ee03f46873f3",
+      "서고": "https://app.notion.com/p/3de3f6aa67a4818a9bdfd013324e02cb",
+      "결과": "생성"
+    },
+    {
+      "id": "anthropic-claude-code-projects-8c9415c9",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a48191989ce0fbdc3379ff",
+      "서고": "https://app.notion.com/p/3de3f6aa67a4817b8d06f2ad3dd443df",
+      "결과": "생성"
+    },
+    {
+      "id": "google-un-data-commons-platform-df4ade90",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a48109bf4ed76f1611caa0",
+      "서고": "https://app.notion.com/p/3de3f6aa67a4812faba1eaf7824ab76d",
+      "결과": "생성"
+    },
+    {
+      "id": "3mvqfbykggs26-6a17665b",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a481b2a535f556ea815c61",
+      "서고": "https://app.notion.com/p/3de3f6aa67a481cf8a2ff469956e1349",
+      "결과": "생성"
+    },
+    {
+      "id": "3mvqfaffas226-e08821ba",
+      "source_library": "https://app.notion.com/p/3de3f6aa67a481958310ddf73529f46e",
+      "서고": "https://app.notion.com/p/3de3f6aa67a481ebb8a3e06166fea8b9",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 176,
+  "메모": "후보 12건 전건 2단계 완료, 중복 0. GitHub·The Verge·blog.google 원문은 Jina Reader 가 긁어온 사이트 네비게이션 보일러플레이트를 제외하고 기사·README 본문만 정본으로 옮겼다. sepia·headcount·Anthropic 지표 트윗 3건은 수집 원문 자체가 중간에서 잘려 접근상태를 '일부 확인' 으로 두고 잘린 지점을 본문 말미에 명시했다."
+}
