@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-19",
+  "브리핑페이지": "https://app.notion.com/p/3e03f6aa67a4813fb58fd925f4a6b192",
+  "정식아카이빙": [
+    {"id": "changelog-9b0bea9a", "source_library": "https://app.notion.com/p/3e03f6aa67a4810eb4aeecd85ab0c29e", "서고": "https://app.notion.com/p/3e03f6aa67a48174816af48cc79cccfa", "결과": "생성"},
+    {"id": "v2-1-278-28367d69", "source_library": "https://app.notion.com/p/3e03f6aa67a48191ab4ee5352cf25be6", "서고": "https://app.notion.com/p/3e03f6aa67a4812c821ac4bade56d58f", "결과": "생성"},
+    {"id": "fast-jev-compaction-5d1053d9", "source_library": "https://app.notion.com/p/3e03f6aa67a4811ca98af6ddd1722d89", "서고": "https://app.notion.com/p/3e03f6aa67a481a783c8e7f98f7ae0f2", "결과": "생성"},
+    {"id": "v2-1-277-2e32a5a9", "source_library": "https://app.notion.com/p/3e03f6aa67a4817b8644f91ff19595d2", "서고": "https://app.notion.com/p/3e03f6aa67a481a5a8b0d942e4fe91a4", "결과": "생성"},
+    {"id": "2609-20804-3f8ce213", "source_library": "https://app.notion.com/p/3e03f6aa67a481eba599d279aedb6f10", "서고": "https://app.notion.com/p/3e03f6aa67a48160b91dd2b5398257ae", "결과": "생성"},
+    {"id": "2101039819870937247-3bce8739", "source_library": "https://app.notion.com/p/3e03f6aa67a48140a48ec3692b9a2a8f", "서고": "https://app.notion.com/p/3e03f6aa67a4817dabd0d32d5f4f3993", "결과": "생성"},
+    {"id": "v2-1-276-3575631d", "source_library": "https://app.notion.com/p/3e03f6aa67a4812480f9d57aa5362ff6", "서고": "https://app.notion.com/p/3e03f6aa67a48167ba2afa354434fa4b", "결과": "생성"},
+    {"id": "2100701581109072332-395da6a8", "source_library": "https://app.notion.com/p/3e03f6aa67a4817fbd6cc9f650d6c17e", "서고": "https://app.notion.com/p/3e03f6aa67a481e79dc3d644eba10ade", "결과": "생성"},
+    {"id": "us-military-ai-false-intelligence-china-38b05854", "source_library": "https://app.notion.com/p/3e03f6aa67a48134994dcfe6789ad105", "서고": "https://app.notion.com/p/3e03f6aa67a481dbb0b8fc9d234fd635", "결과": "생성"},
+    {"id": "12869899-5f31ead1", "source_library": "https://app.notion.com/p/3e03f6aa67a481219c3bf6c62da852ed", "서고": "https://app.notion.com/p/3e03f6aa67a4817aa133dbef2d8f21a9", "결과": "생성"},
+    {"id": "gemini-hacked-three-companies-93b15eb0", "source_library": "https://app.notion.com/p/3e03f6aa67a481f88510fd00e5d59317", "서고": "https://app.notion.com/p/3e03f6aa67a481b7bc78d2ce8804a0f2", "결과": "생성"},
+    {"id": "cooley-gopublic-964ae1dd", "source_library": "https://app.notion.com/p/3e03f6aa67a481a1a668ff6085cc10da", "서고": "https://app.notion.com/p/3e03f6aa67a481b08fe4f5df015a2399", "결과": "생성"}
+  ],
+  "전체수집건수": 181,
+  "메모": "후보 12건 전건 2단계 완료, 중복 없음(Source Library 를 오늘 날짜와 후보 12개 url 로 두 번 조회해 확인). 원문 정본은 기존 관례대로 사이트 네비게이션·푸터를 걷어내고 본문만 옮겼으며 제외 사실을 각 페이지 말미에 남겼다. Jina Reader 수집본이 중간에 끊긴 4건(changelog-9b0bea9a, v2-1-277-2e32a5a9, 2609-20804-3f8ce213, 2100701581109072332-395da6a8)은 접근상태를 '일부 확인'으로 표기. fast-jev-compaction README 의 API 키 자리표시자는 [마스킹] 으로 치환(원문에 실제 키값 없음). 수집 단계에서 MarkTechPost RSS 403, Reddit 4개 서브레딧 429 로 실패."
+}
