@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-21",
+  "브리핑페이지": "https://app.notion.com/p/3e23f6aa67a481b69646fd491b94a4fc",
+  "정식아카이빙": [
+    {
+      "id": "scroll-craft-21883fcb",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "jianying-headless-c2b6457f",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "open-seo-mcp-skills-653e3f81",
+      "source_library": "https://app.notion.com/p/3e23f6aa67a481f18edddfea48597903",
+      "서고": "https://app.notion.com/p/3e23f6aa67a481c5b8e1eed43aa72931",
+      "결과": "생성"
+    },
+    {
+      "id": "agentexecutor-io-ea087dc9",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "2102093145051943229-927d9e47",
+      "source_library": "https://app.notion.com/p/3e23f6aa67a481619de4cf97888f6d85",
+      "서고": "https://app.notion.com/p/3e23f6aa67a481c986e3d5df1f4faaba",
+      "결과": "생성"
+    },
+    {
+      "id": "main-513f7065",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "if-ai-coding-is-lowering-your-code-2214a3c6",
+      "source_library": "https://app.notion.com/p/3e23f6aa67a48177b75ce12131598ab6",
+      "서고": "https://app.notion.com/p/3e23f6aa67a481d686fefa99e26be821",
+      "결과": "생성"
+    },
+    {
+      "id": "advisory-group-on-mathematics-and-ai-a7ca5984",
+      "source_library": "https://app.notion.com/p/3e23f6aa67a4811aaa2ad313bffc013e",
+      "서고": "https://app.notion.com/p/3e23f6aa67a481d6bc1fd6112eb7b9f6",
+      "결과": "생성"
+    },
+    {
+      "id": "higgsfield-from-prompt-to-production-wit-d37f5b2c",
+      "source_library": "https://app.notion.com/p/3e23f6aa67a481bfb286fb4f33e9d3fe",
+      "서고": "https://app.notion.com/p/3e23f6aa67a481eb830dcb60ab9e078a",
+      "결과": "생성"
+    },
+    {
+      "id": "voxium-bd7e7d73",
+      "source_library": "",
+      "서고": "",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "hn-49779718-f6e31eba",
+      "source_library": "https://app.notion.com/p/3e23f6aa67a481c3a2d0ecdbefcc3cc1",
+      "서고": "https://app.notion.com/p/3e23f6aa67a481b8850bc2bf156ef5b0",
+      "결과": "생성"
+    },
+    {
+      "id": "3mw2l5jyq7226-5d7200d7",
+      "source_library": "https://app.notion.com/p/3e23f6aa67a48178a1e3e9882ff6a7ff",
+      "서고": "https://app.notion.com/p/3e23f6aa67a48104b28dd15ac4d243e5",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 156,
+  "메모": "후보 12건 전건 처리 — 7건 신규 2단계 생성, 5건은 2026-09-20 회차에 이미 들어가 있어 건너뜀(Source Library 원본 링크 대조 + notion-search 로 확인). 깃헙 트렌딩 레포는 날짜가 넘어가도 후보에 다시 잡히므로 중복이 발생한다. 출처 28개·수집 156건."
+}
