@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-25",
+  "브리핑페이지": "",
+  "정식아카이빙": [
+    {"id": "v2-1-282-cd3a2bc6", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "skills-88cfbe24", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "claude-code-reads-agents-md-only-when-te-a877a4ca", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "v2-1-281-57339196", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "2102837574092161102-e16e2453", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "2102824961538920822-c4d86d43", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "2102824959827742916-560c699f", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "snapdragon-summit-agentic-ai-pcs-linux-53ff43d9", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "claude-discovers-novel-enzyme-system-8c50fe1c", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "introducing-gemini-38-live-with-live-ava-91625e27", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "sam-altman-un-security-council-remarks-01d4e543", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"},
+    {"id": "3mwc2fyzarc2o-c241f6fe", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에서 노션 도구를 쓸 수 없음"}
+  ],
+  "전체수집건수": 0,
+  "메모": "ARCHIVE.md 0단계에서 중단. plugin:Notion:notion 이 미인증이라 notion-fetch 를 포함한 모든 노션 도구가 이 세션에 없다(비대화형이라 OAuth 불가). 노션에는 한 건도 쓰지 않았다 — 반쯤 들어간 상태 없음. /mcp 재인증 후 `bash ~/ai-news/daily.sh 2026-09-25` 로 재실행하면 된다."
+}

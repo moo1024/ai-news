@@ -2,19 +2,19 @@
   "날짜": "2026-09-24",
   "브리핑페이지": "",
   "정식아카이빙": [
-    {"id": "skills-88cfbe24", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "v2-1-281-57339196", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "claude-code-reads-agents-md-only-when-te-a877a4ca", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "2102837574092161102-e16e2453", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "2102824961538920822-c4d86d43", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "2102824959827742916-560c699f", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "claude-discovers-novel-enzyme-system-8c50fe1c", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "snapdragon-summit-agentic-ai-pcs-linux-53ff43d9", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "grab-openai-ai-skills-southeast-asia-09a0c6db", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "rust-v0-156-1-1c9cdfdf", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "rollouts-and-security-reviewer-089c4ff6", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"},
-    {"id": "3mwa2mjely225-457d1897", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 0단계에서 중단"}
+    {"id": "v2-1-282-cd3a2bc6", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "skills-88cfbe24", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "claude-code-reads-agents-md-only-when-te-a877a4ca", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "v2-1-281-57339196", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "2102837574092161102-e16e2453", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "2102824961538920822-c4d86d43", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "2102824959827742916-560c699f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "snapdragon-summit-agentic-ai-pcs-linux-53ff43d9", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "claude-discovers-novel-enzyme-system-8c50fe1c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "introducing-gemini-38-live-with-live-ava-91625e27", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "3mwc2fyzarc2o-c241f6fe", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"},
+    {"id": "rollouts-and-security-reviewer-089c4ff6", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계에서 중단"}
   ],
-  "전체수집건수": 201,
-  "메모": "Notion MCP 서버(plugin:Notion:notion)가 인증되지 않아 notion-fetch 등 도구 자체를 호출할 수 없음. 절차서 0단계에 따라 노션에 아무것도 쓰지 않고 중단. 입력 파일(_후보.json 12건·원문 12개)은 그대로 보존되어 있으므로 /mcp 재인증 후 재실행하면 전건 처리 가능."
+  "전체수집건수": 215,
+  "메모": "ARCHIVE.md 0단계 인증 확인 실패 — 이 세션에 Notion MCP 도구 자체가 로드되지 않았다(plugin:Notion:notion 미인증, 비대화형 세션이라 OAuth 불가). 절차대로 노션에 아무것도 만들지 않고 중단했다. 재인증 후 재실행하면 12건 전부 처음부터 처리 가능하다 — 중복 위험 없음."
 }
