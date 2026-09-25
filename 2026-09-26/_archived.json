@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-26",
+  "브리핑페이지": "",
+  "정식아카이빙": [
+    {"id": "v2-1-283-698a7c41", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "skills-88cfbe24", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "appllama-skills-06f5de5f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "proaction-d2d497e5", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "2103541577083719888-c42a83cb", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "2103566736356458911-d6ec2d37", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "2103587050347995581-2fc3d3bc", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "v2-1-282-cd3a2bc6", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "agentic-cuda-optimizer-bef01355", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "pentagon-anthropic-ai-risk-appeals-court-b005ba80", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "ollaya-dev-40341598", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"},
+    {"id": "3mwctdxv7pc26-3f88b156", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 도구 호출 불가"}
+  ],
+  "전체수집건수": 177,
+  "메모": "ARCHIVE.md 0단계에서 중단. 노션 MCP 서버(plugin:Notion:notion)가 인증되지 않아 notion-fetch 를 포함한 모든 노션 도구를 부를 수 없었다. 절차대로 노션에 아무것도 쓰지 않았다(반쯤 만들면 다음 실행이 중복을 만든다). 입력 파일 12건·원문 전문은 그대로 보존돼 있으므로 /mcp 재인증 후 daily.sh 2026-09-26 으로 재실행하면 전건 처리된다."
+}
