@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-26",
+  "브리핑페이지": "https://app.notion.com/p/3e73f6aa67a4811a89aed29ac618a4c6",
+  "정식아카이빙": [
+    {"id": "skills-88cfbe24", "source_library": "https://app.notion.com/p/3e73f6aa67a481309d3bca3d5d4f0d4a", "서고": "https://app.notion.com/p/3e73f6aa67a4817eb083d905b767a21e", "결과": "생성"},
+    {"id": "appllama-skills-06f5de5f", "source_library": "https://app.notion.com/p/3d83f6aa67a481789150c313be55bff9", "서고": "https://app.notion.com/p/3d83f6aa67a48115ae26c1077fc434f6", "결과": "중복 — 건너뜀"},
+    {"id": "golive-skill-0fe1fa73", "source_library": "https://app.notion.com/p/3e73f6aa67a481778ae2d6e394677b04", "서고": "https://app.notion.com/p/3e73f6aa67a4816eb144fdf89622b322", "결과": "생성"},
+    {"id": "rust-v0-157-1-ac8c6666", "source_library": "https://app.notion.com/p/3e73f6aa67a48177bbc0ea9957fb9a0f", "서고": "https://app.notion.com/p/3e73f6aa67a481099d32cc0b68a580f0", "결과": "생성"},
+    {"id": "01M3DCNWMW57HYK8FJ5FBFPA39-72c8ad90", "source_library": "https://app.notion.com/p/3e73f6aa67a4815ba411ddeed1868d72", "서고": "https://app.notion.com/p/3e73f6aa67a4812cbf4dff26f83d13a4", "결과": "생성"},
+    {"id": "item-id-49851032-13d2a015", "source_library": "https://app.notion.com/p/3e73f6aa67a48137b42cc044f99e7065", "서고": "https://app.notion.com/p/3e73f6aa67a48149905bfee0a321428d", "결과": "생성"},
+    {"id": "2102837574092161102-e16e2453", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "3mwfdufd7n223-7781a073", "source_library": "https://app.notion.com/p/3e73f6aa67a481e4b096f7f628d1abec", "서고": "https://app.notion.com/p/3e73f6aa67a48136a52cf0157894a563", "결과": "생성"},
+    {"id": "3mwfeg23das23-843d4fa1", "source_library": "https://app.notion.com/p/3e73f6aa67a481dca6fafa181097a23a", "서고": "https://app.notion.com/p/3e73f6aa67a481c492cccfbb03c66352", "결과": "생성"},
+    {"id": "3mwdzwztnak23-2c9df137", "source_library": "https://app.notion.com/p/3e73f6aa67a4819bb313defdd827f37c", "서고": "https://app.notion.com/p/3e73f6aa67a48122bc94daf79f18a93b", "결과": "생성"},
+    {"id": "3mw7magyrwc2i-3ad9d163", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "commit-rewriter-5ce7db5e", "source_library": "https://app.notion.com/p/3e73f6aa67a4818d84d4df19617c60f9", "서고": "https://app.notion.com/p/3e73f6aa67a481769805e7c8864c3b84", "결과": "생성"}
+  ],
+  "전체수집건수": 177,
+  "메모": "후보 12건 전건 처리 — 신규 2단계 9건, 중복 건너뜀 3건(appllama-skills 는 09-11, MentalHealthBench·Gemini TTS 는 09-25 브리핑 실행 때 이미 등재). golive-skill 은 원문 파일이 중간에 잘려 접근상태를 '일부 확인'으로 뒀다. 이날 오전 실행은 Notion MCP 미인증으로 0건 처리하고 중단됐고, 이번 세션에서 중복 없이 전건 재처리했다. 주의 — Notion MCP 쓰기 경로에서 일부 한글 음절이 조용히 깨지는 현상을 확인했다(예: 바뀌는지→바끍는지, 쉽다→쉼다, 뜨는→뜸는). 작성한 페이지를 전부 다시 읽어 깨진 곳을 고쳤다."
+}
