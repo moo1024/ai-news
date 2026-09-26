@@ -1,20 +1,20 @@
 {
   "날짜": "2026-09-25",
-  "브리핑페이지": "",
+  "브리핑페이지": "https://app.notion.com/p/3e73f6aa67a481a8bc66e4f2b90c2ba2",
   "정식아카이빙": [
-    {"id": "v2-1-283-698a7c41", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "2103541577083719888-c42a83cb", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "2103587050347995581-2fc3d3bc", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "2103566736356458911-d6ec2d37", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "v2-1-282-cd3a2bc6", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "ollaya-dev-40341598", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "01M3DCNWMW57HYK8FJ5FBFPA39-72c8ad90", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "item-id-49851032-13d2a015", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "swarmtraces-org-7af26c7f", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "pentagon-anthropic-ai-risk-appeals-court-b005ba80", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "jevmem-80053acc", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"},
-    {"id": "rust-v0-157-0-2cd81094", "source_library": "", "서고": "", "결과": "실패: Notion MCP 미인증 — 세션에 notion 도구 없음"}
+    {"id": "v2-1-283-698a7c41", "source_library": "https://app.notion.com/p/3e73f6aa67a48127a6c7cc3b5b1be3de", "서고": "https://app.notion.com/p/3e73f6aa67a481178431efcb8f4a1693", "결과": "생성"},
+    {"id": "2103587050347995581-2fc3d3bc", "source_library": "https://app.notion.com/p/3e73f6aa67a481a58093eb41b0e814b8", "서고": "https://app.notion.com/p/3e73f6aa67a48130b59defd8fe0d16a3", "결과": "생성"},
+    {"id": "2103541577083719888-c42a83cb", "source_library": "https://app.notion.com/p/3e73f6aa67a481f38c03e9278bb4cf23", "서고": "https://app.notion.com/p/3e73f6aa67a481a88c96fc6e8b1a7a68", "결과": "생성"},
+    {"id": "2103566736356458911-d6ec2d37", "source_library": "https://app.notion.com/p/3e73f6aa67a481da960fd6679a2bcde0", "서고": "https://app.notion.com/p/3e73f6aa67a48173ae61ccad226ee917", "결과": "생성"},
+    {"id": "v2-1-282-cd3a2bc6", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "swarmtraces-org-7af26c7f", "source_library": "https://app.notion.com/p/3e73f6aa67a481899409c38506d08f4e", "서고": "https://app.notion.com/p/3e73f6aa67a48104a334c61b1d1a4cc5", "결과": "생성"},
+    {"id": "ollaya-dev-40341598", "source_library": "https://app.notion.com/p/3e73f6aa67a4819a917ee80981a0960d", "서고": "https://app.notion.com/p/3e73f6aa67a481b7b06bd442a1a4dbda", "결과": "생성"},
+    {"id": "pentagon-anthropic-ai-risk-appeals-court-b005ba80", "source_library": "https://app.notion.com/p/3e73f6aa67a481ca84d2d8c1236139d7", "서고": "https://app.notion.com/p/3e73f6aa67a4818bb57cdefa3f2f388a", "결과": "생성"},
+    {"id": "john-gruber-44842586", "source_library": "https://app.notion.com/p/3e73f6aa67a4812191c9f2717359d7b3", "서고": "https://app.notion.com/p/3e73f6aa67a481e785dad1ffc9273df9", "결과": "생성"},
+    {"id": "v2-1-281-57339196", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "harder-60366912", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "microsoft-copilot-super-app-chat-coding-15d4aaf6", "source_library": "https://app.notion.com/p/3e73f6aa67a48178bdeadb63698afeeb", "서고": "https://app.notion.com/p/3e73f6aa67a481f08554d95383687d28", "결과": "생성"}
   ],
-  "전체수집건수": 175,
-  "메모": "ARCHIVE.md 0단계(인증 확인)에서 중단. Notion MCP 서버(plugin:Notion:notion)가 인증 대기 상태로 notion-fetch/search/create-pages 도구가 세션에 로드되지 않았다. 노션에 아무것도 쓰지 않았으므로 중복 위험 없음. /mcp 재인증 후 재실행하면 12건 전체가 그대로 처리된다."
+  "전체수집건수": 142,
+  "메모": "후보 12건 전부 처리. 신규 9건은 ①원문 정본 + ②정리본 2단계 완료, 3건(v2.1.282·v2.1.281·harder-60366912)은 Source Library 를 원본 링크로 조회해 이미 존재함을 확인하고 건너뜀 — 2026-09-24 회차가 실제로는 노션에 들어가 있었고 그날 후보와 겹쳤다(그쪽 _archived.json 은 '미인증 실패'로 남아 있어 기록과 실물이 어긋난다). X 게시물 4건과 Claude Code v2.1.283 릴리스 노트는 수집 단계에서 본문이 잘려 접근상태를 '일부 확인'으로 표기하고 정본 끝에 절단 위치를 명시했다. swarmtraces 정본의 자격증명·API 키는 [마스킹] 처리. 브리핑 행은 142건 전체를 27개 출처 묶음으로 수록."
 }
