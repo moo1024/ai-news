@@ -1,0 +1,74 @@
+{
+  "날짜": "2026-09-27",
+  "브리핑페이지": "https://app.notion.com/p/3e83f6aa67a481198a95cd94b16ac0ff",
+  "정식아카이빙": [
+    {
+      "id": "codenotch-0279bd97",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a48130821fc3da1e7673ff",
+      "서고": "https://app.notion.com/p/3e73f6aa67a4818faebad0e4bff84ed6",
+      "결과": "생성"
+    },
+    {
+      "id": "reverify-f1e34982",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a481819d90c82004240e5d",
+      "서고": "https://app.notion.com/p/3e73f6aa67a481069094db31ed8ad4c5",
+      "결과": "생성"
+    },
+    {
+      "id": "drawgent-fc201052",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a4810fbe91ef21e1b361ba",
+      "서고": "https://app.notion.com/p/3e73f6aa67a48143b000fc669e04bbd0",
+      "결과": "생성"
+    },
+    {
+      "id": "item-id-49861047-26436e3a",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a4812c8ff5e82ffa2ee4a0",
+      "서고": "https://app.notion.com/p/3e73f6aa67a48118a47de63b267bf093",
+      "결과": "생성"
+    },
+    {
+      "id": "the-copilot-pc-brand-is-dead-microsoft-a-855a3e69",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a481d3945ee7c0f04efdef",
+      "서고": "https://app.notion.com/p/3e73f6aa67a481758e1eec36cb9cdd55",
+      "결과": "생성"
+    },
+    {
+      "id": "3mwgqdgglq223-6cc7677a",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a481a4abbccfc59c683bf0",
+      "서고": "https://app.notion.com/p/3e73f6aa67a481f1af23c50da94a691f",
+      "결과": "생성"
+    },
+    {
+      "id": "openai-training-pause-60ac3b13",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a481a8a006e795ecca4c7f",
+      "서고": "https://app.notion.com/p/3e73f6aa67a4816cb75efc7d714c1984",
+      "결과": "생성"
+    },
+    {
+      "id": "microsoft-stops-insisting-you-need-a-cop-9366ee5b",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a4817b8bdedd0e1b39c2de",
+      "서고": "https://app.notion.com/p/3e73f6aa67a4816c8efad7da294e381d",
+      "결과": "생성"
+    },
+    {
+      "id": "cloudflare-matthew-prince-google-zero-ai-7c2c4d96",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a481dab5d0c9093290b247",
+      "서고": "https://app.notion.com/p/3e73f6aa67a48133af20ccab0cb547bb",
+      "결과": "생성"
+    },
+    {
+      "id": "insurers-claim-ai-is-already-increasing-71b88d6b",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a4810c8fafd82ca95e1470",
+      "서고": "https://app.notion.com/p/3e73f6aa67a481e396e4fd11df8fe218",
+      "결과": "생성"
+    },
+    {
+      "id": "i-created-an-interactive-digital-avatar-dc5183e8",
+      "source_library": "https://app.notion.com/p/3e73f6aa67a481a6b2dff10888129724",
+      "서고": "https://app.notion.com/p/3e73f6aa67a481de8663ceecf589eb3d",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 134,
+  "메모": "후보 11건 전부 2단계 처리(중복 0건). 중복 확인은 Source Library 를 createdTime >= 2026-09-26 으로 조회해 원본 링크 대조 — 후보 11건의 url 이 하나도 없었다. 원문 정본은 Jina Reader 수집분을 그대로 옮겼고, GitHub·언론사 사이트의 순수 내비게이션 잔여물만 생략했다(요약 없음). codenotch·reverify·windowscentral·cloudflare 4건은 Jina 수집분 자체가 문장 중간에서 끊겨 있어 본문 말미에 그 사실을 표기하고 접근상태를 조정했다. 브리핑 작성 중 Query Data Source 무료 한도가 소진돼 같은 날짜 행 중복 확인은 notion-search 로 대체했다(2026-09-27 행 없음 확인)."
+}

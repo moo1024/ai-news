@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-09-24",
+  "브리핑페이지": "https://app.notion.com/p/3e73f6aa67a48118a76ee20438d809f0",
+  "정식아카이빙": [
+    {"id": "v2-1-282-cd3a2bc6", "source_library": "https://app.notion.com/p/3e73f6aa67a481cfb316d7293cfdc070", "서고": "https://app.notion.com/p/3e73f6aa67a48190b4dbd77fe6a5085b", "결과": "중복 — 건너뜀"},
+    {"id": "2102824961538920822-c4d86d43", "source_library": "https://app.notion.com/p/3e73f6aa67a481bb89c0ca50b6084296", "서고": "https://app.notion.com/p/3e73f6aa67a48123a0a0dce5e71946be", "결과": "중복 — 건너뜀"},
+    {"id": "2102824959827742916-560c699f", "source_library": "https://app.notion.com/p/3e73f6aa67a48198a5abe40274d845a9", "서고": "https://app.notion.com/p/3e73f6aa67a481e3b788f91aeffae8c8", "결과": "중복 — 건너뜀"},
+    {"id": "2102435703535939725-b48827da", "source_library": "https://app.notion.com/p/3e73f6aa67a481078babee56c1e9af36", "서고": "https://app.notion.com/p/3e73f6aa67a48155aa1dde7263243f81", "결과": "생성"},
+    {"id": "launchvideo-io-e3359762", "source_library": "https://app.notion.com/p/3e73f6aa67a481e1ab76d21078cc5dd6", "서고": "https://app.notion.com/p/3e73f6aa67a481c9a6a9db1da984fbc0", "결과": "중복 — 건너뜀"},
+    {"id": "claude-discovers-novel-enzyme-system-8c50fe1c", "source_library": "https://app.notion.com/p/3e73f6aa67a481ad9713e410844e7157", "서고": "https://app.notion.com/p/3e73f6aa67a481f79c4adcebcfb0dad4", "결과": "생성"},
+    {"id": "ai-labs-need-to-start-funding-historical-b28faeb3", "source_library": "https://app.notion.com/p/3e73f6aa67a4811087b1df928bd75548", "서고": "https://app.notion.com/p/3e73f6aa67a4814291c4ef8b30d9cf97", "결과": "중복 — 건너뜀"},
+    {"id": "v2-1-281-57339196", "source_library": "https://app.notion.com/p/3e73f6aa67a481a99b51ea5f917640c7", "서고": "https://app.notion.com/p/3e73f6aa67a4817499a6e83b813d6940", "결과": "중복 — 건너뜀"},
+    {"id": "harder-60366912", "source_library": "https://app.notion.com/p/3e73f6aa67a4813cb5b0c9ff4ef65684", "서고": "https://app.notion.com/p/3e73f6aa67a4814a93deffb23c6f1a3b", "결과": "중복 — 건너뜀"},
+    {"id": "rollouts-and-security-reviewer-089c4ff6", "source_library": "https://app.notion.com/p/3e73f6aa67a481ae87e6c87cb9b550c6", "서고": "https://app.notion.com/p/3e73f6aa67a4811a8168d9e538e38c47", "결과": "생성"},
+    {"id": "3mw7magyrwc2i-3ad9d163", "source_library": "https://app.notion.com/p/3e73f6aa67a48115abebeb474e047b57", "서고": "https://app.notion.com/p/3e73f6aa67a4819aaca1de1edbd10a14", "결과": "생성 — 2단계만 보완(원문 정본은 09-25 실행분에 이미 있었고 정리본이 누락돼 있었다)"},
+    {"id": "openai-extends-cyber-access-to-ukraine-f-1d77064c", "source_library": "https://app.notion.com/p/3e73f6aa67a481f7affac634242a331d", "서고": "https://app.notion.com/p/3e73f6aa67a4819d8bbfc5b39543e0f5", "결과": "생성"}
+  ],
+  "전체수집건수": 112,
+  "메모": "후보 12건 중 8건은 09-25 실행분에서 이미 Source Library·서고에 들어가 있어 건너뛰었다(URL 대조 + 수집 ID 검색 이중 확인). 그중 bsky 3mw7magyrwc2i 는 원문 정본만 있고 서고 정리본이 빠져 있어 2단계만 보완했다. 신규 2단계는 4건(Opus 5.5 트윗·Anthropic 효소 발견 공식글·Cursor Rollouts/Security Review·OpenAI Daybreak 우크라이나). Cursor 원문은 Jina 캡처가 본문을 두 번 중복 수록해 동일 1회분만 옮기고 그 사실을 본문 끝에 적었다. 노션 MCP 한글 음절 변조가 여러 번 발생해 대부분 되고쳤으나, 브리핑 본문 2곳(Isaac ROS 줄의 '에이전틱', 정식정리 3번 줄 끝 어미)은 재매칭이 안 돼 오타가 남아 있다."
+}
