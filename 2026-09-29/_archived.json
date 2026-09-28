@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-29",
+  "브리핑페이지": "https://app.notion.com/p/3e93f6aa67a481f096f3c2a43cd324f3",
+  "정식아카이빙": [
+    {
+      "id": "v2-1-284-00e36c8c",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a481b78594cbf71a456f37",
+      "서고": "https://app.notion.com/p/3e93f6aa67a4817db93feaced118a629",
+      "결과": "생성"
+    },
+    {
+      "id": "2104651136699609518-3b1f4359",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a48128bc97d65f43516524",
+      "서고": "https://app.notion.com/p/3e93f6aa67a48194bcc8db292dcb55c0",
+      "결과": "생성"
+    },
+    {
+      "id": "2104633259925630995-b81999f2",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a4813783adf899fdf07a71",
+      "서고": "https://app.notion.com/p/3e93f6aa67a481c1bbabe6c7ad9a1101",
+      "결과": "생성"
+    },
+    {
+      "id": "cloudflare-cf-cli-launch-ff1c78cd",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a4810db795d732effc13c9",
+      "서고": "https://app.notion.com/p/3e93f6aa67a48126bb21cfec82c60771",
+      "결과": "생성"
+    },
+    {
+      "id": "the-problem-is-not-the-ai-code-but-nobod-aadd1dae",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a481fbb5e3fc26fcefda30",
+      "서고": "https://app.notion.com/p/3e93f6aa67a48123939afabb33c71ce6",
+      "결과": "생성"
+    },
+    {
+      "id": "codex-originals-914f1471",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a4812ebee8e96249d7060b",
+      "서고": "https://app.notion.com/p/3e93f6aa67a4811caef5ea08aada4f65",
+      "결과": "생성"
+    },
+    {
+      "id": "prompting-claude-opus-5-5-9f284eff",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a481ad999ae52c0ae64697",
+      "서고": "https://app.notion.com/p/3e93f6aa67a481d7abb2f86b891db076",
+      "결과": "생성"
+    },
+    {
+      "id": "parley-8e748fa5",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a4816a890aefe5f6825357",
+      "서고": "https://app.notion.com/p/3e93f6aa67a481efab02d73893de45ef",
+      "결과": "생성"
+    },
+    {
+      "id": "rust-v0-158-0-6cda9afb",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a4810da767ee13a2825a0f",
+      "서고": "https://app.notion.com/p/3e93f6aa67a48183819aeaf30059534d",
+      "결과": "생성"
+    },
+    {
+      "id": "its-time-to-investigate-the-ai-labs-a37b0826",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a481a9bdbde95fc715bfb9",
+      "서고": "https://app.notion.com/p/3e93f6aa67a481d3b2c8f9284ed9ee18",
+      "결과": "생성"
+    },
+    {
+      "id": "lenfest-ai-collaborative-expansion-216d56bb",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a481e88cb3c1cb13882dac",
+      "서고": "https://app.notion.com/p/3e93f6aa67a481b5a163d7fa766013db",
+      "결과": "생성"
+    },
+    {
+      "id": "basis-tax-workbook-with-astra-bf0fe8cc",
+      "source_library": "https://app.notion.com/p/3e93f6aa67a481659fd2ccf99a4fd4e4",
+      "서고": "https://app.notion.com/p/3e93f6aa67a4815ba6afc7c5b04fcf7b",
+      "결과": "생성"
+    }
+  ],
+  "전체수집건수": 137,
+  "메모": "후보 12건 전건 2단계 완료(중복 0건 — Source Library 를 2026-09-28 이후 createdTime 으로 조회해 후보 url 과 대조). 원문 사본 중 v2.1.284·cf CLI·Prompting Opus 5.5·Parley·Codex 0.158.0 은 Jina Reader 가 14KB 지점에서 잘려 접근상태를 '일부 확인'(GitHub 릴리스 2건은 본문 핵심이 온전해 '확인 완료')으로 표시하고 각 정리본 주의 섹션에 잘린 지점을 명기했다. 브리핑은 137건 전체를 28개 출처로 묶어 수록. 수집 단계 실패: MarkTechPost 403, Reddit 4개 서브 429."
+}
