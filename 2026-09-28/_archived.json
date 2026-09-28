@@ -1,0 +1,80 @@
+{
+  "날짜": "2026-09-28",
+  "브리핑페이지": "https://app.notion.com/p/3e93f6aa67a481d08325d0910774011c",
+  "정식아카이빙": [
+    {
+      "id": "pr-lens-bfc01f4b",
+      "source_library": "https://app.notion.com/3e83f6aa67a48180b357fc7a42a0139f",
+      "서고": "https://app.notion.com/3e83f6aa67a4819a870cd186ccebdc84",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "magpie-0365ec89",
+      "source_library": "https://app.notion.com/3e93f6aa67a481db8a8bc9636f1b31d1",
+      "서고": "https://app.notion.com/3e93f6aa67a481c896adf3989f8c2d0a",
+      "결과": "생성"
+    },
+    {
+      "id": "PDoomVideo-a8f0c46a",
+      "source_library": "https://app.notion.com/3e83f6aa67a481478799d66e97d6948f",
+      "서고": "https://app.notion.com/3e83f6aa67a48129aa59de905acfcd0b",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "there-are-no-rogue-ai-agents-4aa8cdc7",
+      "source_library": "https://app.notion.com/3e83f6aa67a4819d8c3bca4b89e96cfa",
+      "서고": "https://app.notion.com/3e83f6aa67a48100982bc3dac85684c2",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "ag-v-openai-top-execs-knew-mass-book-pir-9fe0a063",
+      "source_library": "https://app.notion.com/3e83f6aa67a481aeb517e242acb30b2a",
+      "서고": "https://app.notion.com/3e83f6aa67a481e1b807e70fa3a8013e",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "2026-in-llms-so-far-193eb09a",
+      "source_library": "https://app.notion.com/3e93f6aa67a481fd9fd3f0efb3dc0580",
+      "서고": "https://app.notion.com/3e93f6aa67a481c9a246ca4a06042c11",
+      "결과": "생성"
+    },
+    {
+      "id": "kakapo-party-63394656",
+      "source_library": "https://app.notion.com/3e83f6aa67a48107bf15e83a0673a2b7",
+      "서고": "https://app.notion.com/3e83f6aa67a481ec8c2cde4517907469",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "bluesky-bot-check-60ab9820",
+      "source_library": "https://app.notion.com/3e93f6aa67a481e2a1b9eef80c099af6",
+      "서고": "https://app.notion.com/3e93f6aa67a481249b5fd05697ca6b2f",
+      "결과": "생성"
+    },
+    {
+      "id": "3mwkdftqyms2j-031000dc",
+      "source_library": "https://app.notion.com/3e93f6aa67a48159a25ce072fc799ed1",
+      "서고": "https://app.notion.com/3e93f6aa67a481c79078d269528e913e",
+      "결과": "생성"
+    },
+    {
+      "id": "engram-sampler-ai-hallucinations-music-93164ff1",
+      "source_library": "https://app.notion.com/3e83f6aa67a4819082adcf7c45af4c2f",
+      "서고": "https://app.notion.com/3e83f6aa67a48140b9bce61345473af5",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "openai-agents-bruteforce-un-website-792afdd7",
+      "source_library": "https://app.notion.com/3e83f6aa67a481738876ec5d9a1d6285",
+      "서고": "https://app.notion.com/3e83f6aa67a481e493c2c446ceb021d2",
+      "결과": "중복 — 건너뜀"
+    },
+    {
+      "id": "3mwjaoq4trs2y-681eeffd",
+      "source_library": "https://app.notion.com/3e83f6aa67a48122afd9f79f7a6391db",
+      "서고": "https://app.notion.com/3e83f6aa67a481e28b7ee43f6bae82e2",
+      "결과": "중복 — 건너뜀"
+    }
+  ],
+  "전체수집건수": 108,
+  "메모": "오늘 07:29~08:35(KST) 아침 실행분이 2단계 12건까지 넣고 브리핑·_archived.json 전에 끊겼다. 그 뒤 12:54 재수집으로 후보가 바뀌어, 오늘 후보 12건 중 8건은 아침에 이미 들어가 있었고 신규 4건(magpie·2026-in-llms-so-far·bluesky-bot-check·3mwkdftqyms2j)만 2단계로 새로 넣었다. 아침에만 있고 오늘 후보에서 빠진 4건(second-brain-os·emollick 3mwjrmxmqfk2j·3mwhppofdec23·3mwhrte64c223)도 노션에는 그대로 남아 있어 브리핑의 정식정리 수치는 16이다. 원문 2건(magpie·2026-in-llms-so-far)은 Jina Reader 14KB 한도로 문장 중간에 잘려 접근상태를 각각 확인 완료/일부 확인으로 구분했다."
+}
