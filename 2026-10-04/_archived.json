@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-04",
+  "브리핑페이지": "https://app.notion.com/p/3f03f6aa67a481daaab6e5f27d3d51b7",
+  "정식아카이빙": [
+    {"id": "Strata-bca476fd", "source_library": "https://app.notion.com/p/3f03f6aa67a481c6bd67c7d311dfe554", "서고": "https://app.notion.com/p/3f03f6aa67a48148afaae584b7fea48d", "결과": "생성"},
+    {"id": "building-a-rag-pipeline-for-semantic-cod-68bae58b", "source_library": "https://app.notion.com/p/3f03f6aa67a4816485c5caf18f6c28db", "서고": "https://app.notion.com/p/3f03f6aa67a481b7bc0ce8265ab31af0", "결과": "생성"},
+    {"id": "in-ukraine-distributed-renewables-foil-r-477551e9", "source_library": "https://app.notion.com/p/3f03f6aa67a48135b93fe73f451221c1", "서고": "https://app.notion.com/p/3f03f6aa67a4816b9805dfcb548fe047", "결과": "생성"},
+    {"id": "SCM-567a67be", "source_library": "https://app.notion.com/p/3f03f6aa67a481b291abcc8161b76c89", "서고": "https://app.notion.com/p/3f03f6aa67a481e1a1f0e419efe94b74", "결과": "생성"},
+    {"id": "2105373267171438779-d781a294", "source_library": "https://app.notion.com/p/3f03f6aa67a48131813fd89269af722b", "서고": "https://app.notion.com/p/3f03f6aa67a4819d9d72efbeea9d89d0", "결과": "생성"},
+    {"id": "getting-the-most-out-of-opus-5-5-fc994d69", "source_library": "https://app.notion.com/p/3f03f6aa67a481c79c5bce9f856d6434", "서고": "https://app.notion.com/p/3f03f6aa67a481499ebecd2074a00811", "결과": "생성"},
+    {"id": "3mx2prvytik2c-5de8faad", "source_library": "https://app.notion.com/p/3f03f6aa67a4810fb864e62a32028759", "서고": "https://app.notion.com/p/3f03f6aa67a4814dada6f89c7eb79966", "결과": "생성"},
+    {"id": "item-id-49934037-f3f07cfd", "source_library": "https://app.notion.com/p/3f03f6aa67a481848dd5cfd8bd68be8a", "서고": "https://app.notion.com/p/3f03f6aa67a48186bbf7e5fc78c2f897", "결과": "생성"},
+    {"id": "gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-a-fac24a95", "source_library": "https://app.notion.com/p/3f03f6aa67a481499dc2d48fc1d117ed", "서고": "https://app.notion.com/p/3f03f6aa67a481a39c4ed25c09df46ec", "결과": "생성"},
+    {"id": "well-if-ai-said-it-it-must-be-true-7f0fe70b", "source_library": "https://app.notion.com/p/3f03f6aa67a481f397c4fd88fd1942a3", "서고": "https://app.notion.com/p/3f03f6aa67a481f5a36de2fb9e5e7a8d", "결과": "생성"},
+    {"id": "openai-gpt-cheat-starcraft-82766b52", "source_library": "https://app.notion.com/p/3f03f6aa67a4810bb445e65845d71a7b", "서고": "https://app.notion.com/p/3f03f6aa67a481a69458c1666e66e44b", "결과": "생성"},
+    {"id": "ibm-brings-bob-to-self-hosted-and-air-ga-b18618f4", "source_library": "https://app.notion.com/p/3f03f6aa67a481a88ce9f34a05f06b0a", "서고": "https://app.notion.com/p/3f03f6aa67a481dcb4abedd1e5a8b3da", "결과": "생성"}
+  ],
+  "전체수집건수": 119,
+  "메모": "수동 실행(2026-10-05). 후보 12건 전부 신규 생성(id 검색·Source Library URL 대조 모두 기존 없음), 서고 12행 원본자료 릴레이션 대조 확인. 원문 정본은 사이트 메뉴·공백 잡음만 걷고 본문 그대로. Strata·SCM·JetBrains RAG·Ask HN 원문은 Jina 수집 단계에서 끝이 잘려 본문에 표기하고 접근상태 '일부 확인', OpenAI 트윗·emollick 스키트도 링크 대상 미수집으로 '일부 확인'. Strata HN 제목의 'RTX 4090 100T/s'는 README 실측치와 달라 서고 '주의'에 기재. Opus 5.5 글(본문 게시일 09-22)·우크라이나 기사(09-28)는 원본 날짜를 _후보.json 발행 기준으로 넣고 차이를 서고에 기재. Reddit 3곳(r/singularity·r/OpenAI·r/ClaudeAI) 429로 수집 실패."
+}

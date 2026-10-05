@@ -17,7 +17,12 @@ BACKFILL_DAYS=3
 PICK_N=12
 
 # cron 은 로그인 셸이 아니라 nvm PATH 를 모른다. 전부 절대경로로 박는다.
-CLAUDE_BIN="/home/lmh/.nvm/versions/node/v24.18.0/bin/claude"
+# claude 위치를 박아 두지 않는다 — 업데이트 때마다 옮겨 다닌다.
+# (2026-09-30 nvm 경로가 사라져 mulog·ai-news·공장 크론이 6일간 시작하자마자 죽었다)
+CLAUDE_BIN=""
+for c in "$HOME/.local/bin/claude" $(ls -d "$HOME"/.nvm/versions/node/*/bin/claude 2>/dev/null | sort -V -r) "$(command -v claude 2>/dev/null)"; do
+  [[ -n "$c" && -x "$c" ]] && { CLAUDE_BIN="$c"; break; }
+done
 # 수집기는 X(syndication) 때문에 curl_cffi 가 필요하다. insane-search 의 venv 를 빌린다.
 COLLECT_PY="/home/lmh/insane-search-copy/.venv/bin/python"
 
