@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-06",
+  "브리핑페이지": "https://www.notion.so/3f03f6aa67a481609070de712bc43443",
+  "정식아카이빙": [
+    {"id": "AIHOT-3abc31c9", "source_library": "https://www.notion.so/3f03f6aa67a481298017c6329845b070", "서고": "https://www.notion.so/3f03f6aa67a481cc81cefbf776c6dced", "결과": "생성"},
+    {"id": "sepia-9392f565", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "jianying-headless-c2b6457f", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "2107164650249101695-b32497fc", "source_library": "https://www.notion.so/3f03f6aa67a481b7b943daa6a630c8c4", "서고": "https://www.notion.so/3f03f6aa67a4818ea98bc76450f89ab0", "결과": "생성"},
+    {"id": "2107164651478012412-efb85ce3", "source_library": "https://www.notion.so/3f03f6aa67a481f193c9dffd31c22c10", "서고": "https://www.notion.so/3f03f6aa67a481c484b3c90c7e627c45", "결과": "생성"},
+    {"id": "rust-v0-160-1-a35f5a56", "source_library": "https://www.notion.so/3f03f6aa67a4819093dbc07b447f83f7", "서고": "https://www.notion.so/3f03f6aa67a48116a568ec877373322b", "결과": "생성"},
+    {"id": "2107164653147340988-0c7790b4", "source_library": "https://www.notion.so/3f03f6aa67a481e79ac4e20a13be906a", "서고": "https://www.notion.so/3f03f6aa67a481c08479eed62023fe6b", "결과": "생성"},
+    {"id": "linux-containers-in-500-loc-html-e91f785b", "source_library": "https://www.notion.so/3f03f6aa67a4819cb80ffca11377205a", "서고": "https://www.notion.so/3f03f6aa67a481f9b798f695fbe83420", "결과": "생성"},
+    {"id": "openai-rogue-agent-activities-found-on-w-deeb3d35", "source_library": "https://www.notion.so/3f03f6aa67a48111a0a4d9c60e8e9949", "서고": "https://www.notion.so/3f03f6aa67a48167aef2dcab82e9cf04", "결과": "생성"},
+    {"id": "why-plain-text-is-still-one-of-the-best-98c02db9", "source_library": "https://www.notion.so/3f03f6aa67a481c4be88c0064d84ed11", "서고": "https://www.notion.so/3f03f6aa67a4814396b6ddd4bb1dd3bc", "결과": "생성"},
+    {"id": "room-temperature-magnetic-semiconductors-e124c286", "source_library": "https://www.notion.so/3f03f6aa67a481c0a921c5413c9997b8", "서고": "https://www.notion.so/3f03f6aa67a481b699c6d79f17578037", "결과": "생성"},
+    {"id": "open-and-emergent-problems-in-agentic-pr-30a9fdda", "source_library": "https://www.notion.so/3f03f6aa67a481c392d9f359d9b6107b", "서고": "https://www.notion.so/3f03f6aa67a4815eae93c964385c90bb", "결과": "생성"}
+  ],
+  "전체수집건수": 136,
+  "메모": "후보 12건 중 10건 2단계 생성, sepia·jianying-headless 는 Source Library 에 같은 원본 링크가 이미 있어(2026-09-03·09-17, 09-21) 건너뜀. X 트윗 3건·Linux containers·Google Research 원문은 수집본이 중간에 잘려 접근상태 '일부 확인'. Reddit 4개 서브레딧은 수집 단계 HTTP 429."
+}
