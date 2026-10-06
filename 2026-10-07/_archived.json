@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-07",
+  "브리핑페이지": "https://www.notion.so/3f13f6aa67a481ef8b25f609cd0bc47b",
+  "정식아카이빙": [
+    {"id": "v2-1-292-f465f4e3", "source_library": "https://www.notion.so/3f13f6aa67a481b1b11fca3a23779e80", "서고": "https://www.notion.so/3f13f6aa67a4817eac06ca060755ea9f", "결과": "생성"},
+    {"id": "dots-4dccba38", "source_library": "https://www.notion.so/3f13f6aa67a4816aa402d020725ff5a9", "서고": "https://www.notion.so/3f13f6aa67a48142b924d3972a556ea5", "결과": "생성"},
+    {"id": "vibe-wise-e4af5926", "source_library": "https://www.notion.so/3f13f6aa67a4810a8782fc969f9c61b6", "서고": "https://www.notion.so/3f13f6aa67a48199a792f75c1fb8aed0", "결과": "생성"},
+    {"id": "jevgrep-d8597bfb", "source_library": "https://www.notion.so/3f13f6aa67a4819fb364fe092f645d46", "서고": "https://www.notion.so/3f13f6aa67a481c5832dca446a2a0226", "결과": "생성"},
+    {"id": "v2-1-291-31ce016c", "source_library": "https://www.notion.so/3f13f6aa67a4810093fdd543dc006e7c", "서고": "https://www.notion.so/3f13f6aa67a48183bb42c3d1eb512e2e", "결과": "생성"},
+    {"id": "2107546569654636883-02bc2a54", "source_library": "https://www.notion.so/3f13f6aa67a48126b01ecbf83b148ec9", "서고": "https://www.notion.so/3f13f6aa67a481e284aec982cf15eca5", "결과": "생성"},
+    {"id": "v2-1-290-6cc3830d", "source_library": "https://www.notion.so/3f13f6aa67a481fb958ef9ddafce16f9", "서고": "https://www.notion.so/3f13f6aa67a481718a94da7948da9ce1", "결과": "생성"},
+    {"id": "2107502286758895878-3d2aa391", "source_library": "https://www.notion.so/3f13f6aa67a481bebc27c4a5aca5fbe0", "서고": "https://www.notion.so/3f13f6aa67a481b89184e862723fd893", "결과": "생성"},
+    {"id": "2107596713791767021-0f090937", "source_library": "https://www.notion.so/3f13f6aa67a48144af28cc12483113b5", "서고": "https://www.notion.so/3f13f6aa67a481a28df4ebec9bb00033", "결과": "생성"},
+    {"id": "jetbrains-a6787977", "source_library": "https://www.notion.so/3f13f6aa67a481a1942adfcb4e06d6ca", "서고": "https://www.notion.so/3f13f6aa67a481d3a4b3e36088cb2f72", "결과": "생성"},
+    {"id": "openTPU-dabfa79f", "source_library": "https://www.notion.so/3f13f6aa67a481f1b256ea34b8f7dc70", "서고": "https://www.notion.so/3f13f6aa67a481c2b38fcb9a0f9078d6", "결과": "생성"},
+    {"id": "chatgpt-is-adding-real-cartoonists-signa-ed62d705", "source_library": "https://www.notion.so/3f13f6aa67a481fca25dcc0cf97d4730", "서고": "https://www.notion.so/3f13f6aa67a481f1878dc1b5d40082ad", "결과": "생성"}
+  ],
+  "전체수집건수": 176,
+  "메모": "12건 전부 2단계 생성(중복 0). 원문 수집이 잘린 5건(v2.1.292·v2.1.290·OpenAI 수학 트윗·openTPU·NiemanLab)은 접근상태 '일부 확인'. GitHub·사이트 메뉴 잡음만 걷고 본문은 그대로 옮김. JetBrains 법인등록번호는 [마스킹]. Reddit 4개 서브레딧은 수집 단계 429 실패."
+}
