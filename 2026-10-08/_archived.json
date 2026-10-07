@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-08",
+  "브리핑페이지": "https://www.notion.so/3f23f6aa67a4812aa3e7d4366a31bfb8",
+  "정식아카이빙": [
+    {"id": "v2-1-293-4250e365", "source_library": "https://www.notion.so/3f23f6aa67a4813a8543e962c5edb5e6", "서고": "https://www.notion.so/3f23f6aa67a481b58618eaea2f04c835", "결과": "생성"},
+    {"id": "shaders-87883c2d", "source_library": "https://www.notion.so/3f23f6aa67a4817f8482e9b38a9b6c7e", "서고": "https://www.notion.so/3f23f6aa67a481a8846bdf9066b3a90e", "결과": "생성"},
+    {"id": "logo-design-skill-dd2d033e", "source_library": "https://www.notion.so/3f23f6aa67a4810ba3c9f6ea130463bd", "서고": "https://www.notion.so/3f23f6aa67a4811d9ad8ea8a43d1c955", "결과": "생성"},
+    {"id": "answer-me-with-html-39a6cfc0", "source_library": "https://www.notion.so/3f23f6aa67a481d28f28d400bcdb792d", "서고": "https://www.notion.so/3f23f6aa67a481b38ae3d6ea40ff12a6", "결과": "생성"},
+    {"id": "gpt-6-for-everyone-0ca14509", "source_library": "https://www.notion.so/3f23f6aa67a48191b2efd6e34bd08cd6", "서고": "https://www.notion.so/3f23f6aa67a481b4bee3cdee54caad57", "결과": "생성"},
+    {"id": "2107894997538525580-68eb848d", "source_library": "https://www.notion.so/3f23f6aa67a481eabd73e2936c4807c5", "서고": "https://www.notion.so/3f23f6aa67a481f3a72bc55b6e3ac804", "결과": "생성"},
+    {"id": "2107894208547983705-1a00f696", "source_library": "https://www.notion.so/3f23f6aa67a481989fd7ea5bd0a91699", "서고": "https://www.notion.so/3f23f6aa67a481e18700fa9b642a1ceb", "결과": "생성"},
+    {"id": "2107909792945832070-d5642885", "source_library": "https://www.notion.so/3f23f6aa67a48143b366ef9efb511835", "서고": "https://www.notion.so/3f23f6aa67a48101ad05f6c50bc6b99b", "결과": "생성"},
+    {"id": "meta-and-microsoft-take-steps-to-reduce-30821162", "source_library": "https://www.notion.so/3f23f6aa67a481568b56e336a56acb64", "서고": "https://www.notion.so/3f23f6aa67a4811caccaf2ec2f16f75a", "결과": "생성"},
+    {"id": "human-skills-ai-cant-develop-junior-engi-104448de", "source_library": "https://www.notion.so/3f23f6aa67a481038407c30d6f86a1e8", "서고": "https://www.notion.so/3f23f6aa67a4812c842cf7f22f896f73", "결과": "생성"},
+    {"id": "rust-v0-161-0-67b1fdac", "source_library": "https://www.notion.so/3f23f6aa67a481dc8b2bdd118cc5c089", "서고": "https://www.notion.so/3f23f6aa67a481468048caa2a7a30e62", "결과": "생성"},
+    {"id": "press-release-c02aaed0", "source_library": "https://www.notion.so/3f23f6aa67a481ce9f7ddccb5564ff3d", "서고": "https://www.notion.so/3f23f6aa67a4813f9f96cf6483356d53", "결과": "생성"}
+  ],
+  "전체수집건수": 197,
+  "메모": "12건 전부 2단계 생성(중복 0 — ID 검색·URL 대조 모두 확인). 원문이 잘린 5건(logo-design-skill·answer-me-with-html·Forever Junior·Codex 0.161.0 PR목록·Haiku 5.5 트윗 한 줄)은 접근상태 '일부 확인'. GitHub·사이트 메뉴 잡음만 걷고 본문은 그대로 옮김. 노벨상 보도자료의 언론담당·전문가 이름·전화는 [마스킹]. Reddit 4개 서브레딧은 수집 단계 429 실패."
+}
