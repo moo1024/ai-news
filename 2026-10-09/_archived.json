@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-09",
+  "브리핑페이지": "https://app.notion.com/p/3f33f6aa67a481de885df2db76d720b1",
+  "정식아카이빙": [
+    {"id": "v2-1-295-99aff9c7", "source_library": "https://app.notion.com/p/3f33f6aa67a481b09a11d983dab07718", "서고": "https://app.notion.com/p/3f33f6aa67a481caaff4e846e4daed4a", "결과": "생성"},
+    {"id": "headcount-e54780d0", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "onetake-139b31c1", "source_library": "https://app.notion.com/p/3f33f6aa67a481189f69c6d90c7a42e6", "서고": "https://app.notion.com/p/3f33f6aa67a481f78120d8973c3e3a2e", "결과": "생성"},
+    {"id": "reelmimic-0772f65e", "source_library": "https://app.notion.com/p/3f33f6aa67a481668289f79d5135e8b4", "서고": "https://app.notion.com/p/3f33f6aa67a481f8a8e4e540dd810a8d", "결과": "생성"},
+    {"id": "v2-1-294-c7ca45f1", "source_library": "https://app.notion.com/p/3f33f6aa67a481199ddae90beac2ac10", "서고": "https://app.notion.com/p/3f33f6aa67a4811a992fce4fbfe3b1dc", "결과": "생성"},
+    {"id": "2108290395599667700-89aab645", "source_library": "https://app.notion.com/p/3f33f6aa67a481c9b8f3f62871f671ee", "서고": "https://app.notion.com/p/3f33f6aa67a4812d9d58f2147b5f7494", "결과": "생성"},
+    {"id": "2108302539498414208-e04c6301", "source_library": "https://app.notion.com/p/3f33f6aa67a481bfb857ec01ce0e1a08", "서고": "https://app.notion.com/p/3f33f6aa67a4817ea816fd46d9c761d7", "결과": "생성"},
+    {"id": "rust-v0-162-0-e776eb96", "source_library": "https://app.notion.com/p/3f33f6aa67a481d78434ef203acba8dd", "서고": "https://app.notion.com/p/3f33f6aa67a481f7a30bf632bfed16d7", "결과": "생성"},
+    {"id": "open-ai-revenue-nvidia-oracle-coreweave-3b1c539c", "source_library": "https://app.notion.com/p/3f33f6aa67a481a889a0fa14ab3e6be9", "서고": "https://app.notion.com/p/3f33f6aa67a481b5b0d8f4d0028235c3", "결과": "생성"},
+    {"id": "invisible-cities-one-shot-95120c22", "source_library": "https://app.notion.com/p/3f33f6aa67a48181b8a9fb0b9bc6fcd0", "서고": "https://app.notion.com/p/3f33f6aa67a48142aa79d4349f6d8ded", "결과": "생성"},
+    {"id": "4-hour-battery-storage-is-cheaper-to-ins-bb528f73", "source_library": "https://app.notion.com/p/3f33f6aa67a4817f9c29e126eef19a08", "서고": "https://app.notion.com/p/3f33f6aa67a4817c9fd2c048e6adc8ca", "결과": "생성"},
+    {"id": "pollo-ai-ca1ec6c6", "source_library": "https://app.notion.com/p/3f33f6aa67a481a981cce6915f1aef27", "서고": "https://app.notion.com/p/3f33f6aa67a481c88238f08fca32c04f", "결과": "생성"}
+  ],
+  "전체수집건수": 190,
+  "메모": "headcount 는 2026-09-17 에 같은 수집 ID 로 이미 아카이빙돼 건너뜀(Source 3de3f6aa67a4818e9f6cf27f3d4c2248 / 서고 3de3f6aa67a48111841fd2b13e31af4e). v2.1.295·Codex 0.162.0 은 수집 원문이 끝부분에서 잘려 접근상태 '일부 확인'."
+}
