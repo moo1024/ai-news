@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-12",
+  "브리핑페이지": "https://app.notion.com/p/3f63f6aa67a481a98791d3b4e726b261",
+  "정식아카이빙": [
+    {"id": "anatomy-673796e0", "source_library": "https://app.notion.com/p/3f63f6aa67a4812dac08c266807f773e", "서고": "https://app.notion.com/p/3f63f6aa67a4814f831ecc27ecca8a61", "결과": "생성"},
+    {"id": "geo-sleuth-9082ea4d", "source_library": "https://app.notion.com/p/3f63f6aa67a4818ea8eed9c2cdc9a2e8", "서고": "https://app.notion.com/p/3f63f6aa67a481d584f3d6f0d1030b59", "결과": "생성"},
+    {"id": "exxonmobil-climate-deception-new-evidenc-151c2525", "source_library": "https://app.notion.com/p/3f63f6aa67a4817ab32fee8c960e6f47", "서고": "https://app.notion.com/p/3f63f6aa67a481c498bdcceb849b59bf", "결과": "생성"},
+    {"id": "i-paid-people-to-try-and-follow-my-readm-c6231e30", "source_library": "https://app.notion.com/p/3f63f6aa67a481609216e098adc5273f", "서고": "https://app.notion.com/p/3f63f6aa67a481b3bc1fded28034cb6a", "결과": "생성"},
+    {"id": "2109361546505966046-44c65736", "source_library": "https://app.notion.com/p/3f63f6aa67a48185af1adcab1a038d88", "서고": "https://app.notion.com/p/3f63f6aa67a481d69f4af4c318dafa52", "결과": "생성"},
+    {"id": "3mxmr75nfm22m-a1d071ff", "source_library": "https://app.notion.com/p/3f63f6aa67a481cdbfe8c3daafbf7c75", "서고": "https://app.notion.com/p/3f63f6aa67a481879cd3e743409de7cc", "결과": "생성"},
+    {"id": "silicon-valley-is-falling-in-line-with-t-48092d1d", "source_library": "https://app.notion.com/p/3f63f6aa67a481dea9bce6069ac9acd9", "서고": "https://app.notion.com/p/3f63f6aa67a48119a46ac74caec7ce2f", "결과": "생성"},
+    {"id": "3mxh2qx52ms2c-09c663ee", "source_library": "https://app.notion.com/p/3f63f6aa67a48113bce7d6793c3ab81c", "서고": "https://app.notion.com/p/3f63f6aa67a48129a9d9dcb86096fe79", "결과": "생성"},
+    {"id": "the-new-york-times-d78bb69c", "source_library": "https://app.notion.com/p/3f63f6aa67a481d2a6e6df7f71e6162c", "서고": "https://app.notion.com/p/3f63f6aa67a48103addaf34449eca13c", "결과": "생성"},
+    {"id": "learning-local-ai-hermes-qwen-model-mac-f379902d", "source_library": "https://app.notion.com/p/3f63f6aa67a481089e4de64df368008b", "서고": "https://app.notion.com/p/3f63f6aa67a4819ba1b8d025b07726c1", "결과": "생성"},
+    {"id": "will-the-homeview-be-apples-first-smart-7d4e278f", "source_library": "https://app.notion.com/p/3f63f6aa67a481ff8bf6eb319ed231aa", "서고": "https://app.notion.com/p/3f63f6aa67a481499ec0cee107b2feac", "결과": "생성"},
+    {"id": "48-hours-to-techcrunch-disrupt-2026-hear-8d1b5970", "source_library": "https://app.notion.com/p/3f63f6aa67a481b394e0c9596111f2bb", "서고": "https://app.notion.com/p/3f63f6aa67a4811c8ecbd3a1fe8ef656", "결과": "생성"}
+  ],
+  "전체수집건수": 122,
+  "메모": "12건 전부 2단계 생성(중복 0). 원문이 잘린 anatomy·geo-sleuth·ExxonMobil, 한 줄뿐인 Bluesky 2건(emollick·simonwillison)은 접근상태 '일부 확인'으로 표시. Bluesky 앞뒤 글 맥락 조회는 권한 미승인으로 생략."
+}
