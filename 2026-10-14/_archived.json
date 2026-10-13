@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-14",
+  "브리핑페이지": "https://app.notion.com/p/3f83f6aa67a481baa1dcd7bf08d1bd9b",
+  "정식아카이빙": [
+    {"id": "solidcraft-68185f83", "source_library": "https://app.notion.com/p/3f83f6aa67a481d88457e7e0366e5663", "서고": "https://app.notion.com/p/3f83f6aa67a481efb4c6c1f13b204cc4", "결과": "생성"},
+    {"id": "2110047081414987957-54535681", "source_library": "https://app.notion.com/p/3f83f6aa67a4810db94ae83172402e8b", "서고": "https://app.notion.com/p/3f83f6aa67a48187a7dbde86bbf70590", "결과": "생성"},
+    {"id": "2110039274922131792-10d38301", "source_library": "https://app.notion.com/p/3f83f6aa67a48178af73c6906d938b6d", "서고": "https://app.notion.com/p/3f83f6aa67a481e5afaaf6b8e7c89a18", "결과": "생성"},
+    {"id": "2110034327111131168-acabcb38", "source_library": "https://app.notion.com/p/3f83f6aa67a48105bd2fee3866db3f2d", "서고": "https://app.notion.com/p/3f83f6aa67a48127a488e3553f4c5d88", "결과": "생성"},
+    {"id": "CBMi6wFBVV95cUxQYmFUalh5RjBNVXdjZktPVjR6-0dce4dae", "source_library": "https://app.notion.com/p/3f83f6aa67a48104833adcbb0bb8f7fd", "서고": "https://app.notion.com/p/3f83f6aa67a481baa611e9106463afc5", "결과": "생성"},
+    {"id": "gemini-d1f8258e", "source_library": "https://app.notion.com/p/3f83f6aa67a48137826dc0fa60b02995", "서고": "https://app.notion.com/p/3f83f6aa67a48181aca6decbe86f9a0d", "결과": "생성"},
+    {"id": "redesigning-source-control-d6e89e43", "source_library": "https://app.notion.com/p/3f83f6aa67a48106874fd7fa60994464", "서고": "https://app.notion.com/p/3f83f6aa67a48194bc78c95e70465751", "결과": "생성"},
+    {"id": "eg2-haku-sh-994797c2", "source_library": "https://app.notion.com/p/3f83f6aa67a4816fbd30fcfe4f2393cb", "서고": "https://app.notion.com/p/3f83f6aa67a481d3a39cee20689ee4dd", "결과": "생성"},
+    {"id": "origin-app-marketplace-b8b5f613", "source_library": "https://app.notion.com/p/3f83f6aa67a481ff9225f3127f0223ef", "서고": "https://app.notion.com/p/3f83f6aa67a481378a74e70eb4c36ba4", "결과": "생성"},
+    {"id": "higgsfield-longer-videos-voice-ffc748cb", "source_library": "https://app.notion.com/p/3f83f6aa67a481079ea0d5ef32559bed", "서고": "https://app.notion.com/p/3f83f6aa67a48169b6f9f7e3a3f15d33", "결과": "생성"},
+    {"id": "geoffrey-huntley-858ce7e1", "source_library": "https://app.notion.com/p/3f83f6aa67a481ccaa6bc6698c2c4862", "서고": "https://app.notion.com/p/3f83f6aa67a4817399fbd98cc4ece3b7", "결과": "생성"},
+    {"id": "CBMiigFBVV95cUxPVnFYNHhjN2R0R0ZqY0E4UFRT-cd4d5ebf", "source_library": "https://app.notion.com/p/3f83f6aa67a481b0bd5df33ac45ac7c6", "서고": "https://app.notion.com/p/3f83f6aa67a48129a89bfff805d6fa68", "결과": "생성"}
+  ],
+  "전체수집건수": 168,
+  "메모": "12건 모두 2단계 생성(중복 0 — 수집 ID 검색 12건·오늘 생성분 URL 대조 모두 미적중). 원문이 약 14KB에서 잘린 SolidCraft·Gemini 4 Argon 모델 페이지·Anthropic Scion 블로그, 본문 없는 구글뉴스 'What We Shipped', 링크만 있는 GDM 트윗은 접근상태 '일부 확인'. 브리핑 신규 생성(168건·31개 출처)."
+}
