@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-16",
+  "브리핑페이지": "",
+  "정식아카이빙": [
+    {"id": "2110797830361436604-77598800", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "v2-1-301-371a0b09", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2110784662071398807-c9c82329", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2110841898076418336-91f6232d", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "already-clean-goodfire-com-bc34be66", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "rust-v0-163-0-8c1dba50", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "anthropic-mononoke-2-2af82411", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "simons-foundation-launches-15m-effort-to-1345f063", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "introducing-the-rosalind-academic-plan-a72d1e4d", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "chirp-pong-fc710191", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "teaching-students-to-think-and-learn-thr-fa14b8f7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "tree-appreciator-2c3ce0b1", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+  ],
+  "전체수집건수": 195,
+  "메모": "plugin:Notion:notion 서버가 인증 필요 상태라 노션 도구가 로드되지 않음. 절차서 0단계에 따라 노션에 아무것도 만들지 않고 중단. 사람이 /mcp 재인증 후 daily.sh 재실행 필요."
+}
