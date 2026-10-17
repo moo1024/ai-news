@@ -9,12 +9,12 @@
     {"id": "ecdsa-curve-origins-9ec93777", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "2111152183240511640-6c333e5f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "designing-efficient-quantum-circuits-9d010c13", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "v2-1-301-371a0b09", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "benchmark-map-2425f315", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "stack-overflow-chatgpt-plugin-9db4940a", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "benefit-street-partners-4a2f3ca1", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "associative-memory-c19e7ef0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "associative-memory-c19e7ef0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "PS5LM-0342f39b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "v2-1-301-371a0b09", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "benefit-street-partners-4a2f3ca1", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
   ],
-  "전체수집건수": 170,
-  "메모": "plugin:Notion:notion 서버가 인증 필요 상태라 노션 도구 자체가 로드되지 않음(2026-10-17 19:5x 실행, 이 날짜 4회 연속). 절차서 0단계에 따라 노션에 아무것도 만들지 않고 중단. 19:54 재수집으로 후보가 다시 바뀜(PS5LM-0342f39b·5a310aee-…-c415b991 빠지고 benefit-street-partners-4a2f3ca1·associative-memory-c19e7ef0 들어옴, 수집건수 186→170). 사람이 /mcp 재인증 후 재실행 필요."
+  "전체수집건수": 143,
+  "메모": "2026-10-18 실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 노션 도구가 로드되지 않음(이 날짜 5회째). 0단계에 따라 노션에 아무것도 만들지 않고 중단. 10-18 07:24 재수집으로 후보 변경(stack-overflow-chatgpt-plugin-9db4940a 빠지고 PS5LM-0342f39b 다시 들어옴, 수집건수 170→143). 사람이 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요."
 }
