@@ -9,12 +9,12 @@
     {"id": "2111152183240511640-6c333e5f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "ecdsa-curve-origins-9ec93777", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "v2-1-301-371a0b09", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "stack-overflow-chatgpt-plugin-9db4940a", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "designing-efficient-quantum-circuits-9d010c13", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "stack-overflow-chatgpt-plugin-9db4940a", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "benchmark-map-2425f315", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "5a310aee-f555-4266-874c-b1b4db20186d-c415b991", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "code-review-50e25bfb", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "PS5LM-0342f39b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "5a310aee-f555-4266-874c-b1b4db20186d-c415b991", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
   ],
-  "전체수집건수": 216,
-  "메모": "plugin:Notion:notion 서버가 인증 필요 상태라 노션 도구가 로드되지 않음(2026-10-16 19:55 실행에 이어 2회 연속). 절차서 0단계에 따라 노션에 아무것도 만들지 않고 중단. 사람이 /mcp 재인증 후 daily.sh 재실행 필요."
+  "전체수집건수": 186,
+  "메모": "plugin:Notion:notion 서버가 인증 필요 상태라 노션 도구 자체가 로드되지 않음(2026-10-16 19:55, 10-17 07:33에 이어 3회 연속). 절차서 0단계에 따라 노션에 아무것도 만들지 않고 중단. 12:55 재수집으로 후보가 바뀜(code-review-50e25bfb 빠지고 PS5LM-0342f39b 들어옴). 사람이 /mcp 재인증 후 재실행 필요."
 }
