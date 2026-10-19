@@ -5,16 +5,16 @@
     {"id": "2110797830361436604-77598800", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "2111192259073094035-9723315c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "2111152183240511640-6c333e5f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "v2-1-302-0c6e6f47", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "ecdsa-curve-origins-9ec93777", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "v2-1-302-0c6e6f47", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "associative-memory-c19e7ef0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "benchmark-map-2425f315", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "v2-1-301-371a0b09", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "benefit-street-partners-4a2f3ca1", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "stack-overflow-chatgpt-plugin-9db4940a", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "code-review-50e25bfb", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "itau-generative-ai-65442e70", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "solving-code-review-at-anthropic-7fd7e06a", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "itau-generative-ai-65442e70", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "3mxw5izz2gs2g-720f319d", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
   ],
-  "전체수집건수": 120,
-  "메모": "2026-10-19 실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 노션 도구(notion-fetch 등)가 로드되지 않음(이 날짜 8회째 이상). 0단계에 따라 노션에 아무것도 만들지 않고 중단. 07:24 재수집으로 수집건수 136→120, 후보 12건 중 3건 교체(stack-overflow-chatgpt-plugin·code-review·itau-generative-ai). 사람이 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요."
+  "전체수집건수": 112,
+  "메모": "2026-10-19 실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 노션 도구(notion-fetch 등)가 로드되지 않음. 0단계에 따라 노션에 아무것도 만들지 않고 중단. 12:55 재수집으로 수집건수 120→112, 후보 2건 교체(solving-code-review-at-anthropic·3mxw5izz2gs2g). 사람이 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요."
 }

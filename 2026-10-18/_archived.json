@@ -3,18 +3,18 @@
   "브리핑페이지": "",
   "정식아카이빙": [
     {"id": "v2-1-303-13d5315f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "solidcraft-b32ec0ea", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "sphinx-six-theta-vercel-app-40d691da", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "nanoMuse-58df322f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "search-48479cd7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "ecdsa-curve-origins-9ec93777", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "anthropics-proposed-ai-safety-bill-only-b9a4c6ea", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2111881963657412903-e4acd08b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2110797830361436604-77598800", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "namecheap-just-seized-and-disabled-all-m-ed68806b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "2610-18861-a5bb3232", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "search-48479cd7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2111192259073094035-9723315c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "ecdsa-curve-origins-9ec93777", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
     {"id": "v2-1-302-0c6e6f47", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "ai-agents-blocked-web-f155d49d", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "3my4xspgnf22t-7e3e14de", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "benefit-street-partners-4a2f3ca1", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "25921-59f1f537", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "llm-tools-datasette-ad547968", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
   ],
-  "전체수집건수": 147,
-  "메모": "2026-10-19 실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 노션 도구(notion-fetch 등)가 로드되지 않음(ToolSearch 로도 없음). 0단계에 따라 노션에 아무것도 만들지 않고 중단(브리핑 행도 미생성). 07:36 재수집본 후보 12건 기준(이전 기록 대비 v2-1-303·anthropics-proposed-ai-safety-bill·2610-18861·ai-agents-blocked-web·3my4xspgnf22t·benefit-street-partners 들어오고 solving-code-review·2110797830361436604·2111192259073094035·2111152183240511640·DeepSeek-V4-1-Flash·pele-run 빠짐, 수집건수 152→147). 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요 — 10-16·10-17과 겹치는 id가 있으니 2단계 중복 확인 필수."
+  "전체수집건수": 135,
+  "메모": "2026-10-19 실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 노션 도구(notion-fetch 등)가 로드되지 않음(ToolSearch 로도 없음). 0단계에 따라 노션에 아무것도 만들지 않고 중단(브리핑 행도 미생성). 13:06 재수집본 후보 12건 기준(수집건수 147→135, 후보 일부 교체 — 2111881963657412903·2110797830361436604·namecheap·2111192259073094035·25921·llm-tools-datasette 들어옴). 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요 — 10-16·10-17과 겹치는 id가 많으니 2단계 중복 확인 필수."
 }
