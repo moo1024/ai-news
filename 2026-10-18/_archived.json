@@ -1,20 +1,20 @@
 {
   "날짜": "2026-10-18",
-  "브리핑페이지": "",
+  "브리핑페이지": "https://www.notion.so/3ff3f6aa67a481e09e63fd05a3b74517",
   "정식아카이빙": [
-    {"id": "v2-1-303-13d5315f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "sphinx-six-theta-vercel-app-40d691da", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2111881963657412903-e4acd08b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2110797830361436604-77598800", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "namecheap-just-seized-and-disabled-all-m-ed68806b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2610-18861-a5bb3232", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "search-48479cd7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2111192259073094035-9723315c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "ecdsa-curve-origins-9ec93777", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "v2-1-302-0c6e6f47", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "25921-59f1f537", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "llm-tools-datasette-ad547968", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "v2-1-303-13d5315f", "source_library": "https://www.notion.so/3ff3f6aa67a481d3bd8ef9188cc6f94a", "서고": "https://www.notion.so/3ff3f6aa67a48115b9c3d0bf8c50cfc0", "결과": "생성"},
+    {"id": "2111881963657412903-e4acd08b", "source_library": "https://www.notion.so/3ff3f6aa67a4815a82b1c1aa90c99b23", "서고": "https://www.notion.so/3ff3f6aa67a48139add2c1607dc7b9ee", "결과": "생성"},
+    {"id": "namecheap-just-seized-and-disabled-all-m-ed68806b", "source_library": "https://www.notion.so/3ff3f6aa67a4814bbe8cede110c3cdcd", "서고": "https://www.notion.so/3ff3f6aa67a4814ca4b3c806fb133613", "결과": "생성"},
+    {"id": "2610-18861-a5bb3232", "source_library": "https://www.notion.so/3ff3f6aa67a481bc8b78e0bff2e3c582", "서고": "https://www.notion.so/3ff3f6aa67a481f096accfc54c3d0de0", "결과": "생성"},
+    {"id": "2111192259073094035-9723315c", "source_library": "https://www.notion.so/3ff3f6aa67a4810cacbff6734031c419", "서고": "https://www.notion.so/3ff3f6aa67a4810d9660f917bde86dee", "결과": "생성"},
+    {"id": "2110841898076418336-91f6232d", "source_library": "https://www.notion.so/3ff3f6aa67a481b7ac95f8de71ec9123", "서고": "https://www.notion.so/3ff3f6aa67a481c898b4f9315ae2efee", "결과": "생성"},
+    {"id": "if-you-dont-run-your-own-llm-proxy-how-t-d2e2b582", "source_library": "https://www.notion.so/3ff3f6aa67a481d69233d6e87f2a4a61", "서고": "https://www.notion.so/3ff3f6aa67a48113ba2ed872168511f9", "결과": "생성"},
+    {"id": "sphinx-six-theta-vercel-app-40d691da", "source_library": "https://www.notion.so/3ff3f6aa67a48121b922d66922cc807f", "서고": "https://www.notion.so/3ff3f6aa67a481259457d4f77977b020", "결과": "생성"},
+    {"id": "25921-59f1f537", "source_library": "https://www.notion.so/3ff3f6aa67a4810bad2bc6fc9b310d93", "서고": "https://www.notion.so/3ff3f6aa67a481d8899df7a6209ad102", "결과": "생성"},
+    {"id": "3my4xspgnf22t-7e3e14de", "source_library": "https://www.notion.so/3ff3f6aa67a4814c9138e0e08887f121", "서고": "https://www.notion.so/3ff3f6aa67a481efb8ccf483798a79af", "결과": "생성"},
+    {"id": "llm-tools-datasette-ad547968", "source_library": "https://www.notion.so/3ff3f6aa67a48193b2d2fd22fbd99f18", "서고": "https://www.notion.so/3ff3f6aa67a48119bf87d36c86f4d1b1", "결과": "생성"},
+    {"id": "code-review-50e25bfb", "source_library": "https://www.notion.so/3ff3f6aa67a48128bc53e1bd1b2fe172", "서고": "https://www.notion.so/3ff3f6aa67a4813ba5b6dafe016015a4", "결과": "생성"}
   ],
-  "전체수집건수": 135,
-  "메모": "2026-10-19 실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 노션 도구(notion-fetch 등)가 로드되지 않음(ToolSearch 로도 없음). 0단계에 따라 노션에 아무것도 만들지 않고 중단(브리핑 행도 미생성). 13:06 재수집본 후보 12건 기준(수집건수 147→135, 후보 일부 교체 — 2111881963657412903·2110797830361436604·namecheap·2111192259073094035·25921·llm-tools-datasette 들어옴). 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요 — 10-16·10-17과 겹치는 id가 많으니 2단계 중복 확인 필수."
+  "전체수집건수": 73,
+  "메모": "2026-10-20 대화형 세션 재실행 — 10-19 실행은 노션 미인증으로 전건 실패였음. 2026-10-20 13:22 재수집본 기준(수집건수 135→73, 후보 일부 교체: ecdsa·v2.1.302·2110797830361436604·search 빠지고 2110841898076418336·llm-proxy·3my4xspgnf22t·code-review 들어옴). notion-search 건별 + Source Library URL 대조로 중복 0건 확인 후 12건 2단계 생성. Namecheap 은 레딧 403 차단 페이지만 수집돼 접근상태 '접근 불가'+재검토 필요. v2.1.303(릴리스 노트가 GitHub 메뉴에 묻혀 RSS 요약으로 보강)·Codex 이슈 #25921(14KB 상한에서 잘림)·X 트윗 2건(본문 잘림)·arXiv(초록만)는 '일부 확인'. 정리본·SL 오타와 원문 밖 정보 표기 5곳 즉시 수정."
 }

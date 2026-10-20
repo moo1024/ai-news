@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-20",
+  "브리핑페이지": "https://www.notion.so/3ff3f6aa67a481eaaa79d11343cc5d83",
+  "정식아카이빙": [
+    {"id": "universal-modder-b05ceac2", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "cleanyourtv-ab0e470b", "source_library": "https://www.notion.so/3ff3f6aa67a48191a664d02854441c46", "서고": "https://www.notion.so/3ff3f6aa67a481749f39f8db52626141", "결과": "생성"},
+    {"id": "coucou-e45fed45", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "Agentic-Monitoring-01db0834", "source_library": "https://www.notion.so/3ff3f6aa67a481c59864d10ebab6ffa1", "서고": "https://www.notion.so/3ff3f6aa67a481599512ddb91f37cf6a", "결과": "생성"},
+    {"id": "item-id-50151036-e7fd8cf2", "source_library": "https://www.notion.so/3ff3f6aa67a48176b7f8c908b816afa4", "서고": "https://www.notion.so/3ff3f6aa67a481ab921ccdfc36359433", "결과": "생성"},
+    {"id": "cern-and-mistral-join-forces-to-accelera-dd8ec3be", "source_library": "https://www.notion.so/3ff3f6aa67a48176877eefd400cd2289", "서고": "https://www.notion.so/3ff3f6aa67a48178879cda529249d253", "결과": "생성"},
+    {"id": "heymaxwell-ai-b4a0e43f", "source_library": "https://www.notion.so/3ff3f6aa67a481e89d5be55bf9dc31fb", "서고": "https://www.notion.so/3ff3f6aa67a4812b84f0d59fc3b1a6a9", "결과": "생성"},
+    {"id": "2610-26860v1-79fca884", "source_library": "https://www.notion.so/3ff3f6aa67a4814dae1cff4255ff9425", "서고": "https://www.notion.so/3ff3f6aa67a481f38c09fed334ffaf62", "결과": "생성"},
+    {"id": "llm-echo-8f1b78fc", "source_library": "https://www.notion.so/3ff3f6aa67a481e4810ff4964ca9537b", "서고": "https://www.notion.so/3ff3f6aa67a4815c8834f7a39fd17a37", "결과": "생성"},
+    {"id": "import-ai-477-in-which-i-tell-the-dd92228b", "source_library": "https://www.notion.so/3ff3f6aa67a48142a4f1c1367661813f", "서고": "https://www.notion.so/3ff3f6aa67a481a8921cedb511c58008", "결과": "생성"},
+    {"id": "fossil-fuel-power-infrastructure-data-ce-ddd0e2e9", "source_library": "https://www.notion.so/3ff3f6aa67a48170b127eadfcdf757aa", "서고": "https://www.notion.so/3ff3f6aa67a48183bd67db8b7003ad7c", "결과": "생성"},
+    {"id": "coreweave-stock-debt-sector-ai-8f0ccb03", "source_library": "https://www.notion.so/3ff3f6aa67a481158f14de4b0d6c464f", "서고": "https://www.notion.so/3ff3f6aa67a481df824bf5982fef1942", "결과": "생성"}
+  ],
+  "전체수집건수": 172,
+  "메모": "notion-search 건별 12회 + Source Library 원본 링크 대조로 중복 확인. universal-modder(SL 3f03f6aa67a48182ae05d2a70cbbcb5f)·coucou(SL 3f03f6aa67a4812c8c4ce334903ca3c3)는 2026-10-05 에 같은 URL 로 이미 들어가 있어 건너뜀. 나머지 10건 2단계 생성, 서고 원본자료 릴레이션 10/10 확인. 14KB 상한에서 잘린 cleanyourtv·Ask HN·Maxwell·Import AI 477 은 '일부 확인'(CERN 은 본문 끝까지 있어 확인 완료). 브리핑 10-20 행 신규 1개(172건·33개 출처 전부 수록). 자격증명·연락처 없음. Reddit 4개 서브 429 로 수집 실패(수집기 쪽)."
+}

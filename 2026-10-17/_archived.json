@@ -1,20 +1,20 @@
 {
   "날짜": "2026-10-17",
-  "브리핑페이지": "",
+  "브리핑페이지": "https://www.notion.so/3ff3f6aa67a481b6aaffc49445be8e13",
   "정식아카이빙": [
-    {"id": "2110797830361436604-77598800", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2111192259073094035-9723315c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2111152183240511640-6c333e5f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "ecdsa-curve-origins-9ec93777", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "pele-run-5ce71835", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "DeepSeek-V4-1-Flash-1017-9b13d6a7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "v2-1-302-0c6e6f47", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "killswitch-lang-768304b3", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "25921-59f1f537", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "v2-1-301-371a0b09", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "benefit-street-partners-4a2f3ca1", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "stack-overflow-chatgpt-plugin-9db4940a", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "2111152183240511640-6c333e5f", "source_library": "https://www.notion.so/3ff3f6aa67a48126b937d8efbf634180", "서고": "https://www.notion.so/3ff3f6aa67a4817e9db8c36b90ddca9e", "결과": "생성"},
+    {"id": "2110784662071398807-c9c82329", "source_library": "https://www.notion.so/3ff3f6aa67a481dabf0aef7709e5660f", "서고": "https://www.notion.so/3ff3f6aa67a4819db172fd73c9ffe730", "결과": "생성"},
+    {"id": "2110720940665372825-680c4c97", "source_library": "https://www.notion.so/3ff3f6aa67a48111bc0ee111f109f0dc", "서고": "https://www.notion.so/3ff3f6aa67a48187befdf451fb663f69", "결과": "생성"},
+    {"id": "killswitch-lang-768304b3", "source_library": "https://www.notion.so/3ff3f6aa67a481338e64d834f37bc142", "서고": "https://www.notion.so/3ff3f6aa67a481d4b319d7e181a3dfaf", "결과": "생성"},
+    {"id": "associative-memory-c19e7ef0", "source_library": "https://www.notion.so/3ff3f6aa67a48102bb6cdb6595b24240", "서고": "https://www.notion.so/3ff3f6aa67a4812aaa8af5d0132ae5a0", "결과": "생성"},
+    {"id": "watch-v-cNm4zyUtWj0-c7269f4a", "source_library": "https://www.notion.so/3ff3f6aa67a48191b215d86bd567b6ca", "서고": "https://www.notion.so/3ff3f6aa67a4816d9febc4f02ce8b150", "결과": "생성"},
+    {"id": "v2-1-302-0c6e6f47", "source_library": "https://www.notion.so/3ff3f6aa67a4812085b6ffea8e320f6f", "서고": "https://www.notion.so/3ff3f6aa67a481969007ef98baf309d7", "결과": "생성"},
+    {"id": "v2-1-301-371a0b09", "source_library": "https://www.notion.so/3ff3f6aa67a481c29031c470b2de1193", "서고": "https://www.notion.so/3ff3f6aa67a4811a8e47de2ecf0fd59d", "결과": "생성"},
+    {"id": "benefit-street-partners-4a2f3ca1", "source_library": "https://www.notion.so/3ff3f6aa67a481e88bdbde5e867006b1", "서고": "https://www.notion.so/3ff3f6aa67a4810f855be2d22db0775f", "결과": "생성"},
+    {"id": "stack-overflow-chatgpt-plugin-9db4940a", "source_library": "https://www.notion.so/3ff3f6aa67a481dd936ff8867c4c9a2b", "서고": "https://www.notion.so/3ff3f6aa67a4810b9494d1c1ccce619e", "결과": "생성"},
+    {"id": "cloud-agent-canvases-and-environments-f50edeef", "source_library": "https://www.notion.so/3ff3f6aa67a481b0b291d7209a5f5750", "서고": "https://www.notion.so/3ff3f6aa67a481ec8728c0c0a67242e4", "결과": "생성"},
+    {"id": "rust-v0-163-0-8c1dba50", "source_library": "https://www.notion.so/3ff3f6aa67a481d5a372d16353c884fa", "서고": "https://www.notion.so/3ff3f6aa67a481209048f33a6099e070", "결과": "생성"}
   ],
-  "전체수집건수": 119,
-  "메모": "2026-10-19 실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 노션 도구(notion-fetch 등)가 로드되지 않음. 0단계에 따라 노션에 아무것도 만들지 않고 중단. 13:01 재수집으로 수집건수 118→119, 후보 교체(code-review·itau-generative-ai 빠지고 killswitch-lang·25921 들어옴). 사람이 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요. 10-16과 겹치는 후보가 많으니 재실행 시 2단계 중복 확인 필수."
+  "전체수집건수": 68,
+  "메모": "2026-10-20 대화형 세션 재실행 — 10-19 실행은 노션 미인증으로 전건 실패였음. 2026-10-20 12:54 재수집으로 후보 일부 교체(ecdsa·pele-run·DeepSeek 빠지고 associative-memory·RuneScape·Cursor·Codex 0.163.0 들어옴), 수집건수 119→68. Source Library URL 대조로 중복 0건 확인 후 12건 2단계 생성. RuneScape 영상은 수집본이 유튜브 CAPTCHA 페이지라 접근상태 '접근 불가'(재검토 필요), associative-memory는 전문이 중간에서 끊겨 '일부 확인', X 트윗 2건도 본문 잘림으로 '일부 확인'. 정리본 핵심요약 오타 2건·SL 1건 즉시 수정."
 }

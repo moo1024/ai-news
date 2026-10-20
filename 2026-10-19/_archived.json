@@ -1,20 +1,20 @@
 {
   "날짜": "2026-10-19",
-  "브리핑페이지": "",
+  "브리핑페이지": "https://www.notion.so/3ff3f6aa67a4815ea910d0f4c8ff9099",
   "정식아카이빙": [
-    {"id": "solidcraft-b32ec0ea", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "v2-1-303-13d5315f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "sphinx-six-theta-vercel-app-40d691da", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "nanoMuse-58df322f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "ARTEX-db7061f3", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2111881963657412903-e4acd08b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2110797830361436604-77598800", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "namecheap-just-seized-and-disabled-all-m-ed68806b", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2610-18861-a5bb3232", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "search-48479cd7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2111192259073094035-9723315c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "llm-tools-datasette-ad547968", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "v2-1-304-1288e651", "source_library": "https://www.notion.so/3ff3f6aa67a481e0b2f6f68334cc54cb", "서고": "https://www.notion.so/3ff3f6aa67a481e3b1f5ce43e099ae71", "결과": "생성"},
+    {"id": "2112310345863930168-6ec3a4ce", "source_library": "https://www.notion.so/3ff3f6aa67a481dc848bdbdde95e665f", "서고": "https://www.notion.so/3ff3f6aa67a48191a7b4c0fc6c5518a8", "결과": "생성"},
+    {"id": "8tzbpcnl75jp-cb4f90f3", "source_library": "https://www.notion.so/3ff3f6aa67a48186bc66ff7a891b904e", "서고": "https://www.notion.so/3ff3f6aa67a48165ad0fec23d1c4c476", "결과": "생성"},
+    {"id": "tmux-for-ai-agents-41797b9f", "source_library": "https://www.notion.so/3ff3f6aa67a48102804eeebb7e592a25", "서고": "https://www.notion.so/3ff3f6aa67a481849a27cdf648a14b88", "결과": "생성"},
+    {"id": "timestral-3a11e60e", "source_library": "https://www.notion.so/3ff3f6aa67a481f29a02e679d6dc7780", "서고": "https://www.notion.so/3ff3f6aa67a4811abd9ac302b904dade", "결과": "생성"},
+    {"id": "my-obituary-for-programming-6c096b15", "source_library": "https://www.notion.so/3ff3f6aa67a481f8b234f5aedaf4768b", "서고": "https://www.notion.so/3ff3f6aa67a481f7acd9f01ef120a0a3", "결과": "생성"},
+    {"id": "low-resource-programming-languages-7a364f35", "source_library": "https://www.notion.so/3ff3f6aa67a481c5bc0fce02a790d4e9", "서고": "https://www.notion.so/3ff3f6aa67a4819bbc1ed60d87e5e74f", "결과": "생성"},
+    {"id": "v2-0-0-864e48b8", "source_library": "https://www.notion.so/3ff3f6aa67a481a5b7f1d78d9a80f771", "서고": "https://www.notion.so/3ff3f6aa67a481d9b853f5602b9f9bcf", "결과": "생성"},
+    {"id": "3myai6h4uzc2x-067498e4", "source_library": "https://www.notion.so/3ff3f6aa67a4817aaf65cdf68406bca6", "서고": "https://www.notion.so/3ff3f6aa67a481059f22e2f17487981e", "결과": "생성"},
+    {"id": "3mya65d6mns2y-3bbea967", "source_library": "https://www.notion.so/3ff3f6aa67a4816cb604d60019cb304f", "서고": "https://www.notion.so/3ff3f6aa67a481f79de1fcd9a5884cbf", "결과": "생성"},
+    {"id": "hackers-hit-ai-coding-tool-opencode-runn-141841bf", "source_library": "https://www.notion.so/3ff3f6aa67a481b2bfc8c2b3fb05fe4c", "서고": "https://www.notion.so/3ff3f6aa67a481c3856cdd0adff4c895", "결과": "생성"},
+    {"id": "3myahwqzs3k2s-82f58953", "source_library": "https://www.notion.so/3ff3f6aa67a481d99c92c446cda2eeb5", "서고": "https://www.notion.so/3ff3f6aa67a4818799aadaa1601060e7", "결과": "생성"}
   ],
-  "전체수집건수": 120,
-  "메모": "2026-10-19 13시대 재실행 — plugin:Notion:notion 서버가 여전히 인증 필요 상태라 notion-fetch 등 노션 도구가 로드되지 않음(ToolSearch 로도 없음). 0단계에 따라 노션에 아무것도 만들지 않고 중단(브리핑 행도 미생성). 13:13 재수집으로 후보가 바뀜(ARTEX·namecheap·llm-tools-datasette 신규, anthropics-proposed-ai-safety-bill·ai-agents-blocked-web·3my4xspgnf22t 빠짐). 10-16~10-18 도 같은 이유로 실패 중. 대화형 세션에서 /mcp 로 Notion 재인증 후 재실행 필요 — 재실행 시 2단계 중복 확인 필수."
+  "전체수집건수": 134,
+  "메모": "2026-10-20 대화형 세션 재실행 — 10-19 크론 실행은 노션 미인증으로 전건 실패였음. 2026-10-20 13:49 재수집본 기준(후보 12건 전부 교체됨). notion-search 건별 12회 + Source Library 원본 링크 대조로 중복 0건, 브리핑 DB 10-19 행 없음 확인 후 12건 2단계 생성·브리핑 행 1개 생성(134건·30개 출처 전부 수록). tmux 가이드·MCP v2.0.0 은 14KB 상한에서 잘려 '일부 확인', X @OpenAI 트윗(t.co 에서 끊김)·emollick STATA(논문 링크 잘림)·simonwillison 답글(원글 맥락 없음, 재검토 필요 체크)도 '일부 확인'. OpenCode 기사 끝 기자 이메일·Signal 은 [마스킹]. SL 핵심요약 오타·원문 밖 표현 5곳 즉시 수정."
 }
