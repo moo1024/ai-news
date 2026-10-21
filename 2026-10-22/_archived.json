@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-22",
+  "브리핑페이지": "https://app.notion.com/p/4003f6aa67a481419da6d52eb48a65b1",
+  "정식아카이빙": [
+    {"id": "openai-models-google-cloud-61f4d014", "source_library": "https://app.notion.com/p/4003f6aa67a481e7b37eef6129d4864c", "서고": "https://app.notion.com/p/4003f6aa67a481daafdce39d3970d8ff", "결과": "생성"},
+    {"id": "2112945805686604033-1f51f430", "source_library": "https://app.notion.com/p/4003f6aa67a48134b107f69433716eef", "서고": "https://app.notion.com/p/4003f6aa67a481b2bb95fa90d95b7f25", "결과": "생성"},
+    {"id": "2112988118471295323-36c0fded", "source_library": "https://app.notion.com/p/4003f6aa67a481d086c7f071f2e642e8", "서고": "https://app.notion.com/p/4003f6aa67a481938633d18bcb4ecaa1", "결과": "생성"},
+    {"id": "v2-1-307-2a720042", "source_library": "https://app.notion.com/p/4003f6aa67a481beb79ac2895d9575f7", "서고": "https://app.notion.com/p/4003f6aa67a4812bb687f1dffb2910ac", "결과": "생성"},
+    {"id": "coordinated-disclosure-of-critical-vulne-d3f51955", "source_library": "https://app.notion.com/p/4003f6aa67a481d4bdbfd1e5349096df", "서고": "https://app.notion.com/p/4003f6aa67a481aba3b7c337f8ab4e94", "결과": "생성"},
+    {"id": "v2-1-306-e3554621", "source_library": "https://app.notion.com/p/4003f6aa67a481999be7e52c88906745", "서고": "https://app.notion.com/p/4003f6aa67a4818a942cf07bfd9ac703", "결과": "생성"},
+    {"id": "2112907856018309586-34ebf21e", "source_library": "https://app.notion.com/p/4003f6aa67a48176b2abe38541c2e803", "서고": "https://app.notion.com/p/4003f6aa67a481b0947df4e341c0c262", "결과": "생성"},
+    {"id": "scaling-ai-research-for-complex-biologic-1de8e62f", "source_library": "https://app.notion.com/p/4003f6aa67a4814ca925d4ed49a4a3f0", "서고": "https://app.notion.com/p/4003f6aa67a481cda883c22718b1caa5", "결과": "생성"},
+    {"id": "layerfs-ai-80c6230d", "source_library": "https://app.notion.com/p/4003f6aa67a481a89616eff86095cfb2", "서고": "https://app.notion.com/p/4003f6aa67a481739525d2673585d58b", "결과": "생성"},
+    {"id": "attack-surface-reduction-8f821d2d", "source_library": "https://app.notion.com/p/4003f6aa67a4817dad35c60adfcc2500", "서고": "https://app.notion.com/p/4003f6aa67a481698c2be30bde5eeefc", "결과": "생성"},
+    {"id": "php2shell-php-rce-1bfd140f", "source_library": "https://app.notion.com/p/4003f6aa67a481cdbb44d2445be4972c", "서고": "https://app.notion.com/p/4003f6aa67a4814f98e9d755d40a931f", "결과": "생성"},
+    {"id": "litellm-pypi-compromise-credential-steal-a0e7a23f", "source_library": "https://app.notion.com/p/4003f6aa67a481d28a40edf67b1e9f65", "서고": "https://app.notion.com/p/4003f6aa67a4810091e2dbf9654ce84e", "결과": "생성"}
+  ],
+  "전체수집건수": 212,
+  "메모": "중복 0건(id 검색 12건 + 당일 생성분 SQL 대조). 접근상태 일부 확인 3건(OpenAI PHP 트윗·Anthropic 공격표면·PHP2Shell — 수집본이 중간에 끊김). LiteLLM 원문의 공격자 X-Token 값 [마스킹]. 릴리스 2건은 GitHub 메뉴 잡음을 걷고 릴리스 노트만 정본화(기존 관례). LayerFS 정본은 이미지 블록 검증 오류로 1회 재시도 후 생성(중복 없음)."
+}
