@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-24",
+  "브리핑페이지": "https://www.notion.so/4033f6aa67a48102b4a9c834afda9e55",
+  "정식아카이빙": [
+    {"id": "2113645959762575623-61e15bb8", "source_library": "https://www.notion.so/4033f6aa67a4818d81a0de37402c461c", "서고": "https://www.notion.so/4033f6aa67a4811c9339e2e108ded366", "결과": "생성"},
+    {"id": "instagram-agent-skill-bd825e63", "source_library": "https://www.notion.so/4033f6aa67a4811394d5f449334a01d7", "서고": "https://www.notion.so/4033f6aa67a4810f8633f411b0293b33", "결과": "생성"},
+    {"id": "earshot-dc8cec88", "source_library": "https://www.notion.so/4033f6aa67a481feb04cd7a13bb006c6", "서고": "https://www.notion.so/4033f6aa67a48181930fdc1f23dfb41c", "결과": "생성"},
+    {"id": "ARTEX-db7061f3", "source_library": "https://www.notion.so/4033f6aa67a481dea8d9e300f7af1162", "서고": "https://www.notion.so/4033f6aa67a48105b626dfb7249e7507", "결과": "생성"},
+    {"id": "v2-1-310-27b067f2", "source_library": "", "서고": "", "결과": "실패: 원문 정본 생성 호출이 중간에 중단돼 실행되지 않음 — 노션에 아무것도 만들어지지 않았고 재시도하지 않음"},
+    {"id": "2113766354386084338-3130243d", "source_library": "https://www.notion.so/4033f6aa67a4815eb6fcf65f2a7acb18", "서고": "https://www.notion.so/4033f6aa67a481f983e9e0f02054c15c", "결과": "생성"},
+    {"id": "2113718797505036665-f60802be", "source_library": "https://www.notion.so/4033f6aa67a48137926bec58f6509dd1", "서고": "https://www.notion.so/4033f6aa67a481d19fcacc1583155efe", "결과": "생성"},
+    {"id": "corgi-computer-213d7ed4", "source_library": "https://www.notion.so/4033f6aa67a4811cae83ebc875ca5441", "서고": "https://www.notion.so/4033f6aa67a48119ad4bf599ab5b6926", "결과": "생성"},
+    {"id": "securing-our-frontier-model-training-env-48e2274f", "source_library": "https://www.notion.so/4033f6aa67a4816d8fb2c4dddce8c4c2", "서고": "https://www.notion.so/4033f6aa67a4817ba544f7c68b4945ce", "결과": "생성"},
+    {"id": "dessa-2ca67924", "source_library": "https://www.notion.so/4033f6aa67a481c1b316c3d3e9554070", "서고": "https://www.notion.so/4033f6aa67a481c2ab51c1e7b24c52a5", "결과": "생성"},
+    {"id": "hacker-reverse-engineers-his-samsung-tv-0ce6777c", "source_library": "https://www.notion.so/4033f6aa67a481c38d86cf8ff459a262", "서고": "https://www.notion.so/4033f6aa67a48162b607fed8495600ee", "결과": "생성"},
+    {"id": "google-personal-intelligence-privacy-pol-97597de8", "source_library": "https://www.notion.so/4033f6aa67a481ea9e66dadd287ab9eb", "서고": "https://www.notion.so/4033f6aa67a48173a74ce64703872169", "결과": "생성"}
+  ],
+  "전체수집건수": 195,
+  "메모": "12건 중 11건 2단계 완료, v2.1.310 1건 실패. Dessa(개인정보 고지문만 수집)·삼성TV(Reddit 403)·X 2건(본문 잘림)은 접근상태 '일부 확인'. 브리핑 상태 '진행중'."
+}
