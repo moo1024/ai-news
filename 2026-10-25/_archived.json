@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-25",
+  "브리핑페이지": "https://app.notion.com/p/4043f6aa67a481c6a7ebc50a37a27b5e",
+  "정식아카이빙": [
+    {"id": "free-my-tv-f097e65b", "source_library": "https://app.notion.com/p/4043f6aa67a4812ebcdbffc9bf0a6b1d", "서고": "https://app.notion.com/p/4043f6aa67a481c5919beef75fabf7ae", "결과": "생성"},
+    {"id": "youtube-agent-skill-e2805d33", "source_library": "https://app.notion.com/p/4043f6aa67a4813999e8f045e44e508e", "서고": "https://app.notion.com/p/4043f6aa67a481d0ae8bcc4d089f6cbb", "결과": "생성"},
+    {"id": "v2-1-310-27b067f2", "source_library": "https://app.notion.com/p/4043f6aa67a481769334f7181670035c", "서고": "https://app.notion.com/p/4043f6aa67a481228245fc8c029874cf", "결과": "생성"},
+    {"id": "no-signs-of-ai-payoff-outside-the-tech-s-6597a130", "source_library": "https://app.notion.com/p/4043f6aa67a48179ad7edc3736fd426f", "서고": "https://app.notion.com/p/4043f6aa67a48130a265e0eb91da1062", "결과": "생성"},
+    {"id": "ai-and-the-fall-of-the-creative-class-283aef7b", "source_library": "https://app.notion.com/p/4043f6aa67a481c88437d0eb9d12451f", "서고": "https://app.notion.com/p/4043f6aa67a481229e3dde860470aefe", "결과": "생성"},
+    {"id": "GVS5H-325a829b", "source_library": "https://app.notion.com/p/4043f6aa67a481258dd8ffac815e595f", "서고": "https://app.notion.com/p/4043f6aa67a48163b181e3f131e945a7", "결과": "생성"},
+    {"id": "CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lH-006a7a87", "source_library": "https://app.notion.com/p/4043f6aa67a48155bce7c60f8cfaaec2", "서고": "https://app.notion.com/p/4043f6aa67a4817bba34e2e9778a7ee0", "결과": "생성"},
+    {"id": "v2-1-0-7a30f2ea", "source_library": "https://app.notion.com/p/4043f6aa67a481428c92e950b29b6ac7", "서고": "https://app.notion.com/p/4043f6aa67a4813cb0e6cecb0ae13b17", "결과": "생성"},
+    {"id": "2113358733548081528-596733de", "source_library": "https://app.notion.com/p/4043f6aa67a481b68dc4fadaf78beef3", "서고": "https://app.notion.com/p/4043f6aa67a4814fa8c8da76f653c958", "결과": "생성"},
+    {"id": "3mynwzdkgwc2m-9b95642b", "source_library": "https://app.notion.com/p/4043f6aa67a48151a5abe4725fb3b9ec", "서고": "https://app.notion.com/p/4043f6aa67a4813b836aeb4c7c8cca29", "결과": "생성"},
+    {"id": "scaling-storage-one-billion-users-part-t-298c8de0", "source_library": "https://app.notion.com/p/4043f6aa67a48152a1c1e73e8161fcc7", "서고": "https://app.notion.com/p/4043f6aa67a4811888b1f14260beec30", "결과": "생성"},
+    {"id": "rust-v0-164-0-d7afdec1", "source_library": "https://app.notion.com/p/4043f6aa67a481949272c1e2e6f86b8b", "서고": "https://app.notion.com/p/4043f6aa67a481e8ac14e6a69c61fdcb", "결과": "생성"}
+  ],
+  "전체수집건수": 143,
+  "메모": "12건 전부 2단계 생성. 수집본이 끊기거나 비어 7건은 접근상태 일부 확인: free-my-tv·Apricitas·OpenAI Habitat·Codex 0.164.0(전문 잘림), Claude Code v2.1.310(Jina 본문 없음, _후보.json 요약으로 대체), Anthropic 구글뉴스 건(Skilljar 로그인 화면, 본문 없음, 로그인 URL 토큰 마스킹), X·Bluesky 2건(원문 짧음). 이미지 링크 때문에 노션이 거부한 X·구글뉴스 원문 2건은 코드블록에 원문 그대로 넣음."
+}
