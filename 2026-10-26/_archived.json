@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-26",
+  "브리핑페이지": "https://www.notion.so/4043f6aa67a481989b85ea786c1c8781",
+  "정식아카이빙": [
+    {"id": "lemo-opuscar-26088bef", "source_library": "https://www.notion.so/3f63f6aa67a481fb828bdf7464f50021", "서고": "https://www.notion.so/3f63f6aa67a481a985d9f652acd3266b", "결과": "중복 — 건너뜀"},
+    {"id": "llm-skin-cancer-1dc75a32", "source_library": "https://www.notion.so/4043f6aa67a481738ee9c0c4e17b88ca", "서고": "https://www.notion.so/4043f6aa67a481c2b954ee5fd1c19c93", "결과": "생성"},
+    {"id": "article-bdf1eae2-c08b-491f-b9f1-81a7cea1-33331332", "source_library": "https://www.notion.so/4043f6aa67a4815eb748ec91ec3999dc", "서고": "https://www.notion.so/4043f6aa67a481c58b61f833116d0d1c", "결과": "생성"},
+    {"id": "3myppj3u7xk26-f8e94b47", "source_library": "https://www.notion.so/4043f6aa67a481838004cdcc057f4000", "서고": "https://www.notion.so/4043f6aa67a4812ab9f5f4a42d0f3187", "결과": "생성"},
+    {"id": "3mypr5rwh4k2n-17d85836", "source_library": "https://www.notion.so/4043f6aa67a48176b726c49dd4232b73", "서고": "https://www.notion.so/4043f6aa67a4814c9e64feb1599c54ad", "결과": "생성"},
+    {"id": "3myprbpmm422n-315a0221", "source_library": "https://www.notion.so/4043f6aa67a48157a25eed81ded3402b", "서고": "https://www.notion.so/4043f6aa67a48148a69aeed25e595c6c", "결과": "생성"},
+    {"id": "nanbeige-releases-nanbeige4-3-33b-open-a-71a4bc37", "source_library": "https://www.notion.so/4043f6aa67a4811c8276e456269e2c38", "서고": "https://www.notion.so/4043f6aa67a481d2aeb5e2d224c3e036", "결과": "생성"},
+    {"id": "battledrones-56992083", "source_library": "https://www.notion.so/4043f6aa67a48199a236c2dbc5189670", "서고": "https://www.notion.so/4043f6aa67a48181ab55e06de5816b87", "결과": "생성"},
+    {"id": "reddit-opensource-ai-ban-6bffee9c", "source_library": "https://www.notion.so/4043f6aa67a48196ae9af16d3236729e", "서고": "https://www.notion.so/4043f6aa67a4812c8542ee97f7d791bd", "결과": "생성"},
+    {"id": "google-ai-search-online-publishing-6f9ed043", "source_library": "https://www.notion.so/4043f6aa67a48115b0f7f370d81122b9", "서고": "https://www.notion.so/4043f6aa67a48175873acd54434e2e7b", "결과": "생성"},
+    {"id": "cognition-devin-vulnerability-fixes-plug-999f562a", "source_library": "https://www.notion.so/4043f6aa67a4815ab714d599d9fbbcb4", "서고": "https://www.notion.so/4043f6aa67a481ba9692f7b7ab683055", "결과": "생성"},
+    {"id": "grok-releases-the-first-seven-minutes-of-bf7f18e0", "source_library": "https://www.notion.so/4043f6aa67a48125b4c3cbfee49908c0", "서고": "https://www.notion.so/4043f6aa67a481b6bc2ae1f8db50a618", "결과": "생성"}
+  ],
+  "전체수집건수": 120,
+  "메모": "11건 생성·1건 중복(lemo-opuscar, 10-11 기존 페이지에 59종·내 스타일 기능 갱신만). Daily Cal 은 수집본에 기사 본문이 없어 일부 확인, The Verge 구글 AI 검색 칼럼은 유료 벽 앞까지만 확보해 일부 확인."
+}
