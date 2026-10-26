@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-27",
+  "브리핑페이지": "https://app.notion.com/p/4053f6aa67a481b1ab38c2bb7d2b3369",
+  "정식아카이빙": [
+    {"id": "2114780715086754261-a2f54c58", "source_library": "https://app.notion.com/p/4053f6aa67a4816b9561fbfe9cbefb7c", "서고": "https://app.notion.com/p/4053f6aa67a4813db94de6c95bbe32ad", "결과": "생성"},
+    {"id": "2114780720170164735-7b1a20a1", "source_library": "https://app.notion.com/p/4053f6aa67a48109be35f76f3459f419", "서고": "https://app.notion.com/p/4053f6aa67a481d18af6ca287abd3b27", "결과": "생성"},
+    {"id": "v2-1-311-38313c82", "source_library": "https://app.notion.com/p/4053f6aa67a481cda1ddcb59f9b2bebc", "서고": "https://app.notion.com/p/4053f6aa67a48148977fc6323cd4c6a6", "결과": "생성"},
+    {"id": "anatomy-673796e0", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "geo-sleuth-9082ea4d", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "introducing-gpt-6-1-terra-1758535a", "source_library": "https://app.notion.com/p/4053f6aa67a481e9852be2589116a673", "서고": "https://app.notion.com/p/4053f6aa67a48116af58f9135b0f0a7c", "결과": "생성"},
+    {"id": "2114780711664398349-aaa1627a", "source_library": "https://app.notion.com/p/4053f6aa67a48133b893e8fbb8d9b272", "서고": "https://app.notion.com/p/4053f6aa67a4812d9335c7d96b2f042a", "결과": "생성"},
+    {"id": "hob-8cfee209", "source_library": "https://app.notion.com/p/4053f6aa67a481eb9a6fe20ccf715c97", "서고": "https://app.notion.com/p/4053f6aa67a48177a4b8ee71fce4f57f", "결과": "생성"},
+    {"id": "anthropicpbc-sx1-htm-52c4e793", "source_library": "https://app.notion.com/p/4053f6aa67a48190b99dc46ab3271a22", "서고": "https://app.notion.com/p/4053f6aa67a48123b030e2ce4d54d9b1", "결과": "생성"},
+    {"id": "concerning-behaviour-popular-open-weight-ce5ce5fc", "source_library": "https://app.notion.com/p/4053f6aa67a481d687d4cc02dcac3513", "서고": "https://app.notion.com/p/4053f6aa67a4814e9403c1212344dad8", "결과": "생성"},
+    {"id": "gpt-6-1-sol-coderabbit-code-security-1a1d4bf2", "source_library": "https://app.notion.com/p/4053f6aa67a4816aad74e38f2a07513e", "서고": "https://app.notion.com/p/4053f6aa67a4810f86d9f64471cf1b22", "결과": "생성"},
+    {"id": "chatgpt-expanding-world-of-work-64d59b55", "source_library": "https://app.notion.com/p/4053f6aa67a481479e63c28dec2f72c1", "서고": "https://app.notion.com/p/4053f6aa67a481fc82d6e259fb4a75b4", "결과": "생성"}
+  ],
+  "전체수집건수": 137,
+  "메모": "10건 생성·2건 중복(anatomy·geo-sleuth 는 2026-10-11 기존 원문 정본 존재). Hob·S-1·Cohere 원문은 수집기에서 잘려 접근상태 일부 확인"
+}
