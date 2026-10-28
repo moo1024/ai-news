@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-29",
+  "브리핑페이지": "https://app.notion.com/p/4073f6aa67a4811b8195d1cd48a476db",
+  "정식아카이빙": [
+    {"id": "new-term-radar-dff922df", "source_library": "https://app.notion.com/p/4073f6aa67a48131a10bf22b60ae6657", "서고": "https://app.notion.com/p/4073f6aa67a481f6bfcccbd8c16bbab4", "결과": "생성"},
+    {"id": "mailcheap-2fe62644", "source_library": "https://app.notion.com/p/4073f6aa67a481148516e1e75c60b5f1", "서고": "https://app.notion.com/p/4073f6aa67a4814bb16ec780f49b6329", "결과": "생성"},
+    {"id": "2115489356437651654-fd3e7ac4", "source_library": "https://app.notion.com/p/4073f6aa67a4816fbd5ad2de167b72e8", "서고": "https://app.notion.com/p/4073f6aa67a481e89255fd63a19050b7", "결과": "생성"},
+    {"id": "openai-servicenow-partnership-expansion-75e2017e", "source_library": "https://app.notion.com/p/4073f6aa67a481b1aeaeedd160f62256", "서고": "https://app.notion.com/p/4073f6aa67a481a184ebdaca8896d37f", "결과": "생성"},
+    {"id": "legora-41c97fe8", "source_library": "https://app.notion.com/p/4073f6aa67a481cd84b6db419479be07", "서고": "https://app.notion.com/p/4073f6aa67a48145a888c2c984883c2f", "결과": "생성"},
+    {"id": "ice-is-running-one-of-the-largest-anti-l-bb78f42c", "source_library": "https://app.notion.com/p/4073f6aa67a48196977eecfd702db750", "서고": "https://app.notion.com/p/4073f6aa67a48114b41df6bbb78c418e", "결과": "생성"},
+    {"id": "introducing-gemini-4-carbon-6318bf62", "source_library": "https://app.notion.com/p/4073f6aa67a48170b181f5a27cf2fbf2", "서고": "https://app.notion.com/p/4073f6aa67a4817abdbcc2f1ce9e4dbc", "결과": "생성"},
+    {"id": "early-progress-drug-development-001110b1", "source_library": "https://app.notion.com/p/4073f6aa67a481f88163d1f296475596", "서고": "https://app.notion.com/p/4073f6aa67a481739f1bdb212583a88d", "결과": "생성"},
+    {"id": "in-a-first-a-humanist-granted-a-religiou-31ebe027", "source_library": "https://app.notion.com/p/4073f6aa67a481b7813fe326f3286bbe", "서고": "https://app.notion.com/p/4073f6aa67a481c19640d3677df262af", "결과": "생성"},
+    {"id": "3mywwaogdac23-79f0196e", "source_library": "https://app.notion.com/p/4073f6aa67a4819c8728f5159e5f3073", "서고": "https://app.notion.com/p/4073f6aa67a481e68d29ef7470cfd60a", "결과": "생성"},
+    {"id": "v2-2-0-da72f42f", "source_library": "https://app.notion.com/p/4073f6aa67a481819266c3ece7d36504", "서고": "https://app.notion.com/p/4073f6aa67a481be919cc497d2e428c3", "결과": "생성"},
+    {"id": "the-future-of-the-firm-0dc3cf0b", "source_library": "https://app.notion.com/p/4073f6aa67a481e98ebcffeffc922e50", "서고": "https://app.notion.com/p/4073f6aa67a48147be41cddba1981895", "결과": "생성"}
+  ],
+  "전체수집건수": 197,
+  "메모": "12건 모두 2단계 생성(중복 0건 — id 검색 12회 + 당일 Source Library URL 대조). religionnews(인본주의자 AI 면제)는 수집 원문이 CAPTCHA 페이지라 접근상태 '접근 불가'·재검토 필요 체크, 정리본은 제목 기준. new-term-radar·mailcheap·ICE(WIRED)·future-of-the-firm 은 수집 본문이 중간에서 잘려 '일부 확인'. 노션이 링크 걸린 이미지를 거부해 배지·스크린샷은 독립 이미지/링크로 바꿔 옮김, 사이트 메뉴·'Most Popular' 위젯·문의 양식은 빼고 본문만 옮김. 신약 개발 정리본은 전날 X 요약 정리본과 '관련' 릴레이션으로 연결. 브리핑은 197건 전부(정식 12 + 그 외 185) 37개 출처로 수록"
+}
