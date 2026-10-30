@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-10-30",
+  "브리핑페이지": "https://www.notion.so/4093f6aa67a481a7a10acd3f6c93c892",
+  "정식아카이빙": [
+    {"id": "c3905705cc4205e5de3011fa2e74efce-27113425", "source_library": "https://www.notion.so/4093f6aa67a48168be5fdae9c4077c5a", "서고": "https://www.notion.so/4093f6aa67a481969295cd492487fdfe", "결과": "생성"},
+    {"id": "v2-1-314-d820d0be", "source_library": "https://www.notion.so/4093f6aa67a48190b832ef1097b368c7", "서고": "https://www.notion.so/4093f6aa67a481c4876ceebeb9377dc2", "결과": "생성"},
+    {"id": "folkbench-edee996b", "source_library": "https://www.notion.so/4093f6aa67a4812b9b57dfd69464368f", "서고": "https://www.notion.so/4093f6aa67a48142b496feaeed6c5bc6", "결과": "생성"},
+    {"id": "qwen21-nsfw-pose-skill-09740338", "source_library": "https://www.notion.so/4093f6aa67a4816599c1c50659248d83", "서고": "https://www.notion.so/4093f6aa67a481dd9632d8fb4553e1fd", "결과": "생성"},
+    {"id": "2115896329645723836-d0371c3d", "source_library": "https://www.notion.so/4093f6aa67a481f4a97dec00fd2bf81a", "서고": "https://www.notion.so/4093f6aa67a48146b09afba397f6abaa", "결과": "생성"},
+    {"id": "2115871889549865429-7a6e6016", "source_library": "https://www.notion.so/4093f6aa67a4818c868ff4ff778cecef", "서고": "https://www.notion.so/4093f6aa67a481bbb7a5ee9b31f56d8f", "결과": "생성"},
+    {"id": "2115825653539025142-933a7b5a", "source_library": "https://www.notion.so/4093f6aa67a481bbaf8ad8a8443f0342", "서고": "https://www.notion.so/4093f6aa67a48135af7cf3dadf6b03dd", "결과": "생성"},
+    {"id": "duet-is-the-future-11ef932b", "source_library": "https://www.notion.so/4093f6aa67a481528577dea4ec839afc", "서고": "https://www.notion.so/4093f6aa67a4816cbb02f04afe01e401", "결과": "생성"},
+    {"id": "rust-v0-166-0-05bd4a8e", "source_library": "https://www.notion.so/4093f6aa67a481448189d5fc167ef6ff", "서고": "https://www.notion.so/4093f6aa67a48155b713dd421e696fa9", "결과": "생성"},
+    {"id": "mistral-large-4-oss-8ccea7e8", "source_library": "https://www.notion.so/4093f6aa67a48104bfc6d7fc75d00725", "서고": "https://www.notion.so/4093f6aa67a4815498bdff0fbb103d7a", "결과": "생성"},
+    {"id": "LLM-Voice-html-739e0b55", "source_library": "https://www.notion.so/4093f6aa67a4819aaccccba80d40c55b", "서고": "https://www.notion.so/4093f6aa67a481988df6ede9785040eb", "결과": "생성"},
+    {"id": "index-html-d8eb5a4b", "source_library": "https://www.notion.so/4093f6aa67a48115af5cc8276820b4c8", "서고": "https://www.notion.so/4093f6aa67a481f8b1adc95a8b31936c", "결과": "생성"}
+  ],
+  "전체수집건수": 197,
+  "메모": "12건 전건 2단계 생성(중복 0). 원문 파일이 중간에서 잘린 gist·v2.1.314·Codex 0.166.0·Civ50 4건과 트윗 2건은 접근상태 '일부 확인'. NSFW 스킬 레포는 노골적 줄 5곳 '[성인 콘텐츠 생략]' 처리·우선순위 하."
+}
