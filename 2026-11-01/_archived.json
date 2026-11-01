@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-01",
+  "브리핑페이지": "https://app.notion.com/p/40b3f6aa67a481fdbf5be9afaf7def1a",
+  "정식아카이빙": [
+    {"id": "openfilm-351dacca", "source_library": "https://app.notion.com/p/40b3f6aa67a4817795add3d7e3ad6f59", "서고": "https://app.notion.com/p/40b3f6aa67a481769304c9b37f01ccd6", "결과": "생성"},
+    {"id": "yomiyasu-80370592", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "bla-e8bb9b5c", "source_library": "https://app.notion.com/p/40b3f6aa67a48146bea9d34872da18ca", "서고": "https://app.notion.com/p/40b3f6aa67a4818a858aefb7275aab8e", "결과": "생성"},
+    {"id": "v2-1-316-1ac62f84", "source_library": "https://app.notion.com/p/40b3f6aa67a4817f890dcda23d948756", "서고": "https://app.notion.com/p/40b3f6aa67a481f892a5d2b95469c9b1", "결과": "생성"},
+    {"id": "2116349211549843666-7ac65fd8", "source_library": "https://app.notion.com/p/40b3f6aa67a481e2a773e05ade1eae45", "서고": "https://app.notion.com/p/40b3f6aa67a481419712df4a2f2bbcd1", "결과": "생성"},
+    {"id": "2116524000977285321-f8d5132c", "source_library": "https://app.notion.com/p/40b3f6aa67a4813f8bcaf90dfe3db73d", "서고": "https://app.notion.com/p/40b3f6aa67a481ee99dadfbb5d6b8fc5", "결과": "생성"},
+    {"id": "anthropic-takes-steps-to-block-video-gam-71145972", "source_library": "https://app.notion.com/p/40b3f6aa67a48180b83ceeb93e8359d6", "서고": "https://app.notion.com/p/40b3f6aa67a48161a598e3db2307a55d", "결과": "생성"},
+    {"id": "serbia-just-elected-world-s-brainiest-pa-a87c5b97", "source_library": "https://app.notion.com/p/40b3f6aa67a4818d8f57ef6ff0ddcd47", "서고": "https://app.notion.com/p/40b3f6aa67a481b781e7f0c2dd6d13a4", "결과": "생성"},
+    {"id": "anthropics-ai-model-is-now-blocking-atte-2b51d8c5", "source_library": "https://app.notion.com/p/40b3f6aa67a481a2a8efced0caee798a", "서고": "https://app.notion.com/p/40b3f6aa67a48173b33cd6852b8dfb57", "결과": "생성"},
+    {"id": "2116475922190922088-e07ec5d6", "source_library": "https://app.notion.com/p/40b3f6aa67a48143a9e9c8e494d58189", "서고": "https://app.notion.com/p/40b3f6aa67a48173afc7f6909c5bae5d", "결과": "생성"},
+    {"id": "cisco-president-jeetu-patel-gen-z-27-yea-32c78f8a", "source_library": "https://app.notion.com/p/40b3f6aa67a481a1bceae68cdb161abf", "서고": "https://app.notion.com/p/40b3f6aa67a481108bd5cc82dad7113d", "결과": "생성"},
+    {"id": "arca-18eadc7c", "source_library": "https://app.notion.com/p/40b3f6aa67a481a2aa9ae3f5323c2746", "서고": "https://app.notion.com/p/40b3f6aa67a48161b719cac0a2fc8316", "결과": "생성"}
+  ],
+  "전체수집건수": 153,
+  "메모": "11건 생성·1건 중복(yomiyasu, 2026-10-11 기존재). serbia·Tom's Hardware는 원문 파일이 CAPTCHA·메뉴만 잡혀 접근상태 '일부 확인'. 노션이 링크 속 이미지 줄을 거부해 해당 줄만 이스케이프·코드블록 처리(글자 변경 없음)."
+}
