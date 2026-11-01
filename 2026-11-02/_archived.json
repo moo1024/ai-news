@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-02",
+  "브리핑페이지": "https://www.notion.so/40b3f6aa67a48177ab23e8515ea5c1e9",
+  "정식아카이빙": [
+    {"id": "TokenEconomizer-c1d7bbe6", "source_library": "https://www.notion.so/40b3f6aa67a481db9b82d10936427437", "서고": "https://www.notion.so/40b3f6aa67a481b6abcbf9b355a37620", "결과": "생성"},
+    {"id": "20001625-understanding-chatgpt-and-codex-85c82f0a", "source_library": "https://www.notion.so/40b3f6aa67a481888f2cc696951722a7", "서고": "https://www.notion.so/40b3f6aa67a481b88530c1210908980b", "결과": "생성"},
+    {"id": "psa-email-scam-530cf738", "source_library": "https://www.notion.so/40b3f6aa67a4811da181ed617e5b8c0e", "서고": "https://www.notion.so/40b3f6aa67a4811c9f47c1610bb0d91c", "결과": "생성"},
+    {"id": "proton-loser-thinking-4b795773", "source_library": "https://www.notion.so/40b3f6aa67a4814d9a53fa12687a3457", "서고": "https://www.notion.so/40b3f6aa67a4814fb806d0715ed67db4", "결과": "생성"},
+    {"id": "the-ai-cost-of-javascript-frameworks-761e5e0b", "source_library": "https://www.notion.so/40b3f6aa67a481c8a94dc9459bc49d01", "서고": "https://www.notion.so/40b3f6aa67a4814b8b60f01cac15074d", "결과": "생성"},
+    {"id": "3mza4xaa7sc2w-d8c87bd6", "source_library": "https://www.notion.so/40b3f6aa67a481149905fd2ab23f22c6", "서고": "https://www.notion.so/40b3f6aa67a48127af06cedf09575038", "결과": "생성"},
+    {"id": "3mza4ocgjos2w-1525bec1", "source_library": "https://www.notion.so/40b3f6aa67a481fcbd6bf60cafbb51e3", "서고": "https://www.notion.so/40b3f6aa67a48152beb6cb814a11f7ef", "결과": "생성"},
+    {"id": "kyle-kingsbury-7a065140", "source_library": "https://www.notion.so/40b3f6aa67a4819ab2cdf9f11078c3e1", "서고": "https://www.notion.so/40b3f6aa67a481d1a5d8cd55a77a1261", "결과": "생성"},
+    {"id": "3mz7swluwac2w-5e638af8", "source_library": "https://www.notion.so/40b3f6aa67a48119a9bce2772ddeabfa", "서고": "https://www.notion.so/40b3f6aa67a481709c54fce6a33e53ec", "결과": "생성"},
+    {"id": "how-we-took-over-chatgpt-accounts-dd35d009", "source_library": "https://www.notion.so/40b3f6aa67a481538812c8c70246cfd0", "서고": "https://www.notion.so/40b3f6aa67a4818d8aa9e80ac82550a4", "결과": "생성"},
+    {"id": "datasette-llm-4c77a0df", "source_library": "https://www.notion.so/40b3f6aa67a481beb469cf4e95d1e735", "서고": "https://www.notion.so/40b3f6aa67a4819da038cb18d5e5f35e", "결과": "생성"},
+    {"id": "deepseek-dsh-superagent-router-worker-co-219feba0", "source_library": "https://www.notion.so/40b3f6aa67a48156b9d4e4d5a4bd21e3", "서고": "https://www.notion.so/40b3f6aa67a481688a1eee2bbc9b1a93", "결과": "생성"}
+  ],
+  "전체수집건수": 108,
+  "메모": "12건 전부 2단계 생성(중복 없음). psa-email-scam 은 원문이 Reddit 403 차단 페이지뿐이라 접근상태 '일부 확인', JS 프레임워크 글은 수집본이 14KB에서 잘려 '일부 확인'. datasette-llm·DeepSeek 원문은 빈 줄과 사이트 메뉴·광고 반복만 덜고 본문 문장은 그대로 옮김. 셸 권한이 막혀 Reddit 재수집은 하지 않음."
+}
