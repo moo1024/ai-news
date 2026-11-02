@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-03",
+  "브리핑페이지": "https://www.notion.so/40c3f6aa67a48151acc7d8048938c5a7",
+  "정식아카이빙": [
+    {"id": "tstack-418b9f16", "source_library": "https://www.notion.so/40c3f6aa67a481e3ac78ea3c3def0ceb", "서고": "https://www.notion.so/40c3f6aa67a4819cbc61dbc42f08d0a9", "결과": "생성"},
+    {"id": "2117343929960112486-c7e56926", "source_library": "https://www.notion.so/40c3f6aa67a4818eafa2d6c95a1f8d2d", "서고": "https://www.notion.so/40c3f6aa67a481028e54dff42b511301", "결과": "생성"},
+    {"id": "2117307611338997846-ebc77ece", "source_library": "https://www.notion.so/40c3f6aa67a4810a81fcf9410f73200c", "서고": "https://www.notion.so/40c3f6aa67a481fca33ac5c53fe3f170", "결과": "생성"},
+    {"id": "momentic-ai-68450ca1", "source_library": "https://www.notion.so/40c3f6aa67a481cd8b8edb853d66c8c0", "서고": "https://www.notion.so/40c3f6aa67a481f892d6d0b584eb4e0f", "결과": "생성"},
+    {"id": "2610-37741-c48ef4b6", "source_library": "https://www.notion.so/40c3f6aa67a4811e8358d1c380837657", "서고": "https://www.notion.so/40c3f6aa67a481bc9b89e0dc848dde95", "결과": "생성"},
+    {"id": "longcat-2-5-16a04cf8", "source_library": "https://www.notion.so/40c3f6aa67a481b187c2ef1582c79f03", "서고": "https://www.notion.so/40c3f6aa67a481108a17dbcfb27354c8", "결과": "생성"},
+    {"id": "qodo-codex-plugin-598c6194", "source_library": "https://www.notion.so/40c3f6aa67a481e4a1c3df24ec9fad98", "서고": "https://www.notion.so/40c3f6aa67a4813a92fce8643eb810c6", "결과": "생성"},
+    {"id": "grid-protectors-program-19244c7a", "source_library": "https://www.notion.so/40c3f6aa67a481b891baeaccb021c2ff", "서고": "https://www.notion.so/40c3f6aa67a4811ca903e8145a1945ac", "결과": "생성"},
+    {"id": "lifeval-ed4b5825", "source_library": "https://www.notion.so/40c3f6aa67a481368356efd35e58d2e0", "서고": "https://www.notion.so/40c3f6aa67a48176ad25d48f0efa749e", "결과": "생성"},
+    {"id": "3mze7rbg2fc2l-1818a08f", "source_library": "https://www.notion.so/40c3f6aa67a481beacc7fcdad8764cbc", "서고": "https://www.notion.so/40c3f6aa67a48163b75cf07f51695fef", "결과": "생성"},
+    {"id": "3mze54fib4c2w-6b9449ca", "source_library": "https://www.notion.so/40c3f6aa67a48166bf2cf35f9290b03e", "서고": "https://www.notion.so/40c3f6aa67a4813d812ff2f9a5e12e76", "결과": "생성"},
+    {"id": "3mzdotrufck2l-a38a31fd", "source_library": "https://www.notion.so/40c3f6aa67a4810fbab9fc4f7722dcc9", "서고": "https://www.notion.so/40c3f6aa67a481c5b6afed309a9170b9", "결과": "생성"}
+  ],
+  "전체수집건수": 131,
+  "메모": "12건 전부 2단계 생성, 중복 0건(ID 검색 12회 + URL 대조 1회). LongCat-2.5 원문은 수집 단계에서 중간에 잘려 접근상태 '일부 확인'. 노션이 링크로 감싼 이미지와 줄바꿈 없이 붙은 이미지를 거부해 Momentic·LongCat·arXiv·LifeVal 원문에서 해당 줄만 '이미지 + (링크: url)' 두 줄로 나누거나 빈 줄을 넣음(본문 문장은 그대로). tstack 원문은 공백만 있는 줄을 지움."
+}
