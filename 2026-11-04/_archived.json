@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-04",
+  "브리핑페이지": "https://www.notion.so/40e3f6aa67a481fc8c27ef9a8be06a44",
+  "정식아카이빙": [
+    {"id": "2117692475775258785-9a0d63ec", "source_library": "https://www.notion.so/40e3f6aa67a481c59d3af6152c4a0b4f", "서고": "https://www.notion.so/40e3f6aa67a4819f8b0ccdcd03e7455e", "결과": "생성"},
+    {"id": "scaling-git-at-openai-de4cf53f", "source_library": "https://www.notion.so/40e3f6aa67a481f2875deaf6ed704ae8", "서고": "https://www.notion.so/40e3f6aa67a481ecb1c5ceb26a7821ec", "결과": "생성"},
+    {"id": "2117692477947641954-aa4345ed", "source_library": "https://www.notion.so/40e3f6aa67a4816e8e1cc49129163910", "서고": "https://www.notion.so/40e3f6aa67a481a38193cc0a60f519a8", "결과": "생성"},
+    {"id": "cleanyourtv-ab0e470b", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "pixelfx-2649f491", "source_library": "https://www.notion.so/40e3f6aa67a481ac9457d813c1d78558", "서고": "https://www.notion.so/40e3f6aa67a481bb8e48d8431eba1db1", "결과": "생성"},
+    {"id": "v2-1-318-6385d8e4", "source_library": "https://www.notion.so/40e3f6aa67a48115bb62f2e030f5053b", "서고": "https://www.notion.so/40e3f6aa67a4816fb40ff653350e8e5f", "결과": "생성"},
+    {"id": "2117710942826123294-d8521e9d", "source_library": "https://www.notion.so/40e3f6aa67a481b3819ef167be7f51d9", "서고": "https://www.notion.so/40e3f6aa67a4818d92bef548a6366809", "결과": "생성"},
+    {"id": "qwen-can-interpret-model-weights-9b0f1b38", "source_library": "https://www.notion.so/40e3f6aa67a481bf96dbe1bb21c892fc", "서고": "https://www.notion.so/40e3f6aa67a48132b9c3fc35d6c9224c", "결과": "생성"},
+    {"id": "14370-da9a5824", "source_library": "https://www.notion.so/40e3f6aa67a481edb4e8e1f1e9898eed", "서고": "https://www.notion.so/40e3f6aa67a48146bc8ed4c1deed918b", "결과": "생성"},
+    {"id": "astra-read-write-misleading-435a4449", "source_library": "https://www.notion.so/40e3f6aa67a481abb1bec9dc257e3cd9", "서고": "https://www.notion.so/40e3f6aa67a481f59814db7d417486fc", "결과": "생성"},
+    {"id": "cisco-cyber-a2357e70", "source_library": "https://www.notion.so/40e3f6aa67a4811eb219ce003846e7f7", "서고": "https://www.notion.so/40e3f6aa67a481bf8869fff9211f7b69", "결과": "생성"},
+    {"id": "3mzgb77cpis2w-58b2621d", "source_library": "https://www.notion.so/40e3f6aa67a481438ad3e298a8cf2f98", "서고": "https://www.notion.so/40e3f6aa67a48164bc44dc6fae8ef018", "결과": "생성"}
+  ],
+  "전체수집건수": 191,
+  "메모": "11건 2단계 생성, 1건 중복(cleanyourtv — 2026-10-20 Source Library에 같은 URL 존재, SQL URL 대조 1회로 확인). 브리핑 191건·출처 33묶음 전부 수록. 원문이 수집 단계에서 잘린 Scaling Git·Postman 이슈와 문장 중간에서 끊긴 X 2건(Astra 기기·FlashProve)은 접근상태 '일부 확인'으로 두고 잘린 지점에 표시. 노션 거부 대비로 링크로 감싼 이미지는 '이미지 + (링크: url)' 두 줄로 나누고, 펜스 없이 붙은 코드 줄은 코드블록으로 감싸고, 빈 앵커 링크·GitHub 상단 메뉴 덩어리(Postman)와 스크래핑 잔재 'undefinedtoml'은 정리(본문 문장은 그대로). Postman 서고 주제분류를 '플러그인'으로 넣었다가 라우팅 표대로 '자동화'로 고침."
+}
