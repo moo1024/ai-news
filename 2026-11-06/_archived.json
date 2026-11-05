@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-06",
+  "브리핑페이지": "https://www.notion.so/40f3f6aa67a481289fbcd99ba61a3f60",
+  "정식아카이빙": [
+    {"id": "2118124966055223755-9d8ce9dc", "source_library": "https://www.notion.so/40f3f6aa67a4810a9665e9c2ea520e4b", "서고": "https://www.notion.so/40f3f6aa67a481beb07af88c81ea5613", "결과": "생성"},
+    {"id": "mcp-explained-com-4cd95ba6", "source_library": "https://www.notion.so/40f3f6aa67a481b18cbdce76c6dcaba2", "서고": "https://www.notion.so/40f3f6aa67a481188dcae08a89c10351", "결과": "생성"},
+    {"id": "2118390190246879554-c55cf452", "source_library": "https://www.notion.so/40f3f6aa67a48157a227d1a3598b6918", "서고": "https://www.notion.so/40f3f6aa67a4814e9b6dee0a323c00ac", "결과": "생성"},
+    {"id": "item-id-50366117-793baf0e", "source_library": "https://www.notion.so/40f3f6aa67a481579698e076723eb987", "서고": "https://www.notion.so/40f3f6aa67a481e8bbd2f38fe0e9fff9", "결과": "생성"},
+    {"id": "rivet-f0e2e8b6", "source_library": "https://www.notion.so/40f3f6aa67a481cd9f37facc85fd96fc", "서고": "https://www.notion.so/40f3f6aa67a481a3a1a4dc48dab289a3", "결과": "생성"},
+    {"id": "2118390192356700383-d11663c7", "source_library": "https://www.notion.so/40f3f6aa67a481339a1fdcdf6b9f4bee", "서고": "https://www.notion.so/40f3f6aa67a481599167c02a3847374d", "결과": "생성"},
+    {"id": "build-live-apps-5d176638", "source_library": "https://www.notion.so/40f3f6aa67a481a881bada517e82732b", "서고": "https://www.notion.so/40f3f6aa67a481fa8aa6e29bd473c0d0", "결과": "생성"},
+    {"id": "introducing-gpt-6-cyber-53c56afb", "source_library": "https://www.notion.so/40f3f6aa67a481719e10d5bc01ff7f85", "서고": "https://www.notion.so/40f3f6aa67a4818a942bfc17e873f959", "결과": "생성"},
+    {"id": "introducing-images-2-6-0a437d67", "source_library": "https://www.notion.so/40f3f6aa67a481898a8bedef85733376", "서고": "https://www.notion.so/40f3f6aa67a4813c9bbdcfcd2ae776b8", "결과": "생성"},
+    {"id": "setting-new-standard-responsible-ai-infr-f9356757", "source_library": "https://www.notion.so/40f3f6aa67a481f3963ef4fcd686d6fb", "서고": "https://www.notion.so/40f3f6aa67a4819786d3d06694df2452", "결과": "생성"},
+    {"id": "gemini-omni-12-flash-fast-and-cost-effec-003a6dd0", "source_library": "https://www.notion.so/40f3f6aa67a481be8613f1cd3130c4e5", "서고": "https://www.notion.so/40f3f6aa67a48117a8bfd3bbd33ed173", "결과": "생성"},
+    {"id": "paul-ford-d8471b7e", "source_library": "https://www.notion.so/40f3f6aa67a4818e898cc9db5aab22f1", "서고": "https://www.notion.so/40f3f6aa67a4819cbd45e840dbd99b2e", "결과": "생성"}
+  ],
+  "전체수집건수": 178,
+  "메모": "12건 전부 신규 생성(중복 0). 수집기가 14KB에서 자른 3건(GPT-6 Cyber 블로그·Ask HN·Rivet)과 본문이 끊긴 트윗 2건은 접근상태 '일부 확인'. HN·GitHub 본문은 사이트 메뉴·빈 줄만 걷고 텍스트는 그대로 옮김. 브리핑 1행(178건·출처 33) 정리완료"
+}
