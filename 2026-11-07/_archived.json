@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-07",
+  "브리핑페이지": "",
+  "정식아카이빙": [
+    {"id": "107757-3b58ffb3", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "logo-design-skill-dd2d033e", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "answer-me-with-html-39a6cfc0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "v2-1-319-df134620", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2118814753154064501-a935380d", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2118782708767965238-2993544f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "2118792930211107115-969590bf", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "CVERecord-id-CVE-2026-83844-f64f1ba4", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "cultfit-builds-with-codex-c88b52d0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "how-researchers-use-claude-13f49105", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "anthropic-ipo-valuation-expectations-pre-a16bf7a4", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
+    {"id": "merge-builds-with-openai-300d9110", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+  ],
+  "전체수집건수": 186,
+  "메모": "plugin:Notion:notion MCP 가 인증 필요 상태라 노션 도구가 로드되지 않음. 절차서 0단계대로 노션에 아무것도 만들지 않고 중단. /mcp 재인증 후 bash daily.sh 2026-11-07 로 재실행 필요"
+}
