@@ -1,20 +1,20 @@
 {
   "날짜": "2026-11-07",
-  "브리핑페이지": "",
+  "브리핑페이지": "https://app.notion.com/p/4113f6aa67a481f7b57bc52bf99513fb",
   "정식아카이빙": [
-    {"id": "107757-3b58ffb3", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "logo-design-skill-dd2d033e", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "answer-me-with-html-39a6cfc0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "v2-1-319-df134620", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2118814753154064501-a935380d", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2118782708767965238-2993544f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "2118792930211107115-969590bf", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "CVERecord-id-CVE-2026-83844-f64f1ba4", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "cultfit-builds-with-codex-c88b52d0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "how-researchers-use-claude-13f49105", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "anthropic-ipo-valuation-expectations-pre-a16bf7a4", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"},
-    {"id": "merge-builds-with-openai-300d9110", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 미인증 — 0단계 인증 확인 실패로 중단"}
+    {"id": "107757-3b58ffb3", "source_library": "https://app.notion.com/p/4113f6aa67a4817ba11cd3ba62b23be8", "서고": "https://app.notion.com/p/4113f6aa67a481db9900ea1d4cd35300", "결과": "생성"},
+    {"id": "logo-design-skill-dd2d033e", "source_library": "https://app.notion.com/p/3f23f6aa67a4810ba3c9f6ea130463bd", "서고": "https://app.notion.com/p/3f23f6aa67a4811d9ad8ea8a43d1c955", "결과": "중복 — 건너뜀"},
+    {"id": "answer-me-with-html-39a6cfc0", "source_library": "https://app.notion.com/p/3f23f6aa67a481d28f28d400bcdb792d", "서고": "https://app.notion.com/p/3f23f6aa67a481b38ae3d6ea40ff12a6", "결과": "중복 — 건너뜀"},
+    {"id": "v2-1-319-df134620", "source_library": "https://app.notion.com/p/4113f6aa67a481229eddc568142b77c4", "서고": "https://app.notion.com/p/4113f6aa67a4813f836dc7f61225f94d", "결과": "생성"},
+    {"id": "2118814753154064501-a935380d", "source_library": "https://app.notion.com/p/4113f6aa67a481ccbfc2cd7683e0e972", "서고": "https://app.notion.com/p/4113f6aa67a481bfb867cddad236698f", "결과": "생성"},
+    {"id": "2118782708767965238-2993544f", "source_library": "https://app.notion.com/p/4113f6aa67a48111a09cc20f85b4897c", "서고": "https://app.notion.com/p/4113f6aa67a481219b75e86f4d55ab65", "결과": "생성"},
+    {"id": "2118792930211107115-969590bf", "source_library": "https://app.notion.com/p/4113f6aa67a481fc8ab5e02e25759c21", "서고": "https://app.notion.com/p/4113f6aa67a48132913feb4a089e17f9", "결과": "생성"},
+    {"id": "CVERecord-id-CVE-2026-83844-f64f1ba4", "source_library": "https://app.notion.com/p/4113f6aa67a481a7a55cfc8f62c8c6aa", "서고": "https://app.notion.com/p/4113f6aa67a481ff8b41debe7389a790", "결과": "생성"},
+    {"id": "cultfit-builds-with-codex-c88b52d0", "source_library": "https://app.notion.com/p/4113f6aa67a481f9b68cc65dad9160f6", "서고": "https://app.notion.com/p/4113f6aa67a4812190eacee3576f9335", "결과": "생성"},
+    {"id": "how-researchers-use-claude-13f49105", "source_library": "https://app.notion.com/p/4113f6aa67a48141b544c24150513304", "서고": "https://app.notion.com/p/4113f6aa67a481c78538c036a375abb4", "결과": "생성"},
+    {"id": "ai-is-dramatically-accelerating-ai-3b972eca", "source_library": "https://app.notion.com/p/4113f6aa67a481909ebbeb7b210a93a5", "서고": "https://app.notion.com/p/4113f6aa67a4810f85f4e94035a5ea1a", "결과": "생성"},
+    {"id": "introducing-gemini-omni-1-2-flash-d7e9e3e8", "source_library": "https://app.notion.com/p/40f3f6aa67a481be8613f1cd3130c4e5", "서고": "https://app.notion.com/p/40f3f6aa67a48117a8bfd3bbd33ed173", "결과": "중복 — 건너뜀"}
   ],
-  "전체수집건수": 186,
-  "메모": "plugin:Notion:notion MCP 가 인증 필요 상태라 노션 도구가 로드되지 않음. 절차서 0단계대로 노션에 아무것도 만들지 않고 중단. /mcp 재인증 후 bash daily.sh 2026-11-07 로 재실행 필요"
+  "전체수집건수": 187,
+  "메모": "07:25 1차 실행은 노션 미인증으로 중단 → 12:55 재수집분으로 수동 재실행. 후보 12건 중 9건 2단계 생성, 3건(logo-design-skill·answer-me-with-html 10-07, Gemini Omni 1.2 Flash 11-06)은 기존 페이지가 있어 건너뜀(링크는 기존 페이지). 원문이 잘린 5건(v2.1.319·X 2건·Anthropic 연구자 보고서·METR 해석 글)은 접근상태 '일부 확인'."
 }
