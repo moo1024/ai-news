@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-08",
+  "브리핑페이지": "https://app.notion.com/p/4123f6aa67a4815db533de40dcabcd1f",
+  "정식아카이빙": [
+    {"id": "coding-agents-leaking-secrets-github-don-5186d80b", "source_library": "https://app.notion.com/p/4123f6aa67a481208fa6fdefe046d50b", "서고": "https://app.notion.com/p/4123f6aa67a481c998a2f8657f5150ec", "결과": "생성"},
+    {"id": "earshot-dc8cec88", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "oil-ui-041b1123", "source_library": "https://app.notion.com/p/4123f6aa67a4819da217db22a1a65073", "서고": "https://app.notion.com/p/4123f6aa67a481f8b834f6b54ceedd6f", "결과": "생성"},
+    {"id": "2118795218099253606-96ce5e8b", "source_library": "https://app.notion.com/p/4123f6aa67a48110b740fbf9f2f6607e", "서고": "https://app.notion.com/p/4123f6aa67a4810d9b03e8f6fb7543bd", "결과": "생성"},
+    {"id": "hunch-net-p-13764006-9f1ff32d", "source_library": "https://app.notion.com/p/4123f6aa67a4812ba7f8de567e7bff84", "서고": "https://app.notion.com/p/4123f6aa67a481ada71ac97fb23a6bbc", "결과": "생성"},
+    {"id": "CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29w-af23c4bb", "source_library": "https://app.notion.com/p/4123f6aa67a48188a92fdb2f7b5e2769", "서고": "https://app.notion.com/p/4123f6aa67a4818f916cec810f5c155a", "결과": "생성"},
+    {"id": "how-long-can-life-wait-a83c3386", "source_library": "https://app.notion.com/p/4123f6aa67a48104a02eed2a2b405986", "서고": "https://app.notion.com/p/4123f6aa67a4817c9742fc768e27682c", "결과": "생성"},
+    {"id": "CBMimwFBVV95cUxQcHVmb1JmM0xnUmhXazRxU3J5-893c37a5", "source_library": "https://app.notion.com/p/4123f6aa67a48172854aca59c7b0a2ab", "서고": "https://app.notion.com/p/4123f6aa67a481fb9660f04ed8d1d490", "결과": "생성"},
+    {"id": "components-of-agent-memory-d8887a09", "source_library": "https://app.notion.com/p/4123f6aa67a481d58d92ee5b96a5e2ef", "서고": "https://app.notion.com/p/4123f6aa67a4819bb7a0e7fa6e835a47", "결과": "생성"},
+    {"id": "link-rel-next-f5913b37", "source_library": "https://app.notion.com/p/4123f6aa67a481b99c23f726a249b62c", "서고": "https://app.notion.com/p/4123f6aa67a481e68560e96e3505fe77", "결과": "생성"},
+    {"id": "rust-v0-167-0-e2baf2e1", "source_library": "https://app.notion.com/p/4123f6aa67a4810e9b1fc888ad645af8", "서고": "https://app.notion.com/p/4123f6aa67a481ef842ecade3a79b626", "결과": "생성"},
+    {"id": "3mzqkydpmfd2h-4175de98", "source_library": "https://app.notion.com/p/4123f6aa67a48114bf62e3b7146572a7", "서고": "https://app.notion.com/p/4123f6aa67a481709731c48c19a49088", "결과": "생성"}
+  ],
+  "전체수집건수": 143,
+  "메모": "후보 12건 중 11건 생성, earshot 은 2026-10-24 에 같은 수집 ID로 이미 있어 건너뜀. 원문이 짧거나 끊긴 5건(Anthropic 레지던시·OpenAI 프레임워크·Cursor 편집위험·에이전트 메모리·Codex 0.167.0)은 접근상태 '일부 확인'"
+}
