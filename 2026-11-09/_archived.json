@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-09",
+  "브리핑페이지": "https://app.notion.com/p/4123f6aa67a48118b60ed1b45df34ad1",
+  "정식아카이빙": [
+    {"id": "goldman-sachs-claude-code-traders-banker-68ff5ed6", "source_library": "https://app.notion.com/p/4123f6aa67a4812a8a96d84e1b063b9f", "서고": "https://app.notion.com/p/4123f6aa67a48118be7fd0d8da13b8b1", "결과": "생성"},
+    {"id": "free-my-tv-f097e65b", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "rea-video-eb40edb5", "source_library": "https://app.notion.com/p/4123f6aa67a481dd85c6eec0c01adaa1", "서고": "https://app.notion.com/p/4123f6aa67a48163a338f5cd06046506", "결과": "생성"},
+    {"id": "claude-to-pi-html-e66f4eea", "source_library": "https://app.notion.com/p/4123f6aa67a481c394a4d9fe8b286fd5", "서고": "https://app.notion.com/p/4123f6aa67a48101b02fda2799c753fd", "결과": "생성"},
+    {"id": "llama-modchip-5e9d3fd0", "source_library": "https://app.notion.com/p/4123f6aa67a48193bb51c690320d7693", "서고": "https://app.notion.com/p/4123f6aa67a4819b8d8acf58d1f1ecac", "결과": "생성"},
+    {"id": "linux-script-emails-sam-altman-unused-ra-449595a5", "source_library": "https://app.notion.com/p/4123f6aa67a48190abd4d62cfb656bff", "서고": "https://app.notion.com/p/4123f6aa67a481b9a3cbc5b04124cda7", "결과": "생성"},
+    {"id": "outlook-rejecting-email-without-dmarc-ec6779b0", "source_library": "https://app.notion.com/p/4123f6aa67a481168127c97162efb54e", "서고": "https://app.notion.com/p/4123f6aa67a48185b3fbe91a0633d372", "결과": "생성"},
+    {"id": "one-million-ai-engineer-special-how-stan-6b30b334", "source_library": "https://app.notion.com/p/4123f6aa67a4815fbcfada2ef4f6e7fb", "서고": "https://app.notion.com/p/4123f6aa67a4815f9dc6cfcf306ec90d", "결과": "생성"},
+    {"id": "3mzsyjxxrsk2l-2d0e78ba", "source_library": "https://app.notion.com/p/4123f6aa67a4811a870eff9f757c954d", "서고": "https://app.notion.com/p/4123f6aa67a48145999df0bf2f3c84ac", "결과": "생성"},
+    {"id": "apple-siri-ai-agentic-ce0a393f", "source_library": "https://app.notion.com/p/4123f6aa67a48188954ed29bca3eb335", "서고": "https://app.notion.com/p/4123f6aa67a481ec970dfc46a5de1480", "결과": "생성"},
+    {"id": "after-the-update-yesterday-chatgpt-cant-0b601064", "source_library": "https://app.notion.com/p/4123f6aa67a48153a9b4e1247762101a", "서고": "https://app.notion.com/p/4123f6aa67a481a18c16cb1fcf0a8f25", "결과": "생성"},
+    {"id": "cs146s-9c7e75a2", "source_library": "https://app.notion.com/p/4123f6aa67a4812985aaf2a166ed2871", "서고": "https://app.notion.com/p/4123f6aa67a4812abd94e297d1e62d8e", "결과": "생성"}
+  ],
+  "전체수집건수": 120,
+  "메모": "후보 12건 중 11건 2단계 생성, free-my-tv 는 2026-10-25 Source Library·서고에 이미 있어 건너뜀. Reddit 4개 서브(MachineLearning·singularity·ClaudeAI·AI_Agents)는 수집 단계 HTTP 429로 빠짐."
+}
