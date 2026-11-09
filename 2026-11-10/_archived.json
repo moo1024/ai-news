@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-10",
+  "브리핑페이지": "https://app.notion.com/p/4133f6aa67a481779dacc5b612b5e4c0",
+  "정식아카이빙": [
+    {"id": "2119913172039868579-739cf98f", "source_library": "https://app.notion.com/p/4133f6aa67a481289727d301c267f8ae", "서고": "https://app.notion.com/p/4133f6aa67a481c3baaff842b0b79276", "결과": "생성"},
+    {"id": "v2-1-321-13932435", "source_library": "https://app.notion.com/p/4133f6aa67a48187a17dd8de871010bc", "서고": "https://app.notion.com/p/4133f6aa67a481a3a587f50f9e7db6cd", "결과": "생성"},
+    {"id": "a-message-to-our-company-9709ee9b", "source_library": "https://app.notion.com/p/4133f6aa67a481499e26d51f16d3fb1a", "서고": "https://app.notion.com/p/4133f6aa67a4812b95e4e37045372a87", "결과": "생성"},
+    {"id": "2119867707546071125-b2eb0e31", "source_library": "https://app.notion.com/p/4133f6aa67a481869b95dcd39d1d2cd8", "서고": "https://app.notion.com/p/4133f6aa67a4814e869bc509f953e423", "결과": "생성"},
+    {"id": "claude-fable-and-mythos-5-2-ffe8a09e", "source_library": "https://app.notion.com/p/4133f6aa67a481bc9103cd58a1261a5a", "서고": "https://app.notion.com/p/4133f6aa67a4812b9493f46472150858", "결과": "생성"},
+    {"id": "item-id-50422628-8ceada5f", "source_library": "https://app.notion.com/p/4133f6aa67a481b996dacaf4643b05c2", "서고": "https://app.notion.com/p/4133f6aa67a48160a1ecd4000ba8712d", "결과": "생성"},
+    {"id": "coderabbit-codex-daybreak-23b94c69", "source_library": "https://app.notion.com/p/4133f6aa67a48129acefeacf371602c6", "서고": "https://app.notion.com/p/4133f6aa67a481f5aa31f1607c1f4de6", "결과": "생성"},
+    {"id": "claude-fable-5-2-255b56db", "source_library": "https://app.notion.com/p/4133f6aa67a481519edded1e90503a00", "서고": "https://app.notion.com/p/4133f6aa67a4810284bff10b1092377e", "결과": "생성"},
+    {"id": "foldableflight-com-fbe7403d", "source_library": "https://app.notion.com/p/4133f6aa67a4817e9a49fee291297c42", "서고": "https://app.notion.com/p/4133f6aa67a481ea9a3ce3a964337d7a", "결과": "생성"},
+    {"id": "chatgpt-enterprise-aws-marketplace-9c331579", "source_library": "https://app.notion.com/p/4133f6aa67a481faa324efd4a4490bb6", "서고": "https://app.notion.com/p/4133f6aa67a481f9a848f173deb613fd", "결과": "생성"},
+    {"id": "control-room-f37b680a", "source_library": "https://app.notion.com/p/4133f6aa67a481db9759c7e9953f2d9e", "서고": "https://app.notion.com/p/4133f6aa67a481ba9ad2e9dc0c0d0a3d", "결과": "생성"},
+    {"id": "details-summary-6ee1dee3", "source_library": "https://app.notion.com/p/4133f6aa67a481689e62d2fa0a59c559", "서고": "https://app.notion.com/p/4133f6aa67a48133841ae23b327832e1", "결과": "생성"}
+  ],
+  "전체수집건수": 153,
+  "메모": "12건 전부 2단계 생성(중복 0·실패 0). 수집 원문이 잘린 5건(Control Room 트윗·CC v2.1.321·Fable 5.2 발표글·HN SSH 포워딩·Foldable Flight)은 접근상태 일부 확인. Reddit 4개 서브 429로 수집 실패."
+}
