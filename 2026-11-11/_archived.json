@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-11",
+  "브리핑페이지": "https://www.notion.so/4143f6aa67a481ddafa2cb5d101b0857",
+  "정식아카이빙": [
+    {"id": "anatomy-673796e0", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "Awesome-REA-5757e0eb", "source_library": "https://www.notion.so/4143f6aa67a481fbbd2cf1cd2a6fd1ba", "서고": "https://www.notion.so/4143f6aa67a4815796c4f29f68803142", "결과": "생성"},
+    {"id": "modern-web-guidance-5175b6a2", "source_library": "https://www.notion.so/4143f6aa67a48110b480fcd9c0656266", "서고": "https://www.notion.so/4143f6aa67a481b1b25df8999deb770e", "결과": "생성"},
+    {"id": "v2-1-322-f7d3d2f1", "source_library": "https://www.notion.so/4143f6aa67a481b0bde1cfb115a4bd5c", "서고": "https://www.notion.so/4143f6aa67a4813c8c89c645cb9e2172", "결과": "생성"},
+    {"id": "2120216592395174382-aa1b5b0d", "source_library": "https://www.notion.so/4143f6aa67a4818ca0f5e38ea77d6232", "서고": "https://www.notion.so/4143f6aa67a4817188a3dbf493effe38", "결과": "생성"},
+    {"id": "helping-caregivers-use-ai-in-everyday-li-46ecb159", "source_library": "https://www.notion.so/4143f6aa67a481a7b377e9776d006bce", "서고": "https://www.notion.so/4143f6aa67a481e48b89d343095c1b85", "결과": "생성"},
+    {"id": "2120117722230968385-c7419375", "source_library": "https://www.notion.so/4143f6aa67a481ad92b7d0b8ee072f54", "서고": "https://www.notion.so/4143f6aa67a4811fb89ded1e5fa6c2a0", "결과": "생성"},
+    {"id": "2120202353907486826-c98b9771", "source_library": "https://www.notion.so/4143f6aa67a481caaa1dff4d91fe32cc", "서고": "https://www.notion.so/4143f6aa67a481278be9d8719a03f400", "결과": "생성"},
+    {"id": "rust-v0-167-1-31de8951", "source_library": "https://www.notion.so/4143f6aa67a481e79eccc999a08adef4", "서고": "https://www.notion.so/4143f6aa67a48161ade5dd8ec326b9b1", "결과": "생성"},
+    {"id": "acbc92e00cee3a3f-f2a36589", "source_library": "https://www.notion.so/4143f6aa67a4816f9483c6045abc071b", "서고": "https://www.notion.so/4143f6aa67a4811e89a9e947c0d93bde", "결과": "생성"},
+    {"id": "ai-usage-generates-a-fragile-codebase-534e2332", "source_library": "https://www.notion.so/4143f6aa67a481d5b92ed1beeec26d0a", "서고": "https://www.notion.so/4143f6aa67a481759107da36489f308a", "결과": "생성"},
+    {"id": "introducing-businesses-chatgpt-5ca4dc7b", "source_library": "https://www.notion.so/4143f6aa67a4810a955ddc1d64c48524", "서고": "https://www.notion.so/4143f6aa67a48190a9dee58e3f30bb13", "결과": "생성"}
+  ],
+  "전체수집건수": 211,
+  "메모": "후보 12건 중 11건 2단계 생성, anatomy-673796e0 은 2026-10-12 수집분과 같은 수집 ID로 중복 건너뜀. Claude Code v2.1.322·Codex 0.167.1 원문은 GitHub 메뉴·해시 목록에서 잘려 RSS 요약으로 본문을 채우고 접근상태 '일부 확인'으로 둠."
+}
