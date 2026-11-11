@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-12",
+  "브리핑페이지": "https://www.notion.so/4153f6aa67a48185840be8f44835cbe1",
+  "정식아카이빙": [
+    {"id": "2120169787896525104-34f4cf6b", "source_library": "https://www.notion.so/4153f6aa67a48109b233d5bd2251cc3f", "서고": "https://www.notion.so/4153f6aa67a48167bbe3fd0b02cd7d09", "결과": "생성"},
+    {"id": "replica-skill-056cd65a", "source_library": "https://www.notion.so/3f73f6aa67a481cf9bb1d6c60049136a", "서고": "https://www.notion.so/3f73f6aa67a481d2b01eea36a01e1ea8", "결과": "중복 — 건너뜀"},
+    {"id": "founder-skill-615a39c3", "source_library": "https://www.notion.so/4153f6aa67a4813e935fcf2740669550", "서고": "https://www.notion.so/4153f6aa67a4818fa99ec0a37db3c8c9", "결과": "생성"},
+    {"id": "sapper-v2-a5af043f", "source_library": "https://www.notion.so/4153f6aa67a481ada30edbe29ddfce90", "서고": "https://www.notion.so/4153f6aa67a481dfaf63e0551629b4d7", "결과": "생성"},
+    {"id": "2120532824465805749-6ede7fd5", "source_library": "https://www.notion.so/4153f6aa67a481ea8f4df59168ee6fca", "서고": "https://www.notion.so/4153f6aa67a481e69359eadd59a45444", "결과": "생성"},
+    {"id": "klad-3f42633d", "source_library": "https://www.notion.so/4153f6aa67a481199cc2c298b7614afc", "서고": "https://www.notion.so/4153f6aa67a481bf8434f80ce633dba0", "결과": "생성"},
+    {"id": "item-id-50455811-71cb7085", "source_library": "https://www.notion.so/4153f6aa67a481a2a13fef477ef6c665", "서고": "https://www.notion.so/4153f6aa67a481239848d501dbd9b93e", "결과": "생성"},
+    {"id": "maya-site-8d8bc38f", "source_library": "https://www.notion.so/4153f6aa67a4813ea372d960790446ac", "서고": "https://www.notion.so/4153f6aa67a481ff814cee1dfa4f3f37", "결과": "생성"},
+    {"id": "sheets-whiteboards-data-7737e173", "source_library": "https://www.notion.so/4153f6aa67a481ecaaa8f8b4f0d41a42", "서고": "https://www.notion.so/4153f6aa67a481d0b85bde3fd638b7fa", "결과": "생성"},
+    {"id": "gemini-decisions-api-cce71481", "source_library": "https://www.notion.so/4153f6aa67a4811b902df88005d46bf4", "서고": "https://www.notion.so/4153f6aa67a481b4a61beb90a900afee", "결과": "생성"},
+    {"id": "gilbert-tobin-sam-nickless-f28f90d2", "source_library": "https://www.notion.so/4153f6aa67a4815297f6e1c0bce6753c", "서고": "https://www.notion.so/4153f6aa67a48171b3c2eba430caac3f", "결과": "생성"},
+    {"id": "chatgpt-plus-for-veterans-80b38ea7", "source_library": "https://www.notion.so/4153f6aa67a481fc8ef9fc01548193b9", "서고": "https://www.notion.so/4153f6aa67a481cb98c6d1670c62b1a9", "결과": "생성"}
+  ],
+  "전체수집건수": 219,
+  "메모": "11건 생성·1건 중복(replica-skill, 2026-10-13 기존 등록분, 위 링크는 기존 페이지). Gemini Robotics 원문은 1KB 미만이라 접근상태 일부 확인. sapper-v2 원문의 영상 URL jwt 서명값은 [마스킹], 링크로 감싼 이미지 5개는 노션 형식 제약으로 이미지 블록만 옮김, 수집본 자체가 결과 절 중간에서 끊김. Reddit 4개 서브레딧은 수집 단계 429로 빠짐."
+}
