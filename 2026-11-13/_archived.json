@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-13",
+  "브리핑페이지": "https://www.notion.so/4173f6aa67a481da965ecc42112d2742",
+  "정식아카이빙": [
+    {"id": "v2-1-323-1e1f91e9", "source_library": "https://www.notion.so/4173f6aa67a48171ab7ff24736e2243b", "서고": "https://www.notion.so/4173f6aa67a481b5acede125926ddb00", "결과": "생성"},
+    {"id": "global-law-12be2b09", "source_library": "https://www.notion.so/4173f6aa67a481a6b2a5e1156b07552c", "서고": "https://www.notion.so/4173f6aa67a48148a02febc5c5aeeff1", "결과": "생성"},
+    {"id": "ui-6cd333e9", "source_library": "https://www.notion.so/4173f6aa67a481db8909cfa5ade80cd3", "서고": "https://www.notion.so/4173f6aa67a48163beb2ca30a89fe87e", "결과": "생성"},
+    {"id": "amplitude-5b0f73df", "source_library": "https://www.notion.so/4173f6aa67a481699466f21f16730241", "서고": "https://www.notion.so/4173f6aa67a4814d9ef4dce53fc48787", "결과": "생성"},
+    {"id": "2120940338869055788-5b921d03", "source_library": "https://www.notion.so/4173f6aa67a4811b8effc40a04d4e299", "서고": "https://www.notion.so/4173f6aa67a48175ab95f8936a18903d", "결과": "생성"},
+    {"id": "README-md-ca1478ab", "source_library": "https://www.notion.so/4173f6aa67a48116b34af80529308a6e", "서고": "https://www.notion.so/4173f6aa67a48144b164c046f1ccf655", "결과": "생성"},
+    {"id": "2120841731302154708-d99f3143", "source_library": "https://www.notion.so/4173f6aa67a481aa80d6d05eebd3b2e7", "서고": "https://www.notion.so/4173f6aa67a48144ac7bcf5c39164bf9", "결과": "생성"},
+    {"id": "gondola-90d79223", "source_library": "https://www.notion.so/4173f6aa67a481ac9624e4270d6dbd50", "서고": "https://www.notion.so/4173f6aa67a4812788c1d99030184270", "결과": "생성"},
+    {"id": "2120841923237683462-121d16ed", "source_library": "https://www.notion.so/4173f6aa67a48176bf84c053310b2c9a", "서고": "https://www.notion.so/4173f6aa67a48184943bc35518d54ef5", "결과": "생성"},
+    {"id": "us-f101ffad", "source_library": "https://www.notion.so/4173f6aa67a48116a248f450b0de736b", "서고": "https://www.notion.so/4173f6aa67a481bc8755c89f71150968", "결과": "생성"},
+    {"id": "introducing-gemini-4-hydrogen-8fdb0296", "source_library": "https://www.notion.so/4173f6aa67a48101b056ca553fb94d60", "서고": "https://www.notion.so/4173f6aa67a48167ba56edc754f472a0", "결과": "생성"},
+    {"id": "children-first-declaration-b0637967", "source_library": "https://www.notion.so/4173f6aa67a481369104edce93c5cfb6", "서고": "https://www.notion.so/4173f6aa67a48110bab6da6c88010c60", "결과": "생성"}
+  ],
+  "전체수집건수": 201,
+  "메모": "12건 전부 2단계 생성(중복 0). 원문 파일이 잘렸거나 짧은 7건(트윗 3·v2.1.323·global-law·Gemini 블로그·AgentRun)은 접근상태 일부 확인. 노션이 거부한 이미지·태그 표기만 최소 수정(global-law·vercel-labs/ui·AgentRun·Anthropic IPO 페이지). 브리핑은 201건·35개 출처 전부 수록"
+}
