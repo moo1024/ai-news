@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-14",
+  "브리핑페이지": "https://www.notion.so/4173f6aa67a481938940f4b0a187a87d",
+  "정식아카이빙": [
+    {"id": "nn11wk485zfn-44da454e", "source_library": "https://www.notion.so/4173f6aa67a48176b8aac969bb65494c", "서고": "https://www.notion.so/4173f6aa67a481a689c1c456a121ad6a", "결과": "생성"},
+    {"id": "v2-1-325-3578b3de", "source_library": "https://www.notion.so/4173f6aa67a4815daa2bd7395be43fb8", "서고": "https://www.notion.so/4173f6aa67a4811dabd8c96e9b39ff4c", "결과": "생성"},
+    {"id": "introducing-chatgpt-wallet-5bf4951a", "source_library": "https://www.notion.so/4173f6aa67a48109bff6e9d07c04c677", "서고": "https://www.notion.so/4173f6aa67a4815c806ac43e58005e32", "결과": "생성"},
+    {"id": "search-api-agentic-payments-b3c84623", "source_library": "https://www.notion.so/4173f6aa67a481a3919ae607217bf0c7", "서고": "https://www.notion.so/4173f6aa67a48199a1eee561f40b76ea", "결과": "생성"},
+    {"id": "2121272083863011714-dfd74a13", "source_library": "https://www.notion.so/4173f6aa67a4812b93d2d0f5c96682ed", "서고": "https://www.notion.so/4173f6aa67a481828645d4d6ec711c23", "결과": "생성"},
+    {"id": "2121317227618340990-6272bd18", "source_library": "https://www.notion.so/4173f6aa67a481ce8374d85d40785844", "서고": "https://www.notion.so/4173f6aa67a481979847ca0bd8da0386", "결과": "생성"},
+    {"id": "history-22bcd838", "source_library": "https://www.notion.so/4173f6aa67a4816e8e45d1f0f9ef7cee", "서고": "https://www.notion.so/4173f6aa67a481da87e2cf2245e8b492", "결과": "생성"},
+    {"id": "kurt-godel-notebooks-ai-helps-unlock-hid-a1e895b9", "source_library": "https://www.notion.so/4173f6aa67a4810cb6a1c25d08c664fd", "서고": "https://www.notion.so/4173f6aa67a481aab562f12fbbe2e9b7", "결과": "생성"},
+    {"id": "rust-v0-169-0-720dff5f", "source_library": "https://www.notion.so/4173f6aa67a481e1bfaff60f034d0687", "서고": "https://www.notion.so/4173f6aa67a481fb97f1e03050011a80", "결과": "생성"},
+    {"id": "rust-v0-168-0-507b21f3", "source_library": "https://www.notion.so/4173f6aa67a481cb99c9e05a5218dbab", "서고": "https://www.notion.so/4173f6aa67a481069aa0d566c4e3bd47", "결과": "생성"},
+    {"id": "3n27qnrq3b222-1b1b6525", "source_library": "https://www.notion.so/4173f6aa67a4815cb16cd5e171cd2215", "서고": "https://www.notion.so/4173f6aa67a4815f8540f0cb85c2bc26", "결과": "생성"},
+    {"id": "3n27sqcs6ds22-8c310dba", "source_library": "https://www.notion.so/4173f6aa67a481d98694daa2637dc89b", "서고": "https://www.notion.so/4173f6aa67a48176b088c0cde6ecf1b7", "결과": "생성"}
+  ],
+  "전체수집건수": 186,
+  "메모": "12건 전부 2단계 생성(중복 0, URL 대조로 각 1건 확인). 원문이 잘린 4건(v2.1.325·Codex 0.169.0·0.168.0·다이먼 대담 트윗)은 접근상태 일부 확인. Brave·가디언·깃헙 릴리스 3종은 사이트 메뉴·푸터·빈 줄만 걷어내고 본문은 그대로 옮김. 브리핑은 186건·33개 출처 전부 수록(정식 12 + 그 외 174)"
+}
