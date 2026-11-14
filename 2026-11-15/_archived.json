@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-15",
+  "브리핑페이지": "https://app.notion.com/p/4183f6aa67a481f99a4fffe8ced634ce",
+  "정식아카이빙": [
+    {"id": "pinky-4302af2a", "source_library": "https://app.notion.com/p/4183f6aa67a48152a839cc7f7b7f5bf3", "서고": "https://app.notion.com/p/4183f6aa67a481a796ceeea5254c92bc", "결과": "생성"},
+    {"id": "lovable-en-0364257a", "source_library": "https://app.notion.com/p/4183f6aa67a481999cb6d64d355aba84", "서고": "https://app.notion.com/p/4183f6aa67a481aea394f58a9d4a3ba0", "결과": "생성"},
+    {"id": "2121229774865527097-3904c978", "source_library": "https://app.notion.com/p/4183f6aa67a48140a303c94e9952d842", "서고": "https://app.notion.com/p/4183f6aa67a481a5b1e3fa327371d1f5", "결과": "생성"},
+    {"id": "shield-d1318183", "source_library": "https://app.notion.com/p/4183f6aa67a48104a9a4d579182ae1a9", "서고": "https://app.notion.com/p/4183f6aa67a481f88bbec1b444bb3b46", "결과": "생성"},
+    {"id": "nvidia-jensen-huang-last-visionary-showm-c46863c3", "source_library": "https://app.notion.com/p/4183f6aa67a481549066e6d09b92f308", "서고": "https://app.notion.com/p/4183f6aa67a481ebabdaf68b275243f6", "결과": "생성"},
+    {"id": "3n2cgv2pat222-6440f4aa", "source_library": "https://app.notion.com/p/4183f6aa67a4814eb84dd8f6dc928c31", "서고": "https://app.notion.com/p/4183f6aa67a481078087d43906d20c06", "결과": "생성"},
+    {"id": "hot-take-frontier-models-havent-actually-49e8cde0", "source_library": "https://app.notion.com/p/4183f6aa67a481689f0afc04e1b2c80c", "서고": "https://app.notion.com/p/4183f6aa67a481dab3c6c709fd360712", "결과": "생성"},
+    {"id": "beyond-the-hype-whats-the-reality-of-age-527508d1", "source_library": "https://app.notion.com/p/4183f6aa67a4811c93ace6de1d095e6d", "서고": "https://app.notion.com/p/4183f6aa67a481988fe2c54f8a6e52f8", "결과": "생성"},
+    {"id": "datasette-cluster-map-fde4e161", "source_library": "https://app.notion.com/p/4183f6aa67a481f58525edc698096f22", "서고": "https://app.notion.com/p/4183f6aa67a4814d9786d74ba39e5a7c", "결과": "생성"},
+    {"id": "how-do-you-get-codex-claude-code-and-a-p-cf06dc5a", "source_library": "https://app.notion.com/p/4183f6aa67a48123864cee44953e583d", "서고": "https://app.notion.com/p/4183f6aa67a4814f93f7dd9e95715cd9", "결과": "생성"},
+    {"id": "3n2chudnxak2t-3246b75d", "source_library": "https://app.notion.com/p/4183f6aa67a4818da009c37e19d26f0d", "서고": "https://app.notion.com/p/4183f6aa67a481929094c9c1a7462ced", "결과": "생성"},
+    {"id": "3n25qivmljs2t-67dcc428", "source_library": "https://app.notion.com/p/4183f6aa67a48107ab4bca09c8ae7b0e", "서고": "https://app.notion.com/p/4183f6aa67a481d78dccec0c02686671", "결과": "생성"}
+  ],
+  "전체수집건수": 141,
+  "메모": "12건 전부 2단계 생성(중복 0건). Reddit 3건은 본문 수집이 403 차단 페이지라 RSS 본문을 정본으로 쓰고 접근상태 일부 확인. Verge는 유료 장벽, pinky README는 잘린 수집본이라 일부 확인. 후보 중 Bluesky 2건(emollick)은 AI 무관 게시물로 수집기 점수 규칙 점검 필요. notion-get-self 권한이 없어 인증 확인은 notion-fetch 로 대신함."
+}
