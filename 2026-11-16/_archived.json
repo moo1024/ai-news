@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-16",
+  "브리핑페이지": "https://www.notion.so/41a3f6aa67a481b8badbdc25ccbaf880",
+  "정식아카이빙": [
+    {"id": "bla-e8bb9b5c", "source_library": "https://www.notion.so/41a3f6aa67a48179b9c6db2ecfed9c6e", "서고": "https://www.notion.so/41a3f6aa67a481748626d24b146d9ae4", "결과": "생성"},
+    {"id": "floorplan-f25cfa09", "source_library": "https://www.notion.so/41a3f6aa67a48125ab3ac9b8130fd0cc", "서고": "https://www.notion.so/41a3f6aa67a48140b06afc86d58cd0be", "결과": "생성"},
+    {"id": "skills-9467b13f", "source_library": "https://www.notion.so/41a3f6aa67a481a4a126ffb2cc37745d", "서고": "https://www.notion.so/41a3f6aa67a48102be27e56bc08644f2", "결과": "생성"},
+    {"id": "ai-code-open-source-de1b04ae", "source_library": "https://www.notion.so/41a3f6aa67a481bca231f3242fc81456", "서고": "https://www.notion.so/41a3f6aa67a481f5a820f2690ca2e479", "결과": "생성"},
+    {"id": "2122123437141553630-82c9d550", "source_library": "https://www.notion.so/41a3f6aa67a481b6a939fe4330701050", "서고": "https://www.notion.so/41a3f6aa67a481efb0e9d450c1e0c552", "결과": "생성"},
+    {"id": "blog-id-qwen4-max-8468cd1c", "source_library": "https://www.notion.so/41a3f6aa67a481b19923d56712086c52", "서고": "https://www.notion.so/41a3f6aa67a481e7bc03eb99aa9c220f", "결과": "생성"},
+    {"id": "watch-v-7-JF3etiAv8-6e3a86fe", "source_library": "https://www.notion.so/41a3f6aa67a481b29283ebc395a766c6", "서고": "https://www.notion.so/41a3f6aa67a4810db499e2b07145d51e", "결과": "생성"},
+    {"id": "step-toward-defining-the-standard-model-87d7014c", "source_library": "https://www.notion.so/41a3f6aa67a481ca92a0fdac4015eacf", "서고": "https://www.notion.so/41a3f6aa67a481e79317c6b3ae6466ee", "결과": "생성"},
+    {"id": "our-new-blog-for-science-4b0fc5b7", "source_library": "https://www.notion.so/41a3f6aa67a4816e8373dfc09be9380d", "서고": "https://www.notion.so/41a3f6aa67a48109817eeba4a1335220", "결과": "생성"},
+    {"id": "ula-vulcan-centaur-return-to-flight-amaz-64748288", "source_library": "https://www.notion.so/41a3f6aa67a481fb8b72df942e1fc969", "서고": "https://www.notion.so/41a3f6aa67a4819bb2dcd0efb4e4d908", "결과": "생성"},
+    {"id": "datasette-maplibre-4b4d48f1", "source_library": "https://www.notion.so/41a3f6aa67a481229a03d305808d3c5e", "서고": "https://www.notion.so/41a3f6aa67a481ed90f3eeba2118e60c", "결과": "생성"},
+    {"id": "datasette-3bc6cdb3", "source_library": "https://www.notion.so/41a3f6aa67a481e1b107ef5b1643416f", "서고": "https://www.notion.so/41a3f6aa67a481c2827bcd30741c56b4", "결과": "생성"}
+  ],
+  "전체수집건수": 124,
+  "메모": "12건 전부 2단계 생성, 중복 0건(오늘자 Source Library URL 대조). 원문 7건이 수집기 14KB 상한에서 잘려 접근상태 '일부 확인'. 노션 파서가 링크 걸린 이미지([![..](..)](..))를 거부해 이미지 블록만 분리했고, GitHub·YouTube·Space.com 사이트 메뉴·푸터 같은 화면 장식은 생략(본문에 명시). 후보 중 엘니뇨 영상·Vulcan 로켓 2건은 AI와 무관(HN 점수로 뽑힘)."
+}
