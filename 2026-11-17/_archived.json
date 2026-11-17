@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-17",
+  "브리핑페이지": "https://app.notion.com/p/41b3f6aa67a481a49c4cf6e07f1caa30",
+  "정식아카이빙": [
+    {"id": "huashu-motion-b412447c", "source_library": "https://app.notion.com/p/41b3f6aa67a481c3844fca36de2e4fd5", "서고": "https://app.notion.com/p/41b3f6aa67a48105ad6ad52fd32350bd", "결과": "생성"},
+    {"id": "blender-ai-mcp-addon-498022c4", "source_library": "https://app.notion.com/p/41b3f6aa67a481c9ab56e4c1cdbacf79", "서고": "https://app.notion.com/p/41b3f6aa67a481169aa0edaabf2e6da5", "결과": "생성"},
+    {"id": "windows-coding-agent-telemetry-81bd7f76", "source_library": "https://app.notion.com/p/41b3f6aa67a48102b1edd284ad52bbf1", "서고": "https://app.notion.com/p/41b3f6aa67a48130bbfdfd233de22ae0", "결과": "생성"},
+    {"id": "v2-1-326-328f5dc0", "source_library": "https://app.notion.com/p/41b3f6aa67a481839450fbfc698e0d15", "서고": "https://app.notion.com/p/41b3f6aa67a481c89b7de920ab90ab90", "결과": "생성"},
+    {"id": "running-agents-with-lend-887a9d54", "source_library": "https://app.notion.com/p/41b3f6aa67a481f1ae62c26dd6ebb17d", "서고": "https://app.notion.com/p/41b3f6aa67a481c0a2e7f7e01605dbb5", "결과": "생성"},
+    {"id": "strengthening-online-child-safety-b1c71d07", "source_library": "https://app.notion.com/p/41b3f6aa67a4812cace5f536bb93563d", "서고": "https://app.notion.com/p/41b3f6aa67a48124addaf2640e0751a9", "결과": "생성"},
+    {"id": "2122380010287960095-800f567d", "source_library": "https://app.notion.com/p/41b3f6aa67a481f2baf0cd2ca3e0fda9", "서고": "https://app.notion.com/p/41b3f6aa67a48143985cf5bfe2fd1a53", "결과": "생성"},
+    {"id": "2122377585523126615-07d68382", "source_library": "https://app.notion.com/p/41b3f6aa67a481bfb679f951b4b031d1", "서고": "https://app.notion.com/p/41b3f6aa67a4810d9c53cada28d08c40", "결과": "생성"},
+    {"id": "2122465625109090646-902e6db7", "source_library": "https://app.notion.com/p/41b3f6aa67a481d483d8f992eed5d23c", "서고": "https://app.notion.com/p/41b3f6aa67a4814c8b38d00d97872732", "결과": "생성"},
+    {"id": "our-first-phase-of-embedded-assessments-ebd9eb94", "source_library": "https://app.notion.com/p/41b3f6aa67a4814c81ccd9fd1e638fa0", "서고": "https://app.notion.com/p/41b3f6aa67a48195af1ef7a3a9a9c237", "결과": "생성"},
+    {"id": "revolut-f054a54f", "source_library": "https://app.notion.com/p/41b3f6aa67a48124aed5df31dd169b19", "서고": "https://app.notion.com/p/41b3f6aa67a4812bae2ae2c995b4ab80", "결과": "생성"},
+    {"id": "united-airlines-outage-2df6684f", "source_library": "https://app.notion.com/p/41b3f6aa67a481efbfe6ffaaa1d1fd95", "서고": "https://app.notion.com/p/41b3f6aa67a481a993e3fd3e0e10bcb6", "결과": "생성"}
+  ],
+  "전체수집건수": 175,
+  "메모": "후보 12건 전부 2단계 생성(중복 0건, 사전 검색·오늘자 URL 조회로 확인). 원문 정본 5건은 원문 파일이 짧거나 잡음이 섞여 접근상태 '일부 확인'. 유나이티드항공 건은 AI 무관 기사지만 후보라 처리함. 수집 단계에서 Reddit 4곳(429)·HN 코딩에이전트 RSS(502) 실패."
+}
