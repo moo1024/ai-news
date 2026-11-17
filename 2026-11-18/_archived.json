@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-18",
+  "브리핑페이지": "https://www.notion.so/41b3f6aa67a4816fb2acdf8db4118330",
+  "정식아카이빙": [
+    {"id": "introducing-gpt-6-2-astra-sol-549a7734", "source_library": "https://www.notion.so/41b3f6aa67a4810baf77e760f9597493", "서고": "https://www.notion.so/41b3f6aa67a4818d99f5d0d9d1f87d83", "결과": "생성"},
+    {"id": "2122750135608528984-0e79cbe7", "source_library": "https://www.notion.so/41b3f6aa67a481249be7cea47d7bcad6", "서고": "https://www.notion.so/41b3f6aa67a481449dabc4cc387a29a2", "결과": "생성"},
+    {"id": "2122750128176222464-4d8e72b9", "source_library": "https://www.notion.so/41b3f6aa67a48156af44e77bd21ccc26", "서고": "https://www.notion.so/41b3f6aa67a48133a519d6f26d43064b", "결과": "생성"},
+    {"id": "how-the-claude-code-team-thinks-about-ve-069078b2", "source_library": "https://www.notion.so/41b3f6aa67a481f9bc30e23fb922db8b", "서고": "https://www.notion.so/41b3f6aa67a4810ab1fbf440534000c5", "결과": "생성"},
+    {"id": "tstack-418b9f16", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "tokendoctor-a8e21657", "source_library": "https://www.notion.so/41b3f6aa67a4815e9200d990c423ac79", "서고": "https://www.notion.so/41b3f6aa67a4818098a8c2a0ea921145", "결과": "생성"},
+    {"id": "2122750130290131166-85d7da55", "source_library": "https://www.notion.so/41b3f6aa67a4811fa86fcd57dc116253", "서고": "https://www.notion.so/41b3f6aa67a481acb145ea5105cdc26b", "결과": "생성"},
+    {"id": "introducing-mai-code-2-and-mai-code-2-fl-23791fed", "source_library": "https://www.notion.so/41b3f6aa67a48123ae78d68c438f733f", "서고": "https://www.notion.so/41b3f6aa67a481f29e2adb660fe6efb5", "결과": "생성"},
+    {"id": "baidu-xiaomi-ceos-warn-growing-gap-betwe-246f1a63", "source_library": "https://www.notion.so/41b3f6aa67a481169469c2bc06928c9c", "서고": "https://www.notion.so/41b3f6aa67a4813098dbc3dbd1ad918a", "결과": "생성"},
+    {"id": "3n2joens5t22x-5b059524", "source_library": "https://www.notion.so/41b3f6aa67a4811184e9fbfd86966fe5", "서고": "https://www.notion.so/41b3f6aa67a481e7bdebc45ffb61b521", "결과": "생성"},
+    {"id": "datasette-lite-5b158888", "source_library": "https://www.notion.so/41b3f6aa67a481738d64e22f49a9629b", "서고": "https://www.notion.so/41b3f6aa67a481e28a98ea67fada3da0", "결과": "생성"},
+    {"id": "3n2jbhzsmxk27-6a16af20", "source_library": "https://www.notion.so/41b3f6aa67a481f18189d121fbe34b6a", "서고": "https://www.notion.so/41b3f6aa67a4815b90e3e93a67d5edd2", "결과": "생성"}
+  ],
+  "전체수집건수": 175,
+  "메모": "후보 12건 중 11건 2단계 생성, tstack은 2026-11-02에 이미 정본·정리본이 있어 중복 건너뜀. GPT-6.2·MAI Code 2·SCMP·Datasette는 원문 파일이 잘려 접근상태 '일부 확인'. MAI·SCMP·tokendoctor 정본은 사이트 메뉴·광고·배지·인코딩 덩어리를 빼고 본문만 옮김(노션 이미지 제약으로 일부 이미지는 링크 표기). 브리핑 175건·출처 30개 전부 수록. Reddit 6개 출처는 수집 단계에서 429/404 실패."
+}
