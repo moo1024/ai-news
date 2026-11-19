@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-20",
+  "브리핑페이지": "https://app.notion.com/p/41d3f6aa67a481049750d9f6a29fa76c",
+  "정식아카이빙": [
+    {"id": "v2-1-329-9166064c", "source_library": "https://app.notion.com/p/41d3f6aa67a4816daf99f2cc0b7e7d3b", "서고": "https://app.notion.com/p/41d3f6aa67a481baa07bd40055cc7c0a", "결과": "생성"},
+    {"id": "agent-autoloop-969dd462", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "yogurt-f6b29b4e", "source_library": "https://app.notion.com/p/41d3f6aa67a4815abcc9c88efebf7ff7", "서고": "https://app.notion.com/p/41d3f6aa67a481bcb213fc53d418e9b7", "결과": "생성"},
+    {"id": "2123461658890686863-23a3187f", "source_library": "https://app.notion.com/p/41d3f6aa67a48110a6c8d087e47e2c4c", "서고": "https://app.notion.com/p/41d3f6aa67a481d3aaa0f91d4d18f6f7", "결과": "생성"},
+    {"id": "2123431689934291083-511f09f0", "source_library": "https://app.notion.com/p/41d3f6aa67a481bab37ec8565816bb6a", "서고": "https://app.notion.com/p/41d3f6aa67a481a8bd24f37cdba81238", "결과": "생성"},
+    {"id": "how-openai-performance-factory-keeps-cha-6687f7be", "source_library": "https://app.notion.com/p/41d3f6aa67a481348989fcb49ec141fd", "서고": "https://app.notion.com/p/41d3f6aa67a4818d893ed1cddc80ce9c", "결과": "생성"},
+    {"id": "unsafeguards-32cca7ee", "source_library": "https://app.notion.com/p/41d3f6aa67a481b19c71d12e82b4e3e1", "서고": "https://app.notion.com/p/41d3f6aa67a481798744e6a33b6cc1b2", "결과": "생성"},
+    {"id": "claude-black-hole-physics-be373132", "source_library": "https://app.notion.com/p/41d3f6aa67a4819d8d04d0ca5b089f19", "서고": "https://app.notion.com/p/41d3f6aa67a4818fad6cc0ad9423a2a3", "결과": "생성"},
+    {"id": "research-acceleration-jagged-frontier-9fa731b0", "source_library": "https://app.notion.com/p/41d3f6aa67a48110a3b6f4af0cd6c887", "서고": "https://app.notion.com/p/41d3f6aa67a4816cb63ee5da504c26bf", "결과": "생성"},
+    {"id": "3n2oup53nrs2k-0524dfcc", "source_library": "https://app.notion.com/p/41d3f6aa67a481a2bfa6c43005e66be2", "서고": "https://app.notion.com/p/41d3f6aa67a4812f9da6eb487a256270", "결과": "생성"},
+    {"id": "rust-v0-170-0-2d11cd19", "source_library": "https://app.notion.com/p/41d3f6aa67a4816f88beecb3082698c2", "서고": "https://app.notion.com/p/41d3f6aa67a481eebdc0f395585a60a9", "결과": "생성"},
+    {"id": "postgresql-19-4ba1303d", "source_library": "https://app.notion.com/p/41d3f6aa67a4816e9705da4faee1ae4f", "서고": "https://app.notion.com/p/41d3f6aa67a481668ec8d1a2d971add7", "결과": "생성"}
+  ],
+  "전체수집건수": 189,
+  "메모": "agent-autoloop 은 2026-11-04 에 이미 아카이빙됨(SL 40e3f6aa67a4816b94efe559cbd61b75 · 서고 40e3f6aa67a481f88819ea2487ee96ad) — 건너뜀. Performance Factory 원문은 500 오류 페이지라 RSS 요약만 근거(일부 확인). 트윗 2건·블랙홀·jagged frontier·몰릭은 원문이 잘려 '일부 확인'."
+}
