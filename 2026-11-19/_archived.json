@@ -1,20 +1,20 @@
 {
   "날짜": "2026-11-19",
-  "브리핑페이지": "",
+  "브리핑페이지": "https://app.notion.com/p/41d3f6aa67a481e4b117dff9fa413149",
   "정식아카이빙": [
-    {"id": "pixelfx-2649f491", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "rust-anything-8129f68e", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "SoduWork-b086318d", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "harvard-researchers-find-ai-coding-agent-6e090bb9", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "2123100386638877054-07756888", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "2123167884411077030-651ef987", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "v2-1-327-1560056f", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "2123117733709586849-a49e3765", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "inside-the-codex-sandbox-53f2a143", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "advancing-chip-design-with-our-models-c7d3ecb0", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "claude-opus-5-5-protein-sequences-361deb2e", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
-    {"id": "death-by-ai-f1feb2e4", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"}
+    {"id": "v2-1-328-249cf944", "source_library": "https://app.notion.com/p/41d3f6aa67a4817e8181c117fa53a6e6", "서고": "https://app.notion.com/p/41d3f6aa67a481bb8a70fd60d4aec1a2", "결과": "생성"},
+    {"id": "pixelfx-2649f491", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "rust-anything-8129f68e", "source_library": "https://app.notion.com/p/41d3f6aa67a481b1a629d75426e86d83", "서고": "https://app.notion.com/p/41d3f6aa67a48175a3d4d2d93630c8f3", "결과": "생성"},
+    {"id": "SoduWork-b086318d", "source_library": "https://app.notion.com/p/41d3f6aa67a481acbadceceb4ef46759", "서고": "https://app.notion.com/p/41d3f6aa67a48151bfefd7ee70353a1c", "결과": "생성"},
+    {"id": "harvard-researchers-find-ai-coding-agent-6e090bb9", "source_library": "https://app.notion.com/p/41d3f6aa67a481408262e42ede96a21e", "서고": "https://app.notion.com/p/41d3f6aa67a481c29b1ecaa406361a0c", "결과": "생성"},
+    {"id": "2123196808675405860-2bcfe687", "source_library": "https://app.notion.com/p/41d3f6aa67a481ecbad4cd31f8bff90c", "서고": "https://app.notion.com/p/41d3f6aa67a481d29faef9111912e7bd", "결과": "생성"},
+    {"id": "2123167884411077030-651ef987", "source_library": "https://app.notion.com/p/41d3f6aa67a48124864bc9cb84a64b80", "서고": "https://app.notion.com/p/41d3f6aa67a481219043d6e773527c5b", "결과": "생성"},
+    {"id": "2123100386638877054-07756888", "source_library": "https://app.notion.com/p/41d3f6aa67a481e797aada85444e8b13", "서고": "https://app.notion.com/p/41d3f6aa67a481259821f6b48ae164c4", "결과": "생성"},
+    {"id": "advancing-chip-design-with-our-models-c7d3ecb0", "source_library": "https://app.notion.com/p/41d3f6aa67a481e3be8cdbd167d87c9f", "서고": "https://app.notion.com/p/41d3f6aa67a4815baf11f0bbb282062b", "결과": "생성"},
+    {"id": "v2-1-327-1560056f", "source_library": "https://app.notion.com/p/41d3f6aa67a481c8a496d3fcead1a2f3", "서고": "https://app.notion.com/p/41d3f6aa67a4811789aee5eaaf619d01", "결과": "생성"},
+    {"id": "introducing-gemini-4-neon-b2c084a4", "source_library": "https://app.notion.com/p/41d3f6aa67a48171b166c53d8e2050cc", "서고": "https://app.notion.com/p/41d3f6aa67a48172aff5ffef366d0a54", "결과": "생성"},
+    {"id": "fable-48cd8de2", "source_library": "https://app.notion.com/p/41d3f6aa67a4812b9c7af3f0b02fe5ac", "서고": "https://app.notion.com/p/41d3f6aa67a481558b10c0b9c95ed971", "결과": "생성"}
   ],
-  "전체수집건수": 176,
-  "메모": "노션 MCP(plugin:Notion:notion) 인증이 필요한 상태라 노션 도구가 하나도 로드되지 않음. 절차서 0단계에 따라 노션에 아무것도 만들지 않고 중단. /mcp 재인증 후 daily.sh 2026-11-19 재실행 필요"
+  "전체수집건수": 187,
+  "메모": "12:54 재수집본 기준 재실행(07:25 실행은 노션 인증 실패로 중단). pixelfx 는 기존 Source Library·서고에 있어 건너뜀(서고 https://app.notion.com/p/40e3f6aa67a481bb8e48d8431eba1db1). 트윗 2건·하버드 기사·구글 블로그는 원문이 중간에 끊겨 접근상태 일부 확인. 링크 감싼 이미지는 노션 제약으로 단독 이미지로 변환."
 }
