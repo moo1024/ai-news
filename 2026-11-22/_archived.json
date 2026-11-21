@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-22",
+  "브리핑페이지": "https://app.notion.com/p/41f3f6aa67a481898bd0fd1b722828e3",
+  "정식아카이빙": [
+    {"id": "ex-ussr-kinship-research-4655457b", "source_library": "https://app.notion.com/p/41f3f6aa67a481eb85d5fb39c312e797", "서고": "https://app.notion.com/p/41f3f6aa67a481ce83c5e69ab7f13dea", "결과": "생성"},
+    {"id": "v2-1-330-7ce40af7", "source_library": "https://app.notion.com/p/41f3f6aa67a481db9128c42d45e015d9", "서고": "https://app.notion.com/p/41f3f6aa67a481e5a66dfaef11a8b254", "결과": "생성"},
+    {"id": "ClawDOS-c82934c0", "source_library": "https://app.notion.com/p/41f3f6aa67a4818f9734d9bc3eaee37f", "서고": "https://app.notion.com/p/41f3f6aa67a481dbae25ec7ea8aaebd8", "결과": "생성"},
+    {"id": "2123899406550528422-a34d05ca", "source_library": "https://app.notion.com/p/41f3f6aa67a481c28bbbc04048dd2977", "서고": "https://app.notion.com/p/41f3f6aa67a4819b8733fb2e35a42276", "결과": "생성"},
+    {"id": "2123826572385833119-12a120fd", "source_library": "https://app.notion.com/p/41f3f6aa67a481c6910bc4979194f5c2", "서고": "https://app.notion.com/p/41f3f6aa67a48173afc5e0afd82a0683", "결과": "생성"},
+    {"id": "ninlive-com-b6394ef8", "source_library": "https://app.notion.com/p/41f3f6aa67a481c081eee8c28adcb679", "서고": "https://app.notion.com/p/41f3f6aa67a4817d8140d43a9e0ed282", "결과": "생성"},
+    {"id": "CBMihwFBVV95cUxNNlBiQmdkeU5NaXMxbC05a1pl-f693fe70", "source_library": "https://app.notion.com/p/41f3f6aa67a481deb752c6de191f947f", "서고": "https://app.notion.com/p/41f3f6aa67a481a89a73ecb0cf821fe3", "결과": "생성"},
+    {"id": "CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3-a5ca4fa0", "source_library": "https://app.notion.com/p/41f3f6aa67a481f8aef2ebecacae92f4", "서고": "https://app.notion.com/p/41f3f6aa67a4812cace2f4c064229ced", "결과": "생성"},
+    {"id": "CBMidkFVX3lxTE0xQnFFY3JocmN6cXROVjFJWEtz-36f7ca8c", "source_library": "https://app.notion.com/p/41f3f6aa67a4816d82f3dcd5aec5616a", "서고": "https://app.notion.com/p/41f3f6aa67a481cc9b4fdc5213aabb03", "결과": "생성"},
+    {"id": "3n2seaj2c4c2m-fac06b38", "source_library": "https://app.notion.com/p/41f3f6aa67a48162b297fa60d9ca8d6c", "서고": "https://app.notion.com/p/41f3f6aa67a481f4a027edf0fd44d4bd", "결과": "생성"},
+    {"id": "3n2tj5d6rwc2m-9d2786e7", "source_library": "https://app.notion.com/p/41f3f6aa67a481278c79e6830f49f561", "서고": "https://app.notion.com/p/41f3f6aa67a481d2b609d5a76a3653c8", "결과": "생성"},
+    {"id": "CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFi-c3bc43cb", "source_library": "https://app.notion.com/p/41f3f6aa67a481059458f851bcbc3233", "서고": "https://app.notion.com/p/41f3f6aa67a481208d67e6a29ea7661b", "결과": "생성"}
+  ],
+  "전체수집건수": 128,
+  "메모": "12건 전부 2단계 생성(중복 0 — 오늘 날짜·URL 대조 모두 없음). 접근상태 일부 확인 3건: v2.1.330(수집 파일 14KB 상한으로 릴리스 노트 중간 잘림, 원문 그대로의 보충 확보 실패 — 정리본 주의란에 요약만), Kiro vs Claude Code(구글뉴스 중계 페이지에서 멈춰 본문 없음), Yahoo Finance(사이트 메뉴·알림에 밀려 기사 본문 미수집, 재수집 실패). Yahoo·Stock Quote 원문 정본은 반복 사이트 메뉴 블록만 괄호 메모로 줄이고(원문 파일 행 번호 표기) 나머지는 그대로 옮김. NINLIVE 는 AI 무관 HN 상위 항목. Reddit 6개 출처는 수집 단계에서 429·404 로 실패."
+}
