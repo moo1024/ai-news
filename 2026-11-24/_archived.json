@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-24",
+  "브리핑페이지": "https://app.notion.com/p/4223f6aa67a481fca182ebfced7c300d",
+  "정식아카이빙": [
+    {"id": "2124922133545714160-d033c400", "source_library": "https://app.notion.com/p/4223f6aa67a481188624cf6b3677103a", "서고": "https://app.notion.com/p/4223f6aa67a4817895a3c313c024b91c", "결과": "생성"},
+    {"id": "rea-video-eb40edb5", "source_library": "", "서고": "", "결과": "중복 — 건너뜀"},
+    {"id": "stack-diagram-d4458417", "source_library": "https://app.notion.com/p/4223f6aa67a4813a96b6f0f95d14c0a5", "서고": "https://app.notion.com/p/4223f6aa67a4810d91dde4c80828e86d", "결과": "생성"},
+    {"id": "blender-skills-1a44d036", "source_library": "https://app.notion.com/p/4223f6aa67a4816980ecff3d7440e275", "서고": "https://app.notion.com/p/4223f6aa67a48180a80ad0e0cfc06e01", "결과": "생성"},
+    {"id": "v2-1-331-800aeca2", "source_library": "https://app.notion.com/p/4223f6aa67a481f1ae78cdacbb2d0141", "서고": "https://app.notion.com/p/4223f6aa67a4813a9266fcd5db27756b", "결과": "생성"},
+    {"id": "2124980590717911527-dbbe08c4", "source_library": "https://app.notion.com/p/4223f6aa67a4819aa5bbfe87d545ddbe", "서고": "https://app.notion.com/p/4223f6aa67a481fab9dbe8c7b2d867bd", "결과": "생성"},
+    {"id": "introducing-shirudo-1d0c151f", "source_library": "https://app.notion.com/p/4223f6aa67a4819a9aa0f29317db7e69", "서고": "https://app.notion.com/p/4223f6aa67a481a1a6c6f22eeeff9011", "결과": "생성"},
+    {"id": "2124911073266413634-487fdebc", "source_library": "https://app.notion.com/p/4223f6aa67a48132ab66f255ea4b186c", "서고": "https://app.notion.com/p/4223f6aa67a481ae9581c827378638b8", "결과": "생성"},
+    {"id": "Qwen3-8-27B-NariQ-GGUF-81ecb774", "source_library": "https://app.notion.com/p/4223f6aa67a481929dbed3778c7fdf6f", "서고": "https://app.notion.com/p/4223f6aa67a4811289f0ca1d11c4ea1d", "결과": "생성"},
+    {"id": "kagi-mail-public-beta-109d2f68", "source_library": "https://app.notion.com/p/4223f6aa67a481bca1cedbdb1843b9ea", "서고": "https://app.notion.com/p/4223f6aa67a481cd86b6facb5a38be27", "결과": "생성"},
+    {"id": "beginners-guide-local-ai-inkling-qwen-un-1ba4d312", "source_library": "https://app.notion.com/p/4223f6aa67a4817396b2c3dfd4a45ea3", "서고": "https://app.notion.com/p/4223f6aa67a4817eba58e8ad1f9b85f9", "결과": "생성"},
+    {"id": "connected-intelligence-for-in-house-lega-f8a4e02f", "source_library": "https://app.notion.com/p/4223f6aa67a4811c97fec7f9c0a273e6", "서고": "https://app.notion.com/p/4223f6aa67a4810aaecdec01f071f4e0", "결과": "생성"}
+  ],
+  "전체수집건수": 154,
+  "메모": "11건 생성·1건 중복(rea-video, 2026-11-08 기존 정본 https://app.notion.com/4123f6aa67a481dd85c6eec0c01adaa1). 원문 14KB 잘림 3건(v2.1.331·NariQ·로컬AI 가이드)과 트윗 잘림·웨비나 본문 없음 2건은 접근상태 '일부 확인'. 노션이 링크 걸린 이미지를 거부해 stack-diagram·blender-skills 정본은 이미지와 링크를 분리 표기."
+}
