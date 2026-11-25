@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-25",
+  "브리핑페이지": "",
+  "정식아카이빙": [
+    {"id": "v2-1-332-15aa96a9", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "MROffice-fd90ea8c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "gpt-6-models-demonstrate-intrinsic-prote-3c6728c1", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "2125365268381929637-82de6f26", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "2125341904644763678-331f08b8", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "searching-for-distant-planets-with-astra-f3aa9260", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "2125371062880022536-73dfd5d7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "ifood-7a6462e3", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "llm-agents-work-for-their-parent-compani-ef8096d7", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "bonsai-2-5-27b-ca7efd0c", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "anthropic-breaks-below-83-ipo-price-in-p-e628c0b2", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"},
+    {"id": "llm-inflection-points-6ff348e6", "source_library": "", "서고": "", "결과": "실패: 노션 MCP 인증 없음 — 0단계에서 중단"}
+  ],
+  "전체수집건수": 182,
+  "메모": "plugin:Notion:notion 서버가 인증 필요 상태라 notion-fetch 자체가 없음. 절차서 0단계대로 노션에는 아무것도 만들지 않음(중복 위험 0). /mcp 재인증 후 daily.sh 2026-11-25 로 재실행 필요."
+}
