@@ -1,0 +1,20 @@
+{
+  "날짜": "2026-11-26",
+  "브리핑페이지": "https://app.notion.com/p/4243f6aa67a4815dbad3c514d0ce04df",
+  "정식아카이빙": [
+    {"id": "phonebox-e204919d", "source_library": "https://app.notion.com/p/4243f6aa67a481a896d9df2926124c21", "서고": "https://app.notion.com/p/4243f6aa67a481909847cee6f2655cb5", "결과": "생성"},
+    {"id": "item-id-50649864-6571f4f6", "source_library": "https://app.notion.com/p/4243f6aa67a481fbb33deb1aa1b2a236", "서고": "https://app.notion.com/p/4243f6aa67a4812ab49ff8d128d8c443", "결과": "생성"},
+    {"id": "2125627317263466739-e8c6ccdc", "source_library": "https://app.notion.com/p/4243f6aa67a481f39406de02eef41e55", "서고": "https://app.notion.com/p/4243f6aa67a481d7ac2bd41969b59f0f", "결과": "생성"},
+    {"id": "2125635627341561995-6c8d4793", "source_library": "https://app.notion.com/p/4243f6aa67a481e39f7bda5e90ca94a1", "서고": "https://app.notion.com/p/4243f6aa67a4817f8b32e9a33de3b4c0", "결과": "생성"},
+    {"id": "2125694207197110560-a43eeba5", "source_library": "https://app.notion.com/p/4243f6aa67a481a9b0c8c7560f1fd971", "서고": "https://app.notion.com/p/4243f6aa67a48125a6e7db0e5b57bf00", "결과": "생성"},
+    {"id": "grh-lean-f63f4cad", "source_library": "https://app.notion.com/p/4243f6aa67a481909906e669e8f312dc", "서고": "https://app.notion.com/p/4243f6aa67a481cfbc7fede8dc8410c4", "결과": "생성"},
+    {"id": "the-new-york-times-warns-photographers-n-19f2f984", "source_library": "https://app.notion.com/p/4243f6aa67a481eeac59f74d5059d687", "서고": "https://app.notion.com/p/4243f6aa67a481bfbe84c3743de48f27", "결과": "생성"},
+    {"id": "clay-plugins-openai-99b93f3e", "source_library": "https://app.notion.com/p/4243f6aa67a481548eb0c098dc5964c0", "서고": "https://app.notion.com/p/4243f6aa67a481c0a8d2c99bda3df418", "결과": "생성"},
+    {"id": "llm-inflection-points-6ff348e6", "source_library": "https://app.notion.com/p/4243f6aa67a48133b164ca586e046a05", "서고": "https://app.notion.com/p/4243f6aa67a481219508fe88442f0bc2", "결과": "생성"},
+    {"id": "sqlite3-rsync-7fcbebbe", "source_library": "https://app.notion.com/p/4243f6aa67a48128948ef5f5ee54408d", "서고": "https://app.notion.com/p/4243f6aa67a4817b981ad09f40430d96", "결과": "생성"},
+    {"id": "interpreting-mass-spectra-with-google-an-f14a6f6d", "source_library": "https://app.notion.com/p/4243f6aa67a4811f83aac1659bff3fe6", "서고": "https://app.notion.com/p/4243f6aa67a48100a933c7b5a40633a1", "결과": "생성"},
+    {"id": "scott-aaronson-04a9805d", "source_library": "https://app.notion.com/p/4243f6aa67a4813ea30eea6b08e5ef45", "서고": "https://app.notion.com/p/4243f6aa67a4812c8adbe77cdbace76e", "결과": "생성"}
+  ],
+  "전체수집건수": 170,
+  "메모": "12건 모두 신규 생성(SQL·수집ID 검색·이전 _archived.json 대조로 중복 없음 확인). X 3건과 HN 1건은 수집 원문이 짧거나 잘려 있어 접근상태 '일부 확인'. 브리핑 출처 31개·170건 전부 수록."
+}
